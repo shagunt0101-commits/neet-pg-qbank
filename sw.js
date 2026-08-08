@@ -1,5 +1,5 @@
 /* NEET PG QBank service worker — offline-first for installed app */
-var CACHE = 'qbank-v4'; /* bump when shell or bank files change */
+var CACHE = 'qbank-v5'; /* bump when shell or bank files change */
 
 var SHELL = [
   '/',
@@ -46,6 +46,8 @@ self.addEventListener('activate', function (e) {
 self.addEventListener('fetch', function (e) {
   if (e.request.method !== 'GET') return;
   var url = new URL(e.request.url);
+  /* Firebase SDK + Auth/Firestore calls: never cache, never intercept */
+  if (url.origin === 'https://www.gstatic.com') return;
   if (url.origin !== location.origin) return;
 
   var isBank = BANK.some(function (u) { return u.indexOf(url.pathname) === 0; });

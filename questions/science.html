@@ -152,6 +152,7 @@ a { color: var(--accent); }
     <button class="tab" data-v="report">Progress Report</button>
     <button class="tab" data-v="results">Results</button>
     <button class="tab" data-v="marks">Bookmarks</button>
+    <button class="tab" data-v="account">Account</button>
   </div>
 
   <!-- DASHBOARD -->
@@ -281,6 +282,15 @@ a { color: var(--accent); }
     </div>
   </div>
 
+  <!-- ACCOUNT -->
+  <div id="account" class="view">
+    <div class="card">
+      <h3 style="margin-bottom:10px;">Account — Cloud Sync</h3>
+      <div id="accStatus" class="score-note">Loading…</div>
+      <div id="accBody" style="margin-top:12px"></div>
+    </div>
+  </div>
+
   <!-- QUIZ -->
   <div id="quiz" class="view">
     <div class="app-layout">
@@ -306,6 +316,9 @@ a { color: var(--accent); }
   <div class="foot">All NEET&nbsp;PG & INI-CET questions circulating publicly are candidate recalls (NBEMS & AIIMS never publish papers). This bank is a reconstructed practice surface — answers are independently verified one-liners with explanations. Personal offline practice use only.</div>
 </div>
 
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
 <script src="/questions/bank.js?v=7"></script>
 <script src="/questions/test_2026.js?v=1"></script>
 <script src="/questions/core_btr.js?v=4"></script>
@@ -462,10 +475,226 @@ var QUIZ = { mode: null, name: "", list: [], cur: 0, score: 0, wrong: 0, answere
 var PAPER = (window.TEST_2026 || []);
 var QUIZ_TIME = { test: 10, mock: 180 }; /* minutes; 'mock' = preset paper */
 var REVIEW = null;
+var FIREBASE_CONFIG = {
+  apiKey: "AIzaSyAtrT9MUftaETLK6POs3lwy3oFsHd6ALs4",
+  authDomain: "neet-pg-qbank.firebaseapp.com",
+  projectId: "neet-pg-qbank",
+  storageBucket: "neet-pg-qbank.firebasestorage.app",
+  messagingSenderId: "480539373023",
+  appId: "1:480539373023:web:e203cb7ce2460a552ce86a"
+};
 
 function $(id) { return document.getElementById(id); }
 function lsGet(k) { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch (e) { return null; } }
 function lsSet(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+function lsSet2(k, v) { lsSet(k, v); if (SYNC_KEYS.indexOf(k) !== -1) syncPush(); }
+
+/* ---------------- Firebase sync ---------------- */
+var SYNC = { f: null, db: null, user: null, lsn: null, dirty: false, timer: null, init: false };
+var SYNC_KEYS = ['neet_hist', 'neet_results', 'neet_marks', 'neet_tests'];
+
+function syncInit() {
+  if (SYNC.init) return;
+  SYNC.init = true;
+  if (!FIREBASE_CONFIG || !FIREBASE_CONFIG.projectId) return; // no config — sync off
+  SYNC.f = firebase.initializeApp(FIREBASE_CONFIG);
+  SYNC.db = firebase.firestore(SYNC.f);
+  if (SYNC.db.enablePersistence) {
+    SYNC.db.enablePersistence({ synchronizeTabs: true }).catch(function () {});
+  }
+  firebase.auth(SYNC.f).onAuthStateChanged(syncAfterAuth);
+}
+
+function syncAfterAuth(u) {
+  if (SYNC.lsn) { SYNC.lsn(); SYNC.lsn = null; }
+  SYNC.user = u;
+  if (u) {
+    SYNC.lsn = SYNC.db.collection('users').doc(u.uid).onSnapshot(function (snap) {
+      if (!SYNC.user) return;
+      var d = snap.data();
+      if (!d) { syncPush(); return; } // first login: seed doc from local
+      syncMerge(d);
+    }, function (err) { console.warn('sync snapshot err', err); });
+    syncPush(); // ensure latest local state is up
+  }
+  syncUI();
+}
+
+function syncUI() {
+  var st = $('accStatus'), body = $('accBody');
+  if (!st || !body) return;
+  if (!SYNC.init || !SYNC.f) { st.innerHTML = 'Sync disabled \u2014 Firebase not configured.'; body.innerHTML = ''; return; }
+  if (SYNC.user) {
+    st.innerHTML = 'Signed in as <b>' + SYNC.user.email + '</b> \u2014 progress auto-syncs across devices.';
+    body.innerHTML = '<div class="fit-row"><button class="btn secondary" id="accLogout">Sign out</button></div>' +
+      '<div class="score-note" style="margin-top:10px">Offline answers queue and sync when you reconnect. Merge is a union \u2014 nothing gets overwritten.</div>';
+    var lo = $('accLogout');
+    if (lo) lo.addEventListener('click', function () { firebase.auth(SYNC.f).signOut().catch(function (e) { console.warn(e); }); });
+  } else {
+    st.innerHTML = 'Not signed in \u2014 progress stays on this device only.';
+    body.innerHTML = '<div class="fit-row">' +
+      '<div><label>Email</label><input id="accEmail" type="email" style="width:230px"></div>' +
+      '<div><label>Password</label><input id="accPass" type="password" style="width:230px"></div>' +
+      '<div style="flex-direction:row"><button class="btn" id="accLogin">Sign in</button>' +
+      '<button class="btn secondary" id="accSignup">Create account</button></div></div>' +
+      '<div class="score-note" style="margin-top:10px"><a href="#" id="accReset">Forgot password?</a></div>';
+    $('accLogin').addEventListener('click', syncLogin);
+    $('accSignup').addEventListener('click', syncSignup);
+    $('accReset').addEventListener('click', function (e) { e.preventDefault(); syncResetPw(); });
+  }
+}
+
+function syncLogin() {
+  var email = $('accEmail').value.trim(), pw = $('accPass').value;
+  if (!email || !pw) { alert('Enter email and password.'); return; }
+  firebase.auth(SYNC.f).signInWithEmailAndPassword(email, pw).catch(function (e) { alert('Sign-in failed: ' + e.message); });
+}
+function syncSignup() {
+  var email = $('accEmail').value.trim(), pw = $('accPass').value;
+  if (!email || pw.length < 6) { alert('Enter email and a password of at least 6 characters.'); return; }
+  firebase.auth(SYNC.f).createUserWithEmailAndPassword(email, pw).catch(function (e) { alert('Sign-up failed: ' + e.message); });
+}
+function syncResetPw() {
+  var email = $('accEmail').value.trim();
+  if (!email) { alert('Enter your email first.'); return; }
+  firebase.auth(SYNC.f).sendPasswordResetEmail(email).then(function () { alert('Reset link sent to ' + email); }).catch(function (e) { alert(e.message); });
+}
+
+function syncPush() {
+  if (!SYNC.user || !SYNC.db) return;
+  SYNC.dirty = true;
+  if (SYNC.timer) clearTimeout(SYNC.timer);
+  SYNC.timer = setTimeout(doPush, 1500);
+}
+function doPush() {
+  SYNC.timer = null;
+  if (!SYNC.dirty || !SYNC.user) return;
+  SYNC.dirty = false;
+  SYNC.db.collection('users').doc(SYNC.user.uid).set({
+    hist: lsGet('neet_hist') || {},
+    results: lsGet('neet_results') || [],
+    marks: lsGet('neet_marks') || {},
+    tests: lsGet('neet_tests') || [],
+    synced: firebase.firestore.FieldValue.serverTimestamp()
+  }).catch(function (e) { console.warn('sync push err', e); SYNC.dirty = true; });
+}
+
+function syncMerge(d) {
+  if (!SYNC.user) return;
+  var c = mergeHist(d.hist || {}) + mergeMarks(d.marks || {}) + mergeResults(d.results || []) + mergeTests(d.tests || []);
+  if (!c) return;
+  if ($('dash').classList.contains('active')) renderDash();
+  if ($('report').classList.contains('active')) { fillRepSubj(); renderReport(); }
+  if ($('marks').classList.contains('active')) renderMarks();
+  syncPush(); // merged result goes back up
+}
+
+function mergeHist(remote) {
+  var hist = lsGet('neet_hist') || {};
+  var c = 0;
+  for (var k in remote) {
+    var r = remote[k];
+    if (!r || typeof r !== 'object') continue;
+    var l = hist[k];
+    if (!l) { hist[k] = r; c++; continue; }
+    var nr = (r.ts || 0) > (l.ts || 0) ? r : l; // newer record wins scalars
+    var merged = {};
+    for (var kk in nr) merged[kk] = nr[kk];
+    merged.times = unionTimes(l.times || [], r.times || []);
+    if (JSON.stringify(merged) !== JSON.stringify(l)) { hist[k] = merged; c++; }
+  }
+  if (c) lsSet('neet_hist', hist);
+  return c;
+}
+function unionTimes(a, b) { // ponytail: dedup by outcome+rounded sec, collisions rare
+  var seen = {}, out = [];
+  for (var i = 0; i < a.length; i++) {
+    var t = a[i];
+    var key = (t.c ? '1' : '0') + '-' + Math.round(t.sec || 0);
+    if (!seen[key]) { seen[key] = true; out.push(t); }
+  }
+  for (var j = 0; j < b.length; j++) {
+    var t2 = b[j];
+    var key2 = (t2.c ? '1' : '0') + '-' + Math.round(t2.sec || 0);
+    if (!seen[key2]) { seen[key2] = true; out.push(t2); }
+  }
+  return out;
+}
+
+function mergeMarks(remote) {
+  var local = lsGet('neet_marks') || {};
+  var c = 0;
+  // map question stem -> local key ('123' bank index or 'p0' paper)
+  var idx = {};
+  for (var i = 0; i < BANK.length; i++) {
+    var q = BANK[i];
+    if (q && q.q) idx[q.q.substring(0, 50)] = String(i);
+  }
+  for (var j = 0; j < PAPER.length; j++) {
+    var p = PAPER[j];
+    if (p && p.q) idx[p.q.substring(0, 50)] = 'p' + j;
+  }
+  var union = {};
+  var take = function (key, m) {
+    var q = qAt(key);
+    var stem = q && q.q ? q.q.substring(0, 50) : key;
+    if (!union[stem] && idx[stem] !== undefined) { union[stem] = m; c++; }
+  };
+  for (var k in local) take(k, local[k]);
+  for (var k2 in remote) take(k2, remote[k2]);
+  if (!c) return 0;
+  var out = {};
+  for (var s in union) out[idx[s]] = union[s];
+  lsSet('neet_marks', out);
+  return c;
+}
+
+function mergeResults(remote) {
+  var local = lsGet('neet_results') || [];
+  var c = 0;
+  var byId = {};
+  var maxId = 0;
+  local.forEach(function (r) { if (r && r.id) { byId[r.id] = r; if (r.id > maxId) maxId = r.id; } });
+  remote.forEach(function (r) {
+    if (!r || !r.id) return;
+    if (byId[r.id]) {
+      var l = byId[r.id];
+      if (l.name === r.name && l.t === r.t) return; // duplicate
+      r.id = ++maxId; // same-millisecond collision, different content: keep both
+    }
+    byId[r.id] = r;
+    c++;
+  });
+  if (!c) return 0;
+  var out = [];
+  for (var id in byId) out.push(byId[id]);
+  out.sort(function (a, b) { return b.id - a.id; });
+  lsSet('neet_results', out);
+  return c;
+}
+
+function mergeTests(remote) {
+  var local = lsGet('neet_tests') || [];
+  var c = 0;
+  var byName = {};
+  local.forEach(function (t) { if (t && t.name) byName[t.name] = t; });
+  remote.forEach(function (t) {
+    if (!t || !t.name) return;
+    var l = byName[t.name];
+    if (!l) { byName[t.name] = t; c++; }
+    else if ((t.n || 0) > (l.n || 0)) { byName[t.name] = t; c++; }
+  });
+  if (!c) return 0;
+  var out = [];
+  for (var n in byName) out.push(byName[n]);
+  lsSet('neet_tests', out);
+  return c;
+}
+
+window.addEventListener('beforeunload', function () {
+  if (SYNC.dirty && SYNC.user) { SYNC.dirty = false; doPush(); }
+});
+
 
 /* ---------------- Topic index ---------------- */
 function topicOf(q) { return (q && q.tp) ? q.tp : "General"; }
@@ -490,6 +719,7 @@ function showView(v) {
   if (v === 'tests') renderTestList();
   if (v === 'results') renderResultList();
   if (v === 'marks') renderMarks();
+  if (v === 'account') syncUI();
   if (v === 'report') { fillRepSubj(); renderReport(); }
 }
 document.querySelectorAll('.tab').forEach(function (el) {
@@ -778,7 +1008,7 @@ function showDialog(html) {
 ].forEach(function (c) { $(c[0]).addEventListener('change', c[1]); });
 $('repClear').addEventListener('click', function () {
   if (!confirm('Remove all practice history?')) return;
-  lsSet('neet_hist', {});
+  lsSet2('neet_hist', {});
   renderReport();
 });
 function fillRepSubj() {
@@ -957,7 +1187,7 @@ function grade(el, q, i) {
     recs.push({ c: correct, sec: spent });
     rec.times = recs;
     hist[key] = rec;
-    lsSet('neet_hist', hist);
+    lsSet2('neet_hist', hist);
   }
   $('resultArea').innerHTML = '<div class="verdict ' + (correct ? 'good' : 'bad') + '">' + (correct ? 'Correct ✓' : 'Wrong ✗') + '</div>' +
     '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + formatEx(q.ex) + '</div>';
@@ -972,7 +1202,7 @@ function toggleMark(i) {
   var key = QUIZ.list[i];
   if (marks[key]) delete marks[key];
   else marks[key] = { s: q.s, t: topicOf(q), e: q.e, y: q.y };
-  lsSet('neet_marks', marks);
+  lsSet2('neet_marks', marks);
   QUIZ.marks[i] = !!marks[key];
   $('markBtn').textContent = QUIZ.marks[i] ? '★ Bookmarked' : '☆ Bookmark';
 }
@@ -995,7 +1225,7 @@ function finish() {
   };
   var results = lsGet('neet_results') || [];
   results.unshift(res);
-  lsSet('neet_results', results);
+  lsSet2('neet_results', results);
   quizArea.innerHTML = '<div class="card"><div class="q-stem">Result saved — ' + name + '</div>' +
     '<div class="score-note"><b>' + QUIZ.score + '/' + total + '</b> correct (' + pct + '%) &nbsp;•&nbsp; ' + QUIZ.wrong + ' wrong &nbsp;•&nbsp; ' + res.unans + ' unanswered</div>' +
     '<div class="ctrl"><button class="btn" id="reviewBtn">Review Questions</button>' +
@@ -1071,7 +1301,7 @@ function renderTestList() {
     b.addEventListener('click', function () {
       var tests = lsGet('neet_tests') || [];
       tests.splice(parseInt(b.dataset.d, 10), 1);
-      lsSet('neet_tests', tests);
+      lsSet2('neet_tests', tests);
       renderTestList();
     });
   });
@@ -1096,7 +1326,7 @@ function renderResultList() {
     b.addEventListener('click', function () {
       var res = lsGet('neet_results') || [];
       res.splice(parseInt(b.dataset.rd, 10), 1);
-      lsSet('neet_results', res);
+      lsSet2('neet_results', res);
       renderResultList();
     });
   });
@@ -1171,13 +1401,14 @@ function showView(v) {
   if (v === 'tests') renderTestList();
   if (v === 'results') renderResultList();
   if (v === 'marks') renderMarks();
+  if (v === 'account') syncUI();
 }
 $('tCreate').addEventListener('click', function () {
   var name = $('tName').value.trim() || 'Practice Test';
   var t = { name: name, e: $('tExam').value, s: $('tSubj').value, y: $('tYear').value, n: parseInt($('tCount').value, 10) || 20, timed: $('tTimed').value === '1' };
   var tests = lsGet('neet_tests') || [];
   tests.unshift(t);
-  lsSet('neet_tests', tests);
+  lsSet2('neet_tests', tests);
   $('tName').value = 'Practice Test ' + (tests.length + 1);
   renderTestList();
 });
@@ -1193,6 +1424,7 @@ populateSubjects();
 populateYears();
 populateBrowseDropdowns();
 renderDash();
+try { syncInit(); } catch (e) { console.warn('sync disabled', e); }
 </script>
 <script>
 if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
