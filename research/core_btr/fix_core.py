@@ -146,38 +146,71 @@ def main():
         data = json.load(f)
     pre_map = {q['qid']: clean_q(q['q']) for q in data}
 
-    # 1) recover empty-option texts + cb2478 oimg
-    fixed_o = 0
+    # 1) recover empty-option texts + cb2478 oimg.
+    #    Same-stem PYQ-chapter copies (e.g. cb402 copy of cb266, cb2532 copy
+    #    of cb2478) are kept by chapter-scoped dedupe, so propagate the
+    #    recovery to every record sharing the stem.
+    text_stem = {}
+    for qid, opts in TEXT_OPTS.items():
+        q = next(x for x in data if x['qid'] == qid)
+        assert not any(q['o']), (qid, q['o'])
+        text_stem[clean_q(q['q'])] = opts
     cb2478_cells = None
     for q in data:
-        if q['qid'] in TEXT_OPTS:
-            assert not any(q['o']), (q['qid'], q['o'])
-            q['o'] = TEXT_OPTS[q['qid']]
-            # re-number nothing yet; mark for trace
+        stem = clean_q(q['q'])
+        if stem in text_stem:
+            if not any(q['o']):
+                q['o'] = list(text_stem[stem])
             q['_recovered'] = True
-            fixed_o += 1
         elif q['qid'] == 'cb2478':
             cb2478_cells = crop_cells(CB2478_CLIP, CB2478_PAGE)
             assert len(cb2478_cells) == 4
             q['oimg'] = cb2478_cells
             q['_recovered'] = True  # unused later, ok
+    # oimg propagation to same-stem copies (cb2532 <- cb2478)
+    if cb2478_cells:
+        cb2478_stem = clean_q(next(x for x in data if x['qid'] == 'cb2478')['q'])
+        for q in data:
+            if clean_q(q['q']) == cb2478_stem and not q.get('oimg'):
+                q['oimg'] = list(cb2478_cells)
 
-    # 2) dedupe (keep-first) on clean stem; later copies may carry richer data
+    # 2) dedupe keep-first on clean stem, scoped per chapter (sec).
+    #    PYQ chapters are exempt: the book's own last chapter per subject is
+    #    previous-year questions, many repeating stems from topic chapters —
+    #    the user expects them all there. Non-PYQ duplicates still dropped.
     seen = {}
     out = []
     for q in data:
         k = clean_q(q['q'])
-        if k in seen:
-            prev = seen[k]
+        is_pyq = 'pyq' in (q.get('sec') or '').lower()
+        key = (is_pyq, q.get('sec'), k) if is_pyq else (k,)
+        if key in seen:
+            prev = seen[key]
             # adopt missing option text from a later copy of the same stem
             if (not prev.get('o') or not all(prev['o'])) and q.get('o') and all(q['o']):
                 prev['o'] = q['o']
             if (not prev.get('imgdata')) and q.get('imgdata'):
                 prev['imgdata'] = q['imgdata']
             continue
-        seen[k] = q
+        seen[key] = q
         out.append(q)
     print(f'dedupe: {len(data)} -> {len(out)}')
+
+    # 2b) PYQ copies kept after dedupe may still have empty o (dup of a
+    #     recovered/known stem, e.g. cb402 copy of cb266). Copy options/imgdata
+    #     from the same-stem record that has them.
+    stem_map = {}
+    for q in out:
+        stem_map.setdefault(clean_q(q['q']), []).append(q)
+    for group in stem_map.values():
+        rich = next((q for q in group if q.get('o') and all(q['o'])), None)
+        if rich is None:
+            continue
+        for q in group:
+            if not q.get('o') or not all(q['o']):
+                q['o'] = list(rich['o'])
+            if not q.get('imgdata') and rich.get('imgdata'):
+                q['imgdata'] = list(rich['imgdata'])
 
     # 3) re-encode imgdata
     n_img = n_err = 0
@@ -200,12 +233,14 @@ def main():
         q.pop('_recovered', None)
 
     # --- checks ---
-    assert len(out) == 4715, len(out)
+    assert len(out) == 7072, len(out)  # chapter-scoped dedupe; PYQ chapters kept
     empt = [q['qid'] for q in out
             if (not q.get('o') or not all(q['o'])) and not q.get('oimg')]
     assert not empt, f'empty o: {empt}'
     oimg = [q for q in out if q.get('oimg')]
-    assert len(oimg) == 1 and len(oimg[0]['oimg']) == 4, oimg
+    assert len(oimg) == 2, [q['qid'] for q in oimg]  # cb2478 + its PYQ copy
+    for q in oimg:
+        assert len(q['oimg']) == 4, q['qid']
     # webp magic on a sample
     imgs = [d for q in out for d in q.get('imgdata', []) if d and d[0] == 'U']
     random.seed(42)

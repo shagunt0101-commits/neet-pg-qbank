@@ -13,7 +13,7 @@ var SHELL = [
 var BANK = [
   '/questions/bank.js?v=7',
   '/questions/test_2026.js?v=1',
-  '/questions/core_btr.js?v=3'
+  '/questions/core_btr.js?v=4'
 ];
 
 self.addEventListener('install', function (e) {
