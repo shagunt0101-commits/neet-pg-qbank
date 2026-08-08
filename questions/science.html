@@ -46,6 +46,13 @@ select:focus, input:focus { outline: 2px solid var(--accent); }
 .opt.wrong { border-color: var(--bad); background: rgba(220,38,38,.1); }
 .opt.off { opacity: .5; }
 .explain { margin-top: 4px; margin-left: 28px; font-size: .85rem; color: var(--muted); }
+.explain p { margin: 6px 0; }
+.explain ul { margin: 6px 0; padding-left: 20px; }
+.explain li { margin: 3px 0; }
+.explain strong { color: var(--ink); font-weight: 700; }
+table.ex-table { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: .82rem; }
+table.ex-table th, table.ex-table td { border: 1px solid var(--panel2); padding: 5px 8px; text-align: left; }
+table.ex-table th { background: var(--panel2); font-weight: 700; color: var(--ink); }
 .cbadge { display: inline-block; font-size: .65rem; font-weight: 600; background: rgba(8,145,178,.12); color: var(--accent); border-radius: 4px; padding: 1px 6px; margin-right: 4px; }
 .verdict { font-weight: 700; margin: 10px 0 4px; }
 .verdict.good { color: var(--good); } .verdict.bad { color: var(--bad); }
@@ -289,6 +296,138 @@ a { color: var(--accent); }
 <script src="/questions/core_btr.js?v=2"></script>
 <script>
 "use strict";
+
+/* ---------------- Explanation formatting ---------------- */
+// q.ex arrives as one flat line: parse_pdf.py builds it with
+// ' '.join(exp.split()), which strips every newline but leaves markdown
+// tokens (*, **, |, #) intact. This reconstructs structure from those
+// tokens and renders safe HTML — no external libraries, since this is
+// an offline-first PWA (sw.js) with no CDN scripts loaded.
+function escapeHtml(s) {
+  return s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function inlineFormat(s) {
+  // Bold: **text** -> <strong>text</strong>
+  return s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+}
+
+// Extracts every flattened table block from `text`, rebuilds each into
+// real HTML, stores the HTML in `store` (indexed), and replaces the
+// block in-place with a unique, unambiguous token " N " so
+// later paragraph/bullet splitting can't see inside it.
+function extractTables(text, store) {
+  return text.replace(/(?:\|[^|]*){4,}\|/g, function (block) {
+    var cells = block.split('|').map(function (c) { return c.trim(); }).filter(function (c) { return c.length > 0; });
+    var isSep = function (c) { return /^:?-{2,}:?$/.test(c.replace(/\s/g, '')); };
+
+    var runs = [];
+    var i = 0;
+    while (i < cells.length) {
+      if (isSep(cells[i])) {
+        var j = i;
+        while (j < cells.length && isSep(cells[j])) j++;
+        runs.push({ start: i, end: j, length: j - i });
+        i = j;
+      } else { i++; }
+    }
+    if (runs.length === 0) return block; // not a real table, leave untouched
+
+    var chunk = function (arr, n) {
+      var out = [];
+      for (var k = 0; k < arr.length; k += n) out.push(arr.slice(k, k + n));
+      return out;
+    };
+
+    var tablesHtml = runs.map(function (run, idx) {
+      var nCols = run.length;
+      var headerStart = Math.max(0, run.start - nCols);
+      var header = cells.slice(headerStart, run.start);
+      var nextHeaderStart = idx + 1 < runs.length ? runs[idx + 1].start - runs[idx + 1].length : cells.length;
+      var bodyCells = cells.slice(run.end, nextHeaderStart);
+      var rows = chunk(bodyCells, nCols).filter(function (r) { return r.length === nCols; });
+
+      var thead = '<tr>' + header.map(function (h) { return '<th>' + inlineFormat(h) + '</th>'; }).join('') + '</tr>';
+      var tbody = rows.map(function (r) {
+        return '<tr>' + r.map(function (c) { return '<td>' + inlineFormat(c) + '</td>'; }).join('') + '</tr>';
+      }).join('');
+
+      return '<table class="ex-table"><thead>' + thead + '</thead><tbody>' + tbody + '</tbody></table>';
+    });
+
+    var token = ' ' + store.length + ' ';
+    store.push(tablesHtml.join(''));
+    return token;
+  });
+}
+
+function formatEx(raw) {
+  if (!raw) return '';
+  var text = escapeHtml(raw.trim());
+
+  // 0. Normalize "**Label:**" (colon inside the stars) to "**Label**:"
+  //    so the heading-break regex below catches both forms — most
+  //    structure_ex.py output uses the inside form.
+  text = text.replace(/\*\*([^*]+):\*\*/g, '**$1**:');
+
+  // 1. Pull tables out into placeholder tokens first, so bullet/heading
+  //    splitting below can't accidentally slice into table markup.
+  var tableStore = [];
+  text = extractTables(text, tableStore);
+  // Force every table token onto its own line, even if it was glued
+  // directly onto surrounding text with no whitespace in the source.
+  text = text.replace(/ (\d+) /g, '\n $1 \n');
+
+  // 2. Break before bolded "labels" like **Feature**: acting as a heading.
+  text = text.replace(/\s*(\*\*[^*]+\*\*\s*:)/g, '\n\n$1\n');
+
+  // 3. Break before bullet markers: a lone "*" (not part of "**bold**")
+  //    followed by a space and a capital letter/paren starts a new bullet.
+  text = text.replace(/\s*(?<!\*)\*(?!\*)\s+(?=[A-Z(])/g, '\n');
+
+  // 4. Now split on real newlines and process line by line.
+  var lines = text.split('\n');
+  var html = '';
+  var bulletBuffer = [];
+
+  function flushBullets() {
+    if (bulletBuffer.length) {
+      html += '<ul>' + bulletBuffer.map(function (b) { return '<li>' + inlineFormat(b) + '</li>'; }).join('') + '</ul>';
+      bulletBuffer = [];
+    }
+  }
+
+  lines.forEach(function (line) {
+    var trimmed = line.trim();
+    if (!trimmed) return;
+
+    if (trimmed.charCodeAt(0) === 1) {
+      // bullet line
+      bulletBuffer.push(trimmed.slice(1).trim());
+      return;
+    }
+
+    flushBullets();
+
+    // Table token(s) may sit alone on a line, or be glued to surrounding text.
+    var withTables = trimmed.replace(/ (\d+) /g, function (m, idx) {
+      return tableStore[Number(idx)];
+    });
+
+    // A bolded label acting as a heading: "**Label**:" alone on its line.
+    var headingMatch = /^\*\*([^*]+)\*\*\s*:$/.exec(trimmed);
+    if (headingMatch) {
+      html += '<p><strong>' + headingMatch[1] + ':</strong></p>';
+    } else if (/^ \d+ $/.test(trimmed)) {
+      html += withTables; // pure table line, no <p> wrapper
+    } else {
+      html += '<p>' + inlineFormat(withTables) + '</p>';
+    }
+  });
+  flushBullets();
+
+  return html;
+}
 
 /* ---------------- State ---------------- */
 var SUBJECTS = [
@@ -687,7 +826,7 @@ function renderQuestion() {
       return '<div class="opt' + cls + '" data-k="' + k + '"><span class="key">' + "ABCD"[k] + '</span><span>' + op + '</span></div>';
     }).join(''),
     '</div>',
-    '<div id="resultArea">' + (prev !== undefined ? '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + q.ex + '</div>' : '') + '</div>',
+    '<div id="resultArea">' + (prev !== undefined ? '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + formatEx(q.ex) + '</div>' : '') + '</div>',
     '<div class="ctrl">',
     '<button class="btn secondary" id="markBtn">' + (QUIZ.marks[i] ? '★ Bookmarked' : '☆ Bookmark') + '</button>',
     '<button class="btn secondary" id="nxtBtn"' + (prev === undefined ? ' disabled' : '') + '>Next &rarr;</button>',
@@ -720,7 +859,7 @@ function grade(el, q, i) {
   var key = q.q.substring(0, 50);
   if (QUIZ.mode !== 'mock') { hist[key] = { s: q.s, t: topicOf(q), correct: correct }; lsSet('neet_hist', hist); }
   $('resultArea').innerHTML = '<div class="verdict ' + (correct ? 'good' : 'bad') + '">' + (correct ? 'Correct ✓' : 'Wrong ✗') + '</div>' +
-    '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + q.ex + '</div>';
+    '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + formatEx(q.ex) + '</div>';
   $('nxtBtn').disabled = false;
   renderNav();
   updateBar();
@@ -805,7 +944,7 @@ function openReview(res) {
       '<div class="q-stem">Q' + (i + 1) + '. ' + q.q + '</div>' +
       (q.imgdata ? '<div class="qimg">' + q.imgdata.map(function (d) { return '<img src="data:image/' + (d[0] === 'U' ? 'webp' : 'jpeg') + ';base64,' + d + '" alt="question image">'; }).join('') + '</div>' : '') +
       '<div class="opts">' + optHtml + '</div>' +
-      '<div class="explain" style="margin-left:0;margin-top:8px"><span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div>' + q.ex + '</div></div></div>';
+      '<div class="explain" style="margin-left:0;margin-top:8px"><span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div>' + formatEx(q.ex) + '</div></div></div>';
   }).join('');
 }
 $('reviewBack').addEventListener('click', function () { showView('results'); });

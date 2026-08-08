@@ -1,5 +1,5 @@
 /* NEET PG QBank service worker — offline-first for installed app */
-var CACHE = 'qbank-v2'; /* bump when shell or bank files change */
+var CACHE = 'qbank-v3'; /* bump when shell or bank files change */
 
 var SHELL = [
   '/',
