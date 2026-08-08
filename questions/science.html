@@ -42,6 +42,7 @@ select:focus, input:focus { outline: 2px solid var(--accent); }
 .opt { display: flex; gap: 10px; align-items: flex-start; border: 1px solid var(--panel2); background: var(--panel); border-radius: 8px; padding: 10px 12px; cursor: pointer; }
 .opt:hover { border-color: var(--accent); }
 .opt .key { font-weight: 700; color: var(--accent); min-width: 18px; }
+.opt img { max-width: 100%; max-height: 200px; border-radius: 6px; border: 1px solid var(--panel2); }
 .opt.correct { border-color: var(--good); background: rgba(5,150,105,.12); }
 .opt.wrong { border-color: var(--bad); background: rgba(220,38,38,.1); }
 .opt.off { opacity: .5; }
@@ -148,6 +149,7 @@ a { color: var(--accent); }
     <button class="tab" data-v="custom">Custom Module</button>
     <button class="tab" data-v="browse">Browse Questions</button>
     <button class="tab" data-v="tests">Test Series</button>
+    <button class="tab" data-v="report">Progress Report</button>
     <button class="tab" data-v="results">Results</button>
     <button class="tab" data-v="marks">Bookmarks</button>
   </div>
@@ -255,6 +257,19 @@ a { color: var(--accent); }
     <div class="card"><h3 style="margin-bottom:10px;">Saved Results</h3><div id="resultList"></div></div>
   </div>
 
+  <!-- PROGRESS REPORT -->
+  <div id="report" class="view">
+    <div class="card">
+      <div class="fit-row" style="margin-bottom:10px">
+        <div><label>Subject filter</label><select id="repSubj"><option value="">All Subjects</option></select></div>
+        <div><label>Status</label><select id="repStatus"><option value="">Any</option><option value="correct">Correct</option><option value="wrong">Wrong</option><option value="skipped">Skipped</option></select></div>
+        <div><label>Sort</label><select id="repSort"><option value="slow">Slowest first</option><option value="new">Newest first</option><option value="subj">Subject</option><option value="topic">Topic</option></select></div>
+        <div><button class="btn small secondary" id="repClear">Clear report data</button></div>
+      </div>
+      <div id="repContent"></div>
+    </div>
+  </div>
+
   <!-- BOOKMARKS -->
   <div id="marks" class="view">
     <div class="card">
@@ -293,7 +308,7 @@ a { color: var(--accent); }
 
 <script src="/questions/bank.js?v=7"></script>
 <script src="/questions/test_2026.js?v=1"></script>
-<script src="/questions/core_btr.js?v=2"></script>
+<script src="/questions/core_btr.js?v=3"></script>
 <script>
 "use strict";
 
@@ -475,6 +490,7 @@ function showView(v) {
   if (v === 'tests') renderTestList();
   if (v === 'results') renderResultList();
   if (v === 'marks') renderMarks();
+  if (v === 'report') { fillRepSubj(); renderReport(); }
 }
 document.querySelectorAll('.tab').forEach(function (el) {
   el.addEventListener('click', function () { showView(el.dataset.v); });
@@ -701,6 +717,77 @@ function filterBrowseTopics2() {
   if (topicFilter) $('browseTopic').value = topicFilter;
 }
 
+/* ---------------- Progress Report ---------------- */
+function renderReport() {
+  var hist = lsGet('neet_hist') || {};
+  var repSubj = $('repSubj').value, repStatus = $('repStatus').value, repSort = $('repSort').value;
+  var rows = [];
+  for (var k in hist) {
+    var r = hist[k];
+    var status = r.correct === true ? 'correct' : r.correct === false ? 'wrong' : 'skipped';
+    if (repSubj && r.s !== repSubj) continue;
+    if (repStatus && status !== repStatus) continue;
+    var last = r.last || r.ts || 0;
+    var secs = r.times ? r.times.reduce(function (m, t) { return t.sec ? Math.max(m, t.sec) : m; }, 0) : 0;
+    rows.push({ key: k, s: r.s, t: r.t, qid: r.qid || '', status: status, last: last, secs: secs, n: (r.times || []).length });
+  }
+  var sorters = {
+    slow: function (a, b) { return b.secs - a.secs; },
+    new: function (a, b) { return b.last - a.last; },
+    subj: function (a, b) { return (a.s + a.t).localeCompare(b.s + b.t); },
+    topic: function (a, b) { return (a.t + a.s).localeCompare(b.t + b.s); }
+  };
+  rows.sort(sorters[repSort] || sorters.slow);
+  $('repContent').innerHTML = rows.length ? '<div class="q-nav-list" style="max-height:none">' +
+    rows.map(function (r, i) {
+      var st = r.status === 'correct' ? 'correct' : r.status === 'wrong' ? 'wrong' : 'marked';
+      return '<div class="q-nav-item" onclick="openRepQ(\'' + r.key.replace(/'/g, '\\\'') + '\')">' +
+        '<span class="num" style="width:auto;min-width:0">' + (i + 1) + '</span>' +
+        '<span class="status ' + st + '"></span>' +
+        '<span class="sub" style="flex:2">' + (r.s || '?') + ' — ' + (r.t || '') + '</span>' +
+        '<span class="score-note">' + (r.qid || '') + '</span>' +
+        '<span class="score-note">' + r.n + '×' + (r.secs ? r.secs.toFixed(1) : '–') + 's</span></div>';
+    }).join('') + '</div>' : '<div class="empty">Nothing yet — answer questions from QBank, Browse or Test Series.</div>';
+  if (!hist || !Object.keys(hist).length) $('repContent').innerHTML = '<div class="empty">No practice data yet.</div>';
+}
+function openRepQ(key) {
+  var hist = lsGet('neet_hist') || {};
+  var r = hist[key];
+  if (!r) return alert('Record not found.');
+  var times = r.times || [];
+  var html = '<div class="q-stem">' + (r.qid || '') + '</div>' +
+    '<div class="score-note">Subject: ' + r.s + ' • Topic: ' + r.t + ' • Attempts: ' + (r.n || times.length) + '</div>' +
+    '<div class="score-note">Status: ' + (r.correct === true ? 'Correct' : r.correct === false ? 'Wrong' : 'Skipped') + ' • Last: ' + new Date(r.last || r.ts || Date.now()).toLocaleString() + '</div>' +
+    times.map(function (t, i) {
+      return '<div class="res-row" style="margin-top:6px"><span class="score-note">#' + (i + 1) + ' — ' + (t.c ? 'Correct ✓' : 'Wrong ✗') + ' — ' + (t.sec != null ? t.sec.toFixed(1) + 's' : '–') + '</span></div>';
+    }).join('');
+  showDialog(html);
+}
+function showDialog(html) {
+  var d = document.createElement('div');
+  d.style.cssText = 'position:fixed;inset:0;background:rgba(15,23,42,.5);display:flex;align-items:center;justify-content:center;z-index:50';
+  d.innerHTML = '<div class="card" style="max-width:560px;width:92%"><div class="ctrl" style="justify-content:flex-end"><button class="btn small secondary" id="dlgClose">Close</button></div>' + html + '</div>';
+  d.querySelector('#dlgClose').addEventListener('click', function () { d.remove(); });
+  d.addEventListener('click', function (e) { if (e.target === d) d.remove(); });
+  document.body.appendChild(d);
+}
+[
+  ['repSubj', function () { renderReport(); }],
+  ['repStatus', function () { renderReport(); }],
+  ['repSort', function () { renderReport(); }]
+].forEach(function (c) { $(c[0]).addEventListener('change', c[1]); });
+$('repClear').addEventListener('click', function () {
+  if (!confirm('Remove all practice history?')) return;
+  lsSet('neet_hist', {});
+  renderReport();
+});
+function fillRepSubj() {
+  var s = new Set();
+  for (var k in (lsGet('neet_hist') || {})) s.add((lsGet('neet_hist') || {})[k].s);
+  var opts = Array.from(s).sort().map(function (x) { return '<option value="' + x + '">' + x + '</option>'; }).join('');
+  $('repSubj').innerHTML = '<option value="">All Subjects</option>' + opts;
+}
+
 /* ---------------- Custom Module ---------------- */
 var CM = { subjs: {}, topics: {} };
 
@@ -823,7 +910,8 @@ function renderQuestion() {
     q.o.map(function (op, k) {
       var cls = '';
       if (prev !== undefined) cls = (k === q.a ? ' correct' : (k === prev ? ' wrong' : ' off'));
-      return '<div class="opt' + cls + '" data-k="' + k + '"><span class="key">' + "ABCD"[k] + '</span><span>' + op + '</span></div>';
+      var body = q.oimg ? '<img src="data:image/webp;base64,' + q.oimg[k] + '" alt="option ' + "ABCD"[k] + '">' : op;
+      return '<div class="opt' + cls + '" data-k="' + k + '"><span class="key">' + "ABCD"[k] + '</span><span>' + body + '</span></div>';
     }).join(''),
     '</div>',
     '<div id="resultArea">' + (prev !== undefined ? '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + formatEx(q.ex) + '</div>' : '') + '</div>',
@@ -833,6 +921,7 @@ function renderQuestion() {
     '</div>',
     '</div>'
   ].join("");
+  QUIZ.shownAt = Date.now();
   quizArea.querySelectorAll('.opt').forEach(function (el) {
     el.addEventListener('click', function () { grade(el, q, i); });
   });
@@ -857,7 +946,19 @@ function grade(el, q, i) {
   if (correct) QUIZ.score++; else QUIZ.wrong++;
   var hist = lsGet('neet_hist') || {};
   var key = q.q.substring(0, 50);
-  if (QUIZ.mode !== 'mock') { hist[key] = { s: q.s, t: topicOf(q), correct: correct }; lsSet('neet_hist', hist); }
+  if (QUIZ.mode !== 'mock') {
+    var rec = hist[key] || { s: q.s, t: topicOf(q) };
+    rec.correct = correct;
+    rec.qid = q.qid || rec.qid;
+    rec.ts = Date.now();
+    rec.last = rec.last || rec.ts;
+    var recs = rec.times || (rec.times = []);
+    var spent = QUIZ.shownAt ? Math.max(0, (Date.now() - QUIZ.shownAt) / 1000) : null;
+    recs.push({ c: correct, sec: spent });
+    rec.times = recs;
+    hist[key] = rec;
+    lsSet('neet_hist', hist);
+  }
   $('resultArea').innerHTML = '<div class="verdict ' + (correct ? 'good' : 'bad') + '">' + (correct ? 'Correct ✓' : 'Wrong ✗') + '</div>' +
     '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + formatEx(q.ex) + '</div>';
   $('nxtBtn').disabled = false;
@@ -937,7 +1038,8 @@ function openReview(res) {
     var optHtml = q.o.map(function (op, k) {
       var cls = '';
       if (my !== undefined) cls = (k === q.a ? ' correct' : (k === my ? ' wrong' : ' off'));
-      return '<div class="opt' + cls + '"><span class="key">' + "ABCD"[k] + '</span><span>' + op + '</span></div>';
+      var body = q.oimg ? '<img src="data:image/webp;base64,' + q.oimg[k] + '" alt="option ' + "ABCD"[k] + '">' : op;
+      return '<div class="opt' + cls + '"><span class="key">' + "ABCD"[k] + '</span><span>' + body + '</span></div>';
     }).join('');
     return '<div class="card" style="margin-bottom:10px">' +
       '<div class="meta">' + (res.mode === 'mock' ? '' : '<span class="badge b-qid">' + (q.qid || ('q' + idx)) + '</span><span class="badge b-exam">' + q.e + '</span><span class="badge b-year">' + q.y + '</span><span class="badge b-sub">' + q.s + '</span><span class="badge b-topic">' + topicOf(q) + '</span>') + verdict + '</div>' +
