@@ -1,0 +1,322 @@
+0 | NEET PG 2021
+  According to the Bergonie-Tribondeau law, rapidly dividing undifferentiated cells are the most radiosensitive. Of these options the most radiosensitive cell is:
+    0 Spermatogonia
+    1 Mature neurons
+    2 Mature erythrocytes
+    3 Osteocytes
+   A= 0 ex= Spermatogonia divide rapidly and are among the most radiosensitive cells of the body.
+1 | NEET PG 2022
+  A radiographer at distance d from a point photon source walks to distance 2d. The exposure rate relative to the original becomes:
+    0 One fourth
+    1 One half
+    2 Four times
+    3 Unchanged
+   A= 0 ex= A point source follows the inverse-square law; doubling the distance cuts the exposure to a quarter.
+2 | NEET PG 2023
+  Routine personal dosimetry of diagnostic radiology personnel in India is monitored today with which device?
+    0 Thermoluminescent dosimeter (TLD)
+    1 Pocket ionization chamber
+    2 Geiger-Muller counter
+    3 Roentgen survey meter
+   A= 0 ex= A LiF thermoluminescent dosimeter now serves individual monitoring of staff, replacing film badges.
+3 | NEET PG 2022
+  Which agent introduced the first non-ionic water-soluble iodinated contrast into clinical use?
+    0 Metrizamide
+    1 Iohexol
+    2 Iopamidol
+    3 Diatrizoate
+   A= 0 ex= Metrizamide was the first non-ionic contrast; diatrizoate is an older ionic molecule.
+4 | INI-CET 2023
+  A patient with eGFR 35 ml/min needs iodinated contrast for CT with hydration run. Which agent carries the lowest risk of contrast-induced nephropathy?
+    0 Iso-osmolar non-ionic dimer (iodixanol)
+    1 High-osmolar ionic diatrizoate
+    2 Low-osmolar agent at double dose
+    3 Monomeric iodamide only
+   A= 0 ex= Iodixanol (iso-osmolar dimer) is associated with the lowest CIN rate among iodinated agents.
+5 | INI-CET 2025
+  Which gadolinium-based compound is safest in a patient with coexisting advanced renal failure, minimising the risk of nephrogenic systemic fibrosis?
+    0 Macrocyclic chelate (gadobutrol)
+    1 Linear chelate (gadodiamide)
+    2 Linear chelate (gadopentetate)
+    3 Low-susceptibility ferric-based
+   A= 0 ex= Macrocyclic chelates release far less free gadolinium and carry the least NSF risk; linear agents are contraindicated in renal impairment.
+6 | INI-CET 2022
+  A preterm newborn with grunting and retractions has a film of widespread ground-glass granularity plus air bronchograms and over-aeration. The most consistent diagnosis is:
+    0 Surfactant-deficient respiratory distress syndrome
+    1 Neonatal lobar emphysema
+    2 Congenital diaphragmatic hernia
+    3 Bronchogenic cyst
+   A= 0 ex= RDS appears as fine ground-glass granularity with air bronchograms; transient tachypnoea differs.
+7 | INI-CET 2021
+  On a supine abdominal radiograph of a baby the free intra-peritoneal air gathers under the anterior abdominal wall fenestrating an oval gas photo of the whole belly. The sign is:
+    0 Football sign
+    1 Rigler sign of double-wall
+    2 Cupola sign
+    3 Sentinel loop
+   A= 0 ex= The oval of gas under the ventral wall in a supine neonate is the football sign; Rigler sign is loop lamination.
+8 | INI-CET 2024
+  A newborn who fails to pass meconium has an iodine enema showing a contracted narrow rectosigmoid that cones into a dilated colon. The diagnosis is:
+    0 Hirschsprung disease
+    1 Meconium ileus
+    2 Anorectal malformation
+    3 Colonic atresia
+   A= 0 ex= A spastic aganglionic segment with a transition cone on the enema typifies Hirschsprung disease.
+9 | INI-CET 2025
+  Foamy granular opacities in a distended newborn's right upper abdomen plus a colon of normal width favours:
+    0 Meconium ileus (CF-linked)
+    1 Meconium peritonitis
+    2 Necrotising enterocolitis
+    3 Duodenal web
+   A= 0 ex= Soap-bubble meconium blended high in the abdomen with no mechanical block points to meconium ileus; a water-soluble enema treats it.
+10 | INI-CET 2021
+  A normal newborn film shows a triangular opacity in the superior right mediastinum, most prominent in inspiration. What is it?
+    0 Thymic sail sign
+    1 Neurenteric cyst
+    2 Oesophageal duplication
+    3 Thoracic kidney
+   A= 0 ex= The sail sign of the thymus is a normal neonatal thoracic finding that changes shape and size.
+11 | NEET PG 2021
+  A head-injured patient is briefly conscious then comatose. NCCT shows a biconvex lentiform hyperdensity respecting the skull sutures. The diagnosis is:
+    0 Acute extradural haematoma
+    1 Chronic subdural haematoma
+    2 Lobar contusion
+    3 Cerebral abscess
+   A= 0 ex= The lucid interval plus a biconvex suture-respecting bleed are the signature of extradural haematoma.
+12 | NEET PG 2023
+  A week after a fall an anticoagulated elderly patient presents with confusion and half-side weakness. The CT shows a concave crescent of subdensity sweeping across suture lines. The best next step is:
+    0 Burr-hole drainage
+    1 Emergent hemicraniectomy
+    2 High-dose steroids only
+    3 Aspirin taper observation
+   A= 0 ex= A concave crescentic subacute subdural effuses the convexity brain; burr-hole drainage relieves the pressure.
+13 | INI-CET 2023
+  A patient is scanned 90 minutes after acute-onset hemiplegia; the plain CT is essentially normal. Which sequence demonstrates the early infarct most sensitively?
+    0 Diffusion-weighted MRI
+    1 TIW fast spin echo
+    2 Proton-density
+    3 FLAIR pre-tonology
+   A= 0 ex= DWI catches cytotoxic oedema within minutes of occlusion; FLAIR and T2 turn positive much later.
+14 | NEET PG 2021
+  Sudden thunderclap headache and a rigid neck; the CT shows hyperdense basal cisterns and convexity sulci. What is the diagnosis?
+    0 Subarachnoid haemorrhage
+    1 Meningoencephalitis
+    2 Chronic subdural hygroma
+    3 Posterior-fossa tumour
+   A= 0 ex= Fissural hyperdensity in the cisterns and sulci after thunderclap is acute subarachnoid haemorrhage.
+15 | NEET PG 2024
+  A febrile patient with seizures has an MRI ring-enhancing mass whose core is bright on the diffusion sequence. The most likely lesion:
+    0 Pyogenic abscess
+    1 High-grade astrocytoma
+    2 Haemorrhagic metastasis
+    3 Epidermoid tumour
+   A= 0 ex= Pus restricts diffusion, so the abscess core stays bright on DWI whereas necrotic tumour does not.
+16 | INI-CET 2023
+  MRI shows a snowman-shaped mass expanding the sella and rising above it, compressing the optic chiasm. The likely diagnosis:
+    0 Pituitary macroadenoma
+    1 Craniopharyngioma
+    2 Suprasellar meningioma
+    3 Rathke cyst
+   A= 0 ex= An hour-glass sella-suprasellar mass lifting the chiasm with a snowman waist is a pituitary macroadenoma.
+17 | NEET PG 2022
+  An extra-axial dural-based enhancing mass with broad base and hyperostosis of the adjacent vault on CT is classically:
+    0 Meningioma
+    1 Glioblastoma
+    2 Osteogenic sarcoma
+    3 Metastatic deposit
+   A= 0 ex= Uniformly enhancing extra-axial dural mass with dural tail and local hyperostosis is a meningioma.
+18 | NEET PG 2022
+  An infant with mild cyanosis and heart failure has a chest film showing a cardiac silhouette shaped like a snowman on a pedestal. Which diagnosis best fits this configuration?
+    0 Total anomalous pulmonary venous return (supracardiac)
+    1 Coarctation of the aorta
+    2 Transposition of great vessels
+    3 Dilated cardiomyopathy
+   A= 0 ex= In supracardiac TAPVR the dilated vertical vein and SVC give the classic snowman or figure-of-eight sign on the film.
+19 | NEET PG 2023
+  A construction mason with a chisel chip suspects an intraocular metallic foreign body in the eye. Which imaging study must be avoided?
+    0 MRI
+    1 Plain skull film
+    2 Orbital CT scan
+    3 Magnetic ultrasound
+   A= 0 ex= A ferromagnetic intraocular fragment may be displaced and torque inside the globe; MRI is contraindicated until its nature is screened.
+20 | NEET PG 2023
+  An expanded and totally opacified frontal sinus with a thin intact wall evolves over weeks of frontal headache. Diagnosis:
+    0 Frontal mucocoele
+    1 Acute frontal sinusitis
+    2 Osteomyelitis
+    3 Dermoid sinus
+   A= 0 ex= A mucocoele is a sinus inflated by ostial obstruction that expands and can erode the orbital plate.
+21 | NEET PG 2021
+  Dysphonia with an apical lung opacity that destroys the first two ribs in a long smoker points to:
+    0 Pancoast superior-sulcus tumour
+    1 Aspergilloma of the apex
+    2 Sarcoid hilar mass
+    3 Old TB complex
+   A= 0 ex= Apical mass with rib erosion and Horner plus arm pain is the superior sulcus Pancoast tumour.
+22 | NEET PG 2022
+  A child with a murmur has a film showing very plethoric (engorged) lung fields plus a prominent main pulmonary segment. This suggests:
+    0 A left-to-right shunt such as VSD or PDA
+    1 Tetralogy of Fallot
+    2 Isolated pulmonary stenosis
+    3 Constrictive pericarditis
+   A= 0 ex= Left-to-right shunting floods the lung; cyanosed tetralogy leaves lung fields oligaemic.
+23 | NEET PG 2024
+  A PA film in a dyspnoeic woman shows a bulge of the left atrial appendage and upward displacement of the left main bronchus; a barium swallow is pushed gently backward. This corresponds to:
+    0 Left-atrial enlargement
+    1 Right ventricular enlargement
+    2 Aortic root ectasia
+    3 Pulmonary artery dilatation
+   A= 0 ex= A left atrium of size lifts the bronchus, bulges the appendage and indents the oesophagus on swallow.
+24 | NEET PG 2022
+  A swallow study in a woman with months of progressive food dysphagia shows a dilated oesophagus that ends in a smooth narrowed beak at the cardia with slow emptying. Diagnosis:
+    0 Achalasia
+    1 Peptic stricture
+    2 Corrosive stricture
+    3 Oesophageal cancer
+   A= 0 ex= A dilated oesophagus tapering to a smooth beak at the cardia with delayed emptying fits achalasia.
+25 | NEET PG 2021
+  Low-grade fever with an ileocaecal stricture, a contracted scarred caecum and a central contrast fleck on barium in a young Indian adult:
+    0 Intestinal tuberculosis
+    1 Crohn colitis
+    2 Caecal lymphoma
+    3 Yersinial enteritis
+   A= 0 ex= A goblet caecum with terminal-ileal narrowing is the ileocaecal-TB pattern of a febrile young adult.
+26 | INI-CET 2023
+  At 3 months a baby with projectile post-feed vomiting has pyloric ultrasound muscle thickness of 4.5 mm and an elongated canal. Diagnosis:
+    0 Hypertrophic pyloric stenosis
+    1 Hiatus hernia
+    2 Malrotation
+    3 Pylorus spasm
+   A= 0 ex= Pyloric wall >3-4 mm with a stretched channel on US confirms hypertrophic pyloric stenosis.
+27 | NEET PG 2024
+  For a child with blunt abdominal trauma whose supine film is without free air, the most useful additional view to expose a GI perforation is:
+    0 Upright chest and left-lateral decubitus
+    1 Anteroposterior lumbar spine
+    2 Oblique swallow
+    3 Repeated supine after 48 hours
+   A= 0 ex= Erect and decubitus films pool the free gas under a diaphragm that the supine film misses.
+28 | NEET PG 2021
+  Guggling as the patient swallows and regurgitation of food eaten a day ago with a laryngo hypopharyngeal pouch above the cricophangus on a swallow study: diagnosis:
+    0 Pharyngeal pouch (Zenker diverticulum)
+    1 Laryngocoele
+    2 Dysphagia lusoria
+    3 Oesophageal web
+   A= 0 ex= Zenker diverticulum arises above the cricopharyngeus in the pharynx and retains old food, causing late regurgitation.
+29 | INI-CET 2023
+  An elderly obstructed patient has a plain film and CT showing abundant intraluminal gas, air lucencies over the hepatic shadow and a remote calcified stone lodged in a mid small-bowel loop. The unifying diagnosis is:
+    0 Gallstone ileus (with pneumobilia)
+    1 Cholelithiasis only
+    2 Gas-gangrene ileus
+    3 Infarct of the ileum
+   A= 0 ex= Pneumobilia meeting a calcified obstructing stone is the classic gallstone ileus (Rigler triad).
+30 | NEET PG 2024
+  A limping adolescent has an expansile soap-bubble lucency of the proximal humeral metaphysis with a paper-thin blown-out cortex and no matrix. Diagnosis:
+    0 Aneurysmal bone cyst
+    1 Osteosarcoma
+    2 Chondroblastoma
+    3 Fibrous cortical defect
+   A= 0 ex= A multiloculated soap-bubble blow-out metaphyseal lesion of the young is an aneurysmal bone cyst.
+31 | NEET PG 2025
+  A growing teen limps after running; the frog-lateral view shows the proximal femoral head slipping backward and medially in the neck. The diagnosis is:
+    0 Slipped capital femoral epiphysis
+    1 Acetabular dysplasia
+    2 Perthes flattening
+    3 Septic arthritis
+   A= 0 ex= SCFE shows a medial and posterior slipping of the femoral epiphysis best seen on the frog-lateral projection.
+32 | INI-CET 2023
+  A teenager with a nagging knee has a lytic focus in the epiphysis of the distal femur containing small faint specks of calcific density. Diagnosis:
+    0 Chondroblastoma
+    1 Osteoid osteoma
+    2 Unicameral bone cyst
+    3 Epidermoid
+   A= 0 ex= Lucent epiphyseal lesion with flecks of chondroid matrix in the young is a chondroblastoma.
+33 | NEET PG 2021
+  An exophytic bony mound on a long bone with cortex and marrow continuous with the host bone and a direction away from the nearest joint describes:
+    0 Osteochondroma (cartilage-capped exostosis)
+    1 Osteoid osteoma
+    2 Enchondroma
+    3 Subperiosteal callus
+   A= 0 ex= Osteochondroma keeps cortex and cancellous marrow continuous with the host and grows away from the joint.
+34 | INI-CET 2025
+  A 70-year-old with pelvic pain after a trivial fall has a bone scan showing an H-shaped double tracer band across the sacral alae. The diagnosis:
+    0 Sacral insufficiency fracture (Honda sign)
+    1 Sacral myeloma
+    2 Sacroiliitis
+    3 Coccyx fracture
+   A= 0 ex= The bilateral H of tracer in both sacral alae (Honda sign) marks insufficiency sacral fractures.
+35 | INI-CET 2022
+  A menopausal woman has knee pain and a decisive dense line of calcium in the meniscus and hyaline cartilage of the joint on the radiograph. The deposited crystal is:
+    0 Calcium pyrophosphate dihydrate (CPPD)
+    1 Monosodium urate
+    2 Hydroxyapatite
+    3 Cystine
+   A= 0 ex= Chondrocalcinosis seen as dense cartilage lines is the CP-PD of pseudo-gout.
+36 | NEET PG 2023
+  A 30-year-old man with ascending stiffness and repeated uveitis has a single lateral film that shows the whole spine with continuous bridging ossification. The unified diagnosis is:
+    0 Ankylosing spondylitis
+    1 Diffuse idiopathic skeletal hyperostosis
+    2 Syringomyelia
+    3 Post-polio scoliosis
+   A= 0 ex= Complete syndesmophyte bridging of the spine (bamboo spine) with sacroiliitis is ankylosing spondylitis.
+37 | NEET PG 2021
+  A KUB of a patient with repeated urinary infections shows a branched stone casting the whole pelvicalyceal tree. The usual composition is:
+    0 Struvite (magnesium-ammonium-phosphorus)
+    1 Uric acid
+    2 Cystine
+    3 Xanthine
+   A= 0 ex= A branched staghorn replicating the pelvis is usually struvite from urease-producing infection.
+38 | INI-CET 2025
+  In a renal-colic emergency, the single best test to show the site, size and whether a ureterolith is present is:
+    0 Unenhanced CT of the urinary tract
+    1 IVU with ionised contrast
+    2 Radiorenogram
+    3 Ultrasound after hydration
+   A= 0 ex= Non-contrast CT of the whole urinary tract images stones with high sensitivity and sizes them.
+39 | NEET PG 2022
+  In a child with repeated infections, the test that demonstrates vesico-ureteric reflux while the child voids is:
+    0 Voiding cysto-urethrogram (MCU)
+    1 Intravenous urogram
+    2 Ultrasound voiding study
+    3 Nuclear renogram
+   A= 0 ex= Micturating cystographic fill and void directly shows refluxing contrast into the ureters.
+40 | NEET PG 2023
+  A bulky redundant renal pelvis with a long narrow pleat at the ureteric junction shown on an IVU in a young adult means:
+    0 Pelvi-ureteric junction obstruction
+    1 Staghorn of calices
+    2 Renal vein cuff
+    3 PU-junction tumour
+   A= 0 ex= A distended pelvis with a delicate narrowed junction defines a PUJ obstruction.
+41 | INI-CET 2024
+  A liver ultrasound displays a well-defined cyst containing folded undulating strands of membrane lying curled within. Which sign is this?
+    0 Water-lily sign of hydatid cyst
+    1 Snow-storm mole
+    2 Target sign of intussuscept
+    3 Crescent air
+   A= 0 ex= The water lily sign from a detached endocyst membrane within the cyst is seen in hydatid (Echinococcus).
+42 | NEET PG 2021
+  A young hypertensive with a short segment of rigid bean-pod beading over the mid renal artery at aortography contains:
+    0 Fibromuscular dysplasia
+    1 Thromboembolism
+    2 AVM
+    3 Takayasu constriction
+   A= 0 ex= Multifocal beading of the renal artery in a young hypertensive is the classic fibromuscular dysplasia.
+43 | INI-CET 2022
+  A young hypoxic patient with pleuritic pain has a CXR that zone shows a local oligaemic lucent patch and a prominent pulmonary trunk. Combined with a sudden hypoxaemia the association to mind is:
+    0 Pulmonary embolism (Westermark)
+    1 Lobar pneumonia
+    2 Pneumothorax shrinking
+    3 Effusion under lung
+   A= 0 ex= The Westermark sign of regional oligaemia and an enlarged pulmonary artery is a strong hint for acute PE.
+44 | NEET PG 2021
+  In a patient with a pre-existing upper-lobe cavity from old tuberculosis, a new fungal ball fills the cavity and a crescent of air separates it from the cavity wall on the radiograph. The lesion is:
+    0 Mycetoma (aspergilloma)
+    1 Hydatid daughter cyst
+    2 Lung abscess with debris
+    3 Bronchogenic carcinoma
+   A= 0 ex= The air-crescent (Monod) sign between the fungus ball and the cavity wall is typical of an aspergiloma.
+45 | INI-CET 2022
+  Rigid CT shows extension of an enhancing liver mass into the inferior vena cava and the portal. Which neoplasm of the liver has such signature vascular extension:
+    0 Hepatocellular carcinoma
+    1 Haemangioma
+    2 Focal nodular hyperpl
+    3 Regenerative nodule
+   A= 0 ex= The hepatocellular carcinoma classically invades the veins, occluding them with its dysplastic thrombus.

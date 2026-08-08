@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Question 1726 Image Audit</title>
+  <style>
+    body { font-family: sans-serif; padding: 20px; }
+    .img-container { margin-bottom: 30px; }
+    img { max-width: 100%; border: 1px solid #ddd; display: block; }
+    h3 { margin-bottom: 10px; }
+    .info { color: #666; font-size: 14px; }
+    .flag { background: #ffe6e6; border: 1px solid #ff9999; padding: 10px; margin-bottom: 20px; }
+  </style>
+</head>
+<body>
+  <h2>Question 1726 Image Audit</h2>
+
+  <div class="flag">
+    <strong>Question:</strong> Which diagnostic test should be performed next for a woman who has painless vulvar ulcers, a history of multiple sexual partners, and a previous stillbirth at 28 weeks?<br>
+    <strong>Options:</strong> VDRL, NAT, Vaginal swab and culture, PCR<br>
+    <strong>Answer:</strong> VDRL (syphilis screening)<br>
+    <strong>Relevance:</strong> This is a syphilis screening question for a patient presenting with classic syphilis symptoms (painless ulcer/chancre) and high-risk obstetric history.
+  </div>
+
+  <div class="img-container">
+    <h3>q1726_0.jpg</h3>
+    <p class="info">Size: 360x274 pixels (reasonable for a medical image)</p>
+    <img src="file:///F:/NEET%20PG/research/audit/imgs/q1726_0.jpg" onload="logStatus('img0', 'ok', this.naturalWidth + 'x' + this.naturalHeight)" onerror="logStatus('img0', 'error')">
+    <p class="info" id="info0"></p>
+  </div>
+
+  <div class="img-container">
+    <h3>q1726_1.jpg</h3>
+    <p class="info">Size: 74x74 pixels (very small - likely a fragment or icon)</p>
+    <img src="file:///F:/NEET%20PG/research/audit/imgs/q1726_1.jpg" onload="logStatus('img1', 'ok', this.naturalWidth + 'x' + this.naturalHeight)" onerror="logStatus('img1', 'error')">
+    <p class="info" id="info1"></p>
+  </div>
+
+  <script>
+    function logStatus(imgId, status, details) {
+      const elem = document.getElementById('info' + imgId.slice(-1));
+      elem.textContent = status + ' (' + details + ')';
+      elem.style.color = status === 'ok' ? '#28a745' : '#dc3545';
+    }
+    function logError(imgId) {
+      logStatus(imgId, 'error', 'Failed to load');
+    }
+  </script>
+</body>
+</html>

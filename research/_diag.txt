@@ -1,0 +1,26 @@
+empty stems: 7
+  2023 Psychiatry Q166 stem='' opts=['Polyhydramnios The clinical findings are highly suggestive of polyhydramnios, which is an excessive amount of amniotic fluid. The key finding is the significant discrepancy between the gestational age (32 weeks) and the symphysial-fundal height (41 cm), indicating a uterus that is much larger than expected. The tense abdomen and the patients symptoms of dyspnea (difficulty breathing, due to the enlarged uterus pushing up on the diaphragm) and difficulty walking are also classic consequences of the increased intra- abdominal pressure from the excess fluid. Fetal parts are often difficult to palpate in cases of polyhydramnios, and the fetal heart sound may be muffled. Oligohydramnios']
+  2022 Surgery Q193 stem='' opts=['Asbestosis The development of mesothelioma, a rare and aggressive cancer of the pleura, is almost exclusively linked to prior exposure to asbestos. Construction work is a high-risk occupation for asbestos exposure. The patients respiratory symptoms (cough and shortness of breath) are likely due to the underlying interstitial lung disease caused by the inhalation of asbestos fibers, which is known as asbestosis. Asbestosis is a form of pulmonary fibrosis. Therefore, the overall diagnosis, encompassing both the benign fibrotic lung disease and the resulting malignancy, is asbestosis. While the patient Click Here to Buy book on Amazon 303=== EXAMINATION PAPER 2022 (A) Paracrine']
+  2022 Biochemistry Q182 stem='' opts=['Giant cell tumor The radiograph shows a large, eccentric, purely lytic (destructive) lesion located in the epiphysis of the distal radius, extending to the articular surface. The lesion has a well-defined but non-sclerotic margin, giving it a soap bubble appearance. This location (epiphysis of a long bone, typically around the knee or at the distal radius) and radiographic appearance in a young adult are classic for a Giant Cell Tumor (GCT) of bone. GCTs are typically benign but can be locally aggressive and may recur after treatment. An aneurysmal bone cyst (D) is also a lytic, expansile lesion but is usually located in the metaphysis. Chondroblastoma']
+  2022 Radiology Q16 stem='' opts=["Glutathione reductase The functional status of several vitamins can be assessed by measuring the activity of a vitamin- dependent enzyme in red blood cells (RBCs), both with and without the addition of the vitamin's active coenzyme form. For Vitamin Downloaded from www.pdf.tube 330=== EXAMINATION PAPER 2022 (A) Mediastinal mass"]
+  2022 Psychiatry Q3 stem='' opts=['Mid pelvis The green shaded region in the diagram represents the mid pelvis (mid-pelvic cavity). The pelvis is anatomically divided into three important obstetric levels: the pelvic inlet, mid pelvis, and pelvic outlet. These divisions are important for understanding the passage of the fetal head during childbirth. The pelvic inlet is the upper opening of the true pelvis. It is bounded by the sacral promontory posteriorly, the arcuate line of the ilium laterally, and the pubic symphysis anteriorly. This region marks the entrance of the pelvic cavity. The mid pelvis, which is shown in green in the figure, lies between the pelvic inlet and pelvic NODIA 333=== during pregnancy. What is the recommended increase in daily calorie intake for a pregnant woman? (A) 300kcal throughout the pregnancy']
+  2020 Radiology Q13 stem='' opts=["Fluent Aphasia The posterior portion of the superior temporal gyrus in the dominant cerebral hemisphere (usually the left) is the location of Wernicke's area. This area is critically involved in the comprehension of spoken and written language. An injury or lesion to Wernicke's area results in a type of aphasia known as receptive aphasia or, more commonly, Wernicke's aphasia. Downloaded from www.pdf.tube 488=== (A) Lamellar ichthyosis"]
+  2018 Biochemistry Q75 stem='' opts=['One in 10 people age 65 and older has Alzheimer’s disease']
+subjects:
+  Surgery                445
+  Medicine               200
+  PSM                    154
+  Forensic Medicine      136
+  Pharmacology           125
+  Anatomy                106
+  Microbiology           105
+  Pathology              102
+  Biochemistry           99
+  Radiology              89
+  Ophthalmology          87
+  ENT                    77
+  Dermatology            62
+  Physiology             56
+  Psychiatry             50
+  Anaesthesia            32
+  OBG                    26

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body>
+  <img id="testImg" src="/imgs/q1565_0.jpg" style="max-width: 100%;">
+  <script>
+    const img = document.getElementById('testImg');
+    img.onload = () => {
+      const canvas = document.createElement('canvas');
+      canvas.width = img.naturalWidth;
+      canvas.height = img.naturalHeight;
+      const ctx = canvas.getContext('2d');
+      ctx.drawImage(img, 0, 0);
+      const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+      const pixels = imageData.data;
+      let nonTransparent = 0;
+      let minR = 255, maxR = 0, minG = 255, maxG = 0, minB = 255, maxB = 0;
+      for (let i = 0; i < pixels.length; i += 4) {
+        if (pixels[i + 3] > 0) {
+          nonTransparent++;
+          minR = Math.min(minR, pixels[i]);
+          maxR = Math.max(maxR, pixels[i]);
+          minG = Math.min(minG, pixels[i + 1]);
+          maxG = Math.max(maxG, pixels[i + 1]);
+          minB = Math.min(minB, pixels[i + 2]);
+          maxB = Math.max(maxB, pixels[i + 2]);
+        }
+      }
+      document.body.innerHTML += `<pre>${JSON.stringify({
+        width: img.naturalWidth,
+        height: img.naturalHeight,
+        nonTransparentPixels: nonTransparent,
+        totalPixels: canvas.width * canvas.height,
+        colorRange: {r: [minR, maxR], g: [minG, maxG], b: [minB, maxB]},
+        dataUrl: canvas.toDataURL('image/png')
+      }, null, 2)}</pre>`;
+    };
+    img.onerror = () => {
+      document.body.innerHTML += '<pre>Error: failed to load</pre>';
+    };
+  </script>
+</body>
+</html>

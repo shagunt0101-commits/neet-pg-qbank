@@ -1,0 +1,300 @@
+=== IDX 2340 Microbiology img=False
+Q: Which of the options below does not constitute a component of case-control studies?
+O: ['Follow up', 'Matching', 'Strength of association', 'Selection of study subjects']
+A: 0 | EX: A case-control study is a type of observational study design that is retrospective in nature. It begins by identifying a group of individuals with a particular disease or outcome (the "cases") and a c
+
+=== IDX 2341 Microbiology img=False
+Q: Which statement correctly describes how the prevalence and incidence of a disease will be affected when a newly introduced drug reduces mortality but does not provide a cure?
+O: ['Decrease in incidence', 'Decrease in prevalence', 'Increase in incidence', 'Increase in prevalence']
+A: 3 | EX: This question tests the relationship between incidence, prevalence, and disease duration. Incidence is the rate of new cases of a disease in a population over a specific period. The new drug does not 
+
+=== IDX 2342 Microbiology img=False
+Q: What is triage for?
+O: ['To prepare for a disaster', 'To assess the impact of a disaster', 'To classify the priority of treatment', 'To rehabilitate following a disaster']
+A: 2 | EX: Triage is the process of sorting and prioritizing patients based on the severity of their injuries or illness, especially in a mass casualty incident, disaster, or busy emergency department where the 
+
+=== IDX 2343 Microbiology img=False
+Q: Which statement correctly explains how prevalence and incidence are affected when a new drug lowers mortality but does not cure the disease?
+O: ['Decrease in incidence', 'Decrease in prevalence', 'Increase in incidence', 'Increase in prevalence']
+A: 3 | EX: This is a duplicate of question 98. To reiterate the concept, incidence refers to the rate at which new cases of a disease occur. A treatment that does not prevent the disease will have no effect on i
+
+=== IDX 2344 ENT img=True
+Q: What is the likely diagnosis for a patient experiencing vertigo, tinnitus, and head tilt, who had a myringoplasty for a safe type of chronic suppurative otitis media (CSOM) six months prior?
+O: ['Perilymphatic fistula', 'Labyrinthitis', 'Paget disease', 'Vestibular schwannoma']
+A: 0 | EX: The combination of vestibular symptoms (vertigo, head tilt) and auditory symptoms (tinnitus) developing after ear surgery is highly suggestive of an inner ear complication. A perilymphatic fistula is 
+
+=== IDX 2345 ENT img=False
+Q: In a 12-year-old child with fever and difficulty swallowing who presented with swelling in the shown region, persistent bleeding occurs after surgery. Which blood vessel is most likely injured?
+O: ['Tonsillar branch of facial artery', 'Ascending pharyngeal artery', 'Paratonsillar vein', 'Retromandibular vein']
+A: 2 | EX: The child described has fever, difficulty swallowing, and swelling in the peritonsillar region, suggesting a peritonsillar abscess (quinsy). This condition involves infection and pus collection in the
+
+=== IDX 2346 ENT img=False
+Q: Which of the following methods is accurate for measuring the nasogastric tube?
+O: ['Tip of nose to ear lobule to xiphisternum', 'Angle of mouth to tragus to xiphisternum', 'Ala of nose to angle of mandible to xiphisternum', 'Angle of mouth to ear lobule to umbilicus']
+A: 0 | EX: NODIA 540=== page  537 INICET Examination Paper
+
+=== IDX 2347 ENT img=False
+Q: Uniplanar with a single rod 3.	 Uniplanar with double rod 4.	 Biplanar frame/Ring with a cylindrical rod
+O: ['1>2>3>4', '2>4>3>1', '1>4>3>2', '2>3>1>4']
+A: 2 | EX: The stability of an external fixator construct is determined by its biomechanical properties, particularly its resistance to bending, axial, and torsional forces. The stability generally increases wit
+
+=== IDX 2348 OBG img=False
+Q: If a pregnant woman at 36 weeks gestation is diagnosed with high blood pressure and a urine protein level of 3+, what additional symptoms would indicate a potential onset of eclampsia? 1.	 Headache 2.	 Blurred vision 3.	 Persistent pedal oedema 4.	 Epigastric pain
+O: ['2 and 4 only', '1 and 2 only', '1,2,3', '1,2,3,4']
+A: 3 | EX: The patient has severe pre-eclampsia, defined by hypertension and significant proteinuria. Eclampsia is the occurrence of seizures in this setting. Certain symptoms, known as "severe features," act as
+
+=== IDX 2349 OBG img=False
+Q: Which of the following options is not used in the management of polycystic ovarian disease (PCOD)?
+O: ['Clomiphene citrate', 'Metformin', 'Tamoxifen', 'Oral Contraceptive Pills (OCP)']
+A: 2 | EX: Polycystic Ovary Syndrome (PCOS/PCOD) management is tailored to the patient's symptoms and goals. For menstrual cycle regulation and management of hirsutism, combined oral contraceptive pills (OCPs) (
+
+=== IDX 2350 OBG img=False
+Q: A 33-year-old woman who is 20 weeks pregnant has been told by her doctor that her fetus has a developmental abnormality. She seeks a second opinion. Based on the ultrasound image provided, what specific fetal defect is present?
+O: ['Anencephaly', 'Omphalocele', 'Cystic hygroma', 'Encephalocele']
+A: 0 | EX: The provided ultrasound image shows a sagittal view of a fetus. The most striking and definitive finding is the absence of the cranial vault and the cerebral hemispheres of the brain. The facial struc
+
+=== IDX 2351 OBG img=False
+Q: Arrange the following steps in sequential order for the collection of samples for Pap smear testing: 1.	 Use posterior vaginal wall retractor 2.	 Take the sample 3.	 Make smear on a slide 4.	 Fix the smear
+O: ['1, 2, 4, 3', '2, 1, 3, 4', '3, 1, 2, 4', '1, 2, 3, 4']
+A: 3 | EX: The procedure for obtaining a conventional Pap smear follows a logical and critical sequence to ensure a high-quality, interpretable sample. First, a speculum (such as a Cusco's speculum, or a Sims' s
+
+=== IDX 2352 OBG img=False
+Q: Which of the following measures is part of the Active Management of the Third Stage of Labor (AMTSL)?
+O: ['Oxytocin is not given', 'Controlled cord traction', 'No uterine massage', 'No cord clamping']
+A: 1 | EX: Active Management of the Third Stage of Labor (AMTSL) is a set of interventions designed to speed the delivery of the placenta and prevent postpartum hemorrhage. The three core components are : Admini
+
+=== IDX 2353 OBG img=False
+Q: Which among the following options does not contribute to the occurrence of secondary amenorrhea?
+O: ["Turner's mosaic", 'Kallmann syndrome', "Sheehan's syndrome", "Asherman's syndrome"]
+A: 1 | EX: Secondary amenorrhea is the cessation of menstruation for three or more months in a woman who has previously menstruated. Sheehan's syndrome (C), postpartum pituitary necrosis, causes hypopituitarism 
+
+=== IDX 2354 OBG img=False
+Q: In a semen analysis, what percentage range is considered normal for sperm morphology?
+O: ['10%', '4%', '6%', '8%']
+A: 1 | EX: This is a duplicate of a previous question. According to the 5th and 6th editions of the World Health Organization (WHO) laboratory manual for the examination of human semen, the lower reference limit
+
+=== IDX 2355 OBG img=False
+Q: A COVID-19 patient who received treatment with steroids and remdesivir is being discharged. What follow-up evaluations or monitoring should they be advised to undergo? Select the correct combination from the options provided. 1.	 Repeat RT-PCR after 7 days of discharge 2.	 Watch for the persistence of anosmia 3.	 Watch for headache and nasal discharge 4.	 Monitor glucose levels 5.	 Watch for sinusitis symptoms
+O: ['1, 3 and 4', '2, 3 and 4', '3, 4 and 5', '1, 2, 3, 4 and 5']
+A: 2 | EX: This question relates to complications and follow-up after moderate to severe COVID-19, particularly in the context of the delta wave in India when mucormycosis was prevalent. Corticosteroid use, a ma
+
+=== IDX 2356 OBG img=False
+Q: A 50-year-old man arrives with sudden onset of right-sided weakness and aphasia within the past two hours. His blood pressure is 160/110 mmHg, and his non-contrast CT (NCCT) head scan shows no abnormalities. What should be the next step in his management?
+O: ['CT angiography to look for large vessel occlusion', 'MRI to look for infarct', 'Tab Labetalol 10 mg stat', 'Thrombolysis']
+A: 3 | EX: The patient presents with classic signs of an acute ischemic stroke (sudden onset of focal neurological deficits). He is within the critical time window for intervention (less than 4.5 hours from symp
+
+=== IDX 2357 OBG img=False
+Q: Which statement regarding syndrome of inappropriate antidiuretic hormone secretion (SIADH) is incorrect?
+O: ['Urinary sodium < 20 mEq/L', 'Serum sodium < 135 mEq/L', 'Urine osmolality > 100 mosm/kg', 'Patient can be clinically euvolemic to hypervolemic']
+A: 0 | EX: The Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) is a disorder of impaired water excretion caused by the non-physiological release of ADH. This leads to the retention of free water
+
+=== IDX 2358 OBG img=False
+Q: What is the treatment of choice for providing symptom relief during an acute cluster headache attack?
+O: ['Oral sumatriptan', 'Subcutaneous sumatriptan', '100% oxygen at 6 L/minute', '100% oxygen at 8 L/minute']
+A: 1 | EX: Cluster headache is an excruciatingly severe, unilateral headache with a rapid onset. The acute (abortive) treatment needs to be very fast-acting. Oral sumatriptan (A) has a slow onset of action and i
+
+=== IDX 2359 OBG img=False
+Q: Identify the disease in the given image.
+O: ['Tricuspid stenosis', 'Mitral stenosis', 'Dilated cardiomyopathy', 'Hypertrophic obstructive cardiomyopathy']
+A: 1 | EX: The image shows a gross pathological specimen of a heart valve viewed from the atrial side. The valve leaflets are markedly thickened and fibrotic, and there is fusion of the commissures (the points w
+
+=== IDX 2360 OBG img=False
+Q: What is the most reliable diagnostic test for identifying myocarditis?
+O: ['Endo-myocardial biopsy', 'Magnetic Resonance Imaging', 'Brain natriuretic Peptide', 'LDH1 to LDH2 ratio']
+A: 0 | EX: Myocarditis is an inflammatory disease of the heart muscle. While clinical presentation, ECG changes, elevated cardiac enzymes (like troponin), and imaging can all be suggestive, the definitive gold s
+
+=== IDX 2361 OBG img=False
+Q: What is a characteristic feature observed in osteoporosis?
+O: ['Normal calcium and increased ALP', 'Normal calcium and normal ALP', 'Decreased calcium and normal ALP', 'Increased calcium and increased ALP']
+A: 1 | EX: Osteoporosis is a metabolic bone disease characterized by low bone mass and micro architectural deterioration of bone tissue, leading to increased fracture risk. It is a disorder of bone quantity and 
+
+=== IDX 2362 OBG img=False
+Q: Which congenital heart defect shows equal oxygen saturation in all four cardiac chambers?
+O: ['Tetralogy of Fallot', 'Total anomalous pulmonary venous circulation', 'Tricuspid atresia', 'Transposition of great arteries']
+A: 1 | EX: In a healthy heart, the oxygen saturation in the right-sided chambers (carrying deoxygenated systemic venous blood) is much lower than in the left-sided chambers (carrying oxygenated pulmonary venous 
+
+=== IDX 2363 OBG img=True
+Q: Which of the following statements accurately describes Korsakoff syndrome?
+O: ['Triad of confusion, ophthalmoplegia, and ataxia', 'Loss of long-term memory but intact personality', 'Anterograde amnesia with loss of recent memory', 'Loss of implicit memory and immediate recall']
+A: 2 | EX: Korsakoff syndrome is a chronic neurological disorder that is often a sequela of an untreated episode of Wernicke's encephalopathy, both caused by severe thiamine (Vitamin B1) deficiency, typically in
+
+=== IDX 2364 OBG img=False
+Q: An HIV-positive woman receiving antiretroviral therapy presents with a migraine and a two-day history of sudden numbness from the mid-thigh to the toes. The accompanying angiography image reveals vascular abnormalities. What is the most likely diagnosis?
+O: ['Atherosclerosis', 'Ergotism', 'Polyradiculoneuropathy', 'Herniated disc']
+A: 1 | EX: The angiography image shows severe, diffuse, symmetrical narrowing and "beading" of the major arteries of the lower extremities. This appearance is characteristic of intense vasospasm. The clinical hi
+
+=== IDX 2365 OBG img=False
+Q: A 32-year-old man is brought to the emergency department after a road traffic accident with head injury and is on mechanical ventilation. He opens his eyes to verbal commands and shows spontaneous movement in all four limbs. What is his Glasgow Coma Scale (GCS) score?
+O: ['Eyes-2, Verbal-1, Motor-5', 'Eyes-2, Verbal-NT, Motor-5', 'Eyes-3, Verbal-2, Motor-6', 'Eyes-3, Verbal-NT, Motor-6']
+A: 3 | EX: The Glasgow Coma Scale (GCS) is used to assess a patient's level of consciousness. The score is calculated by evaluating three components : eye-opening, verbal response, and motor response. Eye Respon
+
+=== IDX 2366 OBG img=False
+Q: While receiving the second dose of a COVID vaccine, a patient developed a flabby, flattened, and asymmetrical shoulder, and the nurse noticed a loss of the normal shoulder contour. Which structure was likely injured, and could this injury have been avoided?
+O: ['Rotator cuff', 'Posterior circumflex artery', 'Lateral cutaneous nerve of arm', 'Axillary nerve']
+A: 3 | EX: The described signs—a flabby, flat shoulder with loss of the normal rounded contour—are classic for deltoid muscle atrophy. The deltoid muscle is the main muscle that gives the shoulder its shape, and
+
+=== IDX 2367 OBG img=False
+Q: A 32-year-old man arrives at the emergency department after a road traffic accident with head trauma. He now has dysphagia and dysarthria, and imaging shows fractures in the occipitotemporal region. On examination, movement at the back of the oral cavity is asymmetric, indicating potential nerve injury. Which specific anatomical area should be evaluated to determine the affected nerve(s)? Click Here to Buy book on Amazon 543=== MEDINK EXAMINATION PAPER MAY-2021
+O: ['1', '2', '3', '4']
+A: 1 | EX: The patient's symptoms of dysphagia and dysarthria, combined with asymmetrical movement in the "back of his oral cavity" (the pharynx and palate), point to an injury of the lower cranial nerves, speci
+
+=== IDX 2368 OBG img=True
+Q: A 45-year-old man has had progressive weakness in both lower limbs for a year, which has recently begun affecting his upper limbs. Examination shows lower-limb weakness, wasting of the left upper limb muscles, a positive Babinski sign, and absent deep tendon reflexes, with no sensory or autonomic involvement. What is the most likely diagnosis?
+O: ['Multiple Sclerosis (MS)', 'Amyotrophic Lateral Sclerosis (ALS)', 'Guillain-Barré Syndrome (GBS)', 'Tropical Spastic Paraparesis']
+A: 1 | EX: This clinical presentation is classic for Amyotrophic Lateral Sclerosis (ALS), also known as motor neuron disease. The defining feature of ALS is the combination of both upper motor neuron (UMN) and l
+
+=== IDX 2369 OBG img=False
+Q: A 62-year-old man with heart failure awaiting a heart transplant develops severe respiratory distress four hours after receiving two units of whole blood. He is now hypoxemic, tachycardic, and has an increased mean arterial pressure, along with abnormal renal function results and a hemoglobin level of 6 g/dL. Given this presentation, which test should be performed next? 1.	 Chest X-ray 2.	 Brain Natriuretic Peptide (BNP) level 3.	 Absolute Neutrophil Count 4.	 Leucocyte Antibodies 5.	 Platelets
+O: ['4 and 5', '3 and 5', '1 and 2', '2 only']
+A: 0 | EX: The clinical picture suggests a transfusion-related acute lung injury (TRALI). This patient develops severe respiratory distress within 4 hours of blood transfusion, with hypoxemia and tachycardia. Th
+
+=== IDX 2370 OBG img=False
+Q: A 62-year-old chronic smoker presents with breathlessness, bilateral pitting pedal edema, abdominal distension, raised JVP, and a liver palpable 8 cm below the costal margin. Based on his symptoms, which structure marked in the provided image is most likely responsible?
+O: ['1', '2', '3', '4']
+A: 3 | EX: The patient's symptoms pedal edema, abdominal distension (ascites), elevated JVP, and congestive hepatomegaly are the classic signs of right-sided heart failure. The history of chronic smoking suggest
+
+=== IDX 2371 OBG img=False
+Q: What does the yellow-colored tracing on this device in the operating room signify?
+O: ['Capnography', 'Airway Pressure', 'O2 Pressure in Inhaled Air', 'O2 Pressure in Exhaled Air']
+A: 0 | EX: 
+
+=== IDX 2372 OBG img=False
+Q: Which one of the options listed below is classified as a centrally acting opioid antitussive?
+O: ['Ambroxol', 'Diphenoxylate', 'Levopropoxyphene', 'Levorphanol']
+A: 2 | EX: This drug is specifically classified as a centrally acting opioid antitussive. It works by directly suppressing the cough reflex center in the medulla oblongata of the brainstem. It is the levo-isomer
+
+=== IDX 2373 OBG img=True
+Q: Identify the condition shown in the image.
+O: ['Adenoid facies', 'Goldenhar syndrome', 'Horse facies', 'Frog facies']
+A: 0 | EX: The image shows a child with a facial appearance highly characteristic of adenoid facies. This distinct set of facial features develops in children with long-standing nasal obstruction, most commonly 
+
+=== IDX 2374 Paediatrics img=False
+Q: What is the probable diagnosis in a 5-year-old child who presents with unilateral proptosis and has a tumor that tests positive for desmin?
+O: ["Ewing's sarcoma", 'Embryonal rhabdomyosarcoma', 'Leukemia', 'Retinoblastoma']
+A: 1 | EX: Rhabdomyosarcoma is the most common soft tissue sarcoma in children. One of the most common primary sites for this tumor is the head and neck region, including the orbit. An orbital rhabdomyosarcoma t
+
+=== IDX 2375 Paediatrics img=False
+Q: Which of the statements below accurately describes congenital CMV infection?
+O: ['About 20-30% of the infections are symptomatic', 'Triad of SNHL, periventricular calcification, and enamel hypoplasia', 'Most children asymptomatic at birth can develop conductive hearing loss later in life', 'If mother is IgG positive for CMV, the child is unlikely to develop an infection']
+A: 3 | EX: A mother who is CMV IgG positive has had a past infection and developed antibodies. This prior immunity makes transmission to her fetus during pregnancy much less likely. The risk of transmission from
+
+=== IDX 2376 Paediatrics img=False
+Q: As a component of the treatment for a child experiencing severe COVID, which of the options below is administered?
+O: ['Corticosteroids', 'Ivermectin', 'Remdesivir', 'All of the above']
+A: 0 | EX: The management of severe COVID-19 in children, similar to adults, focuses on supportive care and modulating the inflammatory response. Severe COVID-19 and Multisystem Inflammatory Syndrome in Children
+
+=== IDX 2377 Paediatrics img=False
+Q: A child presents with fever, vesicular lesions on the upper and lower limbs including the palms and soles, oral lesions, neck stiffness, and CSF findings showing normal glucose with elevated lymphocytes and protein. What is the most likely diagnosis?
+O: ['Bacterial meningitis with sepsis', 'Coxsackie viral meningitis and Hand Foot Mouth disease', 'Herpes simplex gingivostomatitis and meningoencephalitis', 'Tuberculous meningitis']
+A: 1 | EX: This patient presents with two distinct clinical syndromes that are linked by a common etiology. The presence of vesicular lesions on the hands, feet (including palms and soles), and in the mouth is t
+
+=== IDX 2378 Paediatrics img=False
+Q: What are the factors that can lead to seizures in newborns? 1.	 Hypocalcemia 2.	 Hyponatremia 3.	 Hypomagnesemia 4.	 Hypoglycemia
+O: ['1, 2, 3 only', '1, 2, 3, and 4', '1, 3, 4 only', '2, 4 only']
+A: 1 | EX: Neonatal seizures are a sign of significant underlying central nervous system dysfunction. A major category of causes is acute metabolic disturbances, as the neonatal brain is highly vulnerable to suc
+
+=== IDX 2379 Paediatrics img=False
+Q: At what age does a child reach half of their adult height?
+O: ['12-18 months', '20-24 months', '32-36 months', '40-48 months']
+A: 1 | EX: There is a well-known rule of thumb in pediatrics for predicting a child's final adult height based on their height at an early age. The rule states that a child's height at 2 years of age (24 months)
+
+=== IDX 2380 Paediatrics img=False
+Q: What is the likely diagnosis in a young child who presents with mild, intermittent upper abdominal pain and has the X-ray shown below? Downloaded from www.pdf.tube 545=== MEDINK EXAMINATION PAPER MAY-2021 AAns  EXAMINATION PAPER MAY-2021 The patient has developed a symptomatic postoperative fluid collection (a biloma or abscess) in the subhepatic space following a cholecystectomy, as evidenced by her pain, tachycardia, and leukocytosis. The ultrasound has confirmed a well-defined 5×5 cm collect
+O: ['Veress needle', "Lind's needle", 'Jacob needle', 'Mathew needle']
+A: 0 | EX: The instrument shown in the image is a Veress needle. It is a specialized, spring-loaded needle specifically designed for the initial insufflation of the abdomen (creation of a pneumoperitoneum) at th
+
+=== IDX 2381 Paediatrics img=False
+Q: A 55-year-old woman underwent breast- conserving surgery for a 4 × 3 cm lump in the right upper outer quadrant. She has no axillary lymph node involvement, and mammography showed BIRADS 4b. Histology reveals high– nuclear grade ductal carcinoma in situ (DCIS) with necrosis and a 10 mm clear margin. What should be the next step in her management?
+O: ['Adjuvant radiotherapy', 'Adjuvant chemotherapy', 'Follow up 6 monthly for 2 years and then yearly follow up', 'Trastuzumab therapy']
+A: 0 | EX: The patient has been treated with breast-conserving surgery (lumpectomy) for Ductal Carcinoma in Situ (DCIS). The goal of subsequent treatment is to reduce the risk of local recurrence, which can be e
+
+=== IDX 2382 Paediatrics img=False
+Q: What is the needle placement angle when using the interrupted suturing technique to suture a laceration in the Emergency Room (ER)?
+O: ['60 degrees', '70 degrees', '80 degrees', '90 degrees']
+A: 3 | EX: Proper suturing technique is essential for achieving good wound apposition and cosmetic results while minimizing scarring. When placing a simple interrupted suture, the goal is to evert the wound edge
+
+=== IDX 2383 Paediatrics img=False
+Q: What is the most suitable management strategy for a 50-year-old man who presents with hematuria and is diagnosed with a 2 × 2 cm bladder lesion consistent with low-grade transitional cell carcinoma?
+O: ['Transurethral resection of the tumour', 'Resection with ileal conduit', 'Partial cystectomy with bladder reconstruction', 'Neoadjuvant chemotherapy']
+A: 0 | EX: The patient has a small, low-grade, and presumably non-muscle-invasive bladder cancer (NMIBC), as this accounts for the vast majority of new presentations. The standard and initial procedure for both 
+
+=== IDX 2384 Paediatrics img=False
+Q: Which of the following statements are accurate? 1.	 Due to increasing mammography there occurs over-diagnosis of breast carcinoma 2.	 Colon cancer screening is done by digital rectal examination 3.	 Oral cancer screening is done by visual inspection 4.	 Cervix cancer screening is done by a pap smear
+O: ['2,3,4', '1, 2, 3, 4', '4 only', '1,3,4']
+A: 3 | EX: 1. True. The widespread use of screening mammography has led to an increase in the detection of very early-stage breast cancers, particularly Ductal Carcinoma in Situ (DCIS). It is a subject of ongoin
+
+=== IDX 2385 Paediatrics img=False
+Q: During an appendectomy that begins with a gridiron incision, which anatomical structures does the surgeon cut through? 1.	 External oblique 2.	 Internal oblique 3.	 Transversus abdominis 4.	 Rectus abdominis
+O: ['1,3,4', '2,3,4', '1,2,3', '1,2,4']
+A: 2 | EX: A gridiron incision (or McBurney's incision) is a muscle-splitting incision used for open appendectomy. It is centered over McBurney's point in the right lower quadrant. The layers are opened sequenti
+
+=== IDX 2386 Paediatrics img=False
+Q: Ventilatory support is required if SpO2 becomes less than 90% because:
+O: ['Tissues become vulnerable to hypoxía below 90%', 'Peripheral chemoreceptors become insensitive to hypoxia below 90%', 'Central chemoreceptors become insensitive to hypoxia below 90%', "Patient's capacity to generate adequate tidal volume decreases below 90%"]
+A: 0 | EX: The relationship between oxygen saturation (SpO2) and the partial pressure of oxygen in the arterial blood (PaO2) is described by the oxyhemoglobin dissociation curve. This curve is S-shaped (sigmoida
+
+=== IDX 2387 Surgery img=False
+Q: For a patient who had cough and fever due to COVID-19 but recovered without needing hospitalization, how long should elective surgery be deferred?
+O: ['6 weeks', '8-10 weeks', '12 weeks', '4 weeks']
+A: 0 | EX: Current perioperative guidelines recommend postponing elective surgery after COVID-19 infection to reduce postoperative pulmonary and thrombotic complications. The recommended delay depends on severit
+
+=== IDX 2388 Surgery img=False
+Q: What is the likely diagnosis for a 60-year-old male who, during a laparoscopic cholecystectomy, exhibits a sudden drop in end-tidal carbon dioxide (EtCO2) to 8 mmHg, a reduction in oxygen saturation (SpO2) to 90%, a decrease in blood pressure to 80/50 mmHg, and a peak airway pressure of 18 cm H2O? 1.	 Single bronchus intubation 2.	 Both pneumothorax and single bronchus intubation 3.	 CO2 embolism 4.	 Severe bronchospasm
+O: ['4 only', 'Both 3 and 4', '3 only', '2 only']
+A: 2 | EX: This is a classic presentation of a gas embolism, specifically a carbon dioxide (CO2) embolism, during laparoscopic surgery. The triad of sudden, profound hypotension, a sharp decrease in end-tidal CO
+
+=== IDX 2389 Surgery img=False
+Q: What is the most likely diagnosis for an elderly woman presenting with confusion, thirst, abdominal pain, pallor, and thoracic spine tenderness, whose X-ray shows osteolytic lesions and lab results indicate: 1.	 Hemoglobin (Hb): 6.9 g/dl 2.	 White blood cell count (WBC): 4000/cm3 with a normal differential 3.	 Serum calcium: 13 mg/dl 4.	 Creatinine: 2.3 mg/dl 5.	 Total protein: 9 g/dl 6.	 Albumin: 2.4 g/dl
+O: ['Metastatic breast cancer', 'Multiple myeloma', 'Primary hyperparathyroidism', 'Milk-alkali syndrome']
+A: 1 | EX: This patient presents with the classic CRAB criteria for multiple myeloma, a malignancy of plasma cells. 1. C (Hypercalcemia) : Her serum calcium is high at 13 mg/dL, explaining her confusion and thir
+
+=== IDX 2390 Surgery img=False
+Q: Which of the following is not employed in post- laryngectomy rehabilitation?
+O: ['Tracheo-esophageal prosthesis', 'Esophageal speech', 'Polite yawning', 'Super supraglottic swallow']
+A: 3 | EX: After a total laryngectomy, the patient loses their natural voice box (the larynx) and breathes through a stoma in the neck. Voice rehabilitation is a critical part of their recovery. The three main m
+
+=== IDX 2391 Surgery img=False
+Q: A patient presents to the outpatient clinic with a burn on the right thigh featuring a moist, red, blistered lesion and a sharply defined distal margin. What is the most probable cause of this burn?
+O: ['Electric burn', 'Chemical burn', 'Dry heat', 'Moist heat']
+A: 3 | EX: The description of the burn provides key clues to its etiology. The lesion is damp, red, and blistered, which is characteristic of a partial-thickness burn. The crucial finding is the clear demarcatio
+
+=== IDX 2392 Surgery img=False
+Q: Which of the following observations manifests later in compartment syndrome?
+O: ['Pallor', 'Paralysis', 'Pulselessness', 'Pain on passive stretch']
+A: 1 | EX: Compartment syndrome occurs when increased pressure within a closed fascial compartment compromises circulation and tissue perfusion. The classic clinical features are remembered as the “6 Ps” : Pain,
+
+=== IDX 2393 Surgery img=True
+Q: A pediatrician attempted to obtain a cerebrospinal fluid (CSF) sample from a 6-month-old boy who presented to the emergency department with seizures. While inserting the needle through the indicated area, which anatomical structures might have been inadvertently pierced?
+O: ['Scalp, dura, arachnoid', 'Scalp, epicranium, endocranium, and dura', 'Scalp synchondrosis membrane, dura, arachnoid', 'Pericranium, dura, arachnoid']
+A: 0 | EX: The image indicates the anterior fontanelle, a "soft spot" on an infant's skull. In rare situations where a lumbar puncture is not feasible, a fontanelle tap can be performed to obtain a cerebrospinal
+
+=== IDX 2394 Surgery img=False
+Q: A 3-year-old child is found to have a palpable, movable, kidney-shaped mass on the right side of the abdomen during a bath, with a history of hematuria that resolved on its own two weeks earlier. Which additional investigations should be performed to evaluate this condition? 1.	 CECT 2.	 PET-CT 3.	 24 hour urinary VMA 4.	 FNAC
+O: ['1 and 2', '2 and 4', '1, 2 and 3', '1, 2, 3 and 4']
+A: 2 | EX: A palpable abdominal mass in a 3-year-old child raises immediate suspicion of a pediatric malignancy, with the primary differentials being Wilms' tumor and neuroblastoma. A comprehensive workup is ess
+
+=== IDX 2395 Surgery img=False
+Q: In a 14-month-old child diagnosed with Haemophilus influenzae meningitis, what reason might lead clinicians to change the initial treatment plan from ampicillin to ceftriaxone?
+O: ['Hemophilus alters penicillin-binding protein sites, hence resistant to ampicillin', 'Easier to administer IV ceftriaxone than IV ampicillin', 'Cotrimoxazole is the drug of choice, but the patient is allergic to sulfa drugs', 'Hemophilus produces beta-lactamase, hence resistant to ampicillin']
+A: 3 | EX: This is a duplicate of a previous question. The most prevalent mechanism of resistance to ampicillin in Haemophilus influenzae is the production of the enzyme beta-lactamase. This enzyme effectively i
+
+=== IDX 2396 Orthopaedics img=False
+Q: An elderly woman slipped at home and sustained a Colles fracture, which was treated with a plaster of Paris (POP) cast. What is the correct sequence for performing the reduction?
+O: ['Traction, POP, palmar flexion, ulnar deviation', 'Traction, palmar flexion, ulnar deviation, POP', 'Traction, ulnar deviation, palmar flexion, POP', 'Palmar flexion, ulnar deviation, traction, POP']
+A: 1 | EX: A Colles' fracture is a fracture of the distal radius characterized by dorsal displacement, dorsal angulation, radial shift, and shortening. The closed reduction maneuver is designed to reverse these 
+
+=== IDX 2397 Orthopaedics img=False
+Q: Following a femoral shaft fracture, your consultant advises you to apply tibial traction. Which equipment should you request from the nurse? 1.	 Thomas splint 2.	 K-wire 3.	 Steinmann pin 4.	 Denham's pin 5.	 Bohler's stirrup 6.	 Bohler Braun splint
+O: ['1,2,4', '3,5,6', '3,4,5', '1, 2, 3, 4, 5, 6']
+A: 1 | EX: Applying skeletal traction through the proximal tibia for a femur fracture requires a specific set of orthopedic equipment. First, a rigid pin must be passed through the bone; a Steinmann pin (3) is a
+
+=== IDX 2398 Orthopaedics img=False
+Q: A patient suffers a type IIIa compound fracture of the tibia after a road traffic accident. How should the following external fixators be ranked from the most stable to the least stable? 1.	 Ilizarov fixator Downloaded from www.pdf.tube 548=== page  529 INICET Examination Paper The correct and universally taught method for estimating the proper insertion length of a nasogastric (NG) tube is the NEX measurement. This acronym stands for the path the tube follows from the Tip of the Nose to the Ear
+O: ['Beta-blockers', 'Mannitol', 'Carbonic anhydrase inhibitors', 'Prostaglandin analogs']
+A: 3 | EX: The patient's clinical presentation of eye pain, redness, aqueous flare (protein in the anterior chamber), and keratic precipitates (inflammatory cells on the corneal endothelium) is characteristic of
+
+=== IDX 2399 Orthopaedics img=True
+Q: What is the primary mode of dissemination of retinoblastoma?
+O: ['Optic nerve invasion', 'Hematogenous', 'Direct invasion', 'Lymphatic spread']
+A: 0 | EX: Retinoblastoma, the most common intraocular cancer in children, can spread outside the eye through several pathways. While hematogenous spread (B) to distant sites like bone marrow and direct invasion
+

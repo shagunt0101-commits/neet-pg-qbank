@@ -1,0 +1,965 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="manifest" href="/manifest.json">
+<title>NEET PG + INI-CET — QBank, Tests & Analytics</title>
+<style>
+:root {
+  --bg: #f1f5f9; --panel: #ffffff; --panel2: #e2e8f0; --ink: #1e293b;
+  --muted: #64748b; --accent: #0891b2; --accent2: #0ea5e9; --good: #059669;
+  --bad: #dc2626; --warn: #d97706;
+}
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { font: 15px/1.55 "Segoe UI", system-ui, sans-serif; background: var(--bg); color: var(--ink); min-height: 100vh; }
+.wrap { max-width: 1400px; margin: 0 auto; padding: 14px 12px 90px; }
+h1 { font-size: 1.2rem; color: #fff; }
+.sub { color: var(--muted); font-size: .83rem; margin-bottom: 12px; }
+.card { background: var(--panel); border-radius: 12px; padding: 16px; margin-bottom: 12px; border: 1px solid var(--panel2); }
+.fit-row { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: flex-end; }
+.fit-row > div { display: flex; flex-direction: column; gap: 4px; }
+label { font-size: .68rem; letter-spacing: .08em; color: var(--muted); text-transform: uppercase; }
+select, input, button { font: inherit; border-radius: 6px; border: 1px solid var(--panel2); background: var(--panel2); color: var(--ink); padding: 7px 10px; }
+input { width: 68px; }
+select:focus, input:focus { outline: 2px solid var(--accent); }
+.btn { background: var(--accent); color: #06222a; border: none; font-weight: 700; cursor: pointer; padding: 9px 14px; border-radius: 6px; }
+.btn:hover { background: var(--accent2); }
+.btn.secondary { background: var(--panel2); color: var(--ink); }
+.btn:disabled { opacity: .45; cursor: not-allowed; }
+.btn.small { font-size: .72rem; padding: 4px 9px; }
+.badge { display: inline-block; font-size: .65rem; font-weight: 600; border-radius: 4px; padding: 2px 6px; margin-right: 4px; }
+.b-exam { background: var(--accent); color: #06222a; }
+.b-year { background: var(--warn); color: #3a2a00; }
+.b-sub { background: var(--panel2); color: var(--ink); }
+.b-topic { background: #e0f2fe; color: #075985; }
+.b-qid { background: #f3e8ff; color: #6b21a8; }
+.q-stem { font-size: 1rem; font-weight: 600; margin: 8px 0 12px; line-height: 1.5; }
+.qimg { margin: 10px 0; display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; }
+.qimg img { max-width: 100%; max-height: 320px; border-radius: 8px; border: 1px solid var(--panel2); background: #fff; }
+.qimg.warn { color: var(--warn); font-size: .85rem; font-style: italic; }
+.opts { display: flex; flex-direction: column; gap: 8px; }
+.opt { display: flex; gap: 10px; align-items: flex-start; border: 1px solid var(--panel2); background: var(--panel); border-radius: 8px; padding: 10px 12px; cursor: pointer; }
+.opt:hover { border-color: var(--accent); }
+.opt .key { font-weight: 700; color: var(--accent); min-width: 18px; }
+.opt.correct { border-color: var(--good); background: rgba(5,150,105,.12); }
+.opt.wrong { border-color: var(--bad); background: rgba(220,38,38,.1); }
+.opt.off { opacity: .5; }
+.explain { margin-top: 4px; margin-left: 28px; font-size: .85rem; color: var(--muted); }
+.cbadge { display: inline-block; font-size: .65rem; font-weight: 600; background: rgba(8,145,178,.12); color: var(--accent); border-radius: 4px; padding: 1px 6px; margin-right: 4px; }
+.verdict { font-weight: 700; margin: 10px 0 4px; }
+.verdict.good { color: var(--good); } .verdict.bad { color: var(--bad); }
+.meta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; margin-bottom: 6px; }
+.prog { height: 6px; background: var(--panel2); border-radius: 3px; overflow: hidden; margin: 8px 0 2px; }
+.prog > div { height: 100%; background: var(--accent); transition: width .2s; width: 0; }
+.ctrl { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
+.score-note { color: var(--muted); font-size: .8rem; }
+a { color: var(--accent); }
+.foot { color: var(--muted); font-size: .72rem; margin-top: 20px; }
+.empty { color: var(--warn); }
+
+/* Layout */
+.app-layout { display: flex; gap: 16px; }
+#quizArea { flex: 1; min-width: 0; }
+#navArea { width: 350px; flex-shrink: 0; border-left: 1px solid var(--panel2); padding-left: 12px; }
+.nav-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px; }
+.nav-title { font-weight: 600; font-size: .85rem; }
+.q-nav-list { display: flex; flex-direction: column; gap: 6px; max-height: 55vh; overflow-y: auto; }
+.q-nav-item { display: flex; align-items: center; gap: 8px; padding: 8px 10px; background: var(--panel); border-radius: 8px; border: 1px solid var(--panel2); cursor: pointer; }
+.q-nav-item:hover { border-color: var(--accent); }
+.q-nav-item.current { border-color: var(--accent); background: rgba(8,145,178,.1); }
+.q-nav-item .num { width: 28px; font-weight: 700; color: var(--accent); }
+.q-nav-item .status { width: 10px; height: 10px; border-radius: 50%; flex-shrink: 0; }
+.q-nav-item .status.pending { background: var(--panel2); }
+.q-nav-item .status.correct { background: var(--good); }
+.q-nav-item .status.wrong { background: var(--bad); }
+.q-nav-item .status.marked { background: var(--warn); }
+.q-nav-item .sub { font-size: .7rem; color: var(--muted); flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+/* Tabs */
+.tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 14px; }
+.tab { padding: 9px 16px; border-radius: 8px 8px 0 0; background: var(--panel2); color: var(--muted); border: none; font-weight: 600; cursor: pointer; }
+.tab.active { background: var(--accent); color: #06222a; }
+
+/* Analytics */
+.analytics-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+.subj-card { background: var(--panel); border: 1px solid var(--panel2); border-radius: 10px; padding: 14px; transition: transform .15s, box-shadow .15s; }
+.subj-card:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(15,23,42,.12); }
+.subj-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; padding: 6px 8px; border-radius: 8px 8px 0 0; background: linear-gradient(90deg, rgba(8,145,178,.14), rgba(14,165,233,.08)); }
+.subj-name { font-weight: 600; }
+.subj-score { font-weight: 700; }
+.subj-bar { height: 8px; background: var(--panel2); border-radius: 4px; overflow: hidden; }
+.subj-fill { height: 100%; border-radius: 4px; }
+.subj-stats { display: flex; justify-content: space-between; margin-top: 6px; font-size: .75rem; color: var(--muted); }
+
+/* Topic list (QBank) */
+.topic-list { display: flex; flex-direction: column; gap: 8px; }
+.topic-row { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 10px 12px; background: var(--panel); border: 1px solid var(--panel2); border-radius: 8px; cursor: pointer; }
+.topic-row:hover { border-color: var(--accent); }
+.topic-name { font-weight: 600; font-size: .9rem; }
+.topic-count { color: var(--muted); font-size: .78rem; }
+.subj-head { display: flex; justify-content: space-between; align-items: center; padding: 8px 12px; background: linear-gradient(90deg, rgba(8,145,178,.14), rgba(14,165,233,.08)); border-radius: 8px; margin-bottom: 8px; cursor: pointer; }
+.subj-head:hover { border-color: var(--accent); }
+.subj-head .sname { font-weight: 700; }
+.subj-head .scount { color: var(--muted); font-size: .8rem; }
+
+/* Results table */
+.res-row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; padding: 12px; border: 1px solid var(--panel2); border-radius: 8px; margin-bottom: 8px; background: var(--panel); }
+.res-row:hover { border-color: var(--accent); }
+.res-main { flex: 1; min-width: 200px; }
+.res-name { font-weight: 700; }
+.res-meta { font-size: .78rem; color: var(--muted); }
+.res-score { font-weight: 700; font-size: 1.1rem; }
+.res-score.good { color: var(--good); } .res-score.bad { color: var(--bad); }
+.tag-img { font-size: .68rem; background: rgba(217,119,6,.15); color: var(--warn); padding: 2px 6px; border-radius: 4px; }
+.tag-clin { font-size: .68rem; background: rgba(8,145,178,.12); color: var(--accent); padding: 2px 6px; border-radius: 4px; }
+.chip { display: inline-block; font-size: .75rem; font-weight: 600; border-radius: 14px; padding: 5px 12px; margin: 3px; background: var(--panel2); color: var(--ink); border: 1px solid var(--panel2); cursor: pointer; user-select: none; }
+.chip:hover { border-color: var(--accent); }
+.chip.on { background: var(--accent); color: #06222a; border-color: var(--accent); }
+.chip-list { display: flex; flex-wrap: wrap; gap: 4px; }
+.chip-count { font-size: .7rem; color: var(--muted); margin-left: 4px; }
+
+.view { display: none; }
+.view.active { display: block; }
+
+@media (max-width: 1000px) {
+  .app-layout { flex-direction: column; }
+  #navArea { width: 100%; border-left: none; border-top: 1px solid var(--panel2); padding: 12px 0 0; }
+  .q-nav-list { flex-direction: row; flex-wrap: wrap; max-height: none; }
+  .q-nav-item { flex: 1; min-width: 110px; }
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>NEET&nbsp;PG + INI-CET — QBank, Tests &amp; Analytics</h1>
+  <p class="sub">Practice, tests, bookmarks, results &amp; review. Emphasis on image-based and clinical questions. Data stored locally in your browser.</p>
+
+  <div class="tabs">
+    <button class="tab active" data-v="dash">Dashboard</button>
+    <button class="tab" data-v="qbank">QBank</button>
+    <button class="tab" data-v="custom">Custom Module</button>
+    <button class="tab" data-v="browse">Browse Questions</button>
+    <button class="tab" data-v="tests">Test Series</button>
+    <button class="tab" data-v="results">Results</button>
+    <button class="tab" data-v="marks">Bookmarks</button>
+  </div>
+
+  <!-- DASHBOARD -->
+  <div id="dash" class="view active">
+    <div class="card">
+      <h3 style="margin-bottom:10px;">Practice Overview</h3>
+      <div id="dashStats" class="score-note">Loading…</div>
+    </div>
+    <div class="card"><h3 style="margin-bottom:10px;">Subject Performance</h3><div id="analyticsContent"></div></div>
+  </div>
+
+  <!-- QBANK -->
+  <div id="qbank" class="view">
+    <div class="card">
+      <div class="fit-row">
+        <div><label>Exam</label><select id="qbExam"><option value="">All exams</option><option>NEET PG</option><option>INI-CET</option></select></div>
+        <div><label>Source</label><select id="qbSource"><option value="">All Sources</option><option value="original">Original Bank</option><option value="core_btr">Core BTR PDF</option></select></div>
+        <div><label>Subject</label><select id="qbSubj"><option value="">All Subjects</option></select></div>
+        <div><label>Topic</label><select id="qbTopic"><option value="">All Topics</option></select></div>
+        <div><label>Attempt Status</label><select id="qbAttempt"><option value="all">All</option><option value="unattempted">Unattempted</option><option value="correct">Correct</option><option value="wrong">Wrong</option><option value="skipped">Skipped</option></select></div>
+        <div><label>Image / Clinical focus</label><select id="qbMode" style="width:auto">
+          <option value="all">All questions</option>
+          <option value="img">Image-based only</option>
+          <option value="clin">Clinical vignettes</option>
+          <option value="both">Image + Clinical first</option>
+        </select></div>
+        <div><label>Questions per set</label><input id="qbCount" type="number" value="10" min="1" max="200"></div>
+        <div><button class="btn" id="qbStart">Start QBank set</button></div>
+      </div>
+      <div class="score-note" style="margin-top:8px">Tap a subject to drill into topics.</div>
+    </div>
+    <div class="card"><div id="qbTree"></div></div>
+  </div>
+
+  <!-- CUSTOM MODULE -->
+  <div id="custom" class="view">
+    <div class="card">
+      <h3 style="margin-bottom:10px;">Create Custom Practice Module</h3>
+      <div class="fit-row">
+        <div><label>Module name</label><input id="cmName" type="text" value="My Module" style="width:200px"></div>
+        <div><label>Source</label><select id="cmSource"><option value="">All Sources</option><option value="original">Original Bank</option><option value="core_btr">Core BTR PDF</option></select></div>
+        <div><label>Attempt Status</label><select id="cmAttempt"><option value="all">All</option><option value="unattempted">Unattempted</option><option value="correct">Correct</option><option value="wrong">Wrong</option><option value="skipped">Skipped</option></select></div>
+        <div><label>Image focus</label><select id="cmMode" style="width:auto">
+          <option value="all">All questions</option>
+          <option value="img">Image-based only</option>
+          <option value="clin">Clinical vignettes</option>
+          <option value="both">Image + Clinical first</option>
+        </select></div>
+        <div><label>Questions per set</label><input id="cmCount" type="number" value="10" min="1" max="200"></div>
+        <div><label>Timed</label><select id="cmTimed" style="width:auto"><option value="0">Untimed</option><option value="1">Timed</option></select></div>
+        <div><button class="btn" id="cmStart">Create &amp; Start Module</button></div>
+      </div>
+      <div class="score-note" style="margin-top:10px">Select multiple subjects/topics below to include in this module.</div>
+      <div id="cmChips" class="chips" style="margin-top:10px"></div>
+    </div>
+    <div class="card">
+      <h3 style="margin-bottom:10px;">Subjects <span class="score-note">(click to toggle)</span></h3>
+      <div id="cmSubjList" class="chip-list"></div>
+    </div>
+    <div class="card">
+      <h3 style="margin-bottom:10px;">Topics <span class="score-note">(click to toggle)</span></h3>
+      <div id="cmTopicList" class="chip-list"></div>
+    </div>
+  </div>
+
+  <!-- BROWSE QUESTIONS -->
+  <div id="browse" class="view">
+    <div class="card">
+      <div class="fit-row">
+        <div><label>Source</label><select id="browseSource"><option value="">All Sources</option><option value="original">Original Bank</option><option value="core_btr">Core BTR PDF</option></select></div>
+        <div><label>Subject</label><select id="browseSubj"><option value="">All Subjects</option></select></div>
+        <div><label>Topic</label><select id="browseTopic"><option value="">All Topics</option></select></div>
+        <div><label>Attempt Status</label><select id="browseAttempt"><option value="all">All</option><option value="unattempted">Unattempted</option><option value="correct">Correct</option><option value="wrong">Wrong</option><option value="skipped">Skipped</option></select></div>
+        <div><label>Search</label><input id="browseSearch" type="text" placeholder="Search Q Bank..."></div>
+      </div>
+    </div>
+    <div class="card"><div id="browseList"></div></div>
+  </div>
+
+  <!-- TEST SERIES -->
+  <div id="tests" class="view">
+    <div class="card">
+      <h3 style="margin-bottom:10px;">Create a Test</h3>
+      <div class="fit-row">
+        <div><label>Test name</label><input id="tName" type="text" value="Practice Test 1" style="width:220px"></div>
+        <div><label>Exam</label><select id="tExam"><option value="">All exams</option><option>NEET PG</option><option>INI-CET</option></select></div>
+        <div><label>Subject</label><select id="tSubj"><option value="">All subjects</option></select></div>
+        <div><label>Year</label><select id="tYear"><option value="any">Any year</option></select></div>
+        <div><label>Questions</label><input id="tCount" type="number" value="20" min="1" max="200"></div>
+        <div><label>Timed</label><select id="tTimed" style="width:auto"><option value="0">Untimed</option><option value="1">Timed</option></select></div>
+        <div><button class="btn" id="tCreate">Create Test</button></div>
+      </div>
+    </div>
+      <div class="card"><h3 style="margin-bottom:10px;">Preset — NEET PG 2026 Full Mock</h3>
+      <div class="score-note">200 questions • 180 min • blueprint-matched, authored for NEET PG 2026 difficulty. Questions fixed per paper.</div>
+      <div style="margin-top:10px"><button class="btn" id="t2026Start">Attempt NEET PG 2026 Mock</button></div>
+    </div>
+    <div class="card"><h3 style="margin-bottom:10px;">My Tests</h3><div id="testList"></div></div>
+  </div>
+
+  <!-- RESULTS -->
+  <div id="results" class="view">
+    <div class="card"><h3 style="margin-bottom:10px;">Saved Results</h3><div id="resultList"></div></div>
+  </div>
+
+  <!-- BOOKMARKS -->
+  <div id="marks" class="view">
+    <div class="card">
+      <div class="fit-row">
+        <div><label>Bookmarked questions</label><span id="markCount" class="score-note"></span></div>
+        <div><button class="btn small secondary" id="markAll">Start quiz on bookmarks</button></div>
+      </div>
+      <div id="markList" style="margin-top:10px"></div>
+    </div>
+  </div>
+
+  <!-- QUIZ -->
+  <div id="quiz" class="view">
+    <div class="app-layout">
+      <div id="quizArea"></div>
+      <div id="navArea">
+        <div class="nav-header">
+          <span class="nav-title" id="quizTitle">Quiz</span>
+          <span id="quizTimer" class="score-note"></span>
+        </div>
+        <div id="qList" class="q-nav-list"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- REVIEW -->
+  <div id="review" class="view">
+    <div class="card">
+      <div class="nav-header"><span class="nav-title" id="reviewTitle">Review</span><button class="btn secondary small" id="reviewBack">Back</button></div>
+      <div id="reviewArea"></div>
+    </div>
+  </div>
+
+  <div class="foot">All NEET&nbsp;PG & INI-CET questions circulating publicly are candidate recalls (NBEMS & AIIMS never publish papers). This bank is a reconstructed practice surface — answers are independently verified one-liners with explanations. Personal offline practice use only.</div>
+</div>
+
+<script src="/questions/bank.js?v=7"></script>
+<script src="/questions/test_2026.js?v=1"></script>
+<script src="/questions/core_btr.js?v=2"></script>
+<script>
+"use strict";
+
+/* ---------------- State ---------------- */
+var SUBJECTS = [
+  "Anatomy", "Biochemistry", "Physiology", "Pathology", "Pharmacology", "Microbiology",
+  "Forensic Medicine", "Forensic Medicine & Toxicology", "PSM", "Preventive & Social Medicine",
+  "ENT", "Ophthalmology", "Medicine", "Surgery", "OBG", "Obstetrics & Gynaecology",
+  "Paediatrics", "Pediatrics", "Psychiatry", "Anaesthesia", "Anesthesia", "Radiology",
+  "Orthopaedics", "Orthopedics", "Dermatology",
+  "Cardiovascular System", "Endocrine", "GI & Hepatobiliary System", "General Pathology",
+  "General Pharmacology", "General Physiology", "Hematology", "Immunology", "Neurology",
+  "Renal & Electrolytes", "Respiratory System", "Rheumatology"
+];
+var BANK = (window.QUESTIONS || []).concat((window.CORE_BTR || []).map(function (q) {
+  return { ...q, s: q.subj, tp: q.topic, e: q.e || 'NEET PG', y: q.y || '2024', src: q.src || 'core_btr' };
+}));
+var QUIZ = { mode: null, name: "", list: [], cur: 0, score: 0, wrong: 0, answered: [], marks: [], startT: 0, timed: false, timerId: null, tLeft: 0 };
+var PAPER = (window.TEST_2026 || []);
+var QUIZ_TIME = { test: 10, mock: 180 }; /* minutes; 'mock' = preset paper */
+var REVIEW = null;
+
+function $(id) { return document.getElementById(id); }
+function lsGet(k) { try { return JSON.parse(localStorage.getItem(k) || 'null'); } catch (e) { return null; } }
+function lsSet(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+
+/* ---------------- Topic index ---------------- */
+function topicOf(q) { return (q && q.tp) ? q.tp : "General"; }
+
+function subjTopics(subj) {
+  var m = {};
+  BANK.forEach(function (q, i) {
+    if (subj && q.s !== subj) return;
+    var t = topicOf(q);
+    if (!m[t]) m[t] = [];
+    m[t].push(i);
+  });
+  return m;
+}
+
+/* ---------------- Navigation ---------------- */
+function showView(v) {
+  document.querySelectorAll('.view').forEach(function (el) { el.classList.toggle('active', el.id === v); });
+  document.querySelectorAll('.tab').forEach(function (el) { el.classList.toggle('active', el.dataset.v === v); });
+  if (v === 'dash') renderDash();
+  if (v === 'qbank') renderTree();
+  if (v === 'tests') renderTestList();
+  if (v === 'results') renderResultList();
+  if (v === 'marks') renderMarks();
+}
+document.querySelectorAll('.tab').forEach(function (el) {
+  el.addEventListener('click', function () { showView(el.dataset.v); });
+});
+
+/* ---------------- Dashboard ---------------- */
+function renderDash() {
+  var hist = lsGet('neet_hist') || {};
+  var res = lsGet('neet_results') || [];
+  var n = Object.keys(hist).length;
+  var att = 0, corr = 0;
+  for (var k in hist) { att++; if (hist[k].correct) corr++; }
+  var pct = att ? Math.round(corr / att * 100) : 0;
+  $('dashStats').innerHTML = 'Questions attempted: <b>' + n + '</b> &nbsp;•&nbsp; Correct: <b>' + corr + '</b> (' + pct + '%) &nbsp;•&nbsp; Tests taken: <b>' + res.length + '</b> &nbsp;•&nbsp; Bookmarks: <b>' + (Object.keys(lsGet('neet_marks') || {}).length) + '</b>';
+  buildAnalytics();
+}
+
+function buildAnalytics() {
+  var hist = lsGet('neet_hist') || {};
+  if (!Object.keys(hist).length) {
+    $('analyticsContent').innerHTML = '<div class="empty">No practice data yet. Start from QBank or Test Series.</div>';
+    return;
+  }
+  var subj = {};
+  for (var k in hist) {
+    var it = hist[k];
+    if (!subj[it.s]) subj[it.s] = { c: 0, t: 0 };
+    subj[it.s].t++; if (it.correct) subj[it.s].c++;
+  }
+  var cards = Object.keys(subj).map(function (s) {
+    var d = subj[s];
+    var p = d.t ? Math.round(d.c / d.t * 100) : 0;
+    var col = p >= 70 ? 'var(--good)' : p >= 40 ? 'var(--warn)' : 'var(--bad)';
+    return '<div class="subj-card"><div class="subj-header"><span class="subj-name">' + s + '</span><span class="subj-score" style="color:' + col + '">' + p + '%</span></div>' +
+      '<div class="subj-bar"><div class="subj-fill" style="width:' + p + '%;background:' + col + '"></div></div>' +
+      '<div class="subj-stats"><span>' + d.c + '/' + d.t + ' correct</span></div></div>';
+  }).join('');
+  $('analyticsContent').innerHTML = '<div class="analytics-grid">' + cards + '</div>';
+}
+
+/* ---------------- QBank ---------------- */
+function getAttemptStatus(i) {
+  var hist = lsGet('neet_hist') || {};
+  var key = BANK[i].q.substring(0, 50);
+  var h = hist[key];
+  if (!h) return 'unattempted';
+  if (h.correct === true) return 'correct';
+  if (h.correct === false) return 'wrong';
+  return 'skipped';
+}
+
+function renderTree() {
+  var mode = $('qbMode').value;
+  var srcFilter = $('qbSource').value;
+  var subjFilter = $('qbSubj').value;
+  var topicFilter = $('qbTopic').value;
+  var attemptFilter = $('qbAttempt').value;
+  var counts = {};
+  var idxBySubj = {};
+  var totalCount = 0;
+  BANK.forEach(function (q, i) {
+    if (srcFilter) {
+      var qsrc = q.src || 'original';
+      if (qsrc !== srcFilter) return;
+    }
+    if (subjFilter && q.s !== subjFilter) return;
+    if (topicFilter && topicOf(q) !== topicFilter) return;
+    if (attemptFilter !== 'all') {
+      var status = getAttemptStatus(i);
+      if (attemptFilter === 'unattempted' && status !== 'unattempted') return;
+      if (attemptFilter === 'correct' && status !== 'correct') return;
+      if (attemptFilter === 'wrong' && status !== 'wrong') return;
+      if (attemptFilter === 'skipped' && status !== 'skipped') return;
+    }
+    totalCount++;
+    if (!idxBySubj[q.s]) idxBySubj[q.s] = [];
+    idxBySubj[q.s].push(i);
+  });
+  var html = '<div class="score-note" style="margin-bottom:8px">Showing ' + totalCount + ' questions</div>';
+  Object.keys(idxBySubj).sort(function (a, b) { return SUBJECTS.indexOf(a) - SUBJECTS.indexOf(b); }).forEach(function (s) {
+    if (!SUBJECTS.includes(s)) return;
+    var ids = idxBySubj[s];
+    var topics = {};
+    ids.forEach(function (i) {
+      var t = topicOf(BANK[i]);
+      if (!topics[t]) topics[t] = [];
+      topics[t].push(i);
+    });
+    html += '<div class="subj-head" data-s="' + s + '"><span class="sname">' + s + '</span><span class="scount">' + ids.length + ' Qs</span></div>';
+    html += '<div class="topic-list" data-subj="' + s + '" style="margin-bottom:14px">';
+    Object.keys(topics).forEach(function (t) {
+      html += '<div class="topic-row" data-s="' + s + '" data-t="' + t + '"><span class="topic-name">' + t + '</span><span class="topic-count">' + topics[t].length + ' Qs</span></div>';
+    });
+    html += '</div>';
+  });
+  $('qbTree').innerHTML = html;
+  $('qbTree').querySelectorAll('.topic-row').forEach(function (el) {
+    el.addEventListener('click', function () {
+      startQuiz('qbank', '', { s: el.dataset.s, t: el.dataset.t, src: $('qbSource').value, mode: $('qbMode').value, n: parseInt($('qbCount').value, 10) || 10 });
+    });
+  });
+}
+
+function poolFor(sel) {
+  var pool = [];
+  var subjFilter = sel.multiS && sel.multiS.length ? sel.multiS : (sel.s ? [sel.s] : null);
+  var topicFilter = sel.multiT && sel.multiT.length ? sel.multiT : (sel.t ? [sel.t] : null);
+  BANK.forEach(function (q, i) {
+    if (sel.exam && q.e !== sel.exam) return;
+    if (subjFilter && subjFilter.indexOf(q.s) === -1) return;
+    if (topicFilter && topicFilter.indexOf(topicOf(q)) === -1) return;
+    var qsrc = q.src || 'original';
+    if (sel.src && qsrc !== sel.src) return;
+    if (sel.y && sel.y !== 'any' && q.y !== sel.y) return;
+    if (sel.attempt) {
+      var status = getAttemptStatus(i);
+      if (sel.attempt === 'unattempted' && status !== 'unattempted') return;
+      if (sel.attempt === 'correct' && status !== 'correct') return;
+      if (sel.attempt === 'wrong' && status !== 'wrong') return;
+      if (sel.attempt === 'skipped' && status !== 'skipped') return;
+    }
+    if (sel.onlyMarked) { if (!(lsGet('neet_marks') || {})[i]) return; }
+    pool.push(i);
+  });
+  if (sel.mode === 'img') pool = pool.filter(function (i) { return BANK[i].img; });
+  if (sel.mode === 'clin') pool = pool.filter(function (i) { return isClin(BANK[i]); });
+  if (sel.mode === 'both') pool.sort(function (a, b) { return rankQ(BANK[b]) - rankQ(BANK[a]); });
+  return pool;
+}
+function isClin(q) { return /(\d+[-–]\s*year|years old|\bman\b|\bwoman\b|patient presents|presents with)/i.test(q.q || ''); }
+function rankQ(q) { return (q.img ? 3 : 0) + (isClin(q) ? 2 : 0); }
+
+/* ---------------- Browse Questions ---------------- */
+function renderBrowse() {
+  var srcFilter = $('browseSource').value;
+  var subjFilter = $('browseSubj').value;
+  var topicFilter = $('browseTopic').value;
+  var attemptFilter = $('browseAttempt').value;
+  var searchText = ($('browseSearch').value || '').toLowerCase();
+  var html = '<div class="q-nav-list">';
+  var count = 0;
+  BANK.forEach(function (q, i) {
+    if (srcFilter) {
+      var qsrc = q.src || 'original';
+      if (qsrc !== srcFilter) return;
+    }
+    if (subjFilter && q.s !== subjFilter) return;
+    if (topicFilter && topicOf(q) !== topicFilter) return;
+    if (attemptFilter !== 'all') {
+      var status = getAttemptStatus(i);
+      if (attemptFilter === 'unattempted' && status !== 'unattempted') return;
+      if (attemptFilter === 'correct' && status !== 'correct') return;
+      if (attemptFilter === 'wrong' && status !== 'wrong') return;
+      if (attemptFilter === 'skipped' && status !== 'skipped') return;
+    }
+    if (searchText && !(q.q.toLowerCase().includes(searchText) || q.s.toLowerCase().includes(searchText) || topicOf(q).toLowerCase().includes(searchText))) return;
+    count++;
+    var status = getAttemptStatus(i);
+    var statusCls = status === 'correct' ? 'correct' : status === 'wrong' ? 'wrong' : status === 'skipped' ? 'marked' : 'pending';
+    html += '<div class="q-nav-item" data-idx="' + i + '">' +
+      '<span class="num" style="width:auto;min-width:40px">' + (i + 1) + '</span>' +
+      '<span class="status ' + statusCls + '"></span>' +
+      '<span class="sub" style="flex:1;min-width:0">' + q.s + ' - ' + topicOf(q) + '</span>' +
+      '</div>';
+  });
+  html += '</div>';
+  $('browseList').innerHTML = '<div class="score-note" style="margin-bottom:8px">Showing ' + count + ' questions</div>' + html;
+  $('browseList').querySelectorAll('.q-nav-item').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var idx = parseInt(this.dataset.idx, 10);
+      startQuiz('qbank', 'Browse - ' + BANK[idx].s, { s: BANK[idx].s, t: topicOf(BANK[idx]), src: $('browseSource').value, n: 1 });
+    });
+  });
+}
+
+function populateBrowseDropdowns() {
+  var sources = ['original', 'core_btr'];
+  var subjSet = new Set();
+  var topicSet = new Set();
+  BANK.forEach(function (q) {
+    subjSet.add(q.s);
+    topicSet.add(topicOf(q));
+  });
+  var subjOpts = Array.from(subjSet).sort(function (a, b) { return SUBJECTS.indexOf(a) - SUBJECTS.indexOf(b); });
+  var topicOpts = Array.from(topicSet).sort();
+  var addOpts = function (sel, opts) {
+    sel.innerHTML = '<option value="">All</option>' + opts.map(function (o) { return '<option value="' + o + '">' + o + '</option>'; }).join('');
+  };
+  addOpts($('qbSubj'), subjOpts);
+  addOpts($('qbTopic'), topicOpts);
+  addOpts($('browseSubj'), subjOpts);
+  addOpts($('browseTopic'), topicOpts);
+}
+
+function filterBrowseTopics() {
+  var subjFilter = $('qbSubj').value;
+  var topicFilter = $('qbTopic').value;
+  var html = '<option value="">All Topics</option>';
+  var topicSet = new Set();
+  BANK.forEach(function (q) {
+    if (subjFilter && q.s !== subjFilter) return;
+    topicSet.add(topicOf(q));
+  });
+  Array.from(topicSet).sort().forEach(function (t) {
+    html += '<option value="' + t + '">' + t + '</option>';
+  });
+  $('qbTopic').innerHTML = html;
+  if (topicFilter) $('qbTopic').value = topicFilter;
+}
+
+function filterBrowseTopics2() {
+  var subjFilter = $('browseSubj').value;
+  var topicFilter = $('browseTopic').value;
+  var html = '<option value="">All Topics</option>';
+  var topicSet = new Set();
+  BANK.forEach(function (q) {
+    if (subjFilter && q.s !== subjFilter) return;
+    topicSet.add(topicOf(q));
+  });
+  Array.from(topicSet).sort().forEach(function (t) {
+    html += '<option value="' + t + '">' + t + '</option>';
+  });
+  $('browseTopic').innerHTML = html;
+  if (topicFilter) $('browseTopic').value = topicFilter;
+}
+
+/* ---------------- Custom Module ---------------- */
+var CM = { subjs: {}, topics: {} };
+
+function cmAllSubjects() {
+  var s = new Set();
+  BANK.forEach(function (q) { s.add(q.s); });
+  return Array.from(s).sort(function (a, b) { return SUBJECTS.indexOf(a) - SUBJECTS.indexOf(b); });
+}
+function cmTopicsForSubjs() {
+  var t = new Set();
+  var src = $('cmSource').value;
+  BANK.forEach(function (q) {
+    if (src && (q.src || 'original') !== src) return;
+    if (CM.subjs[q.s] || Object.keys(CM.subjs).length === 0) t.add(topicOf(q));
+  });
+  return Array.from(t).sort();
+}
+function renderCM() {
+  var subjHtml = cmAllSubjects().map(function (s) {
+    return '<span class="chip' + (CM.subjs[s] ? ' on' : '') + '" data-s="' + s + '">' + s + '</span>';
+  }).join('');
+  $('cmSubjList').innerHTML = subjHtml;
+  renderCMTopics();
+  $('cmSubjList').querySelectorAll('.chip').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var s = el.dataset.s;
+      if (CM.subjs[s]) delete CM.subjs[s]; else CM.subjs[s] = true;
+      CM.topics = {};
+      renderCM();
+    });
+  });
+}
+function renderCMTopics() {
+  var topicHtml = cmTopicsForSubjs().map(function (t) {
+    return '<span class="chip' + (CM.topics[t] ? ' on' : '') + '" data-t="' + t + '">' + t + '</span>';
+  }).join('');
+  $('cmTopicList').innerHTML = topicHtml;
+  $('cmTopicList').querySelectorAll('.chip').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var t = el.dataset.t;
+      if (CM.topics[t]) delete CM.topics[t]; else CM.topics[t] = true;
+      renderCMTopics();
+      renderCMChips();
+    });
+  });
+  renderCMChips();
+}
+function renderCMChips() {
+  var n = Object.keys(CM.subjs).length + Object.keys(CM.topics).length;
+  $('cmChips').innerHTML = n ? 'Selected: <span class="score-note">' + Object.keys(CM.subjs).join(', ') +
+    (Object.keys(CM.topics).length ? (Object.keys(CM.subjs).length ? ' • ' : '') + Object.keys(CM.topics).join(', ') : '') +
+    '</span>' : 'No selection yet — click subjects/topics to build your module.';
+}
+$('cmSource').addEventListener('change', function () { CM.topics = {}; renderCM(); });
+$('cmStart').addEventListener('click', function () {
+  var sel = { src: $('cmSource').value, mode: $('cmMode').value, n: parseInt($('cmCount').value, 10) || 10, timed: $('cmTimed').value === '1' };
+  sel.multiS = Object.keys(CM.subjs);
+  sel.multiT = Object.keys(CM.topics);
+  var name = $('cmName').value.trim() || 'My Module';
+  startQuiz('qbank', 'Custom: ' + name, sel);
+});
+
+/* ---------------- Quiz engine ---------------- */
+function startQuiz(mode, name, sel) {
+  var pool;
+  if (mode === 'mock') {
+    pool = PAPER.map(function (_, i) { return 'p' + i; });
+  } else {
+    pool = poolFor(sel);
+    if (!pool.length) { alert('No questions match.'); return; }
+    if (sel.n && sel.n < pool.length) pool = shuffle(pool).slice(0, sel.n);
+  }
+  QUIZ = { mode: mode, name: name, list: pool, cur: 0, score: 0, wrong: 0, answered: {}, marks: {}, startT: Date.now(), timed: mode === 'mock' || !!sel.timed, timerId: null, tLeft: 0 };
+  if (QUIZ.timed) QUIZ.tLeft = (mode === 'mock' ? QUIZ_TIME.mock : QUIZ_TIME.test) * 60;
+  $('quizTitle').textContent = name || (mode === 'marks' ? 'Bookmarked Quiz' : 'QBank Set');
+  showView('quiz');
+  renderQuestion();
+  if (QUIZ.timed) { QUIZ.timerId = setInterval(tickTimer, 1000); showTimer(); }
+  else $('quizTimer').textContent = '';
+}
+
+function showTimer() {
+  var h = Math.floor(QUIZ.tLeft / 3600), m = Math.floor((QUIZ.tLeft % 3600) / 60), s = QUIZ.tLeft % 60;
+  $('quizTimer').textContent = (h ? h + ':' + ('0' + m).slice(-2) : m) + ':' + ('0' + s).slice(-2);
+  if (QUIZ.tLeft <= 300) $('quizTimer').style.color = 'var(--bad)';
+}
+function tickTimer() {
+  if (--QUIZ.tLeft <= 0) { QUIZ.tLeft = 0; clearInterval(QUIZ.timerId); QUIZ.timerId = null; finish(); return; }
+  showTimer();
+}
+
+function shuffle(arr) {
+  var a = arr.slice();
+  for (var i = a.length - 1; i > 0; i--) { var j = Math.floor(Math.random() * (i + 1)); var t = a[i]; a[i] = a[j]; a[j] = t; }
+  return a;
+}
+
+function qAt(ix) { return (typeof ix === 'string' && ix.charAt(0) === 'p') ? PAPER[parseInt(ix.slice(1), 10)] : BANK[ix]; }
+
+function renderQuestion() {
+  var i = QUIZ.cur, q = qAt(QUIZ.list[i]);
+  var prev = QUIZ.answered[i];
+  var isTest = QUIZ.mode === 'mock';
+  quizArea.innerHTML = [
+    '<div class="card">',
+    '<div class="meta">',
+    isTest ? '' :
+    '<span class="badge b-qid">' + (q.qid || ('q' + i)) + '</span>' +
+    '<span class="badge b-exam">' + q.e + '</span>' +
+    '<span class="badge b-year">' + q.y + '</span>' +
+    '<span class="badge b-sub">' + q.s + '</span>' +
+    '<span class="badge b-topic">' + topicOf(q) + '</span>' +
+    (q.img ? '<span class="tag-img">IMAGE</span>' : '') +
+    (isClin(q) ? '<span class="tag-clin">CLINICAL</span>' : ''),
+    '<span class="score-note">Q ' + (i + 1) + ' / ' + QUIZ.list.length + '</span>',
+    '</div>',
+    '<div class="q-stem">' + q.q + '</div>',
+    (q.imgdata ? '<div class="qimg">' + q.imgdata.map(function (d) { return '<img src="data:image/' + (d[0] === 'U' ? 'webp' : 'jpeg') + ';base64,' + d + '" alt="question image">'; }).join('') + '</div>' : (q.img ? '<div class="qimg warn">[Image not available]</div>' : '')),
+    '<div class="opts">',
+    q.o.map(function (op, k) {
+      var cls = '';
+      if (prev !== undefined) cls = (k === q.a ? ' correct' : (k === prev ? ' wrong' : ' off'));
+      return '<div class="opt' + cls + '" data-k="' + k + '"><span class="key">' + "ABCD"[k] + '</span><span>' + op + '</span></div>';
+    }).join(''),
+    '</div>',
+    '<div id="resultArea">' + (prev !== undefined ? '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + q.ex + '</div>' : '') + '</div>',
+    '<div class="ctrl">',
+    '<button class="btn secondary" id="markBtn">' + (QUIZ.marks[i] ? '★ Bookmarked' : '☆ Bookmark') + '</button>',
+    '<button class="btn secondary" id="nxtBtn"' + (prev === undefined ? ' disabled' : '') + '>Next &rarr;</button>',
+    '</div>',
+    '</div>'
+  ].join("");
+  quizArea.querySelectorAll('.opt').forEach(function (el) {
+    el.addEventListener('click', function () { grade(el, q, i); });
+  });
+  $('markBtn').addEventListener('click', function () { toggleMark(i); });
+  $('nxtBtn').addEventListener('click', next);
+  renderNav();
+  updateBar();
+}
+
+function grade(el, q, i) {
+  if (QUIZ.answered[i] !== undefined) return;
+  var k = parseInt(el.dataset.k, 10);
+  var correct = k === q.a;
+  QUIZ.answered[i] = k;
+  var all = quizArea.querySelectorAll('.opt');
+  all.forEach(function (o) { o.style.pointerEvents = 'none'; });
+  all.forEach(function (o, idx) {
+    if (idx === q.a) o.classList.add('correct');
+    else if (idx === k) o.classList.add('wrong');
+    else o.classList.add('off');
+  });
+  if (correct) QUIZ.score++; else QUIZ.wrong++;
+  var hist = lsGet('neet_hist') || {};
+  var key = q.q.substring(0, 50);
+  if (QUIZ.mode !== 'mock') { hist[key] = { s: q.s, t: topicOf(q), correct: correct }; lsSet('neet_hist', hist); }
+  $('resultArea').innerHTML = '<div class="verdict ' + (correct ? 'good' : 'bad') + '">' + (correct ? 'Correct ✓' : 'Wrong ✗') + '</div>' +
+    '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + q.ex + '</div>';
+  $('nxtBtn').disabled = false;
+  renderNav();
+  updateBar();
+}
+
+function toggleMark(i) {
+  var marks = lsGet('neet_marks') || {};
+  var q = qAt(QUIZ.list[i]);
+  var key = QUIZ.list[i];
+  if (marks[key]) delete marks[key];
+  else marks[key] = { s: q.s, t: topicOf(q), e: q.e, y: q.y };
+  lsSet('neet_marks', marks);
+  QUIZ.marks[i] = !!marks[key];
+  $('markBtn').textContent = QUIZ.marks[i] ? '★ Bookmarked' : '☆ Bookmark';
+}
+
+function next() {
+  if (QUIZ.cur + 1 < QUIZ.list.length) { QUIZ.cur++; renderQuestion(); }
+  else finish();
+}
+
+function finish() {
+  if (QUIZ.timerId) { clearInterval(QUIZ.timerId); QUIZ.timerId = null; $('quizTimer').textContent = ''; }
+  var total = QUIZ.list.length;
+  var pct = total ? Math.round((QUIZ.score / total) * 100) : 0;
+  var name = QUIZ.name || (QUIZ.mode === 'marks' ? 'Bookmarked Quiz' : 'QBank Set');
+  var res = {
+    id: Date.now(), name: name, mode: QUIZ.mode, t: new Date().toLocaleString(),
+    score: QUIZ.score, wrong: QUIZ.wrong, unans: total - QUIZ.score - QUIZ.wrong,
+    total: total, pct: pct, list: QUIZ.list.slice(), ans: Object.assign({}, QUIZ.answered),
+    secs: Math.round((Date.now() - QUIZ.startT) / 1000)
+  };
+  var results = lsGet('neet_results') || [];
+  results.unshift(res);
+  lsSet('neet_results', results);
+  quizArea.innerHTML = '<div class="card"><div class="q-stem">Result saved — ' + name + '</div>' +
+    '<div class="score-note"><b>' + QUIZ.score + '/' + total + '</b> correct (' + pct + '%) &nbsp;•&nbsp; ' + QUIZ.wrong + ' wrong &nbsp;•&nbsp; ' + res.unans + ' unanswered</div>' +
+    '<div class="ctrl"><button class="btn" id="reviewBtn">Review Questions</button>' +
+    '<button class="btn secondary" id="dashBtn">Dashboard</button></div></div>';
+  $('reviewBtn').addEventListener('click', function () { openReview(res); });
+  $('dashBtn').addEventListener('click', function () { showView('dash'); });
+  renderNav();
+  updateBar();
+}
+
+function renderNav() {
+  qList.innerHTML = QUIZ.list.map(function (idx, i) {
+    var q = qAt(idx);
+    var h = QUIZ.answered[i];
+    var cls = h === undefined ? 'pending' : (h === q.a ? 'correct' : 'wrong');
+    return '<div class="q-nav-item ' + (i === QUIZ.cur ? 'current' : '') + '" data-idx="' + i + '">' +
+      '<span class="num">' + (i + 1) + '</span>' +
+      '<span class="status ' + cls + '"></span>' +
+      (QUIZ.mode === 'mock' ? '' : '<span class="sub">' + q.s + '</span>') + '</div>';
+  }).join('');
+  qList.querySelectorAll('.q-nav-item').forEach(function (el) {
+    el.addEventListener('click', function () {
+      QUIZ.cur = parseInt(this.dataset.idx, 10);
+      renderQuestion();
+    });
+  });
+}
+
+function updateBar() {}
+
+/* ---------------- Review ---------------- */
+function openReview(res) {
+  REVIEW = res;
+  showView('review');
+  $('reviewTitle').textContent = 'Review — ' + res.name + ' (' + res.score + '/' + res.total + ')';
+  reviewArea.innerHTML = res.list.map(function (idx, i) {
+    var q = qAt(idx);
+    var my = res.ans[i];
+    var verdict = my === undefined ? '<span class="tag-clin">Unanswered</span>' : (my === q.a ? '<span class="cbadge">Correct</span>' : '<span class="tag-img">Wrong</span>');
+    var optHtml = q.o.map(function (op, k) {
+      var cls = '';
+      if (my !== undefined) cls = (k === q.a ? ' correct' : (k === my ? ' wrong' : ' off'));
+      return '<div class="opt' + cls + '"><span class="key">' + "ABCD"[k] + '</span><span>' + op + '</span></div>';
+    }).join('');
+    return '<div class="card" style="margin-bottom:10px">' +
+      '<div class="meta">' + (res.mode === 'mock' ? '' : '<span class="badge b-qid">' + (q.qid || ('q' + idx)) + '</span><span class="badge b-exam">' + q.e + '</span><span class="badge b-year">' + q.y + '</span><span class="badge b-sub">' + q.s + '</span><span class="badge b-topic">' + topicOf(q) + '</span>') + verdict + '</div>' +
+      '<div class="q-stem">Q' + (i + 1) + '. ' + q.q + '</div>' +
+      (q.imgdata ? '<div class="qimg">' + q.imgdata.map(function (d) { return '<img src="data:image/' + (d[0] === 'U' ? 'webp' : 'jpeg') + ';base64,' + d + '" alt="question image">'; }).join('') + '</div>' : '') +
+      '<div class="opts">' + optHtml + '</div>' +
+      '<div class="explain" style="margin-left:0;margin-top:8px"><span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div>' + q.ex + '</div></div></div>';
+  }).join('');
+}
+$('reviewBack').addEventListener('click', function () { showView('results'); });
+
+/* ---------------- Test Series ---------------- */
+function renderTestList() {
+  var tests = lsGet('neet_tests') || [];
+  var html = tests.length ? '' : '<div class="empty">No tests yet. Create one above.</div>';
+  tests.forEach(function (t, i) {
+    html += '<div class="res-row"><div class="res-main"><div class="res-name">' + t.name + '</div>' +
+      '<div class="res-meta">' + t.n + ' Qs' + (t.s ? ' • ' + t.s : '') + (t.y !== 'any' ? ' • ' + t.y : '') + (t.timed ? ' • Timed' : ' • Untimed') + '</div></div>' +
+      '<button class="btn small" data-i="' + i + '">Attempt</button><button class="btn small secondary" data-d="' + i + '">Delete</button></div>';
+  });
+  $('testList').innerHTML = html;
+  $('testList').querySelectorAll('button[data-i]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var t = (lsGet('neet_tests') || [])[parseInt(b.dataset.i, 10)];
+      startQuiz('test', t.name, { exam: t.e, s: t.s, y: t.y, n: t.n, timed: !!t.timed });
+    });
+  });
+  $('testList').querySelectorAll('button[data-d]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var tests = lsGet('neet_tests') || [];
+      tests.splice(parseInt(b.dataset.d, 10), 1);
+      lsSet('neet_tests', tests);
+      renderTestList();
+    });
+  });
+}
+
+function renderResultList() {
+  var res = lsGet('neet_results') || [];
+  var html = res.length ? '' : '<div class="empty">No saved results yet.</div>';
+  res.forEach(function (r, i) {
+    var cls = r.pct >= 60 ? 'good' : 'bad';
+    html += '<div class="res-row"><div class="res-main"><div class="res-name">' + r.name + '</div>' +
+      '<div class="res-meta">' + r.t + ' • ' + r.mode + ' • ' + (r.secs ? Math.floor(r.secs / 60) + ' min' : '') + '</div></div>' +
+      '<span class="res-score ' + cls + '">' + r.pct + '%</span>' +
+      '<span class="score-note">' + r.score + '/' + r.total + ' • ' + r.wrong + ' wrong • ' + r.unans + ' unans</span>' +
+      '<button class="btn small" data-r="' + i + '">Review</button><button class="btn small secondary" data-rd="' + i + '">Del</button></div>';
+  });
+  $('resultList').innerHTML = html;
+  $('resultList').querySelectorAll('button[data-r]').forEach(function (b) {
+    b.addEventListener('click', function () { openReview((lsGet('neet_results') || [])[parseInt(b.dataset.r, 10)]); });
+  });
+  $('resultList').querySelectorAll('button[data-rd]').forEach(function (b) {
+    b.addEventListener('click', function () {
+      var res = lsGet('neet_results') || [];
+      res.splice(parseInt(b.dataset.rd, 10), 1);
+      lsSet('neet_results', res);
+      renderResultList();
+    });
+  });
+}
+
+/* ---------------- Bookmarks ---------------- */
+function renderMarks() {
+  var marks = lsGet('neet_marks') || {};
+  var keys = Object.keys(marks);
+  $('markCount').textContent = keys.length ? ' (' + keys.length + ' questions)' : '';
+  if (!keys.length) { $('markList').innerHTML = '<div class="empty">No bookmarked questions. Use ☆ Bookmark in any quiz.</div>'; return; }
+  var html = '';
+  keys.forEach(function (k) {
+    var q = qAt(k);
+    if (!q) return;
+    html += '<div class="topic-row" data-k="' + k + '"><span class="topic-name" style="font-size:.82rem">' + q.q.substring(0, 80) + '…</span>' +
+      '<span class="topic-count">' + q.s + '</span></div>';
+  });
+  $('markList').innerHTML = html;
+  $('markList').querySelectorAll('.topic-row').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var k = el.dataset.k;
+      var q = qAt(k);
+      var pool = [k];
+      QUIZ = { mode: 'marks', name: 'Bookmarked — ' + q.s, list: pool, cur: 0, score: 0, wrong: 0, answered: {}, marks: {}, startT: Date.now(), timed: false, timerId: null };
+      $('quizTitle').textContent = 'Bookmarked — ' + q.s;
+      showView('quiz');
+      renderQuestion();
+    });
+  });
+}
+
+/* ---------------- Init ---------------- */
+function populateSubjects() {
+  var sel = tSubj;
+  var any = document.createElement('option'); any.value = ''; any.textContent = 'All subjects';
+  sel.appendChild(any);
+  SUBJECTS.forEach(function (s) { var o = document.createElement('option'); o.value = s; o.textContent = s; sel.appendChild(o); });
+}
+function populateYears() {
+  var sel = tYear;
+  sel.innerHTML = '';
+  var any = document.createElement('option'); any.value = 'any'; any.textContent = 'Any year';
+  sel.appendChild(any);
+  ["2021", "2022", "2023", "2024", "2025", "2026"].forEach(function (y) { var o = document.createElement('option'); o.value = y; o.textContent = y; sel.appendChild(o); });
+}
+
+var tSubj = $('tSubj'), tYear = $('tYear');
+var quizArea = $('quizArea'), qList = $('qList'), reviewArea = $('reviewArea');
+
+$('qbStart').addEventListener('click', function () {
+  startQuiz('qbank', 'QBank Set', { src: $('qbSource').value, s: $('qbSubj').value || undefined, t: $('qbTopic').value || undefined, attempt: $('qbAttempt').value, mode: $('qbMode').value, n: parseInt($('qbCount').value, 10) || 10 });
+});
+$('qbSource').addEventListener('change', function() { filterBrowseTopics(); renderTree(); });
+$('qbSubj').addEventListener('change', function() { filterBrowseTopics(); renderTree(); });
+$('qbTopic').addEventListener('change', renderTree);
+$('qbAttempt').addEventListener('change', renderTree);
+$('qbMode').addEventListener('change', renderTree);
+$('browseSource').addEventListener('change', function() { filterBrowseTopics2(); renderBrowse(); });
+$('browseSubj').addEventListener('change', function() { filterBrowseTopics2(); renderBrowse(); });
+$('browseTopic').addEventListener('change', renderBrowse);
+$('browseAttempt').addEventListener('change', renderBrowse);
+$('browseSearch').addEventListener('input', renderBrowse);
+
+function showView(v) {
+  document.querySelectorAll('.view').forEach(function (el) { el.classList.toggle('active', el.id === v); });
+  document.querySelectorAll('.tab').forEach(function (el) { el.classList.toggle('active', el.dataset.v === v); });
+  if (v === 'dash') renderDash();
+  if (v === 'qbank') { populateBrowseDropdowns(); renderTree(); }
+  if (v === 'custom') renderCM();
+  if (v === 'browse') { populateBrowseDropdowns(); renderBrowse(); }
+  if (v === 'tests') renderTestList();
+  if (v === 'results') renderResultList();
+  if (v === 'marks') renderMarks();
+}
+$('tCreate').addEventListener('click', function () {
+  var name = $('tName').value.trim() || 'Practice Test';
+  var t = { name: name, e: $('tExam').value, s: $('tSubj').value, y: $('tYear').value, n: parseInt($('tCount').value, 10) || 20, timed: $('tTimed').value === '1' };
+  var tests = lsGet('neet_tests') || [];
+  tests.unshift(t);
+  lsSet('neet_tests', tests);
+  $('tName').value = 'Practice Test ' + (tests.length + 1);
+  renderTestList();
+});
+$('markAll').addEventListener('click', function () {
+  startQuiz('marks', 'All Bookmarked', { onlyMarked: true, n: 0 });
+});
+$('t2026Start').addEventListener('click', function () {
+  if (!PAPER.length) { alert('Paper not loaded — questions/test_2026.js missing.'); return; }
+  startQuiz('mock', 'NEET PG 2026 Mock', {});
+});
+
+populateSubjects();
+populateYears();
+populateBrowseDropdowns();
+renderDash();
+</script>
+<script>
+if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
+  navigator.serviceWorker.register('/sw.js').catch(function (err) { console.warn('SW register failed:', err); });
+}
+if (navigator.storage && navigator.storage.persist) {
+  navigator.storage.persist().catch(function () {});
+}
+</script>
+</body>
+</html>

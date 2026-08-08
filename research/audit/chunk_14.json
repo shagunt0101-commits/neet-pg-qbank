@@ -1,0 +1,2875 @@
+[
+{
+"q": "A 32-week primigravida presents with sudden, painless, bright red vaginal bleeding. Uterus is soft and nontender, fetal heart rate is normal, and the presenting part is high. The most likely diagnosis is:",
+"o": [
+"Placenta previa",
+"Abruptio placentae",
+"Vasa previa",
+"Uterine rupture"
+],
+"a": 0,
+"ex": "Painless, recurrent bright red bleeding in the third trimester with a soft nontender uterus and high presenting part is classic for placenta previa. Abruptio placentae typically causes painful, tender uterus with dark bleeding; vasa previa presents with bleeding at membrane rupture (fetal blood). Diagnosis confirmed by transvaginal ultrasound.",
+"e": "NEET PG",
+"y": "2026",
+"s": "OBG",
+"src": "generated",
+"tp": "Orthopaedic Surgical Procedures",
+"idx": 2800
+},
+{
+"q": "A 3-year-old child presents with fever of 5 days duration, bilateral non-exudative conjunctival injection, strawberry tongue, and a polymorphous erythematous rash over the trunk. Which of the following is the most appropriate next step in management?",
+"o": [
+"Oral amoxicillin for 7 days",
+"Intravenous immunoglobulin (2 g/kg) along with high-dose aspirin",
+"Oral corticosteroids alone",
+"Antihistamines and antipyretics with observation"
+],
+"a": 1,
+"ex": "Clinical picture is classic Kawasaki disease (fever >5 days + 4 of 5 criteria: conjunctivitis, strawberry tongue, rash, cervical lymphadenopathy, extremity changes). Treatment of choice is IVIG 2 g/kg single dose plus high-dose aspirin to prevent coronary artery aneurysm, the major complication. Corticosteroids are not first-line.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Paediatrics",
+"src": "generated",
+"tp": "Orthopaedic Radiology",
+"idx": 2801
+},
+{
+"q": "A 28-year-old man with schizophrenia on long-acting injectable fluphenazine presents with fever (39°C), severe generalized muscle rigidity, fluctuating consciousness, tachycardia, and diaphoresis. Serum CPK is 12,000 U/L, leukocytosis is present, and CSF examination is normal. What is the most likely diagnosis?",
+"o": [
+"Neuroleptic malignant syndrome",
+"Serotonin syndrome",
+"Malignant hyperthermia",
+"Catatonia"
+],
+"a": 0,
+"ex": "NMS is an idiosyncratic, life-threatening reaction to antipsychotics (especially high-potency typicals like fluphenazine), characterized by hyperthermia, muscle rigidity, altered mental status, autonomic instability, and markedly elevated CPK. Treatment: stop the antipsychotic, supportive care, and dantrolene/bromocriptine. Serotonin syndrome causes clonus and hyperreflexia with serotonergic drugs; malignant hyperthermia follows inhalational anesthetics; catatonia shows waxy flexibility and responds to lorazepam, without fever or CPK elevation.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Psychiatry",
+"src": "generated",
+"tp": "Nerve Blocks",
+"idx": 2802
+},
+{
+"q": "A 20-year-old man undergoing emergency appendicectomy develops masseter spasm, rising end-tidal CO2, tachycardia (140/min), and fever (39.5°C) within 15 minutes of induction with thiopentone and succinylcholine. Arterial blood gas shows severe mixed acidosis. Which is the most likely diagnosis and the definitive drug for treatment?",
+"o": [
+"Malignant hyperthermia; dantrolene",
+"Thyroid storm; propranolol",
+"Neuroleptic malignant syndrome; bromocriptine",
+"Serotonin syndrome; cyproheptadine"
+],
+"a": 0,
+"ex": "Succinylcholine is a classic trigger of malignant hyperthermia (with volatile anaesthetics). Early signs: masseter spasm, unexplained rise in EtCO2, tachycardia, acidosis, fever. Treatment: immediate cessation of trigger agents, 100% oxygen, cooling, and IV dantrolene (2.5 mg/kg), a ryanodine receptor antagonist. The other options are not triggered by anaesthetic induction drugs.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anaesthesia",
+"src": "generated",
+"tp": "Sex Chromosome Disorders",
+"idx": 2803
+},
+{
+"q": "A 2-day-old neonate presents with bilious vomiting since birth. Plain abdominal radiograph shows a \"double bubble\" sign. What is the most likely diagnosis?",
+"o": [
+"Midgut volvulus",
+"Pyloric stenosis",
+"Duodenal atresia",
+"Meconium ileus"
+],
+"a": 2,
+"ex": "Double bubble sign (dilated stomach + proximal duodenum with air-fluid levels, no distal bowel gas) is pathognomonic of duodenal atresia, caused by failure of duodenal recanalization in utero; it is associated with Down syndrome and polyhydramnios. Midgut volvulus typically shows a whirled/twisted appearance or the \"coffee bean\" sign with paucity of bowel gas; pyloric stenosis shows the \"double bubble\"-like appearance rarely but presents after 2-6 weeks with projectile non-bilious vomiting.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Radiology",
+"src": "generated",
+"tp": "Caesarean Section Instruments",
+"idx": 2804
+},
+{
+"q": "A 22-year-old man falls on his outstretched right hand while playing basketball. He has tenderness in the anatomical snuffbox, but initial wrist radiographs show no fracture. What is the most appropriate next step?",
+"o": [
+"Reassure the patient and allow unrestricted activity",
+"Immobilize in a thumb spica cast and repeat radiographs after 2 weeks",
+"Urgent MRI of the wrist",
+"Immediate surgical exploration of the wrist"
+],
+"a": 1,
+"ex": "Snuffbox tenderness after a fall on the outstretched hand indicates a clinically suspected scaphoid fracture even when initial X-rays are normal (occult fracture). Standard management is immobilization in a thumb spica cast with repeat radiographs in 10-14 days; MRI is confirmatory when available but cast-first is the accepted approach. This is important because scaphoid fractures are prone to non-union and avascular necrosis of the proximal pole.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Orthopaedics",
+"src": "generated",
+"tp": "Cervical Length Assessment",
+"idx": 2805
+},
+{
+"q": "A 42-year-old woman presents with flaccid blisters and erosions over the trunk, oral mucosal ulcerations, and a positive Nikolsky sign. Skin biopsy shows suprabasal acantholysis with tombstone appearance of basal cells. Which of the following is the most likely diagnosis?",
+"o": [
+"Pemphigus vulgaris",
+"Bullous pemphigoid",
+"Dermatitis herpetiformis",
+"Epidermolysis bullosa"
+],
+"a": 0,
+"ex": "Pemphigus vulgaris is an autoimmune intraepidermal blistering disease with IgG autoantibodies against desmoglein 3. It shows flaccid bullae, mucosal involvement, positive Nikolsky sign, and suprabasal acantholysis (tombstoning of basal layer) on biopsy. Bullous pemphigoid has tense bullae and subepidermal blisters; dermatitis herpetiformis shows grouped vesicles on extensor surfaces with granular IgA deposits; epidermolysis bullosa is a congenital mechanobullous disorder.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Dermatology",
+"src": "generated",
+"tp": "Endometriosis",
+"idx": 2806
+},
+{
+"q": "A 60-year-old man presents with inability to abduct his left arm beyond 15 degrees, and a depressed left shoulder contour. He reports weakness in flexing the left elbow. Which of the following is the most likely nerve injured?",
+"o": [
+"Axillary nerve",
+"Musculocutaneous nerve",
+"Long thoracic nerve",
+"Suprascapular nerve"
+],
+"a": 0,
+"ex": "The axillary nerve (C5–C6) winds around the surgical neck of humerus and supplies deltoid and teres minor. Injury (fracture of surgical neck/dislocation of shoulder) paralyses deltoid — abduction beyond 15° (initiation by supraspinatus) is lost and the shoulder contour flattens. Sensation over the regimental badge area is lost. The other nerves do not fit: musculocutaneous — elbow flexion weak; long thoracic — winging of scapula; suprascapular — weak initiation of abduction but no loss of shoulder contour.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anatomy",
+"src": "generated",
+"tp": "Trichomoniasis",
+"idx": 2807
+},
+{
+"q": "A 45-year-old man with chronic alcoholism presents with vomiting, abdominal pain, and lactic acidosis. Blood glucose is 85 mg/dL. Which enzyme deficiency is most likely contributing to his lactic acidosis?",
+"o": [
+"Pyruvate carboxylase",
+"Pyruvate dehydrogenase complex",
+"Pyruvate kinase",
+"Lactate dehydrogenase"
+],
+"a": 1,
+"ex": "Alcohol metabolism generates excess NADH, which inhibits the pyruvate dehydrogenase complex (PDH), shunting pyruvate toward lactate. Thiamine (TPP) is a coenzyme of PDH; deficiency in alcoholics worsens this block. Pyruvate carboxylase is activated by acetyl-CoA and high NADH (not inhibited), pyruvate kinase is glycolytic, and lactate dehydrogenase simply converts pyruvate to lactate.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Biochemistry",
+"src": "generated",
+"tp": "Gestational Trophoblastic Disease",
+"idx": 2808
+},
+{
+"q": "A 25-year-old mountaineer ascends from sea level to 4500 m over 24 hours. Which of the following physiological responses to high altitude occurs earliest?",
+"o": [
+"Polycythemia",
+"Increased 2,3-DPG levels in red blood cells",
+"Hyperventilation",
+"Increased renal erythropoietin secretion"
+],
+"a": 2,
+"ex": "Acute hypoxemia at altitude immediately stimulates the carotid body (peripheral chemoreceptors), causing hyperventilation within minutes. Increased erythropoietin secretion and polycythemia take days to weeks, and the rise in RBC 2,3-DPG (which enhances tissue O2 unloading) takes several days. Hyperventilation is the earliest compensatory response.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Physiology",
+"src": "generated",
+"tp": "Molluscum Contagiosum",
+"idx": 2809
+},
+{
+"q": "An 8-year-old boy presents with periorbital puffiness and frothy urine. Urinalysis shows 4+ proteinuria; 24-hour urine protein is 4.5 g, serum albumin 1.8 g/dL, and total cholesterol 320 mg/dL. Renal biopsy shows normal glomeruli on light microscopy and negative immunofluorescence. Which electron microscopic finding is most likely?",
+"o": [
+"Diffuse effacement of podocyte foot processes",
+"Subepithelial immune complex deposits",
+"Subendothelial deposits with mesangial interposition",
+"Fibrillary deposits replacing the mesangium"
+],
+"a": 0,
+"ex": "Nephrotic syndrome in a child is most often minimal change disease (about 80% of cases). Light microscopy appears normal, immunofluorescence is negative, and electron microscopy characteristically shows diffuse effacement of podocyte foot processes. The disease is highly steroid-responsive. Subepithelial deposits suggest membranous nephropathy (adult cause), and subendothelial deposits with mesangial interposition are seen in membranoproliferative glomerulonephritis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pathology",
+"src": "generated",
+"tp": "Genital Herpes",
+"idx": 2810
+},
+{
+"q": "A 58-year-old man on warfarin for atrial fibrillation presents with INR 8.2 on routine testing. He has no active bleeding. What is the most appropriate management?",
+"o": [
+"Withhold warfarin and give oral vitamin K",
+"Give protamine sulfate",
+"Give fresh frozen plasma (FFP)",
+"Give desmopressin"
+],
+"a": 0,
+"ex": "Warfarin inhibits vitamin K epoxide reductase (VKORC1), depleting active vitamin K-dependent clotting factors. In supratherapeutic INR without bleeding, withhold warfarin and give oral vitamin K. Protamine sulfate reverses heparin, not warfarin. FFP is reserved for serious/life-threatening bleeding with high INR. Desmopressin treats uremic bleeding and mild vWD, not warfarin excess.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pharmacology",
+"src": "generated",
+"tp": "Local Anaesthetics",
+"idx": 2811
+},
+{
+"q": "A 4-year-old child develops vomiting and abdominal cramps 3 hours after consuming leftover fried rice from a restaurant. Which of the following toxins is the most likely cause?",
+"o": [
+"Heat-stable enterotoxin (cereulide) of Bacillus cereus",
+"Heat-labile enterotoxin of Bacillus cereus",
+"Staphylococcal enterotoxin",
+"Verotoxin of Shiga toxin-producing Escherichia coli"
+],
+"a": 0,
+"ex": "The short incubation (1-6 h) with predominantly vomiting after reheated rice is the emetic syndrome of Bacillus cereus, caused by preformed heat-stable cereulide toxin. The heat-labile enterotoxin causes the diarrheal form with longer incubation (6-24 h). Staphylococcal enterotoxin also causes rapid vomiting but is linked to protein-rich foods like custard, not rice.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Microbiology",
+"src": "generated",
+"tp": "Contraception",
+"idx": 2812
+},
+{
+"q": "A 40-year-old man is found dead hanging from a ceiling fan. Autopsy shows a ligature mark that is oblique, situated high above the thyroid cartilage, and incomplete at the back of the neck. These findings are characteristic of:",
+"o": [
+"Hanging",
+"Ligature strangulation",
+"Throttling",
+"Garrotting"
+],
+"a": 0,
+"ex": "In hanging, the ligature mark is oblique (V-shaped, apex pointing toward the knot), placed high above the thyroid cartilage, and incomplete at the back (gap at the knot site, usually occiput). Ligature strangulation produces a horizontal, complete mark at a lower level (around the thyroid); throttling is manual compression with fingernail abrasions; garrotting is strangulation with a stick-tourniquet.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Forensic Medicine",
+"src": "generated",
+"tp": "PCOS",
+"idx": 2813
+},
+{
+"q": "A new screening test for pulmonary tuberculosis has a sensitivity of 80% and a specificity of 90%. It is applied to a population of 1000 persons, of whom 100 have the disease. How many false-positive results will the test yield?",
+"o": [
+"20",
+"90",
+"80",
+"10"
+],
+"a": 1,
+"ex": "False positives arise from disease-free persons. 900 are non-diseased; with 90% specificity, 10% (90 persons) are wrongly labeled positive. Note: 20 false negatives occur among the 100 diseased (80% sensitivity).",
+"e": "NEET PG",
+"y": "2026",
+"s": "PSM",
+"src": "generated",
+"tp": "Sporotrichosis",
+"idx": 2814
+},
+{
+"q": "A 45-year-old man presents with hoarseness of 2 months' duration. Laryngoscopy reveals the left vocal cord fixed in the paramedian position, while the right cord moves normally. Which nerve is most likely involved?",
+"o": [
+"Left recurrent laryngeal nerve",
+"Right recurrent laryngeal nerve",
+"Left superior laryngeal nerve",
+"Right superior laryngeal nerve"
+],
+"a": 0,
+"ex": "The left recurrent laryngeal nerve has a longer course, hooking around the arch of aorta and ascending in the tracheo-oesophageal groove, making it more vulnerable to injury (mediastinal pathology, thyroid surgery, aortic aneurysm). RLN palsy paralyses all intrinsic laryngeal muscles except cricothyroid, so the cord lies in the paramedian position with a weak, breathy voice. Superior laryngeal nerve palsy, in contrast, leaves the cord in the median position.",
+"e": "NEET PG",
+"y": "2026",
+"s": "ENT",
+"src": "generated",
+"tp": "Dermatology Image Diagnosis",
+"idx": 2815
+},
+{
+"q": "A 62-year-old woman presents with sudden severe pain and redness in the right eye, blurred vision, and seeing halos around lights, associated with nausea and vomiting. Examination: visual acuity reduced, cornea hazy, pupil mid-dilated and non-reactive, anterior chamber shallow, intraocular pressure 58 mmHg. What is the most likely diagnosis?",
+"o": [
+"Acute iridocyclitis (anterior uveitis)",
+"Acute primary angle-closure glaucoma",
+"Central retinal artery occlusion",
+"Acute bacterial conjunctivitis"
+],
+"a": 1,
+"ex": "Acute primary angle-closure glaucoma presents with a painful red eye, halos, nausea/vomiting, hazy cornea (edema), fixed mid-dilated pupil, shallow AC, and markedly raised IOP (>40 mmHg) — an ophthalmic emergency. Anterior uveitis has a miotic pupil and low/normal IOP; CRAO is painless sudden vision loss with cherry-red spot and normal IOP; conjunctivitis has discharge with normal pupil and IOP.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Ophthalmology",
+"src": "generated",
+"tp": "Tinea Capitis",
+"idx": 2816
+},
+{
+"q": "A 25-year-old woman presents with 3 months of low-grade fever, fatigue, and symmetric pain in the small joints of both hands. She reports a malar rash after sun exposure and recurrent oral ulcers. Examination shows arthritis of the wrist and MCP joints. ANA is positive (1:640, homogeneous pattern) and anti-double-stranded DNA antibodies are strongly positive. What is the most likely diagnosis?",
+"o": [
+"Systemic lupus erythematosus",
+"Rheumatoid arthritis",
+"Systemic sclerosis",
+"Sjogren syndrome"
+],
+"a": 0,
+"ex": "Malar rash, photosensitivity, oral ulcers, non-erosive arthritis, and positive ANA with high-titer anti-dsDNA satisfy the ACR/SLICC criteria for SLE. Anti-dsDNA is highly specific for SLE. Rheumatoid arthritis has erosive arthritis with anti-CCP positivity, not a malar rash or anti-dsDNA. Systemic sclerosis features skin thickening and Raynaud phenomenon with anti-Scl-70. Sjogren syndrome presents with sicca symptoms and anti-Ro/La antibodies.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Medicine",
+"src": "generated",
+"tp": "Facial Dermatosis",
+"idx": 2817
+},
+{
+"q": "A 60-year-old man presents with a painful, tender, irreducible right inguinal hernia of 8 hours' duration, with vomiting, abdominal distension, and tachycardia. The most appropriate next step in management is:",
+"o": [
+"Attempt reduction (taxis) and observe for 24 hours",
+"Elective herniorrhaphy after a 6-week waiting period",
+"Emergency exploration and herniotomy",
+"Intravenous broad-spectrum antibiotics and discharge"
+],
+"a": 2,
+"ex": "Strangulated hernia (irreducibility with pain, vomiting, distension) is a surgical emergency. Emergency exploration is mandatory; taxis is contraindicated in strangulation as it risks rupturing gangrenous bowel or reducing a necrotic sac. Delay increases bowel gangrene, perforation, and peritonitis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Surgery",
+"src": "generated",
+"tp": "Bishop Score",
+"idx": 2818
+},
+{
+"q": "A 28-year-old primigravida at 32 weeks gestation presents with headache, epigastric pain, and blurred vision. Blood pressure is 170/110 mmHg and urine shows 3+ protein. Which drug should be administered first to prevent seizures?",
+"o": [
+"Labetalol",
+"Nifedipine",
+"Magnesium sulfate",
+"Hydralazine"
+],
+"a": 2,
+"ex": "Severe preeclampsia with prodromal symptoms (headache, epigastric pain, visual disturbance). Magnesium sulfate is the anticonvulsant of choice for seizure prophylaxis (eclampsia prevention); labetalol and nifedipine control blood pressure but do not prevent seizures, and hydralazine is used for acute hypertensive crises.",
+"e": "NEET PG",
+"y": "2026",
+"s": "OBG",
+"src": "generated",
+"tp": "Postpartum Haemorrhage",
+"idx": 2819
+},
+{
+"q": "A 6-month-old infant presents with progressive pallor and a distended abdomen. Examination shows a left upper quadrant mass and hepatomegaly. Blood pressure is 120/80 mmHg. CBC reveals Hb 9 g/dL, WBC 12,000/mm3, platelet count 62,000/mm3. Which of the following is the most likely diagnosis?",
+"o": [
+"Neuroblastoma",
+"Wilms tumour",
+"Hepatoblastoma",
+"Leukaemia"
+],
+"a": 0,
+"ex": "Neuroblastoma is the most common extracranial solid tumour in infancy. It typically presents with an abdominal mass crossing the midline, hepatomegaly (including stage 4S liver involvement), and hypertension from catecholamine secretion. The young age, mass crossing midline, and hypertension favour neuroblastoma over Wilms tumour (which rarely occurs under 1 year, is confined to kidney, and is not associated with hypertension as frequently). Platelet count is normal or elevated in neuroblastoma; thrombocytopenia here is nonspecific. Leukaemia and hepatoblastoma do not explain the abdominal mass with hypertension.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Paediatrics",
+"src": "generated",
+"tp": "Placental Hormones",
+"idx": 2820
+},
+{
+"q": "A 30-year-old man with schizophrenia presents with immobility, mutism, posturing, waxy flexibility and negativism that developed over 2 days. Vital signs are normal. Which is the most appropriate initial management?",
+"o": [
+"Start a high-potency antipsychotic",
+"Administer lorazepam (benzodiazepine challenge)",
+"Refer immediately for electroconvulsive therapy (ECT)",
+"Start an SSRI antidepressant"
+],
+"a": 1,
+"ex": "Catatonia. First-line treatment is a benzodiazepine (lorazepam challenge test); most patients respond dramatically. ECT is reserved for refractory or malignant catatonia. Antipsychotics may worsen catatonia and precipitate neuroleptic malignant syndrome. Antidepressants have no role.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Psychiatry",
+"src": "generated",
+"tp": "Lactation Physiology",
+"idx": 2821
+},
+{
+"q": "A 25-year-old man undergoing emergency laparotomy under general anaesthesia (thiopentone induction, succinylcholine for intubation) develops rising end-tidal CO2, tachycardia, and muscle rigidity 30 minutes into surgery, with temperature climbing to 39.5°C. What is the most appropriate immediate pharmacological treatment?",
+"o": [
+"Dantrolene sodium",
+"Neostigmine",
+"Sodium bicarbonate",
+"Naloxone"
+],
+"a": 0,
+"ex": "This is malignant hyperthermia, triggered by succinylcholine and volatile anaesthetics in susceptible individuals. Early signs include unexplained rise in ETCO2, tachycardia, muscle rigidity, and hyperthermia. Definitive treatment is dantrolene sodium 2.5 mg/kg IV, which blocks calcium release from the sarcoplasmic reticulum. Neostigmine reverses non-depolarising blockers; bicarbonate and naloxone are supportive/irrelevant.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anaesthesia",
+"src": "generated",
+"tp": "Ovarian Tumours",
+"idx": 2822
+},
+{
+"q": "A 25-year-old man sustains a blow to the right temporal region in a road traffic accident. He is unconscious and a non-contrast CT of the head shows a biconvex (lentiform), hyperdense extra-axial collection in the right temporoparietal region, not crossing the suture lines. Which of the following is the most likely diagnosis?",
+"o": [
+"Acute subdural hematoma",
+"Acute epidural hematoma",
+"Subarachnoid hemorrhage",
+"Subacute subdural hematoma"
+],
+"a": 1,
+"ex": "Acute epidural hematoma appears as a biconvex (lentiform) hyperdense collection that does not cross suture lines, typically due to middle meningeal artery injury after a temporal blow, often with a lucid interval. Subdural hematoma is crescentic, crosses suture lines, and does not cross the falx/midline structures; subarachnoid hemorrhage appears as blood in sulci, fissures, and cisterns.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Radiology",
+"src": "generated",
+"tp": "Lactation Nutrition",
+"idx": 2823
+},
+{
+"q": "A 25-year-old man falls on his outstretched right hand and develops wrist pain with tenderness in the anatomical snuffbox. Initial wrist X-ray shows no fracture. What is the most appropriate next step?",
+"o": [
+"Perform wrist arthroscopy to exclude a ligament injury",
+"Discharge with NSAIDs and advise review only if pain persists",
+"Immobilize in a thumb spica cast and repeat X-ray in 2 weeks",
+"Proceed directly to MRI of the wrist"
+],
+"a": 2,
+"ex": "Clinically suspected scaphoid fracture with normal initial radiographs must be treated as a fracture: immobilize in a scaphoid (thumb spica) cast and repeat X-ray in 2 weeks, since scaphoid fractures are often radiographically occult initially and untreated ones risk non-union and avascular necrosis of the proximal pole.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Orthopaedics",
+"src": "generated",
+"tp": "Asherman Syndrome",
+"idx": 2824
+},
+{
+"q": "A 35-year-old woman presents with a 2-week history of an intensely itchy, annular plaque with a raised, scaly border and central clearing over her right thigh. She reports a history of tinea pedis. KOH mount of skin scrapings from the active border shows septate hyphae. Which is the most appropriate initial treatment?",
+"o": [
+"Topical corticosteroid cream",
+"Oral terbinafine",
+"Topical clotrimazole",
+"Oral antihistamine"
+],
+"a": 2,
+"ex": "Classic tinea corporis (ringworm): annular plaque, scaly border, central clearing, KOH-positive septate hyphae. Limited disease responds to topical antifungals; topical clotrimazole is first-line. Topical steroids worsen (mask/increase spread); oral terbinafine is reserved for extensive or resistant cases; antihistamines only palliate itch.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Dermatology",
+"src": "generated",
+"tp": "Paranasal Sinus Surgery",
+"idx": 2825
+},
+{
+"q": "A 30-year-old man sustains a fracture of the surgical neck of the humerus in a road traffic accident. On examination, he is unable to abduct his shoulder beyond the first 15 degrees, and there is loss of sensation over the deltoid region. Which nerve is most likely injured?",
+"o": [
+"Axillary nerve",
+"Radial nerve",
+"Musculocutaneous nerve",
+"Suprascapular nerve"
+],
+"a": 0,
+"ex": "The axillary nerve (C5, C6) winds around the surgical neck of the humerus, so it is injured in humeral neck fractures and anterior shoulder dislocations. It supplies the deltoid and teres minor; injury causes paralysis of the deltoid, loss of shoulder abduction beyond the first 15 degrees (the initial 15 degrees is by the supraspinatus), and anesthesia over the deltoid (regimental badge area). The radial nerve is injured in midshaft humerus fractures (wrist drop), and the musculocutaneous nerve supplies the anterior arm muscles (biceps brachii).",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anatomy",
+"src": "generated",
+"tp": "CT Abdomen Findings",
+"idx": 2826
+},
+{
+"q": "A 3-year-old boy presents with acute hemolytic anemia and jaundice 2 days after eating fava beans. Peripheral smear shows bite cells and Heinz bodies. Deficiency of which enzyme is responsible?",
+"o": [
+"Glucose-6-phosphate dehydrogenase (first enzyme of pentose phosphate pathway)",
+"Pyruvate kinase (last enzyme of glycolysis)",
+"Glutathione synthetase",
+"Hexokinase (first enzyme of glycolysis)"
+],
+"a": 0,
+"ex": "G6PD, the first enzyme of the hexose monophosphate (pentose phosphate) shunt, generates NADPH, which maintains glutathione in reduced form and protects RBCs against oxidative stress. Deficiency (X-linked) causes oxidative hemolysis triggered by fava beans, drugs (primaquine, sulfonamides), or infections, with Heinz bodies and bite cells on smear.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Biochemistry",
+"src": "generated",
+"tp": "Imaging Modalities",
+"idx": 2827
+},
+{
+"q": "A 30-year-old man treks to an altitude of 3500 m and after 48 hours develops headache and breathlessness. Which of the following best explains the initial increase in his ventilation?",
+"o": [
+"Increased CSF [H+] stimulating central chemoreceptors",
+"Decreased PaO2 stimulating carotid body chemoreceptors",
+"Decreased arterial pH stimulating medullary chemoreceptors",
+"Increased PaCO2 stimulating central chemoreceptors"
+],
+"a": 1,
+"ex": "Acute hypoxia is sensed by peripheral chemoreceptors (carotid bodies), which increase ventilation within minutes via the hypoxic drive. Central (medullary) chemoreceptors respond to CSF [H+], not to O2, and are actually suppressed by the respiratory alkalosis that follows hyperventilation; CSF bicarbonate falls only over days, producing gradual ventilatory acclimatization.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Physiology",
+"src": "generated",
+"tp": "Early Pregnancy Ultrasound",
+"idx": 2828
+},
+{
+"q": "A 28-year-old man presents with painless cervical lymphadenopathy, fever, and night sweats. Lymph node biopsy shows large binucleate cells with prominent eosinophilic inclusion-like nucleoli (owl-eye appearance) admixed with lymphocytes, plasma cells, and eosinophils. These diagnostic cells most characteristically express which immunophenotypic marker?",
+"o": [
+"CD15",
+"CD20",
+"CD3",
+"CD45"
+],
+"a": 0,
+"ex": "Classic Reed-Sternberg cells of Hodgkin lymphoma are CD15-positive and CD30-positive, with weak PAX5 and absent CD45 (leukocyte common antigen). They derive from germinal center B cells with crippled immunoglobulin genes.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pathology",
+"src": "generated",
+"tp": "Paediatric Surgical Conditions",
+"idx": 2829
+},
+{
+"q": "A 58-year-old man with atrial fibrillation on digoxin and furosemide presents with nausea, vomiting, and yellow-tinted vision. ECG shows ventricular tachycardia. Serum digoxin level is 3.4 ng/mL. Which is the most appropriate management for the arrhythmia?",
+"o": [
+"Lidocaine infusion",
+"Digoxin immune Fab",
+"Amiodarone bolus",
+"Phenytoin"
+],
+"a": 1,
+"ex": "Digoxin toxicity (level >2 ng/mL, GI and visual symptoms) causing life-threatening ventricular arrhythmia is treated with digoxin immune Fab, which binds and inactivates digoxin. Amiodarone raises digoxin levels; lidocaine/phenytoin are only temporizing and not definitive therapy.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pharmacology",
+"src": "generated",
+"tp": "Memory (Neurophysiology)",
+"idx": 2830
+},
+{
+"q": "A 30-year-old HIV-positive man presents with fever, headache, and neck stiffness of 2 weeks' duration. CSF examination shows lymphocytic pleocytosis, mildly elevated protein, and normal glucose. India ink preparation of CSF reveals round yeast cells surrounded by a clear halo. What is the most likely causative organism?",
+"o": [
+"Cryptococcus neoformans",
+"Candida albicans",
+"Aspergillus fumigatus",
+"Histoplasma capsulatum"
+],
+"a": 0,
+"ex": "Cryptococcus neoformans, an encapsulated yeast, classically causes subacute meningitis in immunocompromised hosts (HIV/AIDS) and is diagnosed by India ink stain showing a polysaccharide capsule as a clear halo. It is the most common fungal cause of meningitis in AIDS. Candida is not associated with this CSF picture; Aspergillus causes hyphae and angioinvasion; Histoplasma is an intracellular yeast seen on tissue, not CSF India ink.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Microbiology",
+"src": "generated",
+"tp": "OCD",
+"idx": 2831
+},
+{
+"q": "A 35-year-old woman is found dead in a closed room. At autopsy, the postmortem lividity is bright cherry-red/pink, and the stomach emits a characteristic bitter almond odour. Which poisoning is the most likely cause of death?",
+"o": [
+"Organophosphate poisoning",
+"Cyanide poisoning",
+"Carbon monoxide poisoning",
+"Strychnine poisoning"
+],
+"a": 1,
+"ex": "Cyanide (HCN) inhibits cytochrome oxidase, preventing cellular O2 utilisation; blood remains oxygenated, producing cherry-red lividity and a bitter almond odour from the stomach. CO poisoning also causes cherry-red lividity but lacks the bitter almond smell; organophosphates cause miosis, frothing and a garlic odour; strychnine causes convulsions with risus sardonicus.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Forensic Medicine",
+"src": "generated",
+"tp": "OCD",
+"idx": 2832
+},
+{
+"q": "A 26-year-old primigravida at 16 weeks of gestation attends the antenatal clinic with no documented immunization history. She has never received tetanus toxoid before. Which of the following vaccines can be safely administered during pregnancy?",
+"o": [
+"Measles-mumps-rubella (MMR) vaccine",
+"Oral polio vaccine (OPV)",
+"Tetanus toxoid (TT)",
+"Yellow fever vaccine"
+],
+"a": 2,
+"ex": "Tetanus toxoid is an inactivated toxoid vaccine, safe and recommended in pregnancy to prevent maternal and neonatal tetanus; it is given as 2 doses 4 weeks apart, with the second dose at least 2 weeks before delivery. Live attenuated vaccines (MMR, yellow fever) are contraindicated in pregnancy, and OPV is generally avoided during pregnancy.",
+"e": "NEET PG",
+"y": "2026",
+"s": "PSM",
+"src": "generated",
+"tp": "Antipsychotics",
+"idx": 2833
+},
+{
+"q": "A 4-year-old child presents with high-grade fever, sore throat, drooling, muffled (\"hot potato\") voice, and inspiratory stridor. He insists on sitting upright with neck extended. On examination, he appears toxic but not coughing. What is the most likely diagnosis?",
+"o": [
+"Acute laryngotracheobronchitis (croup)",
+"Acute epiglottitis",
+"Retropharyngeal abscess",
+"Laryngeal foreign body"
+],
+"a": 1,
+"ex": "Acute epiglottitis (supraglottitis), classically due to Haemophilus influenzae type b, presents with acute high fever, drooling, muffled voice, inspiratory stridor, and the child assuming a sitting \"tripod\" position — without barking cough (which favours croup). Diagnosis is clinical; lateral neck X-ray shows the \"thumb sign\". Never examine the throat or depress the tongue in a suspected case as it may precipitate complete airway obstruction; urgent airway management (intubation/tracheostomy) and antibiotics are required.",
+"e": "NEET PG",
+"y": "2026",
+"s": "ENT",
+"src": "generated",
+"tp": "Pelvic Anatomy",
+"idx": 2834
+},
+{
+"q": "A 60-year-old man presents with painless, progressive loss of vision in both eyes over 1 year. On examination, best corrected visual acuity is 6/24 in both eyes. Slit-lamp examination shows a bluish-white opacity of the lens with brownish discoloration of the nucleus. Fundus examination is normal. What is the most likely diagnosis?",
+"o": [
+"Nuclear cataract",
+"Cortical cataract",
+"Posterior subcapsular cataract",
+"Senile macular degeneration"
+],
+"a": 0,
+"ex": "Nuclear cataract: progressive brownish (brunescent) discoloration of the lens nucleus causes index myopia, painless slow visual loss, and is most common in elderly. Cortical cataracts cause spoke-like opacities; posterior subcapsular cataracts cause glare and early near-vision loss, often steroid-induced. No macular changes rule out AMD.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Ophthalmology",
+"src": "generated",
+"tp": "Scrotal Swelling",
+"idx": 2835
+},
+{
+"q": "A 32-year-old man presents with 4 weeks of fever, weight loss, cough with hemoptysis, and palpable purpura over the lower limbs. Urinalysis shows red blood cell casts; serum creatinine is 3.2 mg/dL. c-ANCA is positive. What is the most likely diagnosis?",
+"o": [
+"Goodpasture syndrome (anti-GBM disease)",
+"Granulomatosis with polyangiitis (Wegener's)",
+"IgA nephropathy",
+"Polyarteritis nodosa"
+],
+"a": 1,
+"ex": "Palpable purpura with pulmonary hemorrhage and rapidly progressive glomerulonephritis (RBC casts, rising creatinine) indicates small-vessel vasculitis; positive c-ANCA (anti-PR3) is characteristic of granulomatosis with polyangiitis. Goodpasture syndrome shows anti-GBM antibodies with linear immunofluorescence, while PAN is a medium-vessel vasculitis that spares glomeruli.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Medicine",
+"src": "generated",
+"tp": "Cirrhosis",
+"idx": 2836
+},
+{
+"q": "A 60-year-old man presents with progressive, painless jaundice of 3 weeks' duration with pruritus and dark urine. Examination reveals a distended, non-tender, palpable gallbladder and normal liver span. Serum bilirubin 12 mg/dL (conjugated), alkaline phosphatase markedly elevated. Ultrasonography shows a dilated common bile duct with no gallstones. Most likely diagnosis?",
+"o": [
+"Carcinoma of the head of pancreas",
+"Choledocholithiasis",
+"Acute viral hepatitis",
+"Carcinoma of the gallbladder"
+],
+"a": 0,
+"ex": "Painless progressive jaundice with a palpable, non-tender gallbladder (Courvoisier's law) points to periampullary malignancy, most commonly carcinoma of the head of pancreas. Choledocholithiasis usually causes painful, fluctuating jaundice with biliary colic and is typically associated with a shrunken gallbladder from chronic inflammation. Viral hepatitis causes hepatocellular (mixed) jaundice with a soft, non-distended gallbladder. Gallbladder carcinoma does not present with a palpable distended gallbladder. Courvoisier's law: painless jaundice + palpable gallbladder is unlikely to be gallstones.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Surgery",
+"src": "generated",
+"tp": "Splenomegaly",
+"idx": 2837
+},
+{
+"q": "A 32-year-old G3P2L2 at 32 weeks of gestation presents with sudden, painless, recurrent vaginal bleeding. Ultrasonography shows the placenta completely covering the internal cervical os. The fetus is alive with a normal heart rate, and the mother is hemodynamically stable. What is the most appropriate next step in management?",
+"o": [
+"Digital vaginal examination to assess cervical dilatation",
+"Admission with expectant management and blood transfusion standby",
+"Immediate cesarean section",
+"Induction of labor"
+],
+"a": 1,
+"ex": "Painless third-trimester bleeding with placenta over the internal os indicates placenta previa. Digital vaginal examination is contraindicated as it can provoke torrential hemorrhage. If mother and fetus are stable before 37 weeks, expectant management with admission, fetal surveillance, and blood standby is preferred, with cesarean section at 36-37 weeks or earlier if bleeding recurs or fetal compromise develops.",
+"e": "NEET PG",
+"y": "2026",
+"s": "OBG",
+"src": "generated",
+"tp": "Iron Metabolism",
+"idx": 2838
+},
+{
+"q": "A 14-month-old child presents with fever of 6 days duration, bilateral non-exudative conjunctival injection, cracked lips, strawberry tongue, a polymorphous rash, and cervical lymphadenopathy (>1.5 cm). What is the most appropriate next step in management?",
+"o": [
+"Oral prednisolone 2 mg/kg/day",
+"Intravenous immunoglobulin 2 g/kg plus high-dose aspirin",
+"Broad-spectrum antibiotics for 10 days",
+"Paracetamol with outpatient observation"
+],
+"a": 1,
+"ex": "Fever >5 days plus 4 of 5 clinical criteria confirms Kawasaki disease. IVIG 2 g/kg single dose plus high-dose aspirin reduces the risk of coronary artery aneurysm from ~25% to <5%; corticosteroids are not first-line. Antibiotics are ineffective (no bacterial cause identified).",
+"e": "NEET PG",
+"y": "2026",
+"s": "Paediatrics",
+"src": "generated",
+"tp": "Guillain-Barre Syndrome",
+"idx": 2839
+},
+{
+"q": "A 28-year-old woman with major depressive disorder started fluoxetine 2 weeks ago presents with agitation, confusion, diarrhea, and jerking of her limbs. Temperature 38.2°C, heart rate 120/min, BP 150/90 mm Hg, hyperreflexia with spontaneous clonus in both lower limbs. What is the most likely diagnosis?",
+"o": [
+"Neuroleptic malignant syndrome",
+"Serotonin syndrome",
+"Anticholinergic toxicity",
+"Malignant hyperthermia"
+],
+"a": 1,
+"ex": "Serotonin syndrome: triad of altered mental status, autonomic instability, and neuromuscular hyperactivity (clonus, hyperreflexia) after serotonergic drug use or dose increase. NMS follows antipsychotics, features lead-pipe rigidity and bradykinesia without clonus. Malignant hyperthermia occurs with inhalational anesthetics/succinylcholine.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Psychiatry",
+"src": "generated",
+"tp": "Electron Transport Chain",
+"idx": 2840
+},
+{
+"q": "A 32-year-old man undergoes emergency laparotomy under general anaesthesia with thiopentone, succinylcholine and halothane. Twenty minutes after induction he develops masseter rigidity, tachycardia (140/min), rising end-tidal CO2 despite increased ventilation, temperature 39.5°C, and mixed respiratory-metabolic acidosis. What is the most likely diagnosis?",
+"o": [
+"Thyroid storm",
+"Malignant hyperthermia",
+"Neuroleptic malignant syndrome",
+"Sepsis"
+],
+"a": 1,
+"ex": "Succinylcholine followed by a volatile anaesthetic (halothane) triggers malignant hyperthermia in susceptible individuals (RYR1 mutation). Unexplained rising ETCO2 is the earliest sign, followed by muscle rigidity, hyperthermia and acidosis. Management: stop trigger agents, give dantrolene 2.5 mg/kg IV, 100% O2, active cooling and correct acidosis. Thyroid storm and NMS lack the masseter rigidity-rising ETCO2 picture after succinylcholine exposure.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anaesthesia",
+"src": "generated",
+"tp": "Lipid Metabolism",
+"idx": 2841
+},
+{
+"q": "A 45-year-old female with poorly controlled hypertension presents with sudden severe headache and vomiting. Non-contrast CT of the head shows a hyperdense, well-defined mass in the left basal ganglia region with surrounding edema, and hyperdense blood in the lateral ventricles. Which is the most likely diagnosis?",
+"o": [
+"Hypertensive intracerebral hemorrhage",
+"Ruptured saccular aneurysm with subarachnoid hemorrhage",
+"Arteriovenous malformation rupture",
+"Glioblastoma with intratumoral bleed"
+],
+"a": 0,
+"ex": "Hypertensive ICH classically affects basal ganglia (putamen), thalamus, pons, and cerebellum; acute hemorrhage appears hyperdense on non-contrast CT. Ruptured aneurysm typically causes subarachnoid hemorrhage (blood in cisterns, not a parenchymal mass), AVM is more common in younger patients, and glioblastoma rarely presents with acute intratumoral hemorrhage of this pattern.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Radiology",
+"src": "generated",
+"tp": "RBC Metabolism",
+"idx": 2842
+},
+{
+"q": "A 20-year-old male sustains a closed fracture of the middle third of the tibia in a road traffic accident and is treated with an above-knee plaster cast. Eight hours later he develops severe pain in the leg, not relieved by analgesics. Examination reveals a tense, swollen leg with severe pain on passive extension of the toes. What is the most appropriate next step in management?",
+"o": [
+"Remove the cast, elevate the limb and apply ice packs",
+"Administer high-dose intravenous opioids and observe for 6 hours",
+"Remove the cast and perform urgent decompressive fasciotomy",
+"Perform nerve conduction studies to confirm the diagnosis"
+],
+"a": 2,
+"ex": "Acute compartment syndrome: pain out of proportion, pain on passive stretch of muscles, tense compartment and paraesthesia. Diagnosis is clinical; intracompartmental pressure >30 mmHg or <30 mmHg below diastolic BP supports it. Definitive treatment is urgent decompressive fasciotomy (within 6 hours) to prevent muscle ischaemia and Volkmann contracture. Elevation and ice worsen perfusion and delay surgery; NCV is never indicated.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Orthopaedics",
+"src": "generated",
+"tp": "Nutrition Physiology",
+"idx": 2843
+},
+{
+"q": "A 32-year-old woman presents with flaccid bullae over the trunk and painful oral erosions. Nikolsky sign is positive. Skin biopsy reveals a suprabasal cleft with acantholysis, and Tzanck smear shows acantholytic cells. What is the most likely diagnosis?",
+"o": [
+"Bullous pemphigoid",
+"Pemphigus vulgaris",
+"Dermatitis herpetiformis",
+"Epidermolysis bullosa"
+],
+"a": 1,
+"ex": "Pemphigus vulgaris: intraepidermal (suprabasal) blister with acantholysis, flaccid bullae, positive Nikolsky, mucosal involvement, anti-desmoglein IgG. Bullous pemphigoid = subepidermal tense bullae, Nikolsky negative, anti-BP180/BP230. Dermatitis herpetiformis = pruritic grouped vesicles, subepidermal, anti-epidermal transglutaminase. Epidermolysis bullosa = inherited, blister at dermoepidermal junction after minor trauma, onset in infancy.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Dermatology",
+"src": "generated",
+"tp": "Collagen Disorders",
+"idx": 2844
+},
+{
+"q": "A 40-year-old man undergoes excision of a lymph node in the left axilla for biopsy. One month later, he reports difficulty raising his left arm above his head and a \"winging\" of the scapula that appears when he pushes against a wall with both hands. Which nerve was most likely injured?",
+"o": [
+"Long thoracic nerve (serratus anterior)",
+"Accessory nerve (trapezius)",
+"Dorsal scapular nerve (rhomboids)",
+"Thoracodorsal nerve (latissimus dorsi)"
+],
+"a": 0,
+"ex": "The long thoracic nerve (C5-C7) runs on the superficial surface of serratus anterior and is vulnerable during axillary lymph node biopsy. Its injury paralyzes serratus anterior, causing medial winging of the scapula accentuated by forward pushing of the arm against resistance. Accessory nerve palsy causes lateral winging with shoulder droop; dorsal scapular and thoracodorsal nerve injuries do not produce this classic winging sign.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anatomy",
+"src": "generated",
+"tp": "Thiamine Deficiency",
+"idx": 2845
+},
+{
+"q": "An 8-year-old boy presents with acute jaundice, dark urine, and anemia 2 days after eating fava beans. Blood smear shows Heinz bodies and bite cells. RBC glucose-6-phosphate dehydrogenase (G6PD) activity is low. Deficiency of this enzyme impairs which metabolic pathway in erythrocytes?",
+"o": [
+"Glycolysis",
+"Pentose phosphate pathway (HMP shunt)",
+"Gluconeogenesis",
+"Glycogenesis"
+],
+"a": 1,
+"ex": "G6PD is the rate-limiting enzyme of the pentose phosphate pathway, generating NADPH. NADPH maintains reduced glutathione, protecting RBCs against oxidative stress. Deficiency causes hemolysis triggered by fava beans, oxidant drugs, or infection; males are most affected (X-linked recessive).",
+"e": "NEET PG",
+"y": "2026",
+"s": "Biochemistry",
+"src": "generated",
+"tp": "G6PD Deficiency",
+"idx": 2846
+},
+{
+"q": "A 60-year-old man with chronic obstructive pulmonary disease undergoes arterial blood gas analysis: pH 7.33, PaCO2 65 mmHg, HCO3− 36 mEq/L, PaO2 55 mmHg. Which is the most appropriate interpretation?",
+"o": [
+"Acute respiratory acidosis",
+"Chronic respiratory acidosis with renal compensation",
+"Metabolic acidosis with respiratory compensation",
+"Mixed respiratory and metabolic acidosis"
+],
+"a": 1,
+"ex": "Low pH (acidemia) with high PaCO2 indicates respiratory acidosis. Elevated HCO3− (36) with normal anion gap reflects renal compensatory retention of bicarbonate, which requires days and indicates a chronic process. In acute respiratory acidosis, HCO3− remains near normal (only ~1 mEq/L rise per 10 mmHg PaCO2 increase); here the large rise (expected ~40 for chronic, observed 36) confirms chronicity. A pure metabolic acidosis would show low pH with low HCO3−, not elevated.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Physiology",
+"src": "generated",
+"tp": "Enzyme Kinetics",
+"idx": 2847
+},
+{
+"q": "A 45-year-old woman presents with weight gain, proximal muscle weakness, and easy bruising. Examination shows truncal obesity, abdominal striae, and hypertension. Serum cortisol is elevated and fails to suppress with high-dose dexamethasone. MRI of the pituitary shows a microadenoma. Which pathological finding is most likely on histology of the adrenal gland?",
+"o": [
+"Bilateral adrenocortical atrophy",
+"Unilateral adrenal adenoma",
+"Diffuse cortical hyperplasia",
+"Adrenocortical carcinoma"
+],
+"a": 2,
+"ex": "Cushing disease (pituitary ACTH microadenoma) causes bilateral diffuse cortical hyperplasia (zona fasciculata mainly) due to sustained ACTH stimulation. Adrenocortical atrophy occurs with exogenous steroids (suppressed ACTH); unilateral adenoma causes adrenal Cushing (suppressed contralateral cortex).",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pathology",
+"src": "generated",
+"tp": "Respiratory Physiology",
+"idx": 2848
+},
+{
+"q": "A 35-year-old farmer is brought to the emergency department with excessive salivation, lacrimation, urinary incontinence, diarrhea, pinpoint pupils, and fasciculations after accidental exposure to an organophosphate insecticide. Vital signs: BP 90/60 mm Hg, HR 48/min. Which drug should be administered immediately as the first-line agent to counter the muscarinic effects?",
+"o": [
+"Atropine",
+"Pralidoxime",
+"Neostigmine",
+"Physostigmine"
+],
+"a": 0,
+"ex": "Organophosphates irreversibly inhibit acetylcholinesterase, causing accumulation of acetylcholine with muscarinic (DUMBBELSS), nicotinic, and CNS effects. Atropine, a muscarinic antagonist, is given first and in large doses to reverse life-threatening muscarinic effects (secretions, bronchospasm, bradycardia). Pralidoxime reactivates the enzyme only if given early (before 'aging') and does not reverse muscarinic effects; neostigmine and physostigmine are cholinesterase inhibitors that would worsen toxicity.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pharmacology",
+"src": "generated",
+"tp": "Cardiac Physiology",
+"idx": 2849
+},
+{
+"q": "A 25-year-old man presents with high-grade fever, headache, and myalgia of 3 days' duration. He recently returned from a trekking trip in Himachal Pradesh. On examination, he has conjunctival suffusion and a transient maculopapular rash. Blood culture is negative after 72 hours. A serological test using dark-field microscopy confirms the diagnosis. Which of the following is the most appropriate antibiotic for this patient?",
+"o": [
+"Doxycycline",
+"Metronidazole",
+"Erythromycin",
+"Vancomycin"
+],
+"a": 0,
+"ex": "Leptospirosis (Weil disease) presents with fever, headache, myalgia, conjunctival suffusion, and rash; diagnosis is confirmed by dark-field microscopy or serology (MAT). Doxycycline is the drug of choice for mild leptospirosis; penicillin G is preferred in severe disease.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Microbiology",
+"src": "generated",
+"tp": "Sensory Receptors",
+"idx": 2850
+},
+{
+"q": "A 24-year-old woman was found dead in her matrimonial home due to burn injuries, 3 years after her marriage. Her parents allege dowry harassment. For a charge of dowry death (Section 304B IPC) to apply, the death must have occurred within how many years of marriage?",
+"o": [
+"3 years",
+"5 years",
+"7 years",
+"10 years"
+],
+"a": 2,
+"ex": "Dowry death (S. 304B IPC) requires death of a woman by burns or other than normal circumstances within 7 years of marriage, with cruelty/dowry harassment shortly before death; presumption of dowry death arises under S. 113B of the Indian Evidence Act.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Forensic Medicine",
+"src": "generated",
+"tp": "Membrane Potential",
+"idx": 2851
+},
+{
+"q": "In a screening trial for colon cancer, screen-detected cases show significantly longer 5-year survival (measured from diagnosis) than clinically detected cases, but overall mortality in the screened and unscreened groups is similar. The apparent survival benefit is best explained by:",
+"o": [
+"Lead time bias",
+"Length bias",
+"Non-response bias",
+"Hawthorne effect"
+],
+"a": 0,
+"ex": "Lead time bias: screening advances the time of diagnosis, so survival measured from diagnosis appears longer even though life is not prolonged (overall mortality unchanged). Length bias would require preferential detection of slow-growing tumours, not stated here.",
+"e": "NEET PG",
+"y": "2026",
+"s": "PSM",
+"src": "generated",
+"tp": "Oxygen Transport",
+"idx": 2852
+},
+{
+"q": "A 45-year-old man presents with unilateral right-sided nasal obstruction and recurrent epistaxis for 4 months. Anterior rhinoscopy shows a reddish, polypoidal mass filling the right nasal cavity, which bleeds on probing. CT scan reveals an enhancing soft tissue mass extending into the maxillary antrum with bone erosion. Biopsy shows a highly vascular lesion with glomeruloid vascular proliferation, perivascular hyalinization and stromal edema, with prominent eosinophilic infiltrate. Which of the following is the most appropriate diagnosis?",
+"o": [
+"Inverted papilloma",
+"Nasal polyp",
+"Angiomatous polyp",
+"Esthesioneuroblastoma"
+],
+"a": 2,
+"ex": "Angiomatous (bleeding) polyp is a variant of inflammatory nasal polyp with prominent vascular stroma, eosinophilic infiltrate and hyalinization; typically unilateral, causes epistaxis and may erode bone, simulating malignancy. Inverted papilloma arises from schneiderian epithelium with endophytic growth on histology, not vascular proliferation; simple nasal polyp is bilateral, pale and non-bleeding; esthesioneuroblastoma shows neuroendocrine rosettes.",
+"e": "NEET PG",
+"y": "2026",
+"s": "ENT",
+"src": "generated",
+"tp": "Sideroblastic Anaemia",
+"idx": 2853
+},
+{
+"q": "A 55-year-old woman presents with sudden severe pain and blurred vision in the left eye with halos around lights and vomiting. Examination shows conjunctival injection, hazy (edematous) cornea, a mid-dilated pupil poorly reactive to light, and an intraocular pressure of 48 mmHg. What is the most likely diagnosis?",
+"o": [
+"Acute anterior uveitis",
+"Acute angle-closure glaucoma",
+"Acute bacterial keratitis",
+"Scleritis"
+],
+"a": 1,
+"ex": "Rock-hard eye with markedly elevated IOP, mid-dilated fixed pupil, corneal edema, and halos are classic for acute angle-closure glaucoma, an emergency treated with IV acetazolamide, topical pilocarpine, and definitive laser iridotomy. Uveitis typically has low/normal IOP and a miotic pupil; keratitis lacks pupillary and IOP changes.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Ophthalmology",
+"src": "generated",
+"tp": "Peutz-Jeghers Syndrome",
+"idx": 2854
+},
+{
+"q": "A 28-year-old woman presents with fever, malar rash, photosensitivity, oral ulcers, and bilateral knee and wrist joint pain of 3 months' duration. ANA is positive at 1:320. Which of the following antibody findings is MOST specific for systemic lupus erythematosus (SLE)?",
+"o": [
+"Anti-dsDNA antibody",
+"Anti-Smith (anti-Sm) antibody",
+"Anti-Ro/SSA antibody",
+"Anti-histone antibody"
+],
+"a": 1,
+"ex": "Anti-Sm is the most specific antibody for SLE (specificity ~99%) but has low sensitivity (~25-30%). Anti-dsDNA is also specific (~95%) and correlates with disease activity and lupus nephritis. Anti-histone antibodies suggest drug-induced lupus, and anti-Ro/SSA is associated with subacute cutaneous lupus and Sjogren syndrome.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Medicine",
+"src": "generated",
+"tp": "Tumour Markers",
+"idx": 2855
+},
+{
+"q": "A 30-year-old man presents with a swelling in the right iliac fossa for 2 years, increasing on straining and cough. It reduces spontaneously on lying down. On examination, the swelling has a cough impulse and is reducible. What is the most likely diagnosis?",
+"o": [
+"Femoral hernia",
+"Direct inguinal hernia",
+"Indirect inguinal hernia",
+"Obturator hernia"
+],
+"a": 2,
+"ex": "Reducible swelling with cough impulse in the inguinal region is an indirect inguinal hernia — the commonest hernia (males, passes through deep ring along the inguinal canal, may descend into scrotum). Direct hernia is a broad-necked, reducible swelling that rarely reaches the scrotum. Femoral hernia is commoner in females, below and lateral to the pubic tubercle. Obturator hernia causes intestinal obstruction in elderly thin females.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Surgery",
+"src": "generated",
+"tp": "Acute Myeloid Leukaemia",
+"idx": 2856
+},
+{
+"q": "A 32-year-old G2P1L1 at 34 weeks of gestation presents with sudden onset, painless, bright red vaginal bleeding. On examination, the uterus is soft and non-tender, fetal heart rate is normal, and there is no uterine contraction. What is the most likely diagnosis?",
+"o": [
+"Abruptio placentae",
+"Placenta previa",
+"Vasa previa",
+"Uterine rupture"
+],
+"a": 1,
+"ex": "Painless, bright red antepartum hemorrhage with a soft, non-tender uterus and normal fetal heart rate is classic of placenta previa (implantation of placenta over the lower uterine segment). Abruptio placentae causes painful, tender uterus with fetal distress; vasa previa presents with painless bleeding with fetal compromise at membrane rupture; uterine rupture causes acute pain and collapse.",
+"e": "NEET PG",
+"y": "2026",
+"s": "OBG",
+"src": "generated",
+"tp": "Rheumatic Heart Disease",
+"idx": 2857
+},
+{
+"q": "A 2-month-old infant presents with fever, poor feeding, and lethargy for 2 days. Examination reveals a bulging anterior fontanelle and neck stiffness. CSF analysis shows 500 neutrophils/mm³, protein 120 mg/dL, and glucose 20 mg/dL. Which organism is the MOST likely causative agent?",
+"o": [
+"Streptococcus pneumoniae",
+"Group B Streptococcus",
+"Haemophilus influenzae type b",
+"Neisseria meningitidis"
+],
+"a": 1,
+"ex": "Purulent (neutrophilic, low glucose, high protein) meningitis in infants <3 months is most commonly caused by Group B Streptococcus, with Escherichia coli and Listeria monocytogenes as other important pathogens. S. pneumoniae and N. meningitidis are common beyond 3 months, and Hib (now rare with vaccination) typically affects children 3 months to 3 years.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Paediatrics",
+"src": "generated",
+"tp": "Starvation Metabolism",
+"idx": 2858
+},
+{
+"q": "A 32-year-old woman presents with a 2-week history of elevated mood, decreased need for sleep (sleeps only 3 hours), grandiosity, pressured speech, and excessive spending. She believes she is on a divine mission to save the world. There are no hallucinations or negative symptoms. What is the most likely diagnosis?",
+"o": [
+"Schizophrenia",
+"Bipolar I disorder, current manic episode",
+"Major depressive disorder",
+"Delirium"
+],
+"a": 1,
+"ex": "Mania requires elevated/expansive or irritable mood plus increased energy lasting ≥1 week with ≥3 symptoms (decreased need for sleep, grandiosity, pressured speech, excessive spending, distractibility, flight of ideas, increased goal-directed activity). Diagnosis: bipolar I disorder manic episode; lithium is first-line. Schizophrenia requires psychosis (delusions/hallucinations) without mood disturbance; her symptoms are mood-congruent.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Psychiatry",
+"src": "generated",
+"tp": "Inborn Errors of Metabolism",
+"idx": 2859
+},
+{
+"q": "A 24-year-old man undergoing emergency surgery is induced with sevoflurane, and succinylcholine is given for intubation. Within minutes, masseter spasm, tachycardia, rising end-tidal CO2 despite hyperventilation, and a rapidly increasing core temperature are noted. What is the most appropriate immediate management?",
+"o": [
+"Discontinue the inhalational agent, hyperventilate with 100% O2, and administer dantrolene 2.5 mg/kg IV",
+"Administer neostigmine to reverse the residual neuromuscular blockade",
+"Give IV diltiazem to control the tachycardia",
+"Begin surface cooling alone with paracetamol and observe"
+],
+"a": 0,
+"ex": "Malignant hyperthermia (MH) is triggered by volatile anaesthetics (sevoflurane, halothane) and succinylcholine in genetically susceptible patients (RYR1 mutation). Treatment: immediately stop the triggering agent, hyperventilate with 100% O2, and give dantrolene 2.5 mg/kg IV (repeated as needed) plus active cooling. Neostigmine, calcium-channel blockers, and cooling alone are not definitive therapy.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anaesthesia",
+"src": "generated",
+"tp": "Leprosy",
+"idx": 2860
+},
+{
+"q": "A 26-year-old woman at 28 weeks of gestation presents with right lower quadrant pain, fever, and leukocytosis. Acute appendicitis is suspected. Which of the following is the most appropriate initial imaging investigation?",
+"o": [
+"Contrast-enhanced CT of the abdomen",
+"MRI of the abdomen",
+"Ultrasonography (USG) of the abdomen",
+"Plain abdominal radiograph"
+],
+"a": 2,
+"ex": "Ultrasonography with graded compression is the first-line imaging in suspected appendicitis during pregnancy, as it avoids fetal radiation exposure. MRI is reserved as a problem-solving tool when USG is inconclusive; CT is avoided due to radiation risk to the fetus.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Radiology",
+"src": "generated",
+"tp": "HPV Oncogenesis",
+"idx": 2861
+},
+{
+"q": "A 60-year-old woman falls on an outstretched hand and presents with a \"dinner fork\" deformity of the right wrist. Radiograph shows a transverse fracture of the distal radius with dorsal displacement and impaction. What is the most likely diagnosis?",
+"o": [
+"Colles fracture",
+"Smith fracture",
+"Barton fracture",
+"Scaphoid fracture"
+],
+"a": 0,
+"ex": "Colles fracture is a distal radius fracture with dorsal displacement and impaction, typically from a fall on an outstretched hand in elderly osteoporotic women, producing the classic \"dinner fork\" deformity. Smith fracture has volar displacement (garden spade deformity); Barton fracture is an intra-articular rim fracture; scaphoid fracture presents with anatomic snuffbox tenderness and a low risk of avascular necrosis of the proximal pole.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Orthopaedics",
+"src": "generated",
+"tp": "Hypersensitivity Reactions",
+"idx": 2862
+},
+{
+"q": "A 32-year-old woman presents with multiple flaccid bullae over the trunk and scalp, along with painful oral erosions. On examination, firm pressure on an intact bulla with a finger causes the epidermis to slide off (positive Nikolsky sign). A Tzanck smear from the bulla shows acantholytic cells. Which of the following is the most likely diagnosis?",
+"o": [
+"Bullous pemphigoid",
+"Pemphigus vulgaris",
+"Dermatitis herpetiformis",
+"Epidermolysis bullosa"
+],
+"a": 1,
+"ex": "Pemphigus vulgaris is an autoimmune blistering disorder with intraepidermal (suprabasal) acantholysis due to autoantibodies against desmoglein 3 (oral-predominant) and desmoglein 1 (cutaneous). It presents with flaccid bullae, oral erosions, positive Nikolsky sign, and acantholytic cells on Tzanck smear. Bullous pemphigoid shows tense bullae with subepidermal split and negative Nikolsky; dermatitis herpetiformis has grouped pruritic vesicles with IgA deposition and no acantholysis; epidermolysis bullosa is a mechanobullous (genetic) disorder presenting in childhood.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Dermatology",
+"src": "generated",
+"tp": "Viral Oncogenesis",
+"idx": 2863
+},
+{
+"q": "A 30-year-old man sustains an anterior dislocation of the right shoulder while playing cricket. On examination, he is unable to abduct the arm beyond 15 degrees and has loss of sensation over the lateral aspect of the shoulder (\"regimental badge\" area). Which nerve is most likely injured?",
+"o": [
+"Axillary nerve",
+"Radial nerve",
+"Suprascapular nerve",
+"Musculocutaneous nerve"
+],
+"a": 0,
+"ex": "Anterior shoulder dislocation most commonly injures the axillary nerve (C5, C6), which winds around the surgical neck of the humerus. It supplies the deltoid and teres minor; injury causes deltoid paralysis (weak abduction beyond 15°) and sensory loss over the regimental badge area. Radial nerve injury is associated with humeral shaft fracture; suprascapular nerve supplies supraspinatus/infraspinatus (initiates first 15° of abduction); musculocutaneous nerve supplies biceps/brachialis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anatomy",
+"src": "generated",
+"tp": "Cerebellum",
+"idx": 2864
+},
+{
+"q": "A 25-year-old man develops acute hemolytic anemia 2 days after eating fava beans. Peripheral smear shows Heinz bodies. Deficiency of which enzyme is the most likely cause?",
+"o": [
+"Glucose-6-phosphate dehydrogenase",
+"Pyruvate kinase",
+"Glucokinase",
+"Glucose-6-phosphatase"
+],
+"a": 0,
+"ex": "G6PD deficiency impairs NADPH generation in the pentose phosphate pathway, so reduced glutathione cannot be regenerated and RBCs are damaged by oxidant stress (fava beans, primaquine, sulfonamides), causing Heinz bodies and acute hemolytic anemia. It is X-linked and the most common enzyme deficiency worldwide.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Biochemistry",
+"src": "generated",
+"tp": "Histology",
+"idx": 2865
+},
+{
+"q": "A 45-year-old man with chronic kidney disease and a serum potassium of 6.2 mEq/L presents with muscle weakness. His ECG shows tall, peaked T waves. Which of the following is the most likely effect of this electrolyte abnormality on the resting membrane potential (RMP) and excitability of skeletal muscle fibres?",
+"o": [
+"RMP depolarised towards threshold; increased excitability",
+"RMP hyperpolarised; decreased excitability",
+"RMP depolarised; decreased excitability",
+"RMP unchanged; decreased excitability"
+],
+"a": 2,
+"ex": "Hyperkalaemia raises extracellular K+, so the K+ equilibrium potential (EK) becomes less negative, depolarising the resting membrane potential towards threshold. Although the fibre starts closer to threshold, the persistent depolarisation inactivates voltage-gated Na+ channels, reducing the number available to open on stimulation. Result: decreased excitability and muscle weakness despite the depolarised RMP. The other options confuse either the direction of RMP change or the net effect on excitability.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Physiology",
+"src": "generated",
+"tp": "Urinary Crystals",
+"idx": 2866
+},
+{
+"q": "A 60-year-old man with long-standing bronchiectasis and recurrent chest infections develops nephrotic syndrome. Renal biopsy stained with Congo red shows apple-green birefringence under polarized light. Which protein is most likely deposited in the glomeruli?",
+"o": [
+"Immunoglobulin light chains (AL)",
+"Serum amyloid A (AA)",
+"Beta-2 microglobulin (Abeta2M)",
+"Transthyretin (ATTR)"
+],
+"a": 1,
+"ex": "Chronic suppurative/inflammatory disease (bronchiectasis) drives reactive systemic (AA) amyloidosis, where serum amyloid A—an acute-phase reactant—deposits in glomeruli. AL amyloidosis associates with plasma cell dyscrasias; beta-2 microglobulin with long-term hemodialysis; ATTR is hereditary/senile.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pathology",
+"src": "generated",
+"tp": "Histopathology Stains",
+"idx": 2867
+},
+{
+"q": "A 60-year-old man with type 2 diabetes and heart failure (LVEF 35%) develops erythema nodosum, and a chest X-ray shows bilateral hilar lymphadenopathy. A serum ACE level is markedly elevated, confirming sarcoidosis. Which drug should be AVOIDED in this patient because it is contraindicated in heart failure?",
+"o": [
+"Thalidomide",
+"Methotrexate",
+"Hydroxychloroquine",
+"Azathioprine"
+],
+"a": 1,
+"ex": "Methotrexate is contraindicated in heart failure (causes folate depletion, can worsen LV function) and is used in steroid-refractory sarcoidosis. Thalidomide and hydroxychloroquine are cutaneous sarcoidosis treatments, and azathioprine is a steroid-sparing option; none carry the same heart failure contraindication.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pharmacology",
+"src": "generated",
+"tp": "Epidemiology Study Designs",
+"idx": 2868
+},
+{
+"q": "A 45-year-old man presents with fever, headache, altered sensorium and focal seizures of 3 days duration. MRI brain shows hemorrhagic necrosis of the temporal lobe. Which of the following is the most sensitive and specific test for diagnosis?",
+"o": [
+"CSF Gram stain and culture",
+"CSF PCR for herpes simplex virus",
+"Viral culture of throat swab",
+"Serum antibody titres (IgM)"
+],
+"a": 1,
+"ex": "Clinical picture is herpes simplex encephalitis (HSE) - acute febrile illness with altered sensorium, focal seizures and temporal lobe involvement on MRI. HSV-1 is the most common cause of sporadic fatal encephalitis. CSF PCR is the gold standard (sensitivity >95%); viral culture has low yield, and serology is unreliable. Acyclovir should be started empirically without waiting for PCR confirmation.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Microbiology",
+"src": "generated",
+"tp": "Neonatal Mortality",
+"idx": 2869
+},
+{
+"q": "A 35-year-old man is found dead hanging from a ceiling fan. At autopsy, the ligature mark is oblique, non-continuous (interrupted at the nape), and placed above the thyroid cartilage, with the knot at the back of the neck. Which of the following features best supports death by hanging rather than strangulation?",
+"o": [
+"Oblique, incomplete ligature mark placed above the thyroid cartilage",
+"Horizontal, complete ligature mark below the thyroid cartilage",
+"Marked facial congestion with petechiae over conjunctiva",
+"Fracture of the hyoid bone"
+],
+"a": 0,
+"ex": "In hanging, the ligature mark is oblique, incomplete (interrupted at the knot site), and lies above the thyroid cartilage; in strangulation, it is horizontal, complete, and below the thyroid cartilage. Facial congestion with petechiae and hyoid fractures (more common in the young in hanging, but overall more typical of strangulation) favour strangulation.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Forensic Medicine",
+"src": "generated",
+"tp": "Meta-analysis",
+"idx": 2870
+},
+{
+"q": "A new rapid diagnostic test for typhoid fever has a sensitivity of 80% and a specificity of 90%. It is applied to a group of 1000 patients presenting with fever, of whom 100 actually have typhoid fever. How many false-positive results are expected?",
+"o": [
+"90",
+"80",
+"100",
+"20"
+],
+"a": 0,
+"ex": "False positives = (1 − specificity) × non-diseased = 10% × 900 = 90. Among 1000 persons: 100 diseased (TP = 80, FN = 20) and 900 non-diseased (TN = 810, FP = 90). PPV = 80/170 ≈ 47%.",
+"e": "NEET PG",
+"y": "2026",
+"s": "PSM",
+"src": "generated",
+"tp": "Diabetes Screening",
+"idx": 2871
+},
+{
+"q": "A 25-year-old woman presents with progressive bilateral hearing loss and tinnitus for 2 years. Otoscopy shows normal tympanic membranes bilaterally. Rinne test with a 512 Hz tuning fork is negative (bone conduction > air conduction) in both ears; Weber test lateralizes to neither side. Which is the most likely diagnosis?",
+"o": [
+"Otosclerosis",
+"Meniere disease",
+"Chronic suppurative otitis media",
+"Eustachian tube dysfunction"
+],
+"a": 0,
+"ex": "Bilateral conductive hearing loss with normal tympanic membranes, negative Rinne and non-lateralizing Weber point to otosclerosis — fixation of the stapes footplate. It typically affects young women, is bilateral and familial, and may worsen during pregnancy. CSOM would show an abnormal TM, Meniere disease gives sensorineural loss with episodic vertigo, and ET dysfunction usually causes effusion with a retracted/dull TM.",
+"e": "NEET PG",
+"y": "2026",
+"s": "ENT",
+"src": "generated",
+"tp": "Allergic Fungal Sinusitis",
+"idx": 2872
+},
+{
+"q": "A 55-year-old woman presents with severe pain and redness in the right eye for 6 hours, halos around lights, nausea and vomiting. Examination shows ciliary congestion, corneal haze, a mid-dilated non-reactive pupil, and a shallow anterior chamber. Intraocular pressure is 58 mmHg. What is the most appropriate initial medical management?",
+"o": [
+"Topical corticosteroid and cycloplegic",
+"Intravenous mannitol and oral acetazolamide",
+"Oral prednisolone and acyclovir",
+"Topical antibiotic and eye patching"
+],
+"a": 1,
+"ex": "Acute primary angle-closure glaucoma: iris blocks trabecular meshwork, IOP rises acutely. Hyperosmotic agent (IV mannitol) plus aqueous-suppressant (acetazolamide) rapidly lower IOP; add topical pilocarpine and beta-blocker. Definitive treatment is laser peripheral iridotomy. Steroids/cycloplegics suit uveitis; antibiotics suit infective keratitis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Ophthalmology",
+"src": "generated",
+"tp": "Sinonasal Tumours",
+"idx": 2873
+},
+{
+"q": "A 25-year-old woman presents with low-grade fever, malar rash, photosensitivity, and painless oral ulcers for 2 months. Urinalysis shows proteinuria of 1.5 g/day. ANA is positive (titer 1:640). Which investigation best confirms the diagnosis?",
+"o": [
+"Anti-dsDNA antibody",
+"Rheumatoid factor",
+"Anti-CCP antibody",
+"Serum complement C3"
+],
+"a": 0,
+"ex": "Anti-dsDNA is highly specific for SLE (~95%) and supports the diagnosis in an ANA-positive patient with clinical features; it also correlates with disease activity and lupus nephritis. Rheumatoid factor and anti-CCP point to rheumatoid arthritis; low C3 is a supportive finding of active SLE but is not confirmatory.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Medicine",
+"src": "generated",
+"tp": "ANCA-Associated Vasculitis",
+"idx": 2874
+},
+{
+"q": "A 60-year-old man presents with jaundice, pruritus, and weight loss over 2 months. Examination reveals a palpable, non-tender gallbladder (Courvoisier sign). Serum bilirubin 8 mg/dL, alkaline phosphatase markedly elevated. USG shows dilated intrahepatic bile ducts and a normal gallbladder. What is the most likely diagnosis?",
+"o": [
+"Carcinoma head of pancreas",
+"Choledocholithiasis",
+"Acute cholecystitis",
+"Gallbladder carcinoma"
+],
+"a": 0,
+"ex": "Painless progressive jaundice with a palpable gallbladder (Courvoisier sign) suggests malignant obstruction at or below the cystic duct level, most commonly carcinoma head of pancreas. Choledocholithiasis usually causes painful, fluctuating jaundice with cholangitis; the gallbladder is rarely palpable (stone disease causes a fibrotic, non-distensible gallbladder). Acute cholecystitis presents with right upper quadrant pain and fever, not painless jaundice.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Surgery",
+"src": "generated",
+"tp": "Antidepressants",
+"idx": 2875
+},
+{
+"q": "A 24-year-old primigravida at 32 weeks gestation presents with sudden, painless, bright red vaginal bleeding. Ultrasound shows a placenta completely covering the internal cervical os. Fetal heart rate is reassuring and the patient is hemodynamically stable. What is the most appropriate management?",
+"o": [
+"Vaginal examination to assess cervical dilatation",
+"Emergency lower segment cesarean section",
+"Admission with expectant management and antenatal corticosteroids",
+"Amniotomy to expedite labor"
+],
+"a": 2,
+"ex": "Placenta previa classically causes painless, bright red, recurrent bleeding in the third trimester. At 32 weeks with no active labor, fetal distress, or uncontrolled hemorrhage, expectant management (admission, bed rest, corticosteroids for fetal lung maturity) is preferred to gain fetal maturity. Vaginal examination is contraindicated as it may provoke torrential hemorrhage; delivery by cesarean section is reserved for severe/uncontrolled bleeding, fetal compromise, or gestation near term.",
+"e": "NEET PG",
+"y": "2026",
+"s": "OBG",
+"src": "generated",
+"tp": "Antitussives",
+"idx": 2876
+},
+{
+"q": "A 4-year-old boy presents with periorbital puffiness and pedal edema for 1 week. Urine shows 3+ protein; 24-hour urinary protein is 65 mg/kg/day; serum albumin is 1.8 g/dL. Blood pressure and renal function are normal. What is the most appropriate initial treatment?",
+"o": [
+"Oral prednisolone",
+"Cyclophosphamide",
+"Renal biopsy followed by treatment",
+"Diuretic monotherapy"
+],
+"a": 0,
+"ex": "Nephrotic syndrome with normal BP and renal function in this age group is most likely minimal change disease (steroid-sensitive). Prednisolone is first-line; biopsy is reserved for steroid resistance, atypical features, or age <1 or >12 years. Diuretics alone do not treat the underlying proteinuria.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Paediatrics",
+"src": "generated",
+"tp": "Neuropathic Pain",
+"idx": 2877
+},
+{
+"q": "A 32-year-old man with schizophrenia on long-acting injectable haloperidol presents with fever (39.5°C), severe generalized muscle rigidity, diaphoresis, and fluctuating consciousness. Pulse 120/min, BP 150/100 mm Hg. Serum CK 5200 U/L, WBC 14,000/mm³, CSF normal. What is the most likely diagnosis?",
+"o": [
+"Neuroleptic malignant syndrome",
+"Serotonin syndrome",
+"Malignant hyperthermia",
+"Acute dystonia"
+],
+"a": 0,
+"ex": "NMS is an idiosyncratic reaction to D2 dopamine blockade by antipsychotics, especially high-potency typicals like haloperidol: fever, lead-pipe rigidity, autonomic instability, altered mentation, and markedly elevated CK. Treatment: stop the antipsychotic, supportive care, and dantrolene/bromocriptine. Serotonin syndrome (clonus, hyperreflexia, serotonergic drug history) and malignant hyperthermia (inhalational anesthetics/succinylcholine trigger) are excluded; acute dystonia causes no fever or CK elevation.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Psychiatry",
+"src": "generated",
+"tp": "Restraint (Forensic)",
+"idx": 2878
+},
+{
+"q": "A 25-year-old woman with a gas gangrene infection of the leg requires urgent debridement. She is hypotensive (BP 90/60 mmHg) and has a heart rate of 130/min. Which anaesthetic technique is most appropriate for induction?",
+"o": [
+"Ketamine 2 mg/kg IV",
+"Thiopentone 5 mg/kg IV",
+"Propofol 2 mg/kg IV",
+"Halothane inhalation induction"
+],
+"a": 0,
+"ex": "In septic shock with hypotension, ketamine is preferred for induction because it maintains arterial pressure via sympathetic stimulation (catecholamine release). Barbiturates (thiopentone) and propofol cause dose-dependent vasodilation and myocardial depression, worsening hypotension. Halothane also causes myocardial depression and is unsuitable in an unstable patient.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anaesthesia",
+"src": "generated",
+"tp": "Pelvic Anatomy (Sex Determination)",
+"idx": 2879
+},
+{
+"q": "A 32-year-old man presents with acute severe left loin pain radiating to the groin, with hematuria. Non-contrast CT of the kidneys, ureters and bladder (NCCT KUB) shows a 6 mm hyperdense calculus at the left vesicoureteric junction with mild proximal hydroureteronephrosis. What is the most appropriate next step in management?",
+"o": [
+"Observation with analgesics and hydration, with review in 4-6 weeks",
+"Immediate ureteroscopic lithotripsy",
+"Extracorporeal shock wave lithotripsy (ESWL)",
+"Percutaneous nephrostomy drainage"
+],
+"a": 0,
+"ex": "A 6 mm distal ureteric stone with no signs of sepsis, renal failure, or refractory pain has a high chance (approx 75%) of spontaneous passage; a 4-6 week trial of conservative management with analgesics and hydration is appropriate. Ureteroscopy or ESWL is considered for failure of passage, stones >10 mm, or complications; nephrostomy is reserved for obstructed infected kidney.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Radiology",
+"src": "generated",
+"tp": "Fingerprint Analysis",
+"idx": 2880
+},
+{
+"q": "A 25-year-old man falls on his outstretched right hand. He has wrist pain and tenderness in the anatomical snuffbox; plain radiographs show no fracture. What is the most appropriate management?",
+"o": [
+"Reassure and allow full activity as radiographs are normal",
+"Immobilize in a thumb spica cast and repeat radiographs after 10-14 days",
+"Proceed with immediate open reduction and internal fixation",
+"Order MRI before any treatment decision"
+],
+"a": 1,
+"ex": "Clinically suspected scaphoid fracture with negative initial X-ray must be treated as a fracture: immobilize in a thumb spica cast and repeat radiographs in 10-14 days, since occult fractures appear later. Scaphoid blood supply is retrograde (dorsal branch), making the proximal pole prone to avascular necrosis and nonunion if untreated.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Orthopaedics",
+"src": "generated",
+"tp": "Forensic Psychiatry",
+"idx": 2881
+},
+{
+"q": "A 30-year-old woman presents with painful oral ulcers followed by flaccid blisters on the trunk. Nikolsky sign is positive. Histopathology of a fresh blister shows a suprabasal cleft with acantholysis. What is the most likely diagnosis?",
+"o": [
+"Bullous pemphigoid",
+"Pemphigus vulgaris",
+"Dermatitis herpetiformis",
+"Epidermolysis bullosa"
+],
+"a": 1,
+"ex": "Pemphigus vulgaris is an intraepidermal (suprabasal) blistering disorder with flaccid bullae, positive Nikolsky sign, and early oral mucosal involvement; autoantibodies target desmoglein 3. Bullous pemphigoid gives subepidermal tense bullae with a negative Nikolsky sign; dermatitis herpetiformis presents as pruritic vesicles on extensor surfaces with granular IgA in dermal papillae; epidermolysis bullosa is a mechanobullous disease of childhood.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Dermatology",
+"src": "generated",
+"tp": "Mechanism of Injury",
+"idx": 2882
+},
+{
+"q": "A 45-year-old woman undergoes left modified radical mastectomy with axillary lymph node dissection for breast cancer. Two weeks postoperatively, she is unable to fully raise her arm above shoulder level, and the medial border of her left scapula protrudes backward (\"winging\") when she pushes against a wall. Which nerve was most likely injured during surgery?",
+"o": [
+"Long thoracic nerve",
+"Thoracodorsal nerve",
+"Dorsal scapular nerve",
+"Axillary nerve"
+],
+"a": 0,
+"ex": "The long thoracic nerve (C5–C7) supplies serratus anterior, the main protractor and stabilizer of the scapula. Its injury causes medial scapular winging, accentuated when pushing against a wall, and weak arm elevation above the horizontal; it is at risk during axillary lymph node dissection or radical mastectomy. Thoracodorsal nerve (latissimus dorsi) causes weak shoulder adduction/internal rotation; dorsal scapular nerve (rhomboids) causes weak retraction with lateral winging; axillary nerve (deltoid, teres minor) causes deltoid paralysis, flattened shoulder contour, and loss of abduction at the shoulder — none produce medial scapular winging.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anatomy",
+"src": "generated",
+"tp": "COVID-19",
+"idx": 2883
+},
+{
+"q": "A 2-year-old boy presents with recurrent episodes of fasting hypoglycemia, marked hepatomegaly, lactic acidosis, hyperuricemia, and hyperlipidemia. Glucagon administration does not raise his blood glucose level. A liver biopsy shows excessive glycogen deposition. Which enzyme is most likely deficient?",
+"o": [
+"Glucose-6-phosphatase (von Gierke disease, GSD type I)",
+"Lysosomal acid alpha-1,4-glucosidase (Pompe disease, GSD type II)",
+"Alpha-1,4-glucan branching enzyme (GSD type IV)",
+"Glucose-6-phosphate dehydrogenase (G6PD)"
+],
+"a": 0,
+"ex": "Von Gierke disease (GSD type I) is due to glucose-6-phosphatase deficiency, preventing both glycogenolysis and gluconeogenesis from releasing free glucose. This causes severe fasting hypoglycemia unresponsive to glucagon, hepatomegaly, lactic acidosis (accumulation of pyruvate/lactate), hyperuricemia (shunt to pentose phosphate pathway increases purine synthesis), and hyperlipidemia. Pompe disease (type II) is a lysosomal disorder with cardiomyopathy, not hypoglycemia; branching enzyme deficiency (type IV) presents with cirrhosis; G6PD deficiency causes hemolytic anemia, not hypoglycemia.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Biochemistry",
+"src": "generated",
+"tp": "Antidepressants",
+"idx": 2884
+},
+{
+"q": "A 35-year-old man with nephrotic syndrome (urinary protein 8 g/day, serum albumin 1.8 g/dL) develops bilateral pitting pedal edema. Which of the following alterations in Starling forces across the capillary wall best explains this edema?",
+"o": [
+"Increased capillary hydrostatic pressure",
+"Decreased plasma oncotic pressure",
+"Increased interstitial hydrostatic pressure",
+"Decreased capillary permeability"
+],
+"a": 1,
+"ex": "Nephrotic syndrome causes massive proteinuria leading to hypoalbuminemia. Reduced plasma oncotic pressure (the major force opposing filtration at the capillary) shifts the balance of Starling forces toward net fluid filtration, producing edema. Capillary hydrostatic pressure is unchanged; interstitial hydrostatic pressure rises only as a secondary, compensatory response.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Physiology",
+"src": "generated",
+"tp": "Visual Pathway Lesions",
+"idx": 2885
+},
+{
+"q": "A 45-year-old woman presents with dry cough, fatigue, and bilateral hilar lymphadenopathy on chest X-ray. A transbronchial biopsy shows well-formed non-caseating granulomas. Serum calcium is elevated. Which finding is most characteristic of the underlying disease?",
+"o": [
+"Caseating granulomas containing acid-fast bacilli",
+"Non-caseating granulomas with Schaumann bodies",
+"Reed-Sternberg cells with granuloma formation",
+"Necrotizing granulomas with positive fungal stains"
+],
+"a": 1,
+"ex": "Non-caseating granulomas (with Schaumann and asteroid bodies) in a patient with bilateral hilar lymphadenopathy, dry cough, and hypercalcemia point to sarcoidosis. Caseating granulomas with AFB indicate tuberculosis; Reed-Sternberg cells indicate Hodgkin lymphoma; fungal infection would show necrotizing granulomas with positive fungal stains.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pathology",
+"src": "generated",
+"tp": "Eye Testing Charts",
+"idx": 2886
+},
+{
+"q": "A 62-year-old woman with chronic heart failure and atrial fibrillation on digoxin and furosemide presents with nausea, anorexia, and blurred vision with yellow-green halos. Her digoxin level is 3.2 ng/mL (therapeutic: 0.5–2.0). Which of the following is the MOST important predisposing factor for this toxicity?",
+"o": [
+"Hypokalemia",
+"Hyperkalemia",
+"Hypocalcemia",
+"Hypermagnesemia"
+],
+"a": 0,
+"ex": "Digoxin inhibits Na+/K+-ATPase. Hypokalemia (induced here by furosemide) increases digoxin binding to the pump, precipitating toxicity — GI symptoms (nausea, anorexia), arrhythmias, and visual disturbances (xanthopsia). Hypercalcemia (not hypocalcemia) also potentiates toxicity; hyperkalemia and hypermagnesemia are protective.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pharmacology",
+"src": "generated",
+"tp": "Oxygen Therapy",
+"idx": 2887
+},
+{
+"q": "A 30-year-old male presents with profuse \"rice-water\" stools, vomiting, and severe dehydration following consumption of contaminated seafood. His stool specimen was transported in Cary-Blair medium. Culture of the stool on which of the following selective media would show yellow colonies of the causative organism?",
+"o": [
+"Thiosulfate-citrate-bile salts-sucrose (TCBS) agar",
+"MacConkey agar",
+"Löwenstein-Jensen medium",
+"Baird-Parker agar"
+],
+"a": 0,
+"ex": "The clinical picture is cholera, caused by Vibrio cholerae, an oxidase-positive, comma-shaped, darting-mobile (shooting star) organism. It is alkaliphilic and grows on TCBS agar producing yellow colonies (sucrose fermenter). Stool is transported in Cary-Blair medium. Management: aggressive rehydration with ORS/IV fluids plus doxycycline. MacConkey (enteric gram-negatives), LJ (Mycobacteria), and Baird-Parker (S. aureus) are not relevant.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Microbiology",
+"src": "generated",
+"tp": "Neuromuscular Blockade",
+"idx": 2888
+},
+{
+"q": "A 40-year-old man is found dead in a closed garage with a car engine running. At autopsy, the postmortem lividity is bright cherry-red, and the blood and internal organs appear bright red. The most likely cause of death is:",
+"o": [
+"Carbon monoxide poisoning",
+"Cyanide poisoning",
+"Arsenic poisoning",
+"Organophosphate poisoning"
+],
+"a": 0,
+"ex": "CO binds haemoglobin with ~200-300 times the affinity of oxygen, forming carboxyhaemoglobin, which imparts the characteristic cherry-red lividity, pink skin, and bright red blood and viscera. Cyanide also causes bright red blood but lividity is usually normal; arsenic and organophosphates do not produce cherry-red lividity.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Forensic Medicine",
+"src": "generated",
+"tp": "Oxygen Therapy",
+"idx": 2889
+},
+{
+"q": "A 45-year-old man presents with fever, jaundice, and dark urine 3 weeks after returning from a flood-affected village. Anti-HEV IgM is positive. Which of the following is the most appropriate community-level preventive measure to control this outbreak?",
+"o": [
+"Ring vaccination of all household contacts",
+"Provision of safe drinking water and sanitation",
+"Prophylactic immune globulin to household contacts",
+"Isolation of the patient until jaundice resolves"
+],
+"a": 1,
+"ex": "Hepatitis E is transmitted faeco-orally via contaminated water; outbreaks follow floods/monsoon. Control relies on safe water supply and sanitation, not isolation (no significant person-to-person spread), immune globulin (ineffective), or vaccination (no vaccine licensed in routine use).",
+"e": "NEET PG",
+"y": "2026",
+"s": "PSM",
+"src": "generated",
+"tp": "Neonatal Meningitis",
+"idx": 2890
+},
+{
+"q": "A 16-year-old boy presents with recurrent profuse epistaxis and progressive right-sided nasal obstruction for 6 months. Nasal endoscopy shows a pinkish, lobulated, non-tender mass filling the nasopharynx. What is the most likely diagnosis?",
+"o": [
+"Antrochoanal polyp",
+"Nasopharyngeal carcinoma",
+"Juvenile nasopharyngeal angiofibroma",
+"Inverted papilloma"
+],
+"a": 2,
+"ex": "JNA is a benign but highly vascular tumor of adolescent males, arising near the sphenopalatine foramen, classically presenting with recurrent epistaxis and nasal obstruction. It is intensely vascular; biopsy is contraindicated (risk of torrential hemorrhage). MRI is the investigation of choice; management is embolization followed by surgical excision.",
+"e": "NEET PG",
+"y": "2026",
+"s": "ENT",
+"src": "generated",
+"tp": "Trematode Infections",
+"idx": 2891
+},
+{
+"q": "A 58-year-old woman presents with sudden onset severe pain in the right eye, headache, and vomiting since 3 hours. She sees halos around lights and vision is reduced to 6/36. On examination, the right eye shows circumcorneal congestion, hazy oedematous cornea, and a mid-dilated, fixed pupil. Intraocular pressure is 58 mmHg. The most likely diagnosis is:",
+"o": [
+"Acute iridocyclitis (anterior uveitis)",
+"Acute angle-closure glaucoma",
+"Central retinal artery occlusion",
+"Acute mucopurulent conjunctivitis"
+],
+"a": 1,
+"ex": "Acute angle-closure glaucoma: iris blocks the trabecular meshwork → sudden IOP elevation (typically >40 mmHg) → corneal oedema (halos), fixed mid-dilated pupil, severe pain with vomiting. Ocular emergency — treat with acetazolamide, topical pilocarpine, beta-blockers, hyperosmotic agents; definitive treatment is laser peripheral iridotomy. Iritis causes a miotic pupil and low/normal IOP; CRAO is painless with cherry-red spot; conjunctivitis has discharge without pupil/cornea signs.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Ophthalmology",
+"src": "generated",
+"tp": "Visceral Leishmaniasis",
+"idx": 2892
+},
+{
+"q": "A 22-year-old woman with type 1 diabetes mellitus presents with vomiting, abdominal pain, and deep rapid breathing. Examination: BP 90/60 mm Hg, pulse 110/min, RR 30/min. Blood glucose 480 mg/dL, serum ketones positive, arterial pH 7.10, serum potassium 5.1 mEq/L. Which is the most appropriate INITIAL step in management?",
+"o": [
+"Intravenous regular insulin bolus",
+"Intravenous normal saline infusion",
+"Intravenous sodium bicarbonate",
+"Oral potassium supplementation"
+],
+"a": 1,
+"ex": "DKA. Hypovolemia is the immediate threat — isotonic saline is the first step; it lowers glucose via improved perfusion before insulin starts. Insulin bolus is deferred until fluids are running (risk of hypokalemia/hypoglycemia). Bicarbonate only if pH <6.9. Potassium repletion starts after insulin, guided by serum K+.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Medicine",
+"src": "generated",
+"tp": "Diphtheria",
+"idx": 2893
+},
+{
+"q": "A 45-year-old man presents with acute right iliac fossa pain, fever, and anorexia of 24 hours duration. On examination, tenderness is maximal at McBurney's point with rebound tenderness and guarding. WBC count is 14,000/mm³. Which of the following is the most appropriate next step in management?",
+"o": [
+"Emergency appendicectomy",
+"Bowel rest and intravenous antibiotics with observation",
+"Ultrasound abdomen followed by interval appendicectomy",
+"CT scan of the abdomen and pelvis before any decision"
+],
+"a": 0,
+"ex": "Classic presentation of acute appendicitis (migrating RIF pain, fever, anorexia, McBurney's tenderness, rebound, leukocytosis) with signs of peritoneal irritation mandates urgent appendicectomy. Imaging is reserved for equivocal cases; antibiotics alone risk perforation.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Surgery",
+"src": "generated",
+"tp": "Infectious Mononucleosis",
+"idx": 2894
+},
+{
+"q": "A 24-year-old primigravida at 38 weeks gestation with severe preeclampsia (BP 170/110 mm Hg, 3+ proteinuria) is receiving magnesium sulfate infusion for seizure prophylaxis. She develops loss of deep tendon reflexes and respiratory depression (respiratory rate 8/min). Which of the following is the drug of choice to reverse magnesium toxicity?",
+"o": [
+"10% Calcium gluconate given intravenously",
+"Sodium bicarbonate given intravenously",
+"Naloxone given intravenously",
+"Flumazenil given intravenously"
+],
+"a": 0,
+"ex": "Magnesium sulfate toxicity progresses sequentially: loss of patellar reflexes (serum Mg 10-12 mg/dL) → respiratory depression (15-17 mg/dL) → cardiac arrest (≥18 mg/dL). Antidote is 10% calcium gluconate 10 mL IV over 3 minutes; discontinue MgSO4 infusion and give oxygen. Loss of DTR is the earliest sign, so patellar reflex should be checked before each dose.",
+"e": "NEET PG",
+"y": "2026",
+"s": "OBG",
+"src": "generated",
+"tp": "Fungal Infections",
+"idx": 2895
+},
+{
+"q": "A 3-year-old child has fever for 6 days, bilateral non-exudative conjunctival congestion, strawberry tongue, erythematous maculopapular rash, and swelling of both hands. The most appropriate next step in management is:",
+"o": [
+"Oral aspirin alone and discharge",
+"Intravenous immunoglobulin (2 g/kg) with high-dose aspirin",
+"Oral corticosteroids alone",
+"Antibiotics for presumed bacterial infection"
+],
+"a": 1,
+"ex": "Features suggest Kawasaki disease (fever >5 days + conjunctivitis + strawberry tongue + rash + extremity swelling). Standard therapy is IVIG 2 g/kg single dose plus high-dose aspirin; early treatment within 10 days reduces coronary artery aneurysm risk.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Paediatrics",
+"src": "generated",
+"tp": "Viral Replication",
+"idx": 2896
+},
+{
+"q": "A 28-year-old man with schizophrenia, on haloperidol for the past 2 weeks, presents with fever (39°C), severe muscle rigidity, altered sensorium, and diaphoresis. BP 170/100 mm Hg, HR 120/min. Serum CK is 12,000 U/L. Which is the most appropriate next step?",
+"o": [
+"Increase the dose of haloperidol",
+"Stop the antipsychotic and start supportive care with dantrolene/bromocriptine",
+"Add fluoxetine for depressive symptoms",
+"Administer intramuscular benztropine for extrapyramidal symptoms"
+],
+"a": 1,
+"ex": "Neuroleptic malignant syndrome (NMS) is an idiosyncratic, life-threatening complication of antipsychotics due to potent D2 blockade. Classic tetrad: fever, muscle rigidity, autonomic instability, altered mental status, with markedly elevated CK. Treatment: immediately stop the offending antipsychotic, institute supportive care (cooling, IV fluids), and use dantrolene or bromocriptine in severe cases. Anticholinergics (benztropine) are ineffective; increasing haloperidol or adding an SSRI would worsen the condition.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Psychiatry",
+"src": "generated",
+"tp": "Endotoxins",
+"idx": 2897
+},
+{
+"q": "A 20-year-old man undergoing emergency appendicectomy under general anaesthesia (thiopentone, succinylcholine, halothane) develops masseter spasm, tachycardia, rapidly rising end-tidal CO2 and a temperature rise to 39.5°C. Which is the MOST appropriate immediate management?",
+"o": [
+"Stop all trigger agents, hyperventilate with 100% O2 and give dantrolene 2.5 mg/kg IV",
+"Administer intravenous propranolol to control tachycardia",
+"Give intramuscular dantrolene and continue anaesthesia to complete surgery",
+"Cool the patient with ice packs and observe without discontinuing anaesthesia"
+],
+"a": 0,
+"ex": "This is malignant hyperthermia (MH), triggered by succinylcholine and volatile agents like halothane. First steps: discontinue all triggers immediately, hyperventilate with 100% O2, and give dantrolene 2.5 mg/kg IV (repeat up to 10 mg/kg). Propranolol is avoided (may precipitate hyperkalaemia/cardiac arrest); cooling and sodium bicarbonate are adjuncts, not primary therapy.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anaesthesia",
+"src": "generated",
+"tp": "Infective Endocarditis",
+"idx": 2898
+},
+{
+"q": "A 45-year-old woman presents with sudden-onset thunderclap headache and neck stiffness. Which is the MOST appropriate initial imaging investigation?",
+"o": [
+"Non-contrast CT of the head",
+"MRI brain with contrast",
+"Carotid angiography",
+"Plain skull X-ray"
+],
+"a": 0,
+"ex": "Non-contrast CT (NCCT) is the first-line investigation for suspected subarachnoid hemorrhage; extravasated blood appears hyperdense in the basal cisterns and sylvian fissures, with sensitivity of about 98% when performed within 12 hours of symptom onset. If NCCT is negative but clinical suspicion remains high, lumbar puncture should be done to detect xanthochromia. Angiography (CTA/DSA) is reserved for detecting the aneurysm, not for initial diagnosis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Radiology",
+"src": "generated",
+"tp": "Anaerobic Bacteria",
+"idx": 2899
+},
+{
+"q": "A 68-year-old woman slips on the floor and sustains a fall. She has pain in the right hip and is unable to bear weight. Examination shows a shortened, externally rotated right lower limb. X-ray reveals a displaced intracapsular (subcapital) fracture of the femoral neck. Which is the most appropriate management?",
+"o": [
+"Traction and prolonged bed rest",
+"Internal fixation with cannulated screws",
+"Hemiarthroplasty",
+"Total hip replacement"
+],
+"a": 2,
+"ex": "Displaced intracapsular femoral neck fractures disrupt the retrograde blood supply to the femoral head, giving high rates of avascular necrosis and nonunion with internal fixation. In elderly, low-demand patients, hemiarthroplasty is the treatment of choice; total hip replacement is reserved for active, high-demand elderly patients with pre-existing arthritis. Undisplaced fractures or those in young patients are managed with internal fixation.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Orthopaedics",
+"src": "generated",
+"tp": "Microbial Identification",
+"idx": 2900
+},
+{
+"q": "A 32-year-old woman presents with multiple flaccid blisters and erosions over the trunk and oral mucosal ulcers for 3 weeks. Pressure on an intact bulla extends the blister to adjacent skin (positive Nikolsky sign). The most likely diagnosis is:",
+"o": [
+"Pemphigus vulgaris",
+"Bullous pemphigoid",
+"Epidermolysis bullosa",
+"Dermatitis herpetiformis"
+],
+"a": 0,
+"ex": "Flaccid bullae, oral involvement, and positive Nikolsky sign indicate intraepidermal blistering — classic of Pemphigus vulgaris (autoantibodies against desmoglein 3). Bullous pemphigoid gives tense bullae, subepidermal split, and negative Nikolsky sign, usually in the elderly.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Dermatology",
+"src": "generated",
+"tp": "Molecular Biology Techniques",
+"idx": 2901
+},
+{
+"q": "A 30-year-old man sustains a midshaft fracture of the humerus. He cannot extend the wrist and fingers, has sensory loss over the dorsum of the hand, but elbow extension is preserved. Which nerve is most likely injured?",
+"o": [
+"Radial nerve at the spiral groove",
+"Ulnar nerve at the elbow",
+"Median nerve at the elbow",
+"Axillary nerve in the quadrangular space"
+],
+"a": 0,
+"ex": "The radial nerve winds around the humerus in the spiral groove and is the classic injury in midshaft humeral fractures, producing wrist drop with sensory loss over the dorsum of the hand. Branches to triceps (elbow extension) arise proximal to the groove, so elbow extension is preserved — a key differentiating feature.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anatomy",
+"src": "generated",
+"tp": "Epidemiology Basics",
+"idx": 2902
+},
+{
+"q": "A 3-week-old infant presents with vomiting, failure to thrive, jaundice, and hepatomegaly. Bilateral cataracts are noted. Urine shows a reducing substance that is negative on glucose oxidase testing. Deficiency of which enzyme is most likely?",
+"o": [
+"Galactokinase",
+"Galactose-1-phosphate uridyltransferase (GALT)",
+"UDP-galactose-4-epimerase",
+"Lactase"
+],
+"a": 1,
+"ex": "Classic galactosemia results from GALT deficiency. Galactose-1-phosphate accumulates and is converted to galactitol by aldose reductase, causing cataracts; hepatomegaly, jaundice, and failure to thrive are typical. Urine galactose is a reducing substance but not detected by glucose oxidase strips. Galactokinase deficiency (A) causes only cataracts; epimerase deficiency is rare and milder.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Biochemistry",
+"src": "generated",
+"tp": "Child Mortality",
+"idx": 2903
+},
+{
+"q": "A 65-year-old man with chronic obstructive pulmonary disease presents with breathlessness. Arterial blood gas shows pH 7.31, PaCO2 65 mm Hg, HCO3- 32 mEq/L. Which of the following best describes the acid-base status?",
+"o": [
+"Acute respiratory acidosis without compensation",
+"Chronic respiratory acidosis with metabolic compensation",
+"Metabolic alkalosis with respiratory compensation",
+"Mixed respiratory and metabolic acidosis"
+],
+"a": 1,
+"ex": "Low pH (7.31) indicates acidosis. Elevated PaCO2 (65 mm Hg) indicates respiratory acidosis due to alveolar hypoventilation. HCO3- is raised (32 mEq/L), reflecting renal compensatory retention of bicarbonate, which takes days to develop — hence chronic respiratory acidosis with metabolic compensation. In acute respiratory acidosis, HCO3- rises only minimally (by ~1 mEq/L per 10 mm Hg CO2 rise).",
+"e": "NEET PG",
+"y": "2026",
+"s": "Physiology",
+"src": "generated",
+"tp": "Epidemic Curves",
+"idx": 2904
+},
+{
+"q": "A 55-year-old man with rheumatoid arthritis for 12 years presents with nephrotic syndrome, chronic diarrhea with malabsorption, and cardiomegaly. Renal biopsy shows amorphous eosinophilic deposits that demonstrate apple-green birefringence on Congo red staining under polarized light. Which type of amyloidosis is most likely?",
+"o": [
+"AL amyloidosis (immunoglobulin light chain)",
+"AA amyloidosis (serum amyloid A)",
+"Aβ2-microglobulin amyloidosis (dialysis-associated)",
+"ATTR amyloidosis (transthyretin)"
+],
+"a": 1,
+"ex": "Chronic inflammatory diseases such as rheumatoid arthritis cause sustained elevation of serum amyloid A (SAA), an acute-phase reactant, which misfolds and deposits as AA amyloid, typically in the kidney (nephrotic syndrome), GI tract (malabsorption), and heart. AL amyloidosis arises from plasma cell dyscrasia, dialysis-associated Aβ2M amyloid from chronic hemodialysis, and ATTR is familial or senile cardiac amyloidosis. Congo red positivity with apple-green birefringence confirms amyloid in all types; the underlying RA points to AA.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pathology",
+"src": "generated",
+"tp": "Pentavalent Vaccine",
+"idx": 2905
+},
+{
+"q": "A 65-year-old man on warfarin 5 mg/day with stable INR of 2.5 is started on oral fluconazole for candida esophagitis. One week later, his INR is 6.8. What is the most likely mechanism of this drug interaction?",
+"o": [
+"Inhibition of CYP2C9, increasing S-warfarin levels",
+"Induction of CYP2C9, increasing warfarin clearance",
+"Inhibition of CYP3A4, increasing R-warfarin levels",
+"Displacement of warfarin from plasma albumin"
+],
+"a": 0,
+"ex": "Warfarin is racemic; S-warfarin (3–5× more potent) is metabolized by CYP2C9. Fluconazole is a potent CYP2C9 inhibitor, raising S-warfarin levels and INR with risk of bleeding. CYP3A4 inhibition affects only the weaker R-isomer, induction would lower INR, and displacement is transient and not the major mechanism.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pharmacology",
+"src": "generated",
+"tp": "Rotavirus Vaccine",
+"idx": 2906
+},
+{
+"q": "A 28-year-old farmer from a hilly region presents with high-grade fever for 8 days, severe headache, and a black eschar on the leg with regional lymphadenopathy. A maculopapular rash appears on the trunk. Weil-Felix test is positive (OX-K). Which is the most likely etiological agent?",
+"o": [
+"Rickettsia typhi",
+"Orientia tsutsugamushi",
+"Coxiella burnetii",
+"Rickettsia rickettsii"
+],
+"a": 1,
+"ex": "Eschar + lymphadenopathy + Weil-Felix OX-K positive = scrub typhus, caused by Orientia tsutsugamushi and transmitted by trombiculid mite (chigger) bite. R. typhi (murine typhus) gives no eschar and is OX-19 positive; C. burnetii causes Q fever (Weil-Felix negative); R. rickettsii causes Rocky Mountain spotted fever (OX-19, rash involving palms/soles).",
+"e": "NEET PG",
+"y": "2026",
+"s": "Microbiology",
+"src": "generated",
+"tp": "Standardised Mortality Ratio",
+"idx": 2907
+},
+{
+"q": "A 45-year-old man is found dead in a closed room with an empty bottle nearby. At autopsy, the body shows bright cherry-red lividity, and the viscera emit a bitter almond odour. Which poisoning is most likely?",
+"o": [
+"Carbon monoxide",
+"Hydrogen cyanide",
+"Aluminium phosphide",
+"Organophosphate"
+],
+"a": 1,
+"ex": "Bright cherry-red lividity occurs in both CO and cyanide poisoning, but the bitter almond odour of the viscera is characteristic of hydrogen cyanide, which inhibits cytochrome oxidase causing histotoxic hypoxia. CO poisoning (carboxyhaemoglobin) does not produce this odour. Aluminium phosphide gives a garlicky/fishy odour; organophosphates cause miosis, secretions, and a garlicky odour.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Forensic Medicine",
+"src": "generated",
+"tp": "Screening (Epidemiology)",
+"idx": 2908
+},
+{
+"q": "A rapid test for dengue has a sensitivity of 80% and a specificity of 90%. It is applied to a community with a 10% prevalence of dengue. What is the positive predictive value (PPV) of the test in this population?",
+"o": [
+"Approximately 47%",
+"Approximately 80%",
+"Approximately 90%",
+"Approximately 42%"
+],
+"a": 0,
+"ex": "PPV = true positives / (true positives + false positives). In 1000 persons: 100 have dengue (TP = 80, FN = 20) and 900 do not (FP = 90, TN = 810). PPV = 80/170 = 47%. PPV varies directly with prevalence; at low prevalence it falls even when sensitivity and specificity are high. Sensitivity (80%) and specificity (90%) are properties of the test, not of the population.",
+"e": "NEET PG",
+"y": "2026",
+"s": "PSM",
+"src": "generated",
+"tp": "NCD Epidemiology",
+"idx": 2909
+},
+{
+"q": "A 12-year-old boy has recurrent acute tonsillitis. According to Paradise criteria, tonsillectomy is indicated when the frequency of documented episodes is at least:",
+"o": [
+"3 episodes per year for 1 year",
+"5 episodes per year for 1 year",
+"7 episodes per year for 1 year",
+"7 episodes in 3 years"
+],
+"a": 2,
+"ex": "Paradise criteria for tonsillectomy in recurrent tonsillitis: ≥7 episodes in 1 year, ≥5 per year for 2 consecutive years, or ≥3 per year for 3 consecutive years, each episode documented with fever, cervical lymphadenopathy, tonsillar exudate, or a positive group A streptococcal culture.",
+"e": "NEET PG",
+"y": "2026",
+"s": "ENT",
+"src": "generated",
+"tp": "Genome Editing",
+"idx": 2910
+},
+{
+"q": "A 60-year-old woman presents with sudden severe pain in the right eye, blurred vision with colored halos around lights, and vomiting. Examination: right eye is red, cornea is hazy, pupil is mid-dilated and non-reactive, and intraocular pressure is 58 mm Hg. What is the most appropriate next step in management?",
+"o": [
+"Trabeculectomy as the first-line intervention",
+"Medical lowering of IOP followed by laser peripheral iridotomy",
+"Topical corticosteroid monotherapy",
+"Vitrectomy with gas tamponade"
+],
+"a": 1,
+"ex": "Acute angle-closure glaucoma presents with painful red eye, mid-dilated fixed pupil, hazy cornea, halos, and markedly raised IOP. Initial management is medical IOP reduction (acetazolamide, beta-blockers, pilocarpine, hyperosmotics), then definitive treatment with laser peripheral iridotomy. Trabeculectomy is for refractory chronic glaucoma, not first-line here.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Ophthalmology",
+"src": "generated",
+"tp": "Diuretics",
+"idx": 2911
+},
+{
+"q": "A 28-year-old woman presents with low-grade fever, arthralgia, malar rash, photosensitivity, and proteinuria (2+). Which autoantibody is MOST specific for the diagnosis of systemic lupus erythematosus (SLE)?",
+"o": [
+"Antinuclear antibody (ANA)",
+"Anti-Smith (anti-Sm) antibody",
+"Anti-Ro/SSA antibody",
+"Anti-histone antibody"
+],
+"a": 1,
+"ex": "Anti-Sm is the most specific autoantibody for SLE (~99% specificity, ~30% sensitivity); anti-dsDNA is also highly specific and correlates with lupus nephritis and disease activity. ANA is highly sensitive but nonspecific. Anti-histone suggests drug-induced lupus, and anti-Ro is associated with photosensitivity and subacute cutaneous lupus.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Medicine",
+"src": "generated",
+"tp": "Anti-obesity Drugs",
+"idx": 2912
+},
+{
+"q": "A 62-year-old man presents with progressive, painless jaundice and 8 kg weight loss over 2 months. Examination reveals a non-tender, palpable gallbladder. Liver function tests show obstructive pattern. Which is the most likely diagnosis?",
+"o": [
+"Carcinoma of the head of pancreas",
+"Choledocholithiasis",
+"Acute cholecystitis",
+"Carcinoma of the gallbladder"
+],
+"a": 0,
+"ex": "Painless progressive jaundice with a palpable, non-tender gallbladder in an older patient with weight loss is classic of carcinoma of the head of pancreas (Courvoisier's law). Gallstone disease typically causes pain and a tender gallbladder; gallbladder carcinoma usually presents with a mass and late jaundice.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Surgery",
+"src": "generated",
+"tp": "Antiepileptics",
+"idx": 2913
+},
+{
+"q": "A 32-year-old G2P1 at 32 weeks gestation presents with sudden, painless, bright red vaginal bleeding. Her uterus is soft and nontender, fetal heart rate is 140/min, and the presenting part is high. What is the most appropriate next investigation?",
+"o": [
+"Digital vaginal examination to assess the cervix",
+"Ultrasonography to localize the placenta",
+"X-ray pelvimetry",
+"Non-stress test"
+],
+"a": 1,
+"ex": "Painless, bright red bleeding in the third trimester with a soft, nontender uterus and high presenting part suggests placenta previa. Digital vaginal examination is contraindicated as it may precipitate torrential hemorrhage; ultrasonography confirms placental location and is the investigation of choice.",
+"e": "NEET PG",
+"y": "2026",
+"s": "OBG",
+"src": "generated",
+"tp": "Nitric Oxide (Pulmonary Vasodilator)",
+"idx": 2914
+},
+{
+"q": "An 8-month-old infant presents with episodic screaming, drawing up of legs, and passage of blood-stained stools described as \"currant jelly.\" Examination reveals a sausage-shaped mass in the right upper quadrant. Abdominal ultrasound confirms intussusception with no evidence of perforation or peritonitis. What is the most appropriate next step in management?",
+"o": [
+"Immediate exploratory laparotomy",
+"Air enema reduction under fluoroscopic or ultrasound guidance",
+"Barium meal follow-through study",
+"Observation with oral fluids and analgesia"
+],
+"a": 1,
+"ex": "Classic triad (colicky pain, currant jelly stool, sausage-shaped mass) suggests intussusception, commonest 6-18 months. Air enema is both diagnostic and therapeutic in uncomplicated cases (no perforation/peritonitis), with success >80%. Laparotomy is reserved for failed pneumatic reduction or signs of peritonitis/perforation.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Paediatrics",
+"src": "generated",
+"tp": "Anticholinergics (Ipratropium)",
+"idx": 2915
+},
+{
+"q": "A 26-year-old man with schizophrenia on depot haloperidol presents with fever (40°C), severe muscle rigidity, altered consciousness, and autonomic instability. Investigations reveal serum CK 28,000 U/L and leukocytosis. What is the most likely diagnosis?",
+"o": [
+"Neuroleptic malignant syndrome",
+"Serotonin syndrome",
+"Malignant hyperthermia",
+"Catatonia"
+],
+"a": 0,
+"ex": "NMS is an idiosyncratic reaction to antipsychotics (potent D2 blockade), classically with rigidity, hyperthermia, altered sensorium, autonomic instability, and markedly elevated CK. Management: stop antipsychotic, supportive care, dantrolene/bromocriptine. Serotonin syndrome (rapid onset, myoclonus, diarrhea, history of SSRIs), malignant hyperthermia (post-anesthesia, succinylcholine/volatile agents), and catatonia (no fever, normal CK) are excluded.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Psychiatry",
+"src": "generated",
+"tp": "Pharmacokinetics",
+"idx": 2916
+},
+{
+"q": "A 22-year-old man undergoing emergency laparotomy under general anaesthesia (sevoflurane, succinylcholine) develops masseter spasm, tachycardia, rising end-tidal CO2, and metabolic acidosis 20 minutes after induction. Temperature is 38.5°C. What is the most appropriate immediate management?",
+"o": [
+"Dantrolene sodium 2.5 mg/kg IV, repeated as needed",
+"Dantrolene sodium 2.5 mg/kg orally",
+"Neostigmine with atropine IV",
+"Sodium bicarbonate 1 mEq/kg IV alone"
+],
+"a": 0,
+"ex": "Features indicate malignant hyperthermia (triggered by volatile agents and succinylcholine; early signs include masseter spasm, rising ETCO2, tachycardia, acidosis). Definitive treatment is IV dantrolene 2.5 mg/kg (oral form is for prophylaxis, not acute crisis). Stop triggers, hyperventilate with 100% O2, cool, correct acidosis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anaesthesia",
+"src": "generated",
+"tp": "Drugs in Pregnancy",
+"idx": 2917
+},
+{
+"q": "A 45-year-old man with a history of blunt abdominal trauma presents with pain and hematuria. An urgent CT of the abdomen shows a wedge-shaped area of decreased parenchymal enhancement in the left kidney with a peripheral enhancing rim (cortical rim sign) and no contrast excretion into the collecting system. Which vascular injury is most likely?",
+"o": [
+"Renal artery dissection",
+"Renal artery thrombosis",
+"Renal artery pseudoaneurysm",
+"Renal arteriovenous fistula"
+],
+"a": 1,
+"ex": "Cortical rim sign (rim of preserved subcapsular enhancement) with a non-enhancing, non-excreting kidney indicates renal artery thrombosis/occlusion — the rim is supplied by capsular collaterals. Dissection shows an intimal flap; pseudoaneurysm shows focal contrast pooling; AV fistula shows early venous enhancement.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Radiology",
+"src": "generated",
+"tp": "Inotropes",
+"idx": 2918
+},
+{
+"q": "A 22-year-old man sustains a fall onto an outstretched hand. On examination, he has a dinner-fork deformity of the wrist. Plain radiographs show a dorsally displaced, dorsally angulated fracture of the distal radius with associated fracture of the ulnar styloid. Which of the following is the most appropriate diagnosis?",
+"o": [
+"Smith fracture",
+"Colles fracture",
+"Barton fracture",
+"Die-punch fracture"
+],
+"a": 1,
+"ex": "Colles fracture is a fracture of the distal radius with dorsal displacement and dorsal angulation (dinner-fork deformity), typically from a fall on an outstretched hand. Smith fracture has volar displacement/angulation (garden-spade deformity). Barton fracture is an intra-articular marginal shearing fracture of the distal radius (volar or dorsal). Die-punch fracture is an intra-articular depression of the lunate fossa of the distal radius.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Orthopaedics",
+"src": "generated",
+"tp": "Antiretrovirals (Protease Inhibitors)",
+"idx": 2919
+},
+{
+"q": "A 35-year-old woman presents with painful oral erosions followed by flaccid blisters on the scalp and trunk. Nikolsky sign is positive, and a Tzanck smear of a blister base shows acantholytic cells. Which of the following is the most likely diagnosis?",
+"o": [
+"Bullous pemphigoid",
+"Pemphigus vulgaris",
+"Dermatitis herpetiformis",
+"Epidermolysis bullosa"
+],
+"a": 1,
+"ex": "Pemphigus vulgaris: intraepidermal (suprabasal) acantholysis, flaccid blisters, positive Nikolsky sign, oral involvement common, Tzanck smear shows acantholytic cells; caused by IgG autoantibodies against desmoglein 3. Bullous pemphigoid causes subepidermal tense blisters in older adults with negative Nikolsky; dermatitis herpetiformis is pruritic grouped vesicles with granular IgA deposits; epidermolysis bullosa is a hereditary blistering disorder with blisters at sites of trauma.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Dermatology",
+"src": "generated",
+"tp": "Immunosuppressants",
+"idx": 2920
+},
+{
+"q": "A 45-year-old man develops foot drop and inability to dorsiflex the foot after prolonged squatting. Sensation is impaired over the dorsum of the foot, but plantar flexion and inversion of the foot are preserved. Which nerve is most likely injured?",
+"o": [
+"Tibial nerve",
+"Common peroneal (fibular) nerve",
+"Deep branch of the femoral nerve",
+"Sural nerve"
+],
+"a": 1,
+"ex": "The common peroneal (fibular) nerve winds around the neck of the fibula, where it is vulnerable to compression during prolonged squatting or crossed-leg sitting. It supplies the dorsiflexors (tibialis anterior, via deep peroneal) and foot everters (superficial peroneal); injury causes foot drop with sensory loss over the dorsum of the foot. Plantar flexion (triceps surae) and inversion (tibialis posterior) are tibial nerve functions and remain intact.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anatomy",
+"src": "generated",
+"tp": "Otosclerosis",
+"idx": 2921
+},
+{
+"q": "A 3-week-old infant presents with jaundice, hepatosplenomegaly, and bilateral cataracts. Urine is positive for a reducing substance, but glucose oxidase (dipstick) test is negative. Deficiency of which enzyme is the most likely cause?",
+"o": [
+"Galactokinase",
+"Galactose-1-phosphate uridyltransferase",
+"UDP-galactose 4-epimerase",
+"Glucose-6-phosphatase"
+],
+"a": 1,
+"ex": "Classic galactosemia is due to deficiency of galactose-1-phosphate uridyltransferase (GALT). Galactose is metabolized to galactitol by aldose reductase in the lens, causing osmotic damage and cataracts. The urine contains a reducing sugar (galactose) that is not detected by glucose oxidase dipstick. Galactokinase deficiency causes only cataracts without liver disease.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Biochemistry",
+"src": "generated",
+"tp": "Bone-Anchored Hearing Aid",
+"idx": 2922
+},
+{
+"q": "A 26-year-old woman with chronic iron deficiency anemia (Hb 7 g/dL) is asymptomatic at rest. Which adaptation in her erythrocytes facilitates oxygen delivery to tissues?",
+"o": [
+"Left shift of the oxygen–hemoglobin dissociation curve",
+"Increased intra-erythrocytic 2,3-BPG causing a rightward shift of the curve",
+"Increased affinity of hemoglobin for oxygen",
+"Decreased cardiac output to reduce oxygen consumption"
+],
+"a": 1,
+"ex": "In anemia, tissue hypoxia stimulates increased 2,3-BPG synthesis in RBCs. 2,3-BPG binds deoxyhemoglobin, decreasing O2 affinity and right-shifting the O2–Hb dissociation curve, which enhances O2 unloading at tissues. A left shift or increased Hb-O2 affinity would impair unloading; cardiac output actually increases in anemia to maintain oxygen delivery.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Physiology",
+"src": "generated",
+"tp": "CT Diagnosis (ENT)",
+"idx": 2923
+},
+{
+"q": "A 28-year-old man presents with painless cervical lymphadenopathy, intermittent fever, and weight loss. Excisional biopsy of a lymph node shows large binucleated cells with prominent eosinophilic nucleoli (owl-eye appearance) in a mixed inflammatory background. Which immunophenotype is most characteristic of these neoplastic cells?",
+"o": [
+"CD20 positive, CD3 negative",
+"CD15 positive, CD30 positive, CD45 (LCA) negative",
+"CD3 positive, CD20 negative",
+"CD138 positive, CD20 negative"
+],
+"a": 1,
+"ex": "The cells are Reed-Sternberg cells of classical Hodgkin lymphoma (CHL). They classically express CD15 and CD30, are negative for CD45 (LCA) and usually CD20, and arise from germinal center B cells; association with EBV is common.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pathology",
+"src": "generated",
+"tp": "Molecular Biology Techniques",
+"idx": 2924
+},
+{
+"q": "A 65-year-old man with atrial fibrillation on digoxin presents with nausea, vomiting, and yellow-tinted vision. ECG shows frequent premature ventricular complexes. Serum digoxin level is 3.4 ng/mL (therapeutic: 0.8–2.0 ng/mL). Which of the following is the definitive treatment?",
+"o": [
+"Lidocaine",
+"Phenytoin",
+"Digoxin-specific antibody (Fab) fragments",
+"Oral potassium supplementation"
+],
+"a": 2,
+"ex": "Digoxin immune Fab binds and neutralizes digoxin, removing it from Na+/K+-ATPase, and treats all features of toxicity (GI, visual, arrhythmic). Lidocaine and phenytoin only suppress digoxin-induced arrhythmias without clearing the drug. Potassium is contraindicated — digoxin toxicity causes hyperkalemia, and giving potassium may be fatal.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pharmacology",
+"src": "generated",
+"tp": "Ocular Disorders",
+"idx": 2925
+},
+{
+"q": "A 35-year-old man with HIV infection (CD4 count 40 cells/µL) presents with fever and headache of 2 weeks' duration. CSF examination shows lymphocytic pleocytosis, elevated protein, and low glucose. India ink preparation reveals budding yeast cells surrounded by a wide clear halo. Which of the following is the MOST likely causative organism?",
+"o": [
+"Streptococcus pneumoniae",
+"Neisseria meningitidis",
+"Cryptococcus neoformans",
+"Listeria monocytogenes"
+],
+"a": 2,
+"ex": "Cryptococcus neoformans is the most common cause of fungal meningitis in AIDS patients (CD4 < 100). The wide clear halo on India ink is its thick polysaccharide capsule, the principal virulence factor (antiphagocytic). CSF shows lymphocytic pleocytosis with low glucose. Pneumococcus and meningococcus cause acute pyogenic meningitis with polymorphonuclear pleocytosis; Listeria causes acute/subacute meningitis in immunocompromised and neonates.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Microbiology",
+"src": "generated",
+"tp": "RNA Interference",
+"idx": 2926
+},
+{
+"q": "A 22-year-old man with a history of intravenous drug use is brought to the emergency department unconscious. Examination: respiratory rate 6/min, blood pressure 90/60 mmHg, pinpoint pupils, and needle-track marks over both antecubital fossae. Which drug is the most likely cause of his presentation?",
+"o": [
+"Cocaine",
+"Amphetamine",
+"Heroin",
+"Lysergic acid diethylamide (LSD)"
+],
+"a": 2,
+"ex": "Classic opioid (heroin) toxidrome: coma, respiratory depression, and pinpoint (miotic) pupils, with needle-track marks supporting IV opioid abuse. Cocaine and amphetamine cause mydriasis, tachycardia, and agitation; LSD causes hallucinations and mydriasis. Opioid overdose is reversed by naloxone.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Forensic Medicine",
+"src": "generated",
+"tp": "HbA1c",
+"idx": 2927
+},
+{
+"q": "A Pap smear-based screening test for cervical carcinoma has a sensitivity of 95% and specificity of 95%. When applied to a population with a disease prevalence of 10%, the positive predictive value (PPV) of the test is approximately:",
+"o": [
+"68%",
+"95%",
+"90%",
+"50%"
+],
+"a": 0,
+"ex": "PPV = TP / (TP + FP). In 1000 women with 10% prevalence: 100 diseased → 95 true positives (95% sensitivity); 900 non-diseased → 45 false positives (5% of 900). PPV = 95 / (95 + 45) = 95/140 ≈ 68%. PPV falls with decreasing prevalence, unlike sensitivity/specificity.",
+"e": "NEET PG",
+"y": "2026",
+"s": "PSM",
+"src": "generated",
+"tp": "Molecular Biology Techniques",
+"idx": 2928
+},
+{
+"q": "A 25-year-old man presents with recurrent, self-limited right-sided nosebleeds, worse in winter, that stop with local pressure. Bleeding is seen from the anterior part of the nasal septum on examination. Which structure is the most common source of such anterior epistaxis?",
+"o": [
+"Woodruff's plexus over the posterior lateral nasal wall",
+"Kiesselbach's plexus (Little's area) on the anteroinferior nasal septum",
+"The anterior ethmoidal artery at the superior septum",
+"The sphenopalatine artery at the posterior choana"
+],
+"a": 1,
+"ex": "Kiesselbach's plexus (Little's area), where branches of the sphenopalatine, greater palatine, superior labial and anterior ethmoidal arteries anastomose, is the most common site of epistaxis (~90%), especially in young patients. Anterior bleeds typically respond to pressure and chemical cautery; posterior bleeds (Woodruff's plexus) occur in older patients and need packing.",
+"e": "NEET PG",
+"y": "2026",
+"s": "ENT",
+"src": "generated",
+"tp": "Mitochondrial Genetics",
+"idx": 2929
+},
+{
+"q": "A 60-year-old man presents with sudden, painless loss of vision in the right eye since 2 hours. Examination: visual acuity = perception of light, right pupil sluggishly reactive with relative afferent pupillary defect, and fundus shows diffuse retinal whitening with a cherry-red spot at the fovea. The most likely diagnosis is:",
+"o": [
+"Central retinal artery occlusion (CRAO)",
+"Central retinal vein occlusion (CRVO)",
+"Ischemic optic neuropathy (AION)",
+"Rhegmatogenous retinal detachment"
+],
+"a": 0,
+"ex": "Sudden painless vision loss with cherry-red spot at fovea and diffuse retinal whitening is classic for CRAO. The fovea appears red because the underlying choroid is visible through the thin foveal retina, while the inner retina is infarcted and opaque. A RAPD is present. CRVO shows diffuse retinal hemorrhages (\"blood and thunder\"); AION causes disc swelling with altitudinal field defect; retinal detachment causes a detached retina with retinal tear, not a cherry-red spot.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Ophthalmology",
+"src": "generated",
+"tp": "Cholera",
+"idx": 2930
+},
+{
+"q": "A 28-year-old woman presents with fever, sore throat, and malaise for 10 days. Examination reveals bilateral cervical lymphadenopathy, pharyngeal erythema, and splenomegaly. Peripheral smear shows many atypical lymphocytes, and the heterophile antibody test is positive. What is the most likely diagnosis?",
+"o": [
+"Infectious mononucleosis due to Epstein-Barr virus",
+"Acute HIV infection",
+"Cytomegalovirus mononucleosis",
+"Acute lymphoblastic leukemia"
+],
+"a": 0,
+"ex": "Fever, sore throat, lymphadenopathy, splenomegaly, atypical lymphocytes, and a positive heterophile antibody test are classic features of EBV infectious mononucleosis. CMV and HIV cause mononucleosis-like illness but are typically heterophile-negative. ALL presents with blasts and cytopenias, not atypical lymphocytes.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Medicine",
+"src": "generated",
+"tp": "Hepatitis B Serology",
+"idx": 2931
+},
+{
+"q": "A 58-year-old man presents with colicky central abdominal pain of 2 days' duration, bilious vomiting, absolute constipation and abdominal distension. He had undergone appendicectomy 20 years ago. Erect abdominal X-ray shows multiple air-fluid levels in a step-ladder pattern. What is the most likely cause of his obstruction?",
+"o": [
+"Post-operative adhesions",
+"Incarcerated incisional hernia",
+"Carcinoma of the caecum",
+"Gallstone ileus"
+],
+"a": 0,
+"ex": "Adhesions from previous surgery are the commonest cause of small bowel obstruction in adults (~75%). Prior laparotomy scar, colicky pain, vomiting, constipation and step-ladder air-fluid levels are classical. Gallstone ileus usually affects elderly women with no prior surgery; caecal carcinoma typically presents with anaemia or large bowel obstruction; hernia would show a palpable swelling.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Surgery",
+"src": "generated",
+"tp": "Subcutaneous Fungal Infections",
+"idx": 2932
+},
+{
+"q": "A 28-year-old primigravida at 34 weeks gestation presents with headache, visual blurring, and epigastric pain. BP is 170/110 mmHg, urine protein 3+, platelets 70,000/mm³, and AST 120 U/L. What is the most appropriate next step in management?",
+"o": [
+"Expectant management with labetalol and weekly monitoring",
+"IV magnesium sulfate prophylaxis followed by urgent delivery",
+"Plasmapheresis with fresh frozen plasma",
+"Nifedipine alone and reassessment in 48 hours"
+],
+"a": 1,
+"ex": "HELLP syndrome: hemolysis, elevated liver enzymes (AST 120), low platelets (70,000) in severe preeclampsia with epigastric pain. Definitive treatment is delivery regardless of gestational age; IV MgSO4 prevents seizures. Expectant management is contraindicated in HELLP; plasmapheresis is reserved for refractory/persistent postpartum cases.",
+"e": "NEET PG",
+"y": "2026",
+"s": "OBG",
+"src": "generated",
+"tp": "IV Cannulation",
+"idx": 2933
+},
+{
+"q": "A 3-year-old boy presents with progressive periorbital and pedal edema over 2 weeks and frothy urine. BP 90/60 mmHg. Urine shows protein 3+, no RBCs. Serum albumin 1.8 g/dL, total cholesterol 320 mg/dL. What is the most appropriate first-line treatment?",
+"o": [
+"Oral prednisolone",
+"IV cyclophosphamide",
+"IV albumin with loop diuretic",
+"Oral tacrolimus"
+],
+"a": 0,
+"ex": "Nephrotic syndrome at age 1-6 years is most often minimal change disease (steroid-sensitive). First-line therapy is oral prednisolone (60 mg/m²/day); cyclophosphamide and tacrolimus are reserved for steroid-dependent or frequently relapsing disease. IV albumin + diuretics are used only for severe edema, not as first-line treatment.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Paediatrics",
+"src": "generated",
+"tp": "Iron Poisoning",
+"idx": 2934
+},
+{
+"q": "A 24-year-old woman is brought to the emergency department by her family because she has been mute and immobile for 2 days. When her arm is lifted, it remains in the raised position (waxy flexibility); she resists passive movement and stares blankly without responding to commands. Vital signs and physical examination are normal. What is the most appropriate first-line treatment?",
+"o": [
+"Lorazepam",
+"Haloperidol",
+"Electroconvulsive therapy (ECT)",
+"Fluoxetine"
+],
+"a": 0,
+"ex": "Clinical picture (mutism, immobility, waxy flexibility, negativism) is catatonia. Benzodiazepines such as lorazepam are the first-line treatment and produce rapid resolution in most cases. ECT is reserved for catatonia refractory to benzodiazepines. Haloperidol is contraindicated as it can precipitate malignant catatonia. Fluoxetine has no role in acute catatonia.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Psychiatry",
+"src": "generated",
+"tp": "Fluid Resuscitation",
+"idx": 2935
+},
+{
+"q": "A 20-year-old man with a strong family history of malignant hyperthermia (MH) requires emergency appendicectomy under general anaesthesia. Which agent must be avoided in this patient?",
+"o": [
+"Propofol",
+"Sevoflurane",
+"Nitrous oxide",
+"Fentanyl"
+],
+"a": 1,
+"ex": "Volatile inhalational agents (sevoflurane, isoflurane, desflurane, halothane) and succinylcholine are MH triggers; they must be avoided in susceptible patients. Propofol, nitrous oxide and opioids are safe. Dantrolene is the specific treatment for MH crisis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anaesthesia",
+"src": "generated",
+"tp": "Postmenopausal Bleeding",
+"idx": 2936
+},
+{
+"q": "A 25-year-old man is brought 6 hours after a road traffic accident with altered sensorium. Non-contrast CT head shows a biconvex (lens-shaped) hyperdense extra-axial collection in the right temporoparietal region that does not cross the cranial sutures. What is the most likely diagnosis?",
+"o": [
+"Subdural hematoma",
+"Epidural hematoma",
+"Subarachnoid hemorrhage",
+"Subgaleal hematoma"
+],
+"a": 1,
+"ex": "Epidural hematoma appears as a biconvex/lens-shaped hyperdense collection on NCCT, confined by suture lines because the dura is adherent to the inner table of the skull at the sutures. It typically results from middle meningeal artery injury in the temporal region and may follow a lucid interval. In contrast, subdural hematoma is crescentic and crosses sutures but not the midline.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Radiology",
+"src": "generated",
+"tp": "Labour Management",
+"idx": 2937
+},
+{
+"q": "A 25-year-old man falls on his outstretched right hand while playing cricket. He has tenderness in the anatomical snuffbox and mild wrist pain, but the initial wrist radiograph shows no obvious fracture. What is the most appropriate next step in management?",
+"o": [
+"Advise rest and review in 4 weeks if pain persists",
+"Immobilize in a thumb spica cast and repeat radiograph in 2 weeks",
+"Immediate open reduction and internal fixation",
+"Emergency MRI of the wrist to confirm the diagnosis"
+],
+"a": 1,
+"ex": "Clinical suspicion of scaphoid fracture. Initial radiograph is often normal; the fracture becomes visible only after 1-2 weeks due to bone resorption at the fracture line. The scaphoid has a retrograde blood supply (distal to proximal), making the proximal fragment prone to avascular necrosis if undisplaced fractures are left untreated. Standard practice: immobilize in a thumb spica cast and repeat X-ray in 10-14 days.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Orthopaedics",
+"src": "generated",
+"tp": "Male Infertility",
+"idx": 2938
+},
+{
+"q": "A 32-year-old woman presents with painful erosions on the oral mucosa for 3 weeks, followed by flaccid blisters over the trunk and groin. On examination, gentle rubbing of normal-appearing skin produces a blister (positive Nikolsky sign). A smear from the floor of a fresh blister shows acantholytic cells. Which of the following is the most likely diagnosis?",
+"o": [
+"Pemphigus vulgaris",
+"Bullous pemphigoid",
+"Dermatitis herpetiformis",
+"Epidermolysis bullosa"
+],
+"a": 0,
+"ex": "Pemphigus vulgaris is an autoimmune intraepidermal blistering disorder with IgG autoantibodies against desmoglein 1 and 3. It presents with flaccid blisters and mucosal erosions (oral involvement is often the first sign), a positive Nikolsky sign, and acantholytic cells on Tzanck smear. Bullous pemphigoid (elderly, tense blisters, subepidermal, Nikolsky negative), dermatitis herpetiformis (pruritic grouped vesicles on extensor surfaces, IgA-mediated, celiac disease association), and epidermolysis bullosa (inherited, blistering after minor trauma) do not fit this picture.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Dermatology",
+"src": "generated",
+"tp": "Antenatal Corticosteroids",
+"idx": 2939
+},
+{
+"q": "A 45-year-old man develops left foot drop and inability to dorsiflex or evert the foot after prolonged sitting with his legs crossed. Sensation is lost over the dorsum of the foot, but plantar flexion and sensation on the sole are normal. Which nerve is most likely injured?",
+"o": [
+"Tibial nerve",
+"Common peroneal (fibular) nerve",
+"Sural nerve",
+"Deep peroneal nerve"
+],
+"a": 1,
+"ex": "The common peroneal nerve winds around the fibular neck, where it is superficial and vulnerable to compression (e.g., habitual leg crossing). Injury causes foot drop with loss of dorsiflexion and eversion, plus sensory loss over the dorsum of the foot. Intact plantar flexion and sole sensation indicate tibial nerve sparing.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anatomy",
+"src": "generated",
+"tp": "Emergency Contraception",
+"idx": 2940
+},
+{
+"q": "A 2-month-old infant presents with vomiting, failure to thrive, jaundice, and hepatomegaly. Examination reveals cataracts in both eyes. Urine testing shows a reducing substance that is NOT detected by glucose oxidase test strips. Deficiency of which enzyme is most likely responsible?",
+"o": [
+"Galactokinase",
+"Galactose-1-phosphate uridyltransferase (GALT)",
+"UDP-galactose 4-epimerase",
+"Aldose reductase"
+],
+"a": 1,
+"ex": "Classic galactosemia is due to deficiency of galactose-1-phosphate uridyltransferase (GALT), causing accumulation of galactose-1-phosphate and galactose. Galactose is a reducing sugar detected by Benedict's test but not by glucose oxidase strips. Hallmarks: hepatomegaly, cataracts, failure to thrive, jaundice. Galactokinase deficiency causes only cataracts (galactitol deposition) without severe systemic illness.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Biochemistry",
+"src": "generated",
+"tp": "Bacterial Vaginosis",
+"idx": 2941
+},
+{
+"q": "A 65-year-old man with severe COPD has chronic CO2 retention (PaCO2 60 mm Hg, PaO2 55 mm Hg). His ventilatory drive is now maintained mainly by which of the following?",
+"o": [
+"Central chemoreceptors responding to increased CSF H+ concentration",
+"Peripheral chemoreceptors responding to decreased arterial PO2",
+"Pulmonary stretch receptors responding to increased lung volume",
+"Central chemoreceptors responding to increased CSF CO2 concentration"
+],
+"a": 1,
+"ex": "In chronic hypercapnia, renal retention of HCO3- normalizes CSF pH, desensitizing central chemoreceptors to CO2. Ventilation is then maintained by the hypoxic drive: peripheral chemoreceptors (carotid bodies) respond to PaO2 < 60 mm Hg. Giving high-flow O2 may abolish this drive and cause CO2 narcosis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Physiology",
+"src": "generated",
+"tp": "EEG",
+"idx": 2942
+},
+{
+"q": "A 45-year-old man presents with nephrotic syndrome. Renal biopsy shows amorphous eosinophilic material in the glomerular mesangium and basement membranes. This material stains with Congo red and shows apple-green birefringence under polarized light. Which of the following is the most likely diagnosis?",
+"o": [
+"Amyloidosis",
+"Minimal change disease",
+"Membranous nephropathy",
+"Fibrillary glomerulonephritis"
+],
+"a": 0,
+"ex": "Apple-green birefringence on Congo red staining under polarized light is pathognomonic of amyloidosis. Amyloid deposits are amorphous eosinophilic extracellular material composed of misfolded fibrillar proteins (AL in primary/plasma cell dyscrasia, AA in chronic inflammation). Fibrillary glomerulonephritis mimics amyloid on light and electron microscopy but is Congo red negative. Minimal change disease shows no immune deposits and responds to steroids; membranous nephropathy shows subepithelial deposits with a spiked basement membrane on silver staining.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pathology",
+"src": "generated",
+"tp": "Jugular Venous Pulse",
+"idx": 2943
+},
+{
+"q": "A 58-year-old man with type 2 diabetes mellitus on metformin presents with worsening dyspnea. Echocardiography shows ejection fraction 30% (NYHA class III heart failure). Which of the following antidiabetic drugs is CONTRAINDICATED in this patient?",
+"o": [
+"Pioglitazone",
+"Sitagliptin",
+"Empagliflozin",
+"Glimepiride"
+],
+"a": 0,
+"ex": "Pioglitazone (a thiazolidinedione) causes fluid retention and plasma volume expansion, worsening heart failure; it is contraindicated in NYHA class III/IV heart failure. Empagliflozin (SGLT2 inhibitor) is actually beneficial in heart failure; sitagliptin (DPP-4 inhibitor) is neutral; glimepiride (sulfonylurea) is not contraindicated.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pharmacology",
+"src": "generated",
+"tp": "Traumatic Brain Injury",
+"idx": 2944
+},
+{
+"q": "A 40-year-old man presents with profuse watery diarrhea and vomiting 12 hours after eating seafood at a coastal restaurant. Stool is pale, flecked with mucus and epithelial cells (rice-water appearance). He is dehydrated and in shock. Dark-field microscopy of a fresh stool smear shows darting, comma-shaped bacilli. Which is the most likely causative organism?",
+"o": [
+"Enterotoxigenic Escherichia coli",
+"Vibrio cholerae",
+"Giardia lamblia",
+"Rotavirus"
+],
+"a": 1,
+"ex": "Rice-water stools with rapid dehydration plus darting, comma-shaped Gram-negative bacilli on dark-field microscopy are classic for Vibrio cholerae. Cholera toxin ADP-ribosylates Gsα, causing constitutive adenylate cyclase activation and ↑cAMP, driving massive Cl⁻ and water secretion into the gut lumen. Treatment is aggressive rehydration; doxycycline shortens illness. ETEC causes traveler's diarrhea (less severe), Giardia causes malabsorptive stools with cysts/trophozoites, and rotavirus is a common cause of infantile diarrhea.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Microbiology",
+"src": "generated",
+"tp": "Tetanus",
+"idx": 2945
+},
+{
+"q": "A dead body is examined about 6 hours after death. Rigor mortis would first be evident in which of the following muscle groups?",
+"o": [
+"Small muscles of the face and eyelids",
+"Large muscles of the lower limbs",
+"Muscles of the back and abdomen",
+"Cardiac muscle"
+],
+"a": 0,
+"ex": "Rigor mortis begins 1-2 hours after death, first affecting small muscles (eyelids, face, jaw) and progressing cephalocaudally to larger trunk and limb muscles (Nysten's law); it is fully developed by 12-24 hours and disappears in the same order by 24-48 hours. Cardiac muscle is not affected.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Forensic Medicine",
+"src": "generated",
+"tp": "Testicular Tumours",
+"idx": 2946
+},
+{
+"q": "A new screening test for cervical cancer (sensitivity 80%, specificity 90%) is applied to 10,000 women with a disease prevalence of 2%. How many women will be false positives?",
+"o": [
+"160",
+"40",
+"980",
+"8820"
+],
+"a": 2,
+"ex": "Prevalence 2% of 10,000 = 200 diseased, 9,800 healthy. False positives = 10% (100 − specificity) of 9,800 = 980. True positives = 80% of 200 = 160; false negatives = 40; true negatives = 8,820.",
+"e": "NEET PG",
+"y": "2026",
+"s": "PSM",
+"src": "generated",
+"tp": "Ambulatory Surgery",
+"idx": 2947
+},
+{
+"q": "A 28-year-old woman presents with gradually progressive bilateral hearing loss and tinnitus for 2 years. Otoscopic examination shows normal tympanic membranes bilaterally. Rinne test is negative on both sides and Weber test lateralizes to the left. Pure tone audiometry reveals bilateral conductive hearing loss with a Carhart's notch at 2 kHz. Her mother has similar hearing impairment. The most likely diagnosis is:",
+"o": [
+"Otosclerosis",
+"Chronic suppurative otitis media (tubotympanic type)",
+"Ototoxic drug-induced hearing loss",
+"Presbycusis"
+],
+"a": 0,
+"ex": "Bilateral conductive hearing loss with intact tympanic membrane, positive family history (autosomal dominant) and Carhart's notch at 2 kHz are classic features of otosclerosis, caused by fixation of the stapes footplate. CSOM would show a tympanic membrane perforation; ototoxic drugs and presbycusis produce sensorineural, not conductive, loss.",
+"e": "NEET PG",
+"y": "2026",
+"s": "ENT",
+"src": "generated",
+"tp": "Urethral Injury",
+"idx": 2948
+},
+{
+"q": "A 58-year-old male with poorly controlled type 2 diabetes presents with sudden painless loss of vision in the right eye. Fundoscopy shows a clear vitreous, a pale retina with a cherry-red spot at the macula, and a box-car appearance of the blood column in the retinal vessels. What is the most likely diagnosis?",
+"o": [
+"Central retinal artery occlusion",
+"Central retinal vein occlusion",
+"Branch retinal vein occlusion",
+"Ischemic optic neuropathy"
+],
+"a": 0,
+"ex": "Sudden painless visual loss with cherry-red spot at the macula (choroid visible through the thin fovea) and box-car (cattle-trucking) of vessels is classic for central retinal artery occlusion, an ophthalmic emergency. Retinal vein occlusion causes retinal hemorrhages and venous engorgement; ischemic optic neuropathy causes optic disc edema, not a cherry-red spot.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Ophthalmology",
+"src": "generated",
+"tp": "Vascular Injury",
+"idx": 2949
+},
+{
+"q": "A 35-year-old woman presents with 2 weeks of fever, polyarthralgia of both ankles, and painful red nodules over the shins. Chest X-ray shows bilateral hilar lymphadenopathy with clear lung fields. Serum calcium is mildly elevated. Which of the following is the most likely diagnosis?",
+"o": [
+"Pulmonary tuberculosis",
+"Hodgkin lymphoma",
+"Sarcoidosis (Lofgren syndrome)",
+"Rheumatoid arthritis"
+],
+"a": 2,
+"ex": "Erythema nodosum with bilateral hilar lymphadenopathy (BHL), fever, and ankle arthritis defines Lofgren syndrome, an acute form of sarcoidosis. BHL with clear lung fields on CXR is characteristic. Elevated ACE and hypercalcemia support the diagnosis; confirmed by non-caseating granulomas on biopsy. TB usually shows focal upper-zone infiltrates with unilateral hilar or paratracheal nodes; BHL with erythema nodosum favors sarcoidosis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Medicine",
+"src": "generated",
+"tp": "Pneumothorax",
+"idx": 2950
+},
+{
+"q": "A 32-year-old woman with gallstones develops fever, jaundice, and right upper quadrant pain. Blood cultures grow E. coli. ERCP shows a stone impacted at the ampulla of Vater. Which intervention is most appropriate initially?",
+"o": [
+"Immediate open cholecystectomy",
+"Endoscopic sphincterotomy with stone extraction",
+"Percutaneous transhepatic biliary drainage",
+"Intravenous antibiotics alone with observation"
+],
+"a": 1,
+"ex": "This is ascending cholangitis (Charcot triad: pain, jaundice, fever). Urgent biliary decompression is required; endoscopic retrograde cholangiopancreatography (ERCP) with sphincterotomy and stone extraction is the gold standard initial therapy. Cholecystectomy is deferred until cholangitis resolves.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Surgery",
+"src": "generated",
+"tp": "Colorectal Cancer",
+"idx": 2951
+},
+{
+"q": "A 32-week primigravida presents with sudden, painless, causeless vaginal bleeding. On examination, the uterus is soft and non-tender, and fetal heart sounds are normal. What is the most likely diagnosis?",
+"o": [
+"Placenta previa",
+"Abruptio placentae",
+"Vasa previa",
+"Uterine rupture"
+],
+"a": 0,
+"ex": "Painless, recurrent, causeless bleeding with a soft non-tender uterus and normal fetal heart sounds is classic of placenta previa, where the placenta implants in the lower segment. Abruptio placentae causes painful bleeding with a tense, tender (board-like) uterus and fetal distress. Vasa previa presents with bleeding plus fetal distress (often after membrane rupture). Uterine rupture causes severe abdominal pain, shock, and absent fetal heart sounds.",
+"e": "NEET PG",
+"y": "2026",
+"s": "OBG",
+"src": "generated",
+"tp": "Frozen Section",
+"idx": 2952
+},
+{
+"q": "A 6-week-old male infant presents with projectile, non-bilious vomiting immediately after feeds for the past 1 week. He is alert but hungry. Examination reveals a palpable olive-shaped mass in the right upper quadrant. Blood gas analysis shows hypochloremic, hypokalemic metabolic alkalosis. What is the most likely diagnosis?",
+"o": [
+"Duodenal atresia",
+"Infantile hypertrophic pyloric stenosis",
+"Intussusception",
+"Gastroesophageal reflux disease"
+],
+"a": 1,
+"ex": "Projectile non-bilious vomiting in an infant aged 2-8 weeks with an olive-shaped pyloric mass and hypochloremic, hypokalemic metabolic alkalosis is classic for infantile hypertrophic pyloric stenosis (IHPS). Duodenal atresia presents in neonates with bilious vomiting and a double-bubble sign on X-ray. Intussusception causes colicky pain with currant-jelly stools. Confirm IHPS with ultrasound (thickened pyloric muscle) and treat with Ramstedt pyloromyotomy.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Paediatrics",
+"src": "generated",
+"tp": "Surgical Drains",
+"idx": 2953
+},
+{
+"q": "A 19-year-old woman is brought by her family with 3 days of mutism, posturing, negativism, and waxy flexibility. She stares blankly and does not respond to commands. Which is the most appropriate immediate management?",
+"o": [
+"Haloperidol",
+"Lorazepam",
+"Electroconvulsive therapy (ECT)",
+"Fluoxetine"
+],
+"a": 1,
+"ex": "Clinical picture is catatonia (mutism, posturing, negativism, waxy flexibility). Benzodiazepines (lorazepam) are first-line; a lorazepam challenge is both diagnostic and therapeutic. Antipsychotics may worsen catatonia and precipitate neuroleptic malignant syndrome. ECT is reserved for benzodiazepine-resistant or malignant catatonia.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Psychiatry",
+"src": "generated",
+"tp": "Hepatocellular Carcinoma",
+"idx": 2954
+},
+{
+"q": "A 22-year-old man undergoing emergency laparotomy under general anaesthesia develops masseter muscle rigidity, tachycardia, and rapidly rising end-tidal CO2 within minutes of receiving suxamethonium and sevoflurane. Core temperature rises to 39.5°C over 30 minutes. What is the most appropriate immediate pharmacological management?",
+"o": [
+"Dantrolene sodium 2.5 mg/kg IV",
+"Neostigmine 2.5 mg IV",
+"Dantrolene sodium 10 mg/kg IV as a single bolus",
+"Nifedipine 10 mg sublingual"
+],
+"a": 0,
+"ex": "Clinical picture = malignant hyperthermia (MH): triggered by suxamethonium and volatile anaesthetics; uncontrolled calcium release from sarcoplasmic reticulum via RyR1 receptor causes hypermetabolism (hypercapnia, rigidity, fever). Definitive treatment is dantrolene 2.5 mg/kg IV, repeated until control (up to 10 mg/kg cumulative). Stop trigger agents, hyperventilate with 100% O2, cool, correct acidosis and hyperkalaemia. Neostigmine only reverses non-depolarising blockers; nifedipine is contraindicated (risk of hyperkalaemia with dantrolene).",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anaesthesia",
+"src": "generated",
+"tp": "Scalp Lacerations",
+"idx": 2955
+},
+{
+"q": "A 40-year-old woman presents with progressive dysphagia to both solids and liquids, and regurgitation of undigested food. Barium swallow shows smooth tapering of the distal esophagus with a \"bird's beak\" appearance. What is the most likely diagnosis?",
+"o": [
+"Achalasia cardia",
+"Carcinoma of the esophagus",
+"Esophageal varices",
+"Hiatus hernia"
+],
+"a": 0,
+"ex": "Achalasia is characterized by failure of relaxation of the lower esophageal sphincter, producing a smooth, tapered \"bird's beak\" narrowing of the distal esophagus on barium swallow, with proximal dilation. Esophageal carcinoma causes an irregular, shouldered (\"apple core\") stricture; varices appear as serpiginous filling defects; hiatus hernia shows the gastroesophageal junction above the diaphragm.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Radiology",
+"src": "generated",
+"tp": "Abdominal Anatomy",
+"idx": 2956
+},
+{
+"q": "A 65-year-old man with chronic renal failure on haemodialysis presents with acute severe pain in the left shoulder after lifting a light object. Radiograph shows displacement of the humeral head with a 'lightbulb sign'. What is the most appropriate immediate management?",
+"o": [
+"Closed reduction and shoulder immobilisation",
+"Open reduction and internal fixation",
+"Total shoulder arthroplasty",
+"Neer's hemiarthroplasty"
+],
+"a": 0,
+"ex": "Posterior dislocation of shoulder ('lightbulb sign' on AP radiograph) is typical in seizure disorder and electrocution; chronic renal failure with renal osteodystrophy predisposes to it. Acute posterior dislocation is managed by closed reduction under anaesthesia with immobilisation; arthroplasty is reserved for chronic unreduced cases.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Orthopaedics",
+"src": "generated",
+"tp": "Posterior Urethral Valves",
+"idx": 2957
+},
+{
+"q": "A 30-year-old man presents with well-demarcated erythematous plaques covered by silvery white scales over the elbows, knees, and scalp. Gentle scraping of a scale reveals pinpoint bleeding points (Auspitz sign). Nail pitting is noted. What is the most likely diagnosis?",
+"o": [
+"Psoriasis",
+"Atopic dermatitis",
+"Lichen planus",
+"Pityriasis rosea"
+],
+"a": 0,
+"ex": "Silvery scales, Auspitz sign (pinpoint bleeding after scale removal), extensor distribution, and nail pitting are classical features of psoriasis, a chronic T-cell (Th17)-mediated dermatosis. Atopic dermatitis affects flexures with erythematous scaly patches and intense pruritus; lichen planus shows violaceous, polygonal, flat-topped papules with Wickham striae; pityriasis rosea presents as a herald patch followed by a Christmas-tree pattern of scaly macules on the trunk.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Dermatology",
+"src": "generated",
+"tp": "Neonatal Chlamydial Infection",
+"idx": 2958
+},
+{
+"q": "A 45-year-old man presents with pain and paresthesia over the medial aspect of the forearm and hand, and weakness of the ulnar nerve-innervated muscles, following a stab injury in the lower neck. Which anatomical structure has most likely been damaged?",
+"o": [
+"Lower trunk of the brachial plexus",
+"Upper trunk of the brachial plexus",
+"Medial cord of the brachial plexus",
+"Posterior cord of the brachial plexus"
+],
+"a": 0,
+"ex": "The lower trunk (C8–T1) gives rise to the medial cord, which forms the ulnar nerve and the medial cutaneous nerves of the arm and forearm. Injury at the trunk level (as occurs in the lower neck) produces ulnar-type sensory loss and weakness of ulnar nerve-innervated muscles; the upper trunk (C5–C6) injury classically causes Erb palsy, and posterior cord injury affects the radial nerve distribution.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Anatomy",
+"src": "generated",
+"tp": "Kangaroo Mother Care",
+"idx": 2959
+},
+{
+"q": "A 6-month-old infant presents with failure to thrive, cataracts, and hepatosplenomegaly. Urine shows a reducing substance that is negative on glucose oxidase testing. Which enzyme is most likely deficient?",
+"o": [
+"Galactokinase",
+"Galactose-1-phosphate uridyltransferase",
+"Glucose-6-phosphatase",
+"UDP-galactose 4-epimerase"
+],
+"a": 1,
+"ex": "Classic galactosemia (classic type) is due to deficiency of galactose-1-phosphate uridyltransferase (GALT), causing cataracts, hepatosplenomegaly, and reducing sugar in urine that is not glucose (glucose oxidase test negative, unlike glucose). Galactokinase deficiency causes cataracts without other systemic features; glucose-6-phosphatase deficiency causes von Gierke disease (fasting hypoglycemia, lactic acidosis); epimerase deficiency is rare and milder.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Biochemistry",
+"src": "generated",
+"tp": "Peripheral Nerve Injuries",
+"idx": 2960
+},
+{
+"q": "A 25-year-old woman is brought to the emergency department 30 minutes after a road traffic accident with acute blood loss of about 2 L. She has tachycardia, cold clammy skin, and a blood pressure of 80/50 mmHg. The immediate physiological response responsible for her tachycardia and vasoconstriction is mediated by:",
+"o": [
+"Increased sympathetic discharge via the baroreceptor reflex",
+"Atrial natriuretic peptide (ANP) secretion",
+"Renin–angiotensin–aldosterone system activation",
+"Arginine vasopressin (ADH) release"
+],
+"a": 1,
+"ex": "Acute hemorrhage lowers arterial pressure, reducing stretch on carotid sinus and aortic arch baroreceptors. Within seconds this triggers reflex sympathetic activation — tachycardia, peripheral vasoconstriction, cold clammy skin. ADH (minutes–hours) and RAAS (hours–days) are slower compensations; ANP levels fall, not rise, in hypovolemia.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Physiology",
+"src": "generated",
+"tp": "Lower Urinary Tract Symptoms",
+"idx": 2961
+},
+{
+"q": "A 22-year-old woman presents with painless left cervical lymphadenopathy, intermittent fever, and night sweats for 3 months. Excisional biopsy of the node shows large binucleate cells with prominent eosinophilic nucleoli (owl-eye appearance) in a background of small lymphocytes, eosinophils, and fibrosis. The neoplastic cells are positive for CD15 and CD30. The most likely diagnosis is:",
+"o": [
+"Diffuse large B-cell lymphoma",
+"Hodgkin lymphoma, nodular sclerosis subtype",
+"Tuberculous lymphadenitis",
+"Metastatic nasopharyngeal carcinoma"
+],
+"a": 1,
+"ex": "Binucleate Reed-Sternberg cells with owl-eye nucleoli in a mixed inflammatory background, with CD15+/CD30+ immunophenotype, are diagnostic of classical Hodgkin lymphoma. Nodular sclerosis is the most common subtype in young women, characterized by lacunar cells and dense fibrosis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pathology",
+"src": "generated",
+"tp": "Gynaecological Image Diagnosis",
+"idx": 2962
+},
+{
+"q": "A 60-year-old man on digoxin for heart failure and atrial fibrillation presents with nausea, vomiting, yellow-tinted vision, and frequent ventricular ectopics on ECG. Serum digoxin level is 4.5 ng/mL. Which is the most appropriate treatment?",
+"o": [
+"Digoxin immune Fab (digoxin-specific antibody fragments)",
+"Lignocaine infusion",
+"Potassium chloride infusion",
+"Phenytoin"
+],
+"a": 0,
+"ex": "Features suggest digoxin toxicity: GI symptoms, xanthopsia, arrhythmias, toxic level (>2 ng/mL). Digoxin immune Fab binds and inactivates digoxin; treatment of choice for life-threatening toxicity. Potassium is given only if hypokalemic (hypokalemia precipitates toxicity); lignocaine/phenytoin are adjuncts for arrhythmias, not definitive therapy.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Pharmacology",
+"src": "generated",
+"tp": "Ovarian Cysts",
+"idx": 2963
+},
+{
+"q": "A 62-year-old farmer presents with a 1-week history of fever, myalgia, and progressively ascending symmetric weakness of both lower limbs. Two weeks prior he sustained a penetrating nail injury to his foot while working in the fields. Neurological examination reveals areflexia and hypotonia; cerebrospinal fluid shows albuminocytologic dissociation (elevated protein, normal cell count). Which of the following is the most likely causative organism?",
+"o": [
+"Clostridium tetani",
+"Clostridium botulinum",
+"Clostridium perfringens",
+"Clostridium difficile"
+],
+"a": 1,
+"ex": "Soil-contaminated wound + ascending flaccid paralysis + areflexia + albuminocytologic dissociation is classic Guillain-Barré syndrome, most commonly triggered by Campylobacter jejuni infection. C. botulinum causes descending flaccid paralysis with no sensory loss and normal CSF. C. tetani causes spastic paralysis (lockjaw, risus sardonicus). C. perfringens causes gas gangrene; C. difficile causes pseudomembranous colitis.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Microbiology",
+"src": "generated",
+"tp": "Fracture Eponyms",
+"idx": 2964
+},
+{
+"q": "A 40-year-old farmer is brought dead to the emergency department. On examination: pinpoint pupils, profuse salivation, lacrimation, urinary and fecal incontinence, and a garlic-like odour on breath. The most likely poison and specific antidote are:",
+"o": [
+"Cyanide poisoning – sodium nitrite",
+"Organophosphate poisoning – atropine",
+"Atropine poisoning – physostigmine",
+"Strychnine poisoning – diazepam"
+],
+"a": 1,
+"ex": "Organophosphate compounds inhibit acetylcholinesterase, causing cholinergic excess: pinpoint (miotic) pupils, SLUDGE features (salivation, lacrimation, urination, defecation), and a garlic-like odour. Antidote: atropine (muscarinic antagonist) plus pralidoxime (reactivates the enzyme). Cyanide causes bitter-almond odour and cherry-red skin; atropine poisoning causes mydriasis, dry skin, and tachycardia.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Forensic Medicine",
+"src": "generated",
+"tp": "Thomas Test (Hip Examination)",
+"idx": 2965
+},
+{
+"q": "A new rapid diagnostic test for malaria is evaluated against blood smear (gold standard) in 100 patients with fever. Results: 45 patients had both positive smear and positive rapid test; 5 patients had positive smear but negative rapid test; 10 patients had negative smear but positive rapid test; 40 patients had both tests negative. What is the sensitivity of the rapid test?",
+"o": [
+"90%",
+"80%",
+"75%",
+"85%"
+],
+"a": 0,
+"ex": "Sensitivity = TP/(TP + FN) = 45/(45 + 5) = 90%. It measures the test's ability to correctly identify those with the disease; high sensitivity suits screening tests.",
+"e": "NEET PG",
+"y": "2026",
+"s": "PSM",
+"src": "generated",
+"tp": "Osteoporosis",
+"idx": 2966
+},
+{
+"q": "A 6-year-old boy presents with recurrent, painless, self-limiting epistaxis from the left nostril, worse during dry winter months. Examination is otherwise normal. The most common site of bleeding in this age group is:",
+"o": [
+"Little's area (Kiesselbach's plexus) on the anterior nasal septum",
+"Woodruff's plexus over the posterior end of the inferior meatus",
+"The roof of the nasal cavity (olfactory region)",
+"The anterior end of the inferior turbinate"
+],
+"a": 0,
+"ex": "In children, epistaxis most often arises from Little's area, where branches of the sphenopalatine, anterior ethmoidal, greater palatine and superior labial arteries anastomose on the anteroinferior nasal septum; dry weather causes crusting and nose-picking trauma. Woodruff's plexus is a common site of posterior epistaxis in elderly patients.",
+"e": "NEET PG",
+"y": "2026",
+"s": "ENT",
+"src": "generated",
+"tp": "Compartment Syndrome",
+"idx": 2967
+},
+{
+"q": "A 60-year-old woman presents with severe pain, redness, and blurred vision in the right eye for 6 hours, with halos around lights. Examination shows corneal edema, a mid-dilated non-reacting pupil, shallow anterior chamber, and intraocular pressure of 55 mmHg. Which is the most appropriate immediate step in management?",
+"o": [
+"Topical pilocarpine instillation",
+"Immediate laser peripheral iridotomy",
+"Intravenous acetazolamide",
+"Trabeculectomy"
+],
+"a": 2,
+"ex": "Acute angle-closure glaucoma is an ophthalmic emergency (IOP >40 mmHg, mid-dilated fixed pupil, corneal edema). Immediate management is medical IOP reduction with IV acetazolamide (carbonic anhydrase inhibitor) along with topical beta-blockers and hyperosmotics; pilocarpine is added after initial IOP lowering. Laser peripheral iridotomy is the definitive treatment, performed once the eye is soft and the cornea is clear.",
+"e": "NEET PG",
+"y": "2026",
+"s": "Ophthalmology",
+"src": "generated",
+"tp": "Bone Tumours",
+"idx": 2968
+}
+]

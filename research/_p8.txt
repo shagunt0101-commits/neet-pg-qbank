@@ -1,0 +1,82 @@
+
+PAGE  6   
+EXAMINATION PAPER 2025
+7. 
+Which anatomical structure is lined by the 
+epithelium shown in the image?
+(A) Esophagus
+(B) Ureter
+(C) Fallopian tube
+(D) Trachea
+Ans :
+(B) Ureter
+The image shows a histological section of transitional epithelium, also known as urothelium. This is a specialized type of stratified epithelium that is unique to the urinary tract. Its key feature is the presence of large, dome-shaped or "umbrella" cells on its luminal surface. This epithelium has the remarkable ability to stretch and recoil to accommodate changes in urine volume without rupturing. Urothelium lines the renal pelvis, the ureters, the urinary bladder, and the proximal part of the urethra. The esophagus (A) is lined by non-keratinized stratified squamous epithelium. The fallopian tube (C) is lined by simple columnar ciliated epithelium. The trachea (D) is lined by pseudostratified ciliated columnar epithelium with goblet cells. The appearance in the image is definitively urothelium.
+8. 
+What is the nerve supply of the structure labeled 
+A in the image?
+(A) Nerve to mylohyoid and 
+facial nerve
+(B) Facial nerve and mandibular 
+nerve
+(C) Mandibular nerve and spinal 
+accessory nerve
+(D) Facial nerve and spinal accessory nerve
+Ans :
+(B) Facial nerve and mandibular nerve.
+The structure marked "A" in the image is the digastric muscle. This muscle is unique because its two parts, or "bellies," develop from different pharyngeal arches and therefore have different nerve supplies.
+Posterior Belly : This part of the muscle arises from the second pharyngeal arch. It is innervated by the digastric branch of the facial nerve (Cranial Nerve VII).
+Anterior Belly : This part arises from the first pharyngeal arch. It is innervated by the nerve to mylohyoid, which is a branch of the inferior alveolar nerve, itself a branch of the mandibular division of the trigeminal nerve (Cranial Nerve V3).
+Therefore, the complete nerve supply for the digastric muscle (A) comes from the facial nerve and the mandibular nerve.
+9. 
+During surgical removal of the submandibular 
+gland, a structure running superior to the 
+posterior belly of the digastric muscle is 
+accidentally damaged. Which structure is most 
+likely to have been injured?
+(A) Lingual nerve
+(B) Marginal Mandibular Nerve
+(C) Trigeminal nerve
+(D) Hypoglossal nerve
+Ans :
+(B) Marginal Mandibular Nerve
+The marginal mandibular branch of the facial nerve has a clinically important and vulnerable course. After emerging from the parotid gland, it runs forward, deep to the platysma muscle, along or just below the inferior border of the mandible. It has a crucial relationship with the submandibular gland and the posterior belly of the digastric muscle. While its exact course is variable, it frequently loops down over the submandibular gland before ascending to supply the depressor muscles of the lower lip. An injury to this nerve, which can occur during submandibular gland resection or other neck surgeries, results in a characteristic facial asymmetry, with an inability to depress the corner of the mouth, leading to a lopsided smile. The hypoglossal nerve (D) and lingual nerve (A) are located deeper in this region.
+10. A patient presents with muscle wasting, 
+hypotonia, and weakness of the left hand, with 
+impaired fine motor skills such as kneading 
+dough. Which anatomical structure is most 
+likely affected?
+(A) Right anterior horn cells in spinal cord
+(B) Pyramidical lesion
+(C) Internal Capsule
+(D) Left Corticospinal tract in the cervical cord
+Ans :
+(A) Right anterior horn cells in spinal cord
+The patient's symptoms—muscle wasting (atrophy), reduced tone (hypotonia/flaccidity), and weakness—are the classic signs of a lower motor neuron (LMN) lesion. LMNs are the final common pathway connecting the central nervous system to the muscles. The cell bodies of the LMNs that innervate the limbs are located in the anterior (ventral) horn of the spinal cord. Since the symptoms are confined to the left hand, the lesion must be affecting the anterior horn cells in the cervical spinal cord that supply the muscles of that hand. The corticospinal tracts decussate (cross over) in the medulla. Therefore, a lesion in the right cerebral hemisphere would cause deficits on the left side of the body. While a pyramidal or internal capsule lesion (B, C, D) would cause left-sided weakness, these are all upper motor neuron lesions, which would result in spasticity and hyperreflexia, not atrophy and reduced tone.
+11. A 20-year-old man develops severe shoulder 
+pain following hyperextension during gym 
+training. The trainer suspects a disruption of 
+the structure labeled A in the image. Which 
+anatomical site is most likely affected?
+(A) Shaft of humerus
+(B) Deltoid tubercle of humerus
+(C) Infraglenoid 
+tubercle 
+of 
+scapula
+(D) Supraglenoid 
+tubercle 
+of 
+scapula
+Ans :
+(C) Infraglenoid tubercle of scapula
+The image highlights the origin of the long head of the triceps brachii muscle. The triceps muscle has three heads : the long head, the lateral head, and the medial head. The lateral and medial heads originate from the posterior surface of the shaft of the humerus. The long head has a unique origin; it arises from the infraglenoid tubercle of the scapula, which is a small, roughened area located just below the glenoid fossa (the shoulder socket). The long head of the triceps is the only part of the muscle that crosses the shoulder joint, and as such, it can be strained by forceful or extreme movements of the shoulder, such as the hyperextension described in the scenario. The supraglenoid tubercle (D) is the origin of the long head of the biceps brachii.
+ANAESTHESIA
+12. A 
+patient 
+receives 
+sevoflurane 
+and 
+succinylcholine for abdominal surgery and 
+subsequently develops postoperative muscle 
+NODIA
+

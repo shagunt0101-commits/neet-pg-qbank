@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+<img id="i1" src="file:///F:/NEET%20PG/research/audit/imgs/q1437_0.jpg" style="max-width:100%">
+<img id="i2" src="file:///F:/NEET%20PG/research/audit/imgs/q1437_1.jpg" style="max-width:100%">
+<script>
+const i1 = document.getElementById('i1');
+const i2 = document.getElementById('i2');
+Promise.all([
+  new Promise(r => { i1.onload = () => r({w:i1.naturalWidth, h:i1.naturalHeight}); i1.onerror = () => r(null); }),
+  new Promise(r => { i2.onload = () => r({w:i2.naturalWidth, h:i2.naturalHeight}); i2.onerror = () => r(null); })
+]).then(([r1, r2]) => console.log('q1437_0:', r1, 'q1437_1:', r2));
+</script>
+</body>
+</html>

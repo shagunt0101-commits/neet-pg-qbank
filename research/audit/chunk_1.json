@@ -1,0 +1,3518 @@
+[
+{
+"e": "INI-CET",
+"y": "2023",
+"s": "Dermatology",
+"q": "A 22-year-old woman lasts ever since small solitary slightly scaly oval salmon-pink patch appears on the trunk, followed days later by multiple similar smaller eruptions distributed along the skin lines in a 'Christmas tree' pattern. What is the initial lesion called?",
+"o": [
+"Haber patch",
+"Dermatomal plaque",
+"Slag",
+"Patch"
+],
+"a": 0,
+"ex": "Herald patch precedes the generalized eruption of pityriasis rosea along Langer's lines.",
+"src": "inicet",
+"tp": "Pityriasis Rosea",
+"idx": 200
+},
+{
+"e": "NEET PG",
+"y": "2024",
+"s": "Dermatology",
+"q": "A young man has a sharply coin-shaped hairless patch of the scalp much more with broken hair stubs at its rim. The affected hairs appear clubbed and widen distally. What is the most likely diagnosis?",
+"o": [
+"Alopecia areata",
+"Telogen effluvium",
+"Tinea capitis",
+"Androgenetic alopecia"
+],
+"a": 0,
+"ex": "Exclamation-mark hair (thin proximally, clubbed/distally) is a hallmark of alopecia areata.",
+"src": "curated",
+"img": false,
+"tp": "Alopecia Areata",
+"idx": 201
+},
+{
+"e": "INI-CET",
+"y": "2025",
+"s": "Dermatology",
+"q": "A 55-year-old Indian man has a brown-black pigmented plaque with a nodule on the sole that grows over a year. Histologically shows junctional melanocyte proliferation in the lentiginous pattern. Which melanoma subtype is most common in his ethnic group?",
+"o": [
+"Acral lentiginous melanoma",
+"Superficial spreading melanoma",
+"Nodular melanoma",
+"Lentigo maligna"
+],
+"a": 0,
+"ex": "Acral lentiginous melanoma most common melanoma of palms, soles, subunguals in darker -skinned races.",
+"src": "inicet",
+"tp": "Acral Melanoma",
+"idx": 202
+},
+{
+"e": "NEET PG",
+"y": "2021",
+"s": "Radiology",
+"q": "A newborn vomiting since the first feed has a supine abdominal X-ray with a single double bubble and no distal gas. Likely diagnosis:",
+"o": [
+"Duodenal atresia",
+"Jejunal atresia",
+"Hypertrophic pyloric stenosis",
+"Hirschsprung disease"
+],
+"a": 0,
+"ex": "Double bubble sign (gas in stomach + proximal duodenum) = duodenal atresia.",
+"src": "curated",
+"img": false,
+"tp": "Duodenal Atresia",
+"idx": 203
+},
+{
+"e": "NEET PG",
+"y": "2021",
+"s": "Radiology",
+"q": "A 12-year-old boy with thigh pain has an X-ray showing a fusiform diaphyseal lesion with layered onion-peel periosteal reaction. Diagnosis:",
+"o": [
+"Osteosarcoma",
+"Ewing sarcoma",
+"Osteochondroma",
+"Osteoid osteoma"
+],
+"a": 1,
+"ex": "Laminated onion-skin periosteal reaction over a diaphyseal permeative lesion in a child = Ewing sarcoma.",
+"src": "curated",
+"img": false,
+"tp": "Ewing Sarcoma",
+"idx": 204
+},
+{
+"e": "NEET PG",
+"y": "2021",
+"s": "Radiology",
+"q": "Distal femur X-ray (an adolescent) shows a metaphyseal lesion with sunburst speculated periosteal reaction and a Codman triangle. Diagnosis:",
+"o": [
+"Osteosarcoma",
+"Fibrous dysplasia",
+"Chondroblastoma",
+"Langerhans cell histiocytosis"
+],
+"a": 0,
+"ex": "Sunburst periosteal reaction with Codman triangle around a metaphyseal osteoid tumor = osteosarcoma.",
+"src": "curated",
+"img": false,
+"tp": "Osteosarcoma",
+"idx": 205
+},
+{
+"e": "NEET PG",
+"y": "2021",
+"s": "Radiology",
+"q": "A 65-year-old man's skull radiograph shows patchy cotton wool sclerosis with an enlarged vault. Diagnosis:",
+"o": [
+"Hyperparathyroidism",
+"Paget disease",
+"Fibrous dysplasia",
+"Osteoporosis"
+],
+"a": 1,
+"ex": "Cotton-wool skull with enlarged vault = Paget disease.",
+"src": "curated",
+"img": false,
+"tp": "Paget Disease of Bone",
+"idx": 206
+},
+{
+"e": "INI-CET",
+"y": "2022",
+"s": "Radiology",
+"q": "Chest X-ray of a foundry worker shows ring-like eggshell calcification of the hilar lymph nodes. Most likely cause:",
+"o": [
+"Silicosis",
+"Sarcoidosis",
+"Lymphoma",
+"Tuberculosis"
+],
+"a": 0,
+"ex": "Eggshell calcification of hilar nodes is classic for silicosis.",
+"src": "inicet",
+"tp": "Silicosis",
+"idx": 207
+},
+{
+"e": "INI-CET",
+"y": "2023",
+"s": "Radiology",
+"q": "A dyspneic patient with heart failure has a chest film showing butterfly perihilar opacity sparing the periphery. Diagnosis:",
+"o": [
+"Pulmonary edema",
+"Bronchopneumonia",
+"Lymphangitis carcinomatosa",
+"Pulmonary interstitial emphysema"
+],
+"a": 0,
+"ex": "Bat-wing perihilar opacities sparing the periphery = alveolar pulmonary edema.",
+"src": "inicet",
+"tp": "Pulmonary Edema",
+"idx": 208
+},
+{
+"e": "INI-CET",
+"y": "2024",
+"s": "Radiology",
+"q": "Elderly patient with abdominal distension: X-ray shows a coffee-bean gas loop and enema shows a bird's beak taper. Diagnosis:",
+"o": [
+"Sigmoid volvulus",
+"Cecal volvulus",
+"Intussusception",
+"Obstructing sigmoid carcinoma"
+],
+"a": 0,
+"ex": "Coffee-bean disblocked loop plus bird's beak at barium enema = sigmoid volvulus.",
+"src": "inicet",
+"tp": "Sigmoid Volvulus",
+"idx": 209
+},
+{
+"e": "INI-CET",
+"y": "2022",
+"s": "Radiology",
+"q": "Supine chest X-ray of an intubated trauma patient shows an unusually lucent deep right costophrenic angle. Likely diagnosis:",
+"o": [
+"Pneumothorax",
+"Basal pneumonia",
+"Pleural effusion",
+"Diaphragmatic rupture"
+],
+"a": 0,
+"ex": "Deep sulcus sign = pneumothorax on a supine film.",
+"src": "inicet",
+"tp": "Pneumothorax",
+"idx": 210
+},
+{
+"e": "NEET PG",
+"y": "2022",
+"s": "Radiology",
+"q": "Skull X-ray of a chronically anemic child shows striated perpendicular hair-on-end spicules widening the diploe. Diagnosis:",
+"o": [
+"Thalassemia major",
+"Osteopetrosis",
+"Sickle cell anemia",
+"Osteomyelitis"
+],
+"a": 0,
+"ex": "Hair-on-end diploic spicules = extramedullary hematopoiesis in thalassemia major.",
+"src": "curated",
+"img": false,
+"tp": "Thalassemia",
+"idx": 211
+},
+{
+"e": "NEET PG",
+"y": "2023",
+"s": "Radiology",
+"q": "Infant with colicky pain and currant-jelly stools: right hypochondrial ultrasound shows a target ring sign. Diagnosis:",
+"o": [
+"Hypertrophic pyloric stenosis",
+"Intussusception",
+"Appendicitis",
+"Meconium ileus"
+],
+"a": 1,
+"ex": "Target/ay sign on US = intussusception.",
+"src": "curated",
+"img": false,
+"tp": "Intussusception",
+"idx": 212
+},
+{
+"e": "NEET PG",
+"y": "2024",
+"s": "Radiology",
+"q": "A young woman's PA chest film shows bilateral hilar plus right paratracheal adenopathy in a 1-2-3 pattern. Most likely cause:",
+"o": [
+"Military tuberculosis",
+"Sarcoidosis",
+"Non-Hodgkin lymphoma",
+"Silicosis"
+],
+"a": 1,
+"ex": "1-2-3 sign (both hinterval nodes + right paratracheal) = sarcoidosis.",
+"src": "curated",
+"img": false,
+"tp": "Sarcoidosis",
+"idx": 213
+},
+{
+"e": "INI-CET",
+"y": "2025",
+"s": "Radiology",
+"q": "Contrast-enhanced head CT shows a non-enhancing central delta wrapping a facet of the superior sagittal sinus. In post-typofrontal, fits best:",
+"o": [
+"Acute superior sagittal sinus thrombosis",
+"Galen veined malformation",
+"Meningioma",
+"Subdural hematoma"
+],
+"a": 0,
+"ex": "Empty delta sign is a hyperene-sense acute sinus thrombosis.",
+"src": "inicet",
+"tp": "Cerebral Venous Thrombosis",
+"idx": 214
+},
+{
+"e": "NEET PG",
+"y": "2021",
+"s": "Orthopaedics",
+"q": "A 45-year-old man falls on an outstretched hand and develops pain and tenderness in the anatomic snuffbox. Which carpal bone is most commonly fractured in this injury?",
+"o": [
+"Scaphoid",
+"Lunate",
+"Triquetrum",
+"Capitate"
+],
+"a": 0,
+"ex": "Scaphoid is the most commonly fractured carpal bone (FOOSH injury); its retrograde blood supply puts the proximal pole at risk of AVN and non-union.",
+"src": "curated",
+"img": false,
+"tp": "Scaphoid Fracture",
+"idx": 215
+},
+{
+"e": "NEET PG",
+"y": "2022",
+"s": "Orthopaedics",
+"q": "A 6-year-old boy falls on the elbow. X-ray shows a fracture of the proximal ulna with the radial head displaced off it. This Monteggia fracture-dislocation pattern classically dislocates which joint?",
+"o": [
+"Distal radioulnar joint",
+"Radiocapitellar (radial head) joint",
+"Humeroulnar joint",
+"Scapholunate joint"
+],
+"a": 1,
+"ex": "Monteggia injury = fracture of the proximal third of the ulna with dislocation of the radial head; the reverse Galeazzi lesion involves a distal radius fracture with DRUJ disruption.",
+"src": "curated",
+"img": false,
+"tp": "Monteggia Fracture",
+"idx": 216
+},
+{
+"e": "INI-CET",
+"y": "2023",
+"s": "Orthopaedics",
+"q": "An elderly woman falls on her outstretched palm and develops a painful wrist that shows a dinner-fork-like dorsal bump. Which fracture explains this deformity?",
+"o": [
+"Colles fracture",
+"Smith fracture",
+"Barton fracture",
+"Scaphoid waist fracture"
+],
+"a": 0,
+"ex": "The dinner-fork (silver-fork) wrist deformity is the classic signature of a Colles-type extra-articular distal radius fracture with dorsal tilt and displacement.",
+"src": "inicet",
+"tp": "Colles Fracture",
+"idx": 217
+},
+{
+"e": "INI-CET",
+"y": "2022",
+"s": "Orthopaedics",
+"q": "A newborn delivered with shoulder traction keeps the arm adducted with forearm pronated, palm facing backwards (\"waiter's tip\"). Which cervical roots are affected in this pattern?",
+"o": [
+"C7 alone",
+"C5 and C6",
+"C8 and T1",
+"Entire cord flat"
+],
+"a": 1,
+"ex": "Erb palsy = C5-C6 upper plexus lesion with waiter's-tip posture; Klumpke lower roots (C8-T1) give claw hand plus ipsilateral Horner syndrome.",
+"src": "inicet",
+"tp": "Erb Palsy",
+"idx": 218
+},
+{
+"e": "NEET PG",
+"y": "2021",
+"s": "Orthopaedics",
+"q": "A young adult with a traction injury develops a claw hand with an ipsilateral drooping eyelid and small pupil. Which nerve roots are involved?",
+"o": [
+"C5-C6",
+"C8-T1",
+"C7",
+"C5-T1 diffusely"
+],
+"a": 1,
+"ex": "Klumpke palsy = lower brachial plexus roots C8-T1; involvement at T1 carries Horner syndrome along with the claw hand.",
+"src": "curated",
+"img": false,
+"tp": "Klumpke Palsy",
+"idx": 219
+},
+{
+"e": "INI-CET",
+"y": "2023",
+"s": "Orthopaedics",
+"q": "Two days after a closed tibial shaft fracture immobilised in a cast, the patient has intense pain not relieved by analgesia, pain on passive toe stretch and a tense calf. Which single action is most appropriate now?",
+"o": [
+"Firmly wrap the fracture in crepe bandage for a week",
+"Elevate the limb above heart level",
+"Repeat palpation of distal pulses",
+"Check intra-compartmental pressure as the next step"
+],
+"a": 3,
+"ex": "Compartment syndrome is a surgical emergency diagnosed mainly clinically; tense limb plus pain on passive stretch mandates fasciotomy, not elevation or rest.",
+"src": "inicet",
+"tp": "Compartment Syndrome",
+"idx": 220
+},
+{
+"e": "NEET PG",
+"y": "2021",
+"s": "Orthopaedics",
+"q": "In children, which injury most commonly produces acute forearm compartment syndrome that may later lead to Volkmann ischemic contracture if undiagnosed?",
+"o": [
+"Supracondylar fracture of the humerus",
+"Fracture of the radial head with posterior interosseous palsy",
+"Restriction of pronation without ischemia",
+"Elbow osteoarthritis"
+],
+"a": 0,
+"ex": "In children, the supracondylar fracture of the humerus ranks highest among injuries that cause acute forearm compartment syndrome and later Volkmann ischemia contracture.",
+"src": "curated",
+"img": false,
+"tp": "Supracondylar Humerus Fracture",
+"idx": 221
+},
+{
+"e": "NEET PG",
+"y": "2022",
+"s": "Orthopaedics",
+"q": "A 17-year-old boy has night pain and a warm swelling just above the knee. X-ray shows a sunburst pattern of subperiosteal bone formation. Which bone is the typical most frequent interface for this tumour?",
+"o": [
+"Distal femur",
+"Proximal humerus",
+"Calcaneum",
+"Vertebral body"
+],
+"a": 0,
+"ex": "Osteosarcoma arises in the metaphysis around the knee, distal femur being the seat, with a sunburst of radioactive bone and Codman triangle at the margins.",
+"src": "curated",
+"img": false,
+"tp": "Osteosarcoma",
+"idx": 222
+},
+{
+"e": "INI-CET",
+"y": "2022",
+"s": "Orthopaedics",
+"q": "A 30-year-old woman has mild pain and swelling at the wrist. X-ray of the distal radius end shows a radiolucent, eccentric expansile soap-bubble lesion crossing the epiphysis. Most likely diagnosis?",
+"o": [
+"Giant cell tumour",
+"Osteochondroma",
+"Simple bone cyst",
+"Ewing sarcoma"
+],
+"a": 0,
+"ex": "Giant cell tumour is epimetaphyseal, eccentric and lytic with a soap-bubble look, and the most common settled site is the distal femur / proximal tibia.",
+"src": "inicet",
+"tp": "Giant Cell Tumor",
+"idx": 223
+},
+{
+"e": "NEET PG",
+"y": "2021",
+"s": "Orthopaedics",
+"q": "A 15-year-old boy has a hard, painless, slow growing bony lump on the media of the proximal tibia, present for years. The X-ray shows a bone stalk continuous with the shaft. Which tumour is this?",
+"o": [
+"Osteochondroma",
+"Enchondroma",
+"Osteoid osteoma",
+"Chondroblastoma"
+],
+"a": 0,
+"ex": "Osteochondroma is a cartilaginous-protruding bony growth anchored to the metaphysis; it stops growing at skeletal maturity and sarcomatous the cap enlarges after.",
+"src": "curated",
+"img": false,
+"tp": "Osteochondroma",
+"idx": 224
+},
+{
+"e": "INI-CET",
+"y": "2021",
+"s": "Orthopaedics",
+"q": "A 7-year-old has fever and a warm tender lower thigh refusing to bear weight. Which bone group is the most common site of acute hematogenous osteomyelitis in children?",
+"o": [
+"Femur or tibia",
+"Calcaneum",
+"Radius",
+"Phalanges"
+],
+"a": 0,
+"ex": "Acute hematogenous osteomyelitis in children classically localises in the metaph bers of long bones around the knee (femur and tibia), at the site of the nutrient artery loops close to the growth plate.",
+"src": "inicet",
+"tp": "Osteomyelitis",
+"idx": 225
+},
+{
+"e": "NEET PG",
+"y": "2022",
+"s": "Orthopaedics",
+"q": "A footballer pivots on the knee and the joint later feels as if it gives way. The tibia slides in front of the femur with the knee flexed. Which ligament has been torn?",
+"o": [
+"Posterior cruciate ligament",
+"Lateral collateral ligament",
+"Anterior cruciate ligament",
+"Medial collateral ligament"
+],
+"a": 2,
+"ex": "A positive anterior drawer test slides the tibia forward in front of the femur at 90 degrees of knee flexion, and is the classic sign of a torn anterior cruciate ligament.",
+"src": "curated",
+"img": false,
+"tp": "ACL Injury",
+"idx": 226
+},
+{
+"q": "The saccule, an otolith organ sensing gravity and linear acceleration, embryologically develops from which part of the otocyst?",
+"o": [
+"Pars inferior",
+"Pars superior",
+"Utrículo-saccular (endolymphatic) bud",
+"Recurrent canal ampoule"
+],
+"a": 0,
+"ex": "The saccule and cochlear duct arise from pars inferior; utricle and semicircular canals from pars superior.",
+"e": "NEET PG",
+"y": "2021",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Inner Ear Development",
+"idx": 227
+},
+{
+"q": "Which eponymous reflex describes coughing when the external auditory canal is scratched or stimulated?",
+"o": [
+"Arnold reflex",
+"Bekesy reflex",
+"Henneber reflex",
+"Feinberg reflex"
+],
+"a": 0,
+"ex": "Arnold's (alderman's) nerve is the auricular branch of the vagus innervating the EAC, producing a cough reflex.",
+"e": "NEET PG",
+"y": "2022",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Ear Reflexes",
+"idx": 228
+},
+{
+"q": "A patient with stenosis of the cartilaginous external auditory canal requires a procedure to widen it. Which one is performed?",
+"o": [
+"Meatoplasty",
+"Myringotomy",
+"Canalplasty of the bony meatus",
+"Atticotomy"
+],
+"a": 0,
+"ex": "Meatoplasty enlarges the cartilaginous (meatal) part of the external canal; canalplasty addresses bony canal stenosis.",
+"e": "NEET PG",
+"y": "2023",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "EAC Stenosis",
+"idx": 229
+},
+{
+"q": "A patient has a painless, foul-smelling ear discharge with multiple tympanic membrane perforations and pale granulations. Which classical feature of tuberculous otitis media is least typical?",
+"o": [
+"Severe otalgia",
+"Multiple small perforations",
+"Painless discharge",
+"Facial nerve paresis out of proportion"
+],
+"a": 0,
+"ex": "Tuberculous otitis media is remarkably painless with polyperforation, pale granulation and early facial nerve palsy.",
+"e": "NEET PG",
+"y": "2024",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Tuberculous Otitis Media",
+"idx": 230
+},
+{
+"q": "A patient complains of intranasal obstruction even though the nasal cavity looks abnormally wide with a roomy interior, crusted yellowish-green scales and anosmia the patient does not perceive. The most likely diagnosis is?",
+"o": [
+"Atrophic rhinitis (oaena)",
+"Allergic rhinitis",
+"Rhinosporidiosis",
+"Deviated septum"
+],
+"a": 0,
+"ex": "Atrophic rhinitis gives a paradoxically roomy, crusted nose with 'merciful anosmia' to the fetid discharge.",
+"e": "NEET PG",
+"y": "2022",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Atrophic Rhinitis",
+"idx": 231
+},
+{
+"q": "Arrange in correct rostral sequence the ascending central auditory pathway: cochlear nucleus, spiral ganglion, inferior colliculus, medial geniculate body, superior olivary complex.",
+"o": [
+"Spiral ganglion → cochlear nucleus → superior olivary → inferior colliculus → medial geniculate",
+"Cochlear nucleus → spiral ganglion → superior olive → medial geniculate → inferior colliculus",
+"Medial geniculate → inferior colliculus → superior olive → cochlear nucleus → spiral ganglion",
+"Spiral ganglion → superior olive → cochlear nucleus → inferior colliculus → medial geniculate"
+],
+"a": 0,
+"ex": "Auditory signals pass: spiral (Scarpa) ganglion → dorsal/ventral cochlear nuclei → SOC → inferior colliculus → MGB → auditory cortex (Brodmann 41).",
+"e": "NEET PG",
+"y": "2021",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Auditory Pathway",
+"idx": 232
+},
+{
+"q": "Histology of a vestibular nerve sheath tumor shows compact spindle cells in palisades around acellular zones. These palisaded whorls, giving the classic 'banana' appearance, are called?",
+"o": [
+"Verocay bodies (Antoni A areas)",
+"Mallory bodies",
+"Schaumann bodies",
+"Russ've bodies"
+],
+"a": 0,
+"ex": "Verocay bodies in Antoni A regions mark the schwannoma; Antoni B areas are loose and myxoid.",
+"e": "NEET PG",
+"y": "2023",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Vestibular Schwannoma",
+"idx": 233
+},
+{
+"q": "Bent and Kuhn have proposed major diagnostic criteria for allergic fungal rhinosinusitis. Which of the following is NOT a classical accepted major criterion?",
+"o": [
+"Elevated serum IgA",
+"Allergic nasal mucin on KOH",
+"Radiologic double-density mucous",
+"Presence of nasal polyposis"
+],
+"a": 0,
+"ex": "Bent-Kuhn major criteria include elevated serum IgE, allergy mucin, nasal polyps, CT double density and positive fungal smear/culture — not IgA.",
+"e": "NEET PG",
+"y": "2025",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Allergic Fungal Rhinosinusitis",
+"idx": 234
+},
+{
+"q": "Suspicion of cerebrospinal fluid rhinorrhea arises after trauma with clear unilateral nasal drip. Which laboratory protein is essentially specific for confirming CSF?",
+"o": [
+"Beta-2 transferrin",
+"Alpha-1 antitrypsin",
+"Beta-1 lipoprotein",
+"Gamma-globulin heavy chain"
+],
+"a": 0,
+"ex": "Beta-2 (tau) transferrin, sialic-acid-deficient transferrin found only in CSF, is a highly specific marker.",
+"e": "NEET PG",
+"y": "2022",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "CSF Rhinorrhea",
+"idx": 235
+},
+{
+"q": "A patient with moderate asthma, bilateral allergic nasal polyps and aspirin-induced exacerbation of both is demonstrating which classic syndrome?",
+"o": [
+"Samter triad",
+"Cushing triad",
+"Muckle-Wells syndrome",
+"Wegener triad"
+],
+"a": 0,
+"ex": "Samter (ASA) triad = aspirin sensitivity + nasal polyposis + asthma; also called aspirin-exacerbated respiratory disease.",
+"e": "NEET PG",
+"y": "2021",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Samter Triad",
+"idx": 236
+},
+{
+"q": "Which nasal infection presents as a pedunculated friable, vascular polypoid mass studded with whitish spore-bearing cysts, classically resembling a strawberry, caused by Rhinosporidium seeberi?",
+"o": [
+"Rhinosporidiosis",
+"Peitioner's granuloma",
+"Lupus vulgaris",
+"Myiasis of sinuses"
+],
+"a": 0,
+"ex": "Rhinosporidiosis shows strawberry-like intranasal polypoids with sporangiospores; treatment is surgical excision, and recurrence is common.",
+"e": "NEET PG",
+"y": "2022",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Rhinosporidiosis",
+"idx": 237
+},
+{
+"q": "A patient with a grey-white thicker pseudomembrane over the fauces extending to the larynx and stridor. Which intervention cancels the damaging toxin quickly?",
+"o": [
+"Intravenous diphtheria antitoxin",
+"Ampicillin IV alone",
+"Lignocaine intrathecal",
+"Corticosteroid nebulization"
+],
+"a": 0,
+"ex": "Diphtheria antitoxin (IV, given earlier more effective) neutralizes circulating toxin; antibiotics only kill the organism.",
+"e": "NEET PG",
+"y": "2024",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Diphtheria",
+"idx": 238
+},
+{
+"q": "This aggressive cellulitis of the submandibular space bilaterally elevates the floor of the mouth and larynx, trismus absent, with imminent airway risk. What is the best immediate priority?",
+"o": [
+"Securing airway with elective tracheostomy",
+"IV fluids only",
+"Tooth extraction before airway",
+"Le Fort fracture repair"
+],
+"a": 0,
+"ex": "Ludwig's angina is a bilateral submandibular space infection that can precipitate airway obstruction; management begins with airway protection.",
+"e": "NEET PG",
+"y": "2025",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Ludwig Angina",
+"idx": 239
+},
+{
+"q": "A neonate-young toddler with acute stiff neck, high fever, muffled cry and bulging of the posterior pharyngeal wall has an abscess. Infectious-inflammation usually develops at this age too because...",
+"o": [
+"Infected lymph node behind prevertebral fascia in young children",
+"Congenital cysts of the sinus pyrrhana",
+"Thyroig glossal fistula",
+"Post-tonsillectomy bed infection"
+],
+"a": 0,
+"ex": "Retropharyngeal abscess is mainly in children under 3 years from suppurative retropharyngeal lymphadenitis, which atrophies later.",
+"e": "NEET PG",
+"y": "2021",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Retropharyngeal Abscess",
+"idx": 240
+},
+{
+"q": "The chorda tympani branch of the facial nerve, crossing behind the tympanic membrane inside the middle ear, carries which sensation?",
+"o": [
+"Taste from anterior two-thirds of tongue",
+"Saliva secretude to parotid only",
+"Taste of posterior third",
+"Formation feelings to auricle"
+],
+"a": 0,
+"ex": "Chorda tympani supplies special gustatory taste to the anterior 2/3 of tongue and secretomotor fibers to submandibular and sublingual glands.",
+"e": "NEET PG",
+"y": "2021",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Chorda Tympani",
+"idx": 241
+},
+{
+"q": "Severe ear pain with vesicles over the pinna and concha and ipsilateral facial nerve paralysis following reactivation of Varicella-zoster. The name given is?",
+"o": [
+"Ramsay Hunt syndrome",
+"Ramsay-Wortester",
+"Stokes-Adams",
+"Glue-slab"
+],
+"a": 0,
+"ex": "Ramsay Hunt syndrome = herpes zoster oticus with geniculate ganglionitis: otagic, ear vesicles, facial palsy (may add VIII nerve deficits).",
+"e": "NEET PG",
+"y": "2024",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Ramsay Hunt Syndrome",
+"idx": 242
+},
+{
+"q": "Glue-like non-infectious effusion behind an intact tympanic membrane in a toddler is the most common cause of which pattern of disability?",
+"o": [
+"Conductive hearing loss",
+"Sensorineural hearing loss",
+"Mixed sudden loss",
+"Recurrent central vertigo"
+],
+"a": 0,
+"ex": "Otitis media with effusion (glue ear) causes conductive hearing loss, borderline speech-language delay in preschool children.",
+"e": "NEET PG",
+"y": "2023",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Otitis Media with Effusion",
+"idx": 243
+},
+{
+"q": "A 70-year-old, symmetrical gradually worsening hearing, trouble understanding speech in noise, asking repetition; tympanogram undermines intact; audiogram reveals what profile?",
+"o": [
+"Bilateral symmetric high-frequency sensorineural pattern",
+"Flat conductive dip at 2 kHz",
+"Pseudof parse deafness, Y parse",
+"Atypical tuberculosis-lux scratches"
+],
+"a": 0,
+"ex": "Presbycusis: bilateral, symmetric, high-frequency sensorineural hearing loss with preserved low tones and poor speech discrimination.",
+"e": "NEET PG",
+"y": "2024",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Presbycusis",
+"idx": 244
+},
+{
+"q": "For the idiopathic peripheral facial nerve (Bell) palsy seen within 72 hours of onset, what is the recommended first line specific therapy?",
+"o": [
+"High-dose oral corticosteroids",
+"Antiviral alone",
+"Viral antibiotics",
+"Immediate surgical decompression"
+],
+"a": 0,
+"ex": "Early oral corticosteroids improve the recovery of Bell palsy; antivirals are sometimes added but are no substitute.",
+"e": "NEET PG",
+"y": "2021",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Bell Palsy",
+"idx": 245
+},
+{
+"q": "An aminoglycoside antibiotic given locally into the middle ear produces more selective harm to the vestibular apparatus than to hearing, leading to ataxia. Which one?",
+"o": [
+"Gentamicin",
+"Amoxicillin",
+"Clarithromycin",
+"Vancomycin"
+],
+"a": 0,
+"ex": "Gentamicin is preferentially vestibulotoxic, a property used therapeutically to ablate vestibular function in Meigne; aminosynchronics damage the cochlea.",
+"e": "NEET PG",
+"y": "2023",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Ototoxic Drugs",
+"idx": 246
+},
+{
+"q": "Keratoma of the lateral auditory canal: keratin plug against an intact diaphragm, bowing the wall and commonly associated with sinuso-bronchopulmonary disease. Which is correct?",
+"o": [
+"Condition known as keratosis obturans, association chronic sinusitis plus bronchiectasis",
+"Is a cholesteatoma -please operate",
+"Simple earwax melting routine",
+"Related to otosclerosis — ossicular return"
+],
+"a": 0,
+"ex": "Keratose obturans: desquamated lamellae plug in the meatal canal, may disappear the meatus, linked with broncopulmonary-sinus disease.",
+"e": "NEET PG",
+"y": "2023",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Keratosis Obturans",
+"idx": 247
+},
+{
+"q": "Sinonasal inverted papillomas are benign but locally aggressive; epidemiologically they are associated with which viral infections and an elevated rate of eventual malignancy in some?",
+"o": [
+"HPV (human papillomavirus)",
+"EBV virus",
+"CMV virus",
+"HIV only genotypes"
+],
+"a": 0,
+"ex": "Inverted papilloma, common in adult, recurs and can dedifferentiate to squamous cell carcinoma; linked to low-risk HPV subtypes.",
+"e": "NEET PG",
+"y": "2024",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Inverted Papilloma",
+"idx": 248
+},
+{
+"q": "In acute otitis media with severe Oral tympanic membrane bulging and ear pain, which antibiotic is appropriate first-line in most regions?",
+"o": [
+"Amoxicillin (high dose)",
+"Ciprofloxacin drop topical",
+"Azithromycin injection",
+"Metronidazole syrup"
+],
+"a": 0,
+"ex": "Oral amoxicillin 80–90 mg/kg/day is first-line; amoxicillin-clavulanate when resistance / after recent beta-lactam exposure.",
+"e": "NEET PG",
+"y": "2021",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Acute Otitis Media",
+"idx": 249
+},
+{
+"q": "Moderate-to-severe seasonal allergic rhinopathy with sneezing and pruritic wateriness is best controlled by which primary medication?",
+"o": [
+"Intranasal corticosteroid",
+"Oral antihistamine only",
+"Leukotriene only",
+"Decongestant spacing all day"
+],
+"a": 0,
+"ex": "Intranasal topical steroids are the most effective single therapy for allergic rhinitis; anti-histamine is secondary.",
+"e": "NEET PG",
+"y": "2022",
+"s": "ENT",
+"src": "expand",
+"img": false,
+"tp": "Allergic Rhinitis",
+"idx": 250
+},
+{
+"q": "Chronic discharging ear in a man with persistent retro-orbital pain and diplopia from sixth cranial nerve weakness, all fine. This triad of otorrhea, pain and CN VI = carries diagnosis of?",
+"o": [
+"Gradenigo syndrome (petrous apicitis)",
+"Bezold peritonsillar",
+"Mastoid of Beast cystic",
+"Sclerosing of torus hemics"
+],
+"a": 0,
+"ex": "Gradenigo syndrome: PE in chronic petrous apicitis — abducent (VI) palsy, ipsilateral retrobulbar pain and otorrhea.",
+"e": "INI-CET",
+"y": "2023",
+"s": "ENT",
+"src": "inicet",
+"tp": "Petrous Apicitis",
+"idx": 251
+},
+{
+"q": "A patient from unsafe CSOM with cold-chill, hectic remittent fever and rec-distended neck veins. Sigmoid tap is tender; pick the correct intracranial complication.",
+"o": [
+"Lateral - sigmoid venous sinus thrombosis",
+"Uncomplicated otitis",
+"Foramen magnum hernia",
+"Glues - complete labyrinth"
+],
+"a": 0,
+"ex": "Sigmoid sinus thrombosis arises from synchronous middle ear — spiky fever + headache, and the sigmoid is the more frequent event than ITS of an ear.",
+"e": "INI-CET",
+"y": "2021",
+"s": "ENT",
+"src": "inicet",
+"tp": "Sigmoid Sinus Thrombosis",
+"idx": 252
+},
+{
+"q": "In posterior ethmoid cells that overlie, lie above or lateral the sphenoid sinus may endanger which structure?  The cells are called Onodi.",
+"o": [
+"Optic nerve",
+"Facial nerve",
+"Hypoglossal nerve",
+"Internal carotid at bony annulus"
+],
+"a": 0,
+"ex": "Onodi (sphenoethmoidal) cell pneumatized posteriorly lies against optic nerve putting it at risk during surgery.",
+"e": "INI-CET",
+"y": "2022",
+"s": "ENT",
+"src": "inicet",
+"tp": "Onodi Cells",
+"idx": 253
+},
+{
+"q": "A child with congenital bilateral external atresia of ear canals and conductive loss — which bone conduction device exploits direct skull stimulation and works well?",
+"o": [
+"BAHA bone-anchored hearing aid",
+"Conventional ITE speaker",
+"Standard earmold vibrator",
+"Wireless ear-ring option"
+],
+"a": 0,
+"ex": "BAHA achieves bone conduction via a titanium screw — ideal for bilateral aural canal atresia that abandons air conduction.",
+"e": "INI-CET",
+"y": "2024",
+"s": "ENT",
+"src": "inicet",
+"tp": "Bone Conduction Implants",
+"idx": 254
+},
+{
+"q": "A unilateral elevated choanal polyp in youth arising through and accessory ostium originating from the maxillary antitum. What is the identification?",
+"o": [
+"Antrochoanal polyp",
+"Sphenochoanal cyst",
+"Ethmoid polypys",
+"Nasopharyngeal angiofibroma TBI"
+],
+"a": 0,
+"ex": "Antrochoanal 'Killian' polyp — unilateral maxillary origin, passes posteriorly to choana causing complete nasal obstruction, surgically removed with uncinectomy.",
+"e": "INI-CET",
+"y": "2021",
+"s": "ENT",
+"src": "inicet",
+"tp": "Antrochoanal Polyp",
+"idx": 255
+},
+{
+"q": "A peritonsillar abscess — quinsy — pushes the uvula toward which side while the voice gets muffled (hot pottery)?",
+"o": [
+"Pus containing swelling pushes uvula away (contralateral)",
+"Polacha deviated ipsilaterl and the epiglottis down/up mask",
+"There no change to uvula",
+"Capillarity to both side radiation"
+],
+"a": 0,
+"ex": "Quinsy displaces the uvula to the opposite side and trismus; unilateral tonsil bulge, excludated speech features diphthericm.",
+"e": "INI-CET",
+"y": "2024",
+"s": "ENT",
+"src": "inicet",
+"tp": "Peritonsillar Abscess",
+"idx": 256
+},
+{
+"q": "Blockade of pterygoid muscles from an infected parapharyngeal space; the child patient presents with trismus. Which clinical clue belongs here?",
+"o": [
+"Trismus is a prominent characteristic of parapharyngeal infections",
+"Trismus absent entirely in any case",
+"Only caused peritonsillar low",
+"c Cul-de-sac"
+],
+"a": 0,
+"ex": "Parapharyngeal abscess gives trismus from pterygoidal involvement; peritonsillar abscess often shows torticollis but can also eat trismus.",
+"e": "INI-CET",
+"y": "2023",
+"s": "ENT",
+"src": "inicet",
+"tp": "Parapharyngeal Abscess",
+"idx": 257
+},
+{
+"q": "Which is the principal arterial supply (branch of external carotid) going to the palatine tonsil?",
+"o": [
+"Facial (via tonsillar branch)",
+"Occipital artery ramus",
+"Superallap of Transverse arteries",
+"Subclavian vein plexus chain"
+],
+"a": 0,
+"ex": "Tonsillar branch of the facial (as its ventral pharyngeal) artery dominates; the tonsil bleeds richly in tonsillectomy.",
+"e": "INI-CET",
+"y": "2022",
+"s": "ENT",
+"src": "inicet",
+"tp": "Tonsillar Blood Supply",
+"idx": 258
+},
+{
+"q": "Luschka's crypts and Gerlach's tonsil refer to lymphatic tissue lying where?",
+"o": [
+"To the pharyngeal roof (adenoid) and around the tubal orifice",
+"At the tonsillar fossal",
+"Posterior third of tongue",
+"Inside cervical lymphatic node chains"
+],
+"a": 0,
+"ex": "Luschka's tonsil is the pharyngeal tonsil incorporated in Latin adenoid; Gerlach's tubual tonsil rings the Eustachian orifice.",
+"e": "INI-CET",
+"y": "2021",
+"s": "ENT",
+"src": "inicet",
+"tp": "Waldeyer Ring",
+"idx": 259
+},
+{
+"q": "A painful purulent ear drainage in an older, diabetic individual whose granulation tissue at the canal floor bone is exposed. The most probable bacteria culture?",
+"o": [
+"Pseudomonas aeruginosa",
+"Strepto pyogenes",
+"Bacillus lichen",
+"Hib conjunct"
+],
+"a": 0,
+"ex": "Malignant (skull base/necrotic) otitis externa nearly always Pseudomonas aeruginosa in elderly diabetics; treatment is antipseudomonal.",
+"e": "INI-CET",
+"y": "2024",
+"s": "ENT",
+"src": "inicet",
+"tp": "Malignant Otitis Externa",
+"idx": 260
+},
+{
+"q": "A severe right snuffle with high-tone loss. Rinne response from the impaired side paradoxically is negative although there's marked sensorineural impairment. What is this exam memory artifact?",
+"o": [
+"No-conductive — for accompanied component over mask released/ false-negative",
+"Sir ga's positive always",
+"Weber central",
+"STAPES tilt"
+],
+"a": 0,
+"ex": "In heavy sensorineural loss the tuning fork is too soft — Rinne can appear 'negative,' a false-negative due to insufficient bone stimulation.",
+"e": "INI-CET",
+"y": "2021",
+"s": "ENT",
+"src": "inicet",
+"tp": "Rinne Test",
+"idx": 261
+},
+{
+"q": "Sudden unilateral sensorineural within 3 weeks, unexplained, diagnostic primitivity calls for early intervention with what?",
+"o": [
+"Corticosteroids",
+"Volume diuretics",
+"Prolongo ointment",
+"No management"
+],
+"a": 0,
+"ex": "Idiophytic sudden SNHL — early systemic corticosteroid as soon as feasible, impressively if within 3–14 days.",
+"e": "INI-CET",
+"y": "2022",
+"s": "ENT",
+"src": "inicet",
+"tp": "Sudden Sensorineural Hearing Loss",
+"idx": 262
+},
+{
+"q": "Which runs of facial nerve traverses between its geniculate and fallopian (the middle ear medial) and blends with the stapedius?",
+"o": [
+"Horizontal (tympanic) segment",
+"Vertical mastoid segment",
+"Stapedius branch alone at the meatus",
+"Pterygoid curve of Willis device"
+],
+"a": 0,
+"ex": "The facial nerve's tympanic (horizontal) segment courses along the medial wall of middle ear and is at risk in cholesteatoma surgery.",
+"e": "INI-CET",
+"y": "2025",
+"s": "ENT",
+"src": "inicet",
+"tp": "Facial Nerve Anatomy",
+"idx": 263
+},
+{
+"q": "In otitis media complications the most common site of intracranial cerebro-inthecotic abscess arising for the middle ear spread is the?",
+"o": [
+"Temporal lobe (alongly with the cerebellum)",
+"Occipital pole",
+"Cerebellar hemisphere leading",
+"Pons racemati"
+],
+"a": 0,
+"ex": "CSOM intracranial extension favors brain abscess; temporal lobe and cerebellum are classically the areas reached from the adjacent ear.",
+"e": "INI-CET",
+"y": "2022",
+"s": "ENT",
+"src": "inicet",
+"tp": "Otogenic Intracranial Complications",
+"idx": 264
+},
+{
+"q": "Which point of normal ear physiology active actively equalizes middle-ear pressure?",
+"o": [
+"Swallowing activities with tubal mucosa muscles",
+"jaw chewing only",
+"Tubal patency achieved at rest only",
+"Recurrent media deshy of hypotrophy fascia"
+],
+"a": 0,
+"ex": "Each swallow briefly pulls open the pharyngeal Eustachian tube (via levator/palati tensor), equilibrating middle ear air.",
+"e": "INI-CET",
+"y": "2023",
+"s": "ENT",
+"src": "inicet",
+"tp": "Eustachian Tube Function",
+"idx": 265
+},
+{
+"q": "Disgusting in elderly with hypertension given posterior nasal bleeding that drips posteriorly. Which plexus has primary importance / site of bleeding?",
+"o": [
+"Woodruff's plexus on the posterior-inferior edge of the lateral septum",
+"Kiesse's plexus — anterior septum",
+"Anterio ethmoid fan",
+"Septal hump"
+],
+"a": 0,
+"ex": "Posterior and elderly epistaxis usually arises from Woodruff's plexus — posterior and inferior of lateral nasal wall — often needs posterior packing.",
+"e": "INI-CET",
+"y": "2021",
+"s": "ENT",
+"src": "inicet",
+"tp": "Epistaxis",
+"idx": 266
+},
+{
+"q": "What otological sign arises from a cholesteatoma eroding the horizontal semicircular canal? ",
+"o": [
+"Fistula sign positive: vertigo and coup on pressing the tragus",
+"Hemmerjay",
+"transillumination sign",
+"Palindromic fist moving ani state"
+],
+"a": 0,
+"ex": "Positive fistula sign: nystagmus/vertigo on compressing external meatus — ch indication the horizontal SCC susceptibility.",
+"e": "INI-CET",
+"y": "2024",
+"s": "ENT",
+"src": "inicet",
+"tp": "Cholesteatoma",
+"idx": 267
+},
+{
+"q": "Which statement best describes the cellular role of the 26S proteasome?",
+"o": [
+"Targeted degradation of ubiquitin-tagged proteins",
+"Synthesis of peptide bonds on ribosomes",
+"Addition of a poly-A tail to mRNA",
+"Elongation of fatty-acyl chains on CoA"
+],
+"a": 0,
+"ex": "Ubiquitin-proteasome system tags damaged/short-lived proteins with ubiquitin for 26S proteasome degradation.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Protein Degradation",
+"idx": 268
+},
+{
+"q": "Alanine is swapped for another residue in a protein, and the absorbance at 280 nm rises sharply. Which residue was the substitution?",
+"o": [
+"Tryptophan",
+"Methionine",
+"Serine",
+"Leucine"
+],
+"a": 0,
+"ex": "Trp (indole) and Tyr absorb at 280 nm; Trp has the highest molar absorptivity among the aromatics.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Aromatic Amino Acids",
+"idx": 269
+},
+{
+"q": "Among the following dietary sources, which carries the largest amount of vitamin B12?",
+"o": [
+"Liver",
+"Polished rice",
+"Citrus fruit",
+"Leafy greens"
+],
+"a": 0,
+"ex": "Organ meats (liver) are richest in cobalamin; plant foods contain no active B12.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Vitamin B12",
+"idx": 270
+},
+{
+"q": "Intestinal enterocytes form apoB48 from the same gene that gives hepatic apoB100. This arises mainly because of which process?",
+"o": [
+"RNA editing producing a premature stop codon",
+"Alternative splicing of apoB exons",
+"Chromosomal gene rearrangement",
+"Proteolytic clipping of the protein post-translation"
+],
+"a": 0,
+"ex": "APOBEC-1 deaminates cytidine to uridine in apoB100 mRNA, yielding a stop codon → apoB48.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Lipoprotein Metabolism",
+"idx": 271
+},
+{
+"q": "A patient with cholestatic jaundice. When the van den Bergh test is run in aqueous solution without alcohol, the expected finding is:",
+"o": [
+"Prompt direct (immediate) reaction due to conjugated bilirubin",
+"Only an indirect reaction, needing alcohol for colour",
+"No colour generation under any condition",
+"Colour that appears only in strong alkali"
+],
+"a": 0,
+"ex": "Conjugated (water-soluble) bilirubin gives an immediate direct van den Bergh; unconjugated needs alcohol.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Bilirubin Metabolism",
+"idx": 272
+},
+{
+"q": "Blood glucose drawn at 7 a.m., 12 hours after an evening meal, is sustained chiefly by:",
+"o": [
+"Hepatic glycogenolysis",
+"Gluconeogenesis",
+"Release of glucose from muscle glycogen",
+"Intestinal absorption of residual starch"
+],
+"a": 0,
+"ex": "Short-term fasting glucose is powered by hepatic glycogenolysis; gluconeogenesis dominates after ~24-48 h.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Gluconeogenesis",
+"idx": 273
+},
+{
+"q": "A Mediterranean-origin traveller develops acute hemolysis after primaquine for malaria. The deficient enzyme resides in which pathway?",
+"o": [
+"Hexose monophosphate (pentose phosphate) shunt",
+"Glycolysis",
+"Citric acid cycle",
+"Beta-oxidation pathway"
+],
+"a": 0,
+"ex": "G6PD deficiency cripples the PPP; NADPH falls and red cells lose their defense against oxidative stress.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "G6PD Deficiency",
+"idx": 274
+},
+{
+"q": "Entry of long-chain fatty acids into the mitochondrial matrix for beta-oxidation is accomplished through the shuttle mediated by:",
+"o": [
+"Carnitine",
+"Acyl carrier protein",
+"Coenzyme A",
+"Serum albumin"
+],
+"a": 0,
+"ex": "CPT-I/CPT-II + carnitine translocase ferry long-chain fatty acids across the inner mitochondrial membrane.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Fatty Acid Oxidation",
+"idx": 275
+},
+{
+"q": "A single nucleotide change turns a normal codon into a translation termination signal. This mutation class is:",
+"o": [
+"Nonsense mutation",
+"Missense mutation",
+"Silent mutation",
+"Frameshift mutation"
+],
+"a": 0,
+"ex": "A nonsense (chain-terminating) mutation deletes the truncated protein.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Mutation Types",
+"idx": 276
+},
+{
+"q": "Nuclear DNA is packaged into nucleosomes (beads-on-a-string) chiefly with the aid of:",
+"o": [
+"Histones",
+"Cytochromes",
+"Albumins",
+"Nuclear procollagens"
+],
+"a": 0,
+"ex": "Core H2A/H2B/H3/H4 octamer wraps ~150 bp DNA; H1 acts as linker.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Chromatin Structure",
+"idx": 277
+},
+{
+"q": "Infant protein loads aggravate hyperammonemia; plasma glutamine and urinary orotic acid are both raised. The deficient enzyme is:",
+"o": [
+"Ornithine transcarbamylase",
+"Carbamoyl phosphate synthetase I",
+"Argininosuccinase",
+"Arginase"
+],
+"a": 0,
+"ex": "OTC deficiency = hyperammonemia with orotic aciduria and glutaminemia (X-linked urea cycle defect).",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Urea Cycle Defects",
+"idx": 278
+},
+{
+"q": "The methyl donor used when norepinephrine is converted to epinephrine is:",
+"o": [
+"S-Adenosylmethionine",
+"Folic acid",
+"Biotin",
+"Thiamine pyrophosphate"
+],
+"a": 0,
+"ex": "PNMT transfers methyl from SAM; SAM is the universal biologic methyl donor.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Methylation Reactions",
+"idx": 279
+},
+{
+"q": "In the brain's ammonia detoxification, ammonia is fixed into glutamate/glutamine, draining the toxic substrate of the TCA cycle. Which TCA intermediate is depleted?",
+"o": [
+"Alpha-ketoglutarate",
+"Fumarate",
+"Malate",
+"Succinyl-CoA"
+],
+"a": 0,
+"ex": "NH3 + α-ketoglutarate (via glutamate dehydrogenase) → glutamate then glutamine traps ammonia.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Ammonia Detoxification",
+"idx": 280
+},
+{
+"q": "Neonate with cataracts, hepatomegaly and vomiting; Benedict's test on urine is positive though glucose-oxidase strips are negative. The defective enzyme is:",
+"o": [
+"Galactose-1-phosphate uridyl transferring enzyme",
+"Galactokinase",
+"Aldose reductase",
+"Glucose-6-phosphatase"
+],
+"a": 0,
+"ex": "GALT (transferasase) deficiency = classic galactosemia; galactitol from aldose-reductase causes cataract.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Galactosemia",
+"idx": 281
+},
+{
+"q": "An infant with a doll-like facies, single fasting hypoglycemia, lactate accumulation and gross hepatomegaly. Glycogen storage disease due to:",
+"o": [
+"Glucose-6-phosphatase deficiency",
+"Acid maltase (lysosomal α-glucosidase)",
+"Debranching enzyme",
+"Liver glucan phosphorylase"
+],
+"a": 0,
+"ex": "Type Ia/mL (von Gierke) = glucose-6-phosphatase; severe fasting hypoglycemia + lactic acid + hepatomegaly.",
+"e": "NEET PG",
+"y": "2023",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Glycogen Storage Disease",
+"idx": 282
+},
+{
+"q": "An infant with severe hypotonia and an enlarged heart; glycogen piles up inside lysosomes. Deficient enzyme is:",
+"o": [
+"Acid alpha-glucosidase (acid maltase)",
+"Glycogen phosphorylase",
+"Phosphofructokinase",
+"Brancher enzyme"
+],
+"a": 0,
+"ex": "Type II (Pompe) is the only lysosomal GSD — acid maltase — affection, present with cardiomegaly.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Glycogen Storage Disease",
+"idx": 283
+},
+{
+"q": "A young man gets painful muscle cramps during strenuous exercise; an ischemic forearm test fails to produce lactate rise in venous blood. This matches deficiency of:",
+"o": [
+"Muscle glycogen phosphorylase (myophosphorylase)",
+"Pyruvate kinase",
+"Brancher enzyme",
+"Aldolase A"
+],
+"a": 0,
+"ex": "McArdle type V = myophosphorylase; muscle cannot mobilize glycogen → gap in lactate + rhabdomyolysis.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Glycogen Storage Disease",
+"idx": 284
+},
+{
+"q": "Exercise-intolerance myopathy coexisting with hemolytic anemia points to a glycogenosis caused by a defect in:",
+"o": [
+"Phosphofructokinase MFK-1",
+"Hexokinase",
+"Lactate dehydrogenase",
+"Glyceraldehyde-3-Phosphate DH"
+],
+"a": 0,
+"ex": "Tarui = type VII PFK-1 deficiency — RBC glycolysis stalls → hemolysis; white-muffice contracture.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Glycolysis Deficiencies",
+"idx": 285
+},
+{
+"q": "By the age of 6-8 months this infant shows startle, regression and a cherry-red spot; hexosaminidase A is reduced. The accumulating substance is:",
+"o": [
+"GM2 ganglioside",
+"Glucocerebroside",
+"Sulfatide",
+"Sphingomyelin"
+],
+"a": 0,
+"ex": "Tay-Sachs = hexosaminidase A defect → GM2 ganglioside accumulates in neurons; cherry-red macula.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Tay-Sachs Disease",
+"idx": 286
+},
+{
+"q": "Chronic course with hepatosplenomegaly, bone crises and marrow Gaucher cells (tissue-paper cytoplasm). Deficient enzyme:",
+"o": [
+"Beta-glucocerebrosidase",
+"Sphingomyelinase",
+"Alpha-galactosidase A",
+"Hexosaminidase B"
+],
+"a": 0,
+"ex": "Gaucher disease = β-glucocerebrosidase; glucocerebroside accumulates in macrophages.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Gaucher Disease",
+"idx": 287
+},
+{
+"q": "Child with gargan boutons, cloudy cornea, organomegaly and peripheral neuropathy; alpha-l-iduronidase activity is near zero. Which molecules are trapped in cells?",
+"o": [
+"Dermatan sulfate and Heparan sulfate",
+"Keratan sulfate only",
+"Chondroitin sulfate only",
+"Glycogen particles"
+],
+"a": 0,
+"ex": "HIurler (MPS I) = α-L-iduronidase; also stores dermatane/heparan sulfate GAGs.",
+"e": "NEET PG",
+"y": "2025",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Mucopolysaccharidosis",
+"idx": 288
+},
+{
+"q": "Darkening urine upon standing together with ochre deposits in the sclera and cartilages connote a defect in:",
+"o": [
+"Homogentisic acid oxidase",
+"Phenylalanine hydroxylase",
+"Tyrosinase",
+"p-Hydroxyphenyl pyruvic acid dioxygenase"
+],
+"a": 0,
+"ex": "Alkaptonuria = homogentisate 1,2-dioxygenase defect; ochronosis polograms irreversible late arthropathy.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Alkaptonuria",
+"idx": 289
+},
+{
+"q": "A youth has recurrent renal colic; urine sediment shows flat hexagonal crystals. The diagnosis is based on:",
+"o": [
+"Defective renal tube transport of the dibasic (dibasic amino acid transport) group",
+"Consumptive uric acid overproduction",
+"Hypercalciuria from vitamin D excess",
+"Oxalate deposition due to hypocalcemia"
+],
+"a": 0,
+"ex": "Cystauria: shared transport of cystine, ornithine, lysine & arginine fails; cystine stones crystals hexagonal.",
+"e": "NEET PG",
+"y": "2023",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Cystinuria",
+"idx": 290
+},
+{
+"q": "Child with extreme hyperphenylalaninemia whose phenylalanine hydroxylase protein is present and functional. Which missing cofactor explains the picture?",
+"o": [
+"Tetrahydrobiopterin",
+"Pyridoxal phosphate",
+"Thiamine pyrophosphate",
+"FAD"
+],
+"a": 0,
+"ex": "Biopterin (BH4) is hydroxylase cofactor; BH4-deficient hyperphenylene reproduces PKU phenotype.",
+"e": "NEET PG",
+"y": "2025",
+"s": "Biochemistry",
+"src": "expand",
+"img": false,
+"tp": "Phenylketonuria",
+"idx": 291
+},
+{
+"q": "Maple-syrup flavoured urine and neuro decline in a neonate stem from a deficiency of which enzymatic complex?",
+"o": [
+"Branched-chain alpha-keto acid dehydrogenase",
+"Phenylalanine hydroxylase",
+"Propionyl-CoA carboxylase",
+"Alpha-1-antitrypsin"
+],
+"a": 0,
+"ex": "MSUD = BCKD loss → Leu/Ile/Val and their keto-acids accumulate; low threshold: trefoil urine smell.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Maple Syrup Urine Disease",
+"idx": 292
+},
+{
+"q": "A classic deficiency where rash (dermatitis) in sun-exposed areas, diarrhea and memory of mood disturbance coexist is due to lack of:",
+"o": [
+"Niacin (B3)",
+"Biotin",
+"Pyridoxine",
+"Riboflavin"
+],
+"a": 0,
+"ex": "Pellagra (4 D's — dermatitis, diarrhea, dementia ) is niacin deficiency; Hartnup blocks tryptophan uptake.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Pellagra",
+"idx": 293
+},
+{
+"q": "RBC transketolase activity with/without added TPP is the standard functional assay for the reserve of which vitamin?",
+"o": [
+"Thiamine (B1)",
+"Vitamin B2",
+"Vitamin B6",
+"Pantothenate"
+],
+"a": 0,
+"ex": "Erythrocyte transketolase (TPP-dependent) activation index measures thiamine stores.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Thiamine Deficiency",
+"idx": 294
+},
+{
+"q": "Perifollicular hemorrhages, bruise-prone gums, lusterless hair and marrow failure in a patient surviving on a bread-only diet — which hydroxylation will fail biochemically?",
+"o": [
+"Proline hydroxylation in collagen",
+"Phenylalanine hydroxylation",
+"Tryptophan hydroxylation",
+"Fatty-acid desaturation"
+],
+"a": 0,
+"ex": "Ascorbate (vit C) feb cococlear for prolyl/lysyl hydroxylases — failed collagen maturation → scurvy.",
+"e": "INI-CET",
+"y": "2025",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Scurvy",
+"idx": 295
+},
+{
+"q": "Bleeding tendency with a prolonged prothrombin time that recovers fully after a dose of vitamin K. The vitamin enables which chemical change directly?",
+"o": [
+"Gamma-carboxylation of glutamyl residues",
+"Hydroxylation of prolyl residues",
+"Glycosylation of serine residues",
+"Myristylation of N-terminal glycine"
+],
+"a": 0,
+"ex": "Vitamine K carboxylase glutamates → γ-carboxyglutamate (Gla), needed for factors II,VII,IX,X.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Vitamin K",
+"idx": 296
+},
+{
+"q": "Father died of early MI; tendon xanthomas and very high LDL suggest a genetic loss-of-function of which protein?",
+"o": [
+"LDL receptor",
+"HMG CoA reductase",
+"Lipoprotein lipase",
+"ABCA1"
+],
+"a": 0,
+"ex": "Familial hyperch Ch = LDLR defect → LDL clearance fails; statins to cut hepatic synthesis.",
+"e": "INI-CET",
+"y": "2024",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Familial Hypercholesterolemia",
+"idx": 297
+},
+{
+"q": "Most statins achieve their cholesterol-lowering effect by inhibiting a rate-limiting enzyme of cholesterol synthesis — which one?",
+"o": [
+"HMG CoA reductase",
+"Squalene synthase",
+"Mevalonate kinase",
+"Lanosterol cyclase"
+],
+"a": 0,
+"ex": "HMG-CoA reductase is the RLE and target of statins; overwhelmed by context of nexin feedback.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Cholesterol Synthesis",
+"idx": 298
+},
+{
+"q": "A neonate with hemolytic crisis and near-zero ATP in RBCs; the defective enzyme is the one that phosphorylates PEP to pyruvate:",
+"o": [
+"Pyruvate kinase",
+"Hexokinase",
+"Aldolase",
+"Glucose phosphate isomerase"
+],
+"a": 0,
+"ex": "Pyruvate kinase deficiency: ATP drop → RBC rigidity/hemolysis; 2,3-BPG appropriately the RBCs",
+"e": "INI-CET",
+"y": "2022",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Pyruvate Kinase Deficiency",
+"idx": 299
+},
+{
+"q": "In which enzyme-deficient lactosis does biotin usually rescue the clinical picture (biotin supplement is beneficial)?",
+"o": [
+"Pyruvate carboxylase",
+"Pyruvate kinase",
+"Pyruvate dehydrogenase",
+"Lactate oxidase"
+],
+"a": 0,
+"ex": "Pyruvate carboxylase (biotin-dependent) is the gluconeogenic anaplerosis; its defect → biotin-responsive lactic acid.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Biotin Metabolism",
+"idx": 300
+},
+{
+"q": "Regular physical activity recruiting GLUT4 from vesicles to the sarcolemma is an insulin-independent component of the effect of:",
+"o": [
+"GLUT4 translocation",
+"GLUT1 basal flux",
+"GLUT2 hepatic shuttle",
+"SGLT1 sodium co-transport"
+],
+"a": 0,
+"ex": "Exercise promotes GLUT4 membrane exposure in skeletal muscle, improving insulin sensitivity.",
+"e": "INI-CET",
+"y": "2024",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Glucose Transport",
+"idx": 301
+},
+{
+"q": "Patient with extreme photosensitivity, skin mottling and basal cell tumors; the DNA-repair process that is broken here is:",
+"o": [
+"Nucleotide excision repair",
+"Base excision repair",
+"Non-homologous end joining",
+"Direct reversal via MGMT"
+],
+"a": 0,
+"ex": "In xeroderma pigmentosum NER is bstant — the culprit of ultraviolet-induced 6-4 photoproducts accum.",
+"e": "INI-CET",
+"y": "2024",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "DNA Repair",
+"idx": 302
+},
+{
+"q": "Which PCR strategy is best to detect several different pathogens simultaneously from one cerebrospinal-fluid sample in suspected meningitic syndrome?",
+"o": [
+"Multiplex PCR",
+"Inverse PCR",
+"RACE PCR",
+"Nested PCR"
+],
+"a": 0,
+"ex": "Multiplex PCR runs multiple primer pairs per tube with distinct-size amplicons — is a 'one tube, many bugs' method.",
+"e": "INI-CET",
+"y": "2025",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "PCR Techniques",
+"idx": 303
+},
+{
+"q": "In an isolated-perfused mito experiment, a single-established inhibitor that blocks NADH dehydrogenase of electron transport chain is:",
+"o": [
+"Rotenone",
+"Antimycin A",
+"Cyanide",
+"Oligomycin"
+],
+"a": 0,
+"ex": "Rotenone (complex I) and amytal; antimycin III, cyanide/CO IV, olighene V.",
+"e": "INI-CET",
+"y": "2022",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Electron Transport Chain",
+"idx": 304
+},
+{
+"q": "Which macronutrient load generates the highest thermic effect of food (% of the ingested energy)?",
+"o": [
+"Protein",
+"Carbohydrate",
+"Fat",
+"No difference"
+],
+"a": 0,
+"ex": "Protein takes ~20-30% of calories for metabolism vs ~5-10% for carbs/fats.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Thermic Effect of Food",
+"idx": 305
+},
+{
+"q": "Correct order of steps in one cycle of polymerase chain reaction is:",
+"o": [
+"Denature → anneal → extension",
+"Annealing → extension → denaturation",
+"Extension → denaturation → annealing",
+"Annealing → denaturation → extraction"
+],
+"a": 0,
+"ex": "PCR engineered: 94-96˚ yields denature, annealing ~55-60, Taq extension at 72°C.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "PCR Techniques",
+"idx": 306
+},
+{
+"q": "Deamination of 5-methylcytosine base in DNA yields which base?",
+"o": [
+"Thymine",
+"Uracil",
+"Adenine",
+"Guanine"
+],
+"a": 0,
+"ex": "MeC →thymine creates G:T mismatch; repair failure → transition mutation (hot default in CpG).",
+"e": "INI-CET",
+"y": "2022",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "DNA Mutation Mechanisms",
+"idx": 307
+},
+{
+"q": "The maximum number of divisions a somatic human cell population can undergo before growth arrest is conceptually known as:",
+"o": [
+"Hayflick limit",
+"Telomere catastrophe",
+"Somatic extinction limit",
+"Replication saturation"
+],
+"a": 0,
+"ex": "Hayflick limit — cells count ~50 divisions; telomere erosion endoscopic ends cell division.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Cell Senescence",
+"idx": 308
+},
+{
+"q": "Xanthurenic aciduria, a vitamin-responsive inborn error, is classically treated with pharmacologic doses of:",
+"o": [
+"Vitamin B6",
+"Vitamin C",
+"Vitamin E",
+"Vitamin B12"
+],
+"a": 0,
+"ex": "Tryptophan → xanthurenic in B6 deficiency; kynureninase is PLP requester and high-dose B6 helps.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Vitamin B6",
+"idx": 309
+},
+{
+"q": "Antibody affinity maturation depends on point mutations arising in V-region genes, a process termed:",
+"o": [
+"Somatic hypermutation",
+"Class switch recombination",
+"V(D)J top-boundary",
+"Allelic exclusion only"
+],
+"a": 0,
+"ex": "SHM by activation-induced cytidine deaminase AID in GC centers → high-aff receptors.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Antibody Diversity",
+"idx": 310
+},
+{
+"q": "Serum bicarbonate 14, chloride 110, sodium 140 mEq/L, K 4.0. The calculated anion gap is:",
+"o": [
+"12",
+"16",
+"8",
+"20"
+],
+"a": 0,
+"ex": "AG = Na − (HCO3+Cl) = 140−(14+110)=16; elevated-gap >16 mEq/L.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Acid-Base Disorders",
+"idx": 311
+},
+{
+"q": "A child has evidence of cystic fibrosis. The common mutation underlying clinical disease in global CF cohorts is:",
+"o": [
+"Deletion phenster of phenylalanine at 508 (dF508)",
+"Insertion of thymine at 508",
+"A triplet repeat expansion",
+"Whole-gene duplication"
+],
+"a": 0,
+"ex": "CFTR deletion of Phe-508 (AF508) — impaired folding — is the most common pathogenic variant.",
+"e": "INI-CET",
+"y": "2024",
+"s": "Biochemistry",
+"src": "inicet",
+"tp": "Cystic Fibrosis Genetics",
+"idx": 312
+},
+{
+"a": 1,
+"e": "INI-CET",
+"ex": "High sensitivity means few false negatives; a negative result strongly rules out disease.",
+"o": [
+"The patient almost certainly has the disease",
+"A negative result reasonably rules out the disease (SnNOut)",
+"The patient needs a higher pretest probability before repeating",
+"A highly sensitive test is unsuitable for ruling out disease"
+],
+"q": "A point-of-care rapid diagnostic test has a reported sensitivity of 98%. It returns a negative result in a suspected patient. The most accurate interpretation is:",
+"y": "2022",
+"s": "PSM",
+"src": "inicet",
+"tp": "Diagnostic Test Evaluation",
+"idx": 313
+},
+{
+"a": 1,
+"e": "INI-CET",
+"ex": "Retrospective cohort: exposure and outcome both lie in the past, assembled from existing records.",
+"o": [
+"Prospective cohort",
+"Retrospective cohort",
+"Case-control study",
+"Ecological study"
+],
+"q": "Record-based exposure data of the last 20 years is used to compare bladder cancer occurrence between dye-handling workers and office staff of the same factory. Which study design is this?",
+"y": "2023",
+"s": "PSM",
+"src": "inicet",
+"tp": "Epidemiology Study Designs",
+"idx": 314
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "The submerged iceberg is the large hidden reservoir of mild or inapparent infection.",
+"o": [
+"Clinically manifest severe cases",
+"Mild and asymptomatic carriers who remain ambulant",
+"Laboratory-confirmed cases",
+"Imported introductions of new strains"
+],
+"q": "In the iceberg concept of disease, the largest submerged portion represents:",
+"y": "2024",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Disease Spectrum",
+"idx": 315
+},
+{
+"a": 3,
+"e": "NEET PG",
+"ex": "PQLI uses infant mortality, life expectancy at age 1 and literacy; income indicators are excluded by design.",
+"o": [
+"Infant mortality",
+"Expectation of life at age one",
+"Basic literacy rate",
+"Per-capita income"
+],
+"q": "While constructing the Physical Quality of Life Index (PQLI), which component is deliberately excluded?",
+"y": "2021",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Health Indicators",
+"idx": 316
+},
+{
+"a": 1,
+"e": "INI-CET",
+"ex": "ENMR = deaths within 0-6 days / live births x 1,000 = 9/5,000 = 1.8 per 1,000.",
+"o": [
+"0.18 per 1,000",
+"1.8 per 1,000",
+"18 per 1,000",
+"180 per 1,000"
+],
+"q": "Compute the early neonatal mortality rate if 9 infants died during the first completed week of life among 5,000 live births.",
+"y": "2024",
+"s": "PSM",
+"src": "inicet",
+"tp": "Mortality Rates",
+"idx": 317
+},
+{
+"a": 1,
+"e": "INI-CET",
+"ex": "YPLL totals, for each premature death, the years of life remaining up to an upper limit such as age 70.",
+"o": [
+"The mean age at death of the affected persons",
+"The sum of remaining expected years lost by persons who die prematurely before a cut-off age",
+"The ratio of young deaths to total deaths",
+"The life expectancy at the age of death"
+],
+"q": "Years of Potential Life Lost (YPLL) for a disease estimates:",
+"y": "2023",
+"s": "PSM",
+"src": "inicet",
+"tp": "Years of Potential Life Lost",
+"idx": 318
+},
+{
+"a": 0,
+"e": "NEET PG",
+"ex": "School-entry schedule: Td booster at 10 years and 16 years in India.",
+"o": [
+"Td booster",
+"BCG",
+"Pentavalent",
+"HepB birth dose"
+],
+"q": "A 10-year-old child presents for a missed school vaccination under the National Immunization Schedule. The correct vaccine to give is:",
+"y": "2023",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Immunization Schedule",
+"idx": 319
+},
+{
+"a": 0,
+"e": "NEET PG",
+"ex": "Run tap 1-2 min, flame polished tap, sterile bottle with 25 mL headspace; sodium thiosulphate if chlorinated.",
+"o": [
+"Run the tap 1 minute, flame the tap, fill a sterile bottle leaving head space",
+"Collect from the first gush directly into the sterile bottle",
+"Rinse the bottle with the same tap water",
+"Add acid to the sample to neutralize chlorine"
+],
+"q": "For collecting drinking water for bacteriological examination from a tap, the correct procedure is:",
+"y": "2023",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Water Quality Testing",
+"idx": 320
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "India recommends cervical cancer screening from 30 years via VIA or cytology every five years.",
+"o": [
+"Age 18 years with yearly cytology",
+"Age 30 years, repeated every 5 years",
+"Age 21 years with yearly cytology",
+"Age 40 years with HPV DNA testing only"
+],
+"q": "Under the National Cervical Cancer Screening Programme, screening of an average-risk woman should begin at:",
+"y": "2025",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Cancer Screening",
+"idx": 321
+},
+{
+"a": 1,
+"e": "INI-CET",
+"ex": "Maternal mortality rate uses women aged 15-49 in the denominator; ratio uses 100,000 live births.",
+"o": [
+"Maternal mortality ratio",
+"Maternal mortality rate",
+"Case fatality rate",
+"Life table death rate"
+],
+"q": "A statistician computes: number of maternal deaths divided by number of women aged 15-49 years, per 1,000. This is the:",
+"y": "2022",
+"s": "PSM",
+"src": "inicet",
+"tp": "Maternal Mortality",
+"idx": 322
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "Colombo Plan supplied Cobalt-60 teletherapy units to India for cancer treatment.",
+"o": [
+"Control of open-field malaria vectors",
+"Supply of cobalt-60 units and isotopes for radiotherapy",
+"Funding for the anti-malaria drug stock",
+"Construction of modern manufacturing plants"
+],
+"q": "Which contribution to India's health sector came from the Colombo Plan?",
+"y": "2021",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Health Planning in India",
+"idx": 323
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "Phlebotomus argentipes sandfly transmits visceral leishmaniasis (kala-azar).",
+"o": [
+"Anopheles stephensi",
+"Phlebotomus argentipes",
+"Culex quinquefasciatus",
+"Aedes aegypti"
+],
+"q": "In Bihar, cases with prolonged fever, anaemia and marked splenomegaly are attributed to a parasite transmitted by:",
+"y": "2024",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Visceral Leishmaniasis",
+"idx": 324
+},
+{
+"a": 3,
+"e": "INI-CET",
+"ex": "SE = SD/square root of n; a larger sample narrows the interval.",
+"o": [
+"Reducing the sample size",
+"Greater variability of the data",
+"Choosing a higher confidence level (e.g., 99%)",
+"Increasing the sample size"
+],
+"q": "Which of the following does NOT widen the 95% confidence interval of an estimated mean?",
+"y": "2022",
+"s": "PSM",
+"src": "inicet",
+"tp": "Confidence Intervals",
+"idx": 325
+},
+{
+"a": 1,
+"e": "INI-CET",
+"ex": "Descriptive statistics condenses data; inference generalizes from sample to the population.",
+"o": [
+"Inferential statistics",
+"Descriptive statistics",
+"Parametric methods",
+"Non-parametric methods"
+],
+"q": "Organizing, summarizing and presenting collected data in tables, charts and averages is termed:",
+"y": "2021",
+"s": "PSM",
+"src": "inicet",
+"tp": "Descriptive Statistics",
+"idx": 326
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "Odds ratio estimates relative risk when incidence cannot be computed directly.",
+"o": [
+"Relative risk",
+"Odds ratio",
+"Attributable risk",
+"Rate ratio"
+],
+"q": "In a case-control study, the measure of association that can be validly calculated is the:",
+"y": "2022",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Case-Control Studies",
+"idx": 327
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "BOAA (beta-N-oxalylamino-L-alanine) in Lathyrus sativus causes lathyrism.",
+"o": [
+"Aflatoxin",
+"BOAA",
+"Ergot alkaloids",
+"Phosphine"
+],
+"q": "A farmer with prolonged spastic paraplegia and scissoring gait has been consuming khesari dal for months. The responsible toxic factor is:",
+"y": "2024",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Lathyrism",
+"idx": 328
+},
+{
+"a": 2,
+"e": "NEET PG",
+"ex": "Pellagra (dermatitis, diarrhoea, dementia) results from niacin deficiency.",
+"o": [
+"Thiamine",
+"Riboflavin",
+"Niacin",
+"Pyridoxine"
+],
+"q": "A person on a maize-based diet develops dermatitis, diarrhoea and dementia. The deficient nutrient is:",
+"y": "2022",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Niacin Deficiency",
+"idx": 329
+},
+{
+"a": 0,
+"e": "NEET PG",
+"ex": "Avidin in raw egg white binds biotin causing its deficiency.",
+"o": [
+"Biotin",
+"Vitamin C",
+"Vitamin B6",
+"Folate"
+],
+"q": "An individual consuming large amounts of raw egg white develops hair and skin changes. The deficiency to suspect is:",
+"y": "2021",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Biotin Deficiency",
+"idx": 330
+},
+{
+"a": 0,
+"e": "INI-CET",
+"ex": "VZIG is given as passive immune prophylaxis to susceptible contacts, ideally within 96 hours of exposure.",
+"o": [
+"Varicella zoster immunoglobulin within 96 hours",
+"Live varicella vaccine on the same day",
+"Oral acyclovir prophylactically",
+"No specific prevention"
+],
+"q": "Within the first week after close exposure to a case of varicella, the recommended prophylaxis for a susceptible immunocompetent household contact is:",
+"y": "2023",
+"s": "PSM",
+"src": "inicet",
+"tp": "Varicella Prophylaxis",
+"idx": 331
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "Congenital rubella shows the classic triad of cardiac (PDA), eye (cataract) and ear (hearing loss) defects.",
+"o": [
+"Cytomegalovirus",
+"Rubella",
+"Herpes simplex",
+"Varicella"
+],
+"q": "A newborn has low birth weight, cataract, PDA and sensorineural hearing loss. The mother most likely had infection with:",
+"y": "2021",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Congenital Rubella Syndrome",
+"idx": 332
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "IMR reflects nutrition, sanitation, socioeconomic development and service coverage.",
+"o": [
+"HDI",
+"Infant mortality rate",
+"Case fatality of leprosy",
+"Disability-adjusted life years"
+],
+"q": "The single most sensitive indicator of the health status of a community and the availability of maternal-child services is:",
+"y": "2022",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Mortality Indicators",
+"idx": 333
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "Clean wound and booster within 10 years: single Td dose; TIG is not required.",
+"o": [
+"Full course of three tetanus toxoid doses",
+"Single dose of Td, no tetanus immunoglobulin",
+"Tetanus immunoglobulin alone",
+"Observation without any vaccine"
+],
+"q": "A 30-year-old man presents 2 hours after a clean, non-penetrating wound and had a tetanus toxoid booster within the past 10 years. The best management is:",
+"y": "2023",
+"s": "PSM",
+"src": "expand",
+"img": true,
+"tp": "Tetanus Prophylaxis",
+"idx": 334
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "Sharp wastes go to the white translucent puncture-proof waste container under Biomedical Waste Rules.",
+"o": [
+"Blue transparent plastic bag",
+"Puncture-proof, white translucent and leakproof box",
+"Red bag with biohazard label",
+"Black plastic container"
+],
+"q": "Used needles, scalpel blades and broken glass from an OPD must be collected in a container that is:",
+"y": "2024",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Biomedical Waste Management",
+"idx": 335
+},
+{
+"a": 1,
+"e": "INI-CET",
+"ex": "Cost-benefit analysis expresses both numerator and denominator in money; cost-utility uses QALYs.",
+"o": [
+"Cost-effectiveness analysis",
+"Cost-benefit analysis",
+"Cost-minimization analysis",
+"Cost-utility analysis"
+],
+"q": "The economic analysis that measures costs and consequences both in monetary units is:",
+"y": "2022",
+"s": "PSM",
+"src": "inicet",
+"tp": "Health Economics",
+"idx": 336
+},
+{
+"a": 2,
+"e": "NEET PG",
+"ex": "Lethargy with unable-to-drink and very slow skin pinch indicates severe dehydration needing IV fluids.",
+"o": [
+"No dehydration",
+"Some dehydration",
+"Severe dehydration",
+"Hypotonic dehydration"
+],
+"q": "A 2-year-old with acute watery diarrhoea is lethargic, cannot drink and the skin pinch returns very slowly. According to IMNCI this child has:",
+"y": "2023",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Diarrhea Management",
+"idx": 337
+},
+{
+"a": 0,
+"e": "INI-CET",
+"ex": "QALY = years in that health state x utility = 5 x 0.8 = 4.0.",
+"o": [
+"4.0 QALYs",
+"5.0 QALYs",
+"6.25 QALYs",
+"0.8 QALYs"
+],
+"q": "A screening intervention keeps a patient alive 5 further years of good health, with a utility score of 0.8. The QALY gain is:",
+"y": "2025",
+"s": "PSM",
+"src": "inicet",
+"tp": "Health Economics",
+"idx": 338
+},
+{
+"a": 0,
+"e": "NEET PG",
+"ex": "ABER = blood films examined / population at risk x 100; it gauges coverage of malaria surveillance.",
+"o": [
+"Annual blood examination rate (ABER)",
+"Slide positivity rate",
+"Case fatality rate",
+"Annual parasite incidence"
+],
+"q": "The surveillance indicator that reflects the proportion of the population screened for fever with a blood film is the:",
+"y": "2025",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Malaria Surveillance",
+"idx": 339
+},
+{
+"a": 0,
+"e": "INI-CET",
+"ex": "Earlier clinical diagnosis shifts the survival clock forward, overstating survival.",
+"o": [
+"Lead-time bias",
+"Length bias",
+"Verification bias",
+"Selection bias in the denominator"
+],
+"q": "Benign breast screening appears to improve 5-year survival without reducing mortality. The bias responsible is:",
+"y": "2024",
+"s": "PSM",
+"src": "inicet",
+"tp": "Screening Biases",
+"idx": 340
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "Sodium hypochlorite (bleach) decontaminates blood and body-fluid spills.",
+"o": [
+"70% alcohol",
+"1% sodium hypochlorite",
+"Chlorine with plain soap",
+"Formaldehyde solution"
+],
+"q": "A blood spill on the ward floor during resuscitation; the most suitable disinfectant for that site is:",
+"y": "2022",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Disinfection",
+"idx": 341
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "Tracking (or high-risk-rate) phenomenon: risk values remain relatively constant across time.",
+"o": [
+"Rank correlation",
+"Tracking",
+"Regression to the mean",
+"Cross-validation"
+],
+"q": "In follow-up studies, children with blood pressure at a lower centile tend to stay at lower values in adulthood. This tendency is called:",
+"y": "2023",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Epidemiologic Concepts",
+"idx": 342
+},
+{
+"a": 0,
+"e": "NEET PG",
+"ex": "Vitamin A for xerophthalmia: 2 lakh IU immediately, next day and at 4-6 weeks.",
+"o": [
+"2,00,000 IU immediately, repeated next day and 4-6 weeks later",
+"1,00,000 IU as a single dose only",
+"50,000 IU daily for one week",
+"10,000 IU daily for one month"
+],
+"q": "A 2-year-old with active keratomalacia is brought in. The recommended treatment schedule is:",
+"y": "2025",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Vitamin A Deficiency",
+"idx": 343
+},
+{
+"a": 3,
+"e": "NEET PG",
+"ex": "WHO STEPS surveys behavioural, physical and biochemical risk data, not treatment assessment.",
+"o": [
+"Physical measurements",
+"Behavioural assessment",
+"Biochemical assessment",
+"Therapeutic assessment"
+],
+"q": "Which of the following is NOT included in the WHO STEPS approach for NCD risk-factor surveillance?",
+"y": "2022",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "NCD Surveillance",
+"idx": 344
+},
+{
+"a": 1,
+"e": "INI-CET",
+"ex": "VVM is a square-in-circle indicator; vaccine beyond stage 4 must be discarded.",
+"o": [
+"Freezer tag",
+"Vaccine Vial Monitor (VVM)",
+"Shake test",
+"Open-vial label"
+],
+"q": "While transporting heat-labile vaccines, the label that darkens irreversibly on excess heat in the inner container is:",
+"y": "2024",
+"s": "PSM",
+"src": "inicet",
+"tp": "Cold Chain",
+"idx": 345
+},
+{
+"a": 2,
+"e": "INI-CET",
+"ex": "Interval scale has equal units and arbitrary zero; quantities like age and weight use the ratio scale.",
+"o": [
+"Nominal scale",
+"Ordinal scale",
+"Interval scale",
+"Ratio scale"
+],
+"q": "In biostatistics, measurements like temperature in Celsius are classified on the:",
+"y": "2023",
+"s": "PSM",
+"src": "inicet",
+"tp": "Measurement Scales",
+"idx": 346
+},
+{
+"a": 1,
+"e": "INI-CET",
+"ex": "Red = immediate life-threatening injury; green = walking wounded, yellow = delayed.",
+"o": [
+"Green walking wounded",
+"Red priority",
+"Yellow delayed",
+"Black deceased"
+],
+"q": "In disaster triage, a victim with a compromised airway needing immediate resuscitation is tagged:",
+"y": "2021",
+"s": "PSM",
+"src": "inicet",
+"tp": "Disaster Triage",
+"idx": 347
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "De facto counts people where they are found at the reference date; de jure counts usual residence.",
+"o": [
+"At their place of residence",
+"Wherever they are present at the census moment",
+"At their place of origin",
+"Excluded in special institutional households"
+],
+"q": "India's census uses the 'de facto' method of enumeration, meaning it counts persons:",
+"y": "2022",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Census Methods",
+"idx": 348
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "Factories Act: maximum 48 h/week and 9 h/day; overtime limited to 12 h/week (max 60 h).",
+"o": [
+"36 hours per week",
+"48 hours per week, up to 60 with overtime",
+"60 hours per week with unlimited overtime",
+"42 hours per week, up to 54 with overtime"
+],
+"q": "Under the Factories Act of India, the maximum hours of work per week for an adult factory worker is:",
+"y": "2022",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Occupational Health Legislation",
+"idx": 349
+},
+{
+"a": 3,
+"e": "NEET PG",
+"ex": "Kata thermometer measures cooling power of air and low air velocities.",
+"o": [
+"Dry bulb thermometer",
+"Wet bulb thermometer",
+"Whirling hygrometer",
+"Kata thermometer"
+],
+"q": "The instrument classically used to assess low air movement (air velocity) in the environment is:",
+"y": "2024",
+"s": "PSM",
+"src": "expand",
+"img": false,
+"tp": "Environmental Health Instruments",
+"idx": 350
+},
+{
+"q": "A dead body shows earliest decomposition as greenish discoloration localized to the right side of the lower abdomen. Which region does this earliest putrefaction mark correspond to?",
+"o": [
+"Left iliac region",
+"Right iliac fossa",
+"Left lumbar region",
+"Over the symphysis pubis"
+],
+"a": 1,
+"ex": "Putrefaction begins at the right iliac fossa (cecum in contact with abdominal wall), green tinge by 18-24 h in tropics.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Postmortem Changes",
+"idx": 351
+},
+{
+"q": "During the first six hours after death, the core temperature of a body in temperate environment drops at approximately which rate?",
+"o": [
+"0.3-0.4 C per hour",
+"0.8-0.9 C per hour",
+"1.8-2.0 C per hour",
+"3.0-3.5 C per hour"
+],
+"a": 1,
+"ex": "Body cools about 1.5 F (roughly 0.8 C) per hour for the first 6 hours, then rate slows.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Postmortem Changes",
+"idx": 352
+},
+{
+"q": "At autopsy, dependent parts show cherry-red hypostatic lividity. Which poisoning is this red hue classically associated with?",
+"o": [
+"Nitrite dyes",
+"Lead compounds",
+"Carbon monoxide",
+"Alcohol-disulfiram reaction"
+],
+"a": 2,
+"ex": "Cherry-red lividity = carboxyhemoglobin or cyanide; slate-brown lividity = methemoglobinemia from nitrites.",
+"e": "INI-CET",
+"y": "2024",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Postmortem Lividity",
+"idx": 353
+},
+{
+"q": "A drowned body holds aquatic weeds in one clenched hand. Which statement is correct about this phenomenon?",
+"o": [
+"It is ordinary rigor appearing 12 h after death",
+"It never involves the hands",
+"It is instantaneous rigidity of muscles active at the moment of death",
+"It disappears after forcible extension"
+],
+"a": 2,
+"ex": "Cadaveric spasm: immediate, persistent rigidity of muscles in action at death, classically in drowning.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Drowning",
+"idx": 354
+},
+{
+"q": "A medicolegal autopsy body shows complete rigor mortis of all muscle groups. This is reached approximately how many hours after death?",
+"o": [
+"1-2 hours",
+"4-6 hours",
+"12 hours",
+"48 hours"
+],
+"a": 2,
+"ex": "Rigor: onset 1-2 h, fully established about 12 h, disappears by 24-36 h; Nysten order facial muscles first.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Postmortem Changes",
+"idx": 355
+},
+{
+"q": "To estimate postmortem interval with the Henssge nomogram, which temperature is used as input?",
+"o": [
+"Rectal temperature",
+"Tympanic temperature",
+"Axillary temperature",
+"Skin temperature"
+],
+"a": 0,
+"ex": "Henssge nomogram uses rectal core temperature and body weight to estimate time since death.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Postmortem Interval Estimation",
+"idx": 356
+},
+{
+"q": "Which environmental condition most favors mummification of a body?",
+"o": [
+"Hot dry air with good ventilation",
+"Running cold water",
+"Humid closed basement",
+"Wet clay burial"
+],
+"a": 0,
+"ex": "Hot dry air dehydrates tissues to parchment-like skin, preserving the body as mummy.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Postmortem Changes",
+"idx": 357
+},
+{
+"q": "For skeletal age estimation of a girl claiming to be 17 years, which single radiograph carries most weight?",
+"o": [
+"Wrist joint",
+"Elbow joint",
+"Knee joint",
+"Hip joint"
+],
+"a": 2,
+"ex": "Distal femoral and proximal tibial epiphyses fuse by 16-18 years; knee films are key near adulthood.",
+"e": "NEET PG",
+"y": "2024",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Age Estimation",
+"idx": 358
+},
+{
+"q": "A forensic anthropologist differentiates sex from the skull. Which feature is distinctly masculine?",
+"o": [
+"Rounded full occiput",
+"Delicate glabella",
+"Prominent supraorbital ridges and external occipital protuberance",
+"Thin vault bones"
+],
+"a": 2,
+"ex": "Male skull: prominent brow ridges, large mastoids, heavy external occipital protuberance.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Identification",
+"idx": 359
+},
+{
+"q": "In a decomposed mutilated body, which provides the most reliable personal identification?",
+"o": [
+"Blood group serology",
+"Fingerprint ridge patterns",
+"Height from long bones",
+"Tattoo description"
+],
+"a": 1,
+"ex": "Fingerprints are permanent, unique and the most authoritative record for identification.",
+"e": "NEET PG",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Personal Identification",
+"idx": 360
+},
+{
+"q": "An autopsy wound over a bony prominence has ragged margins with microscopic fibrous tissue bridges across the wound cavity. It is a:",
+"o": [
+"Incised wound",
+"Laceration",
+"Stab wound",
+"Chopping wound"
+],
+"a": 1,
+"ex": "Irregular margins with tissue bridges = laceration; occurs where skin is crushed against bone.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Wound Vitality",
+"idx": 361
+},
+{
+"q": "In sharp-force trauma, the depth of the wound canal exceeds the width of the skin opening. This wound is a:",
+"o": [
+"Incised wound",
+"Stab wound",
+"Perforating wound",
+"Cut throat"
+],
+"a": 1,
+"ex": "Stab wound: depth greater than or equal to width; incised wound is longer than deep.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Sharp Force Injuries",
+"idx": 362
+},
+{
+"q": "In a gunshot autopsy, soot and blackening are found inside the wound track. Where does this finding confirm entrance?",
+"o": [
+"Deep inside the entry track near the skin",
+"At the exit wound edges",
+"On clothing far from the wound",
+"On the exit surface"
+],
+"a": 0,
+"ex": "Soot within the entry track indicates entrance; a clean punched exit has no soot.",
+"e": "INI-CET",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Firearm Injuries",
+"idx": 363
+},
+{
+"q": "A revolver fired with muzzle pressed firmly against the scalp produces a stellate ragged wound. This suggests which firing distance?",
+"o": [
+"Contact",
+"Distant over 2 m",
+"Intermediate with ricochet",
+"Grazing"
+],
+"a": 0,
+"ex": "Contact gunshot: muzzle gases tear the skin into star-shaped laceration with fixed carbon deposit.",
+"e": "NEET PG",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Firearm Injuries",
+"idx": 364
+},
+{
+"q": "An assaulted person is found dead with bruises and small cuts on the back of the forearms and hands. This pattern is known as:",
+"o": [
+"Hesitation marks",
+"Defense wounds",
+"Thermal injuries",
+"Postmortem excoriation"
+],
+"a": 1,
+"ex": "Defense wounds on forearms and hands result from guarding the body and grasping a weapon.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Defense Wounds",
+"idx": 365
+},
+{
+"q": "In a fire death, which finding best proves the person was alive when the fire occurred?",
+"o": [
+"Absence of blisters",
+"Soot particles in larynx, trachea and bronchi",
+"Fatty change in liver",
+"Lung congestion"
+],
+"a": 1,
+"ex": "Antemortem burns: soot in the airways and elevated blood carboxyhemoglobin are diagnostic.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Fire Deaths",
+"idx": 366
+},
+{
+"q": "A victim shows tense cyanotic face, bilateral conjunctival petechiae and violet mottling of the face, neck and upper chest (masque ecchymotique). The cause is:",
+"o": [
+"Throttling",
+"Traumatic asphyxia by chest compression",
+"Smothering with a pillow",
+"Ligature strangulation"
+],
+"a": 1,
+"ex": "Masque ecchymotique is the hallmark of traumatic asphyxia from severe chest compression.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Traumatic Asphyxia",
+"idx": 367
+},
+{
+"q": "A ligature mark of the neck is oblique, rising toward the knot at the back of the neck, placed above the thyroid cartilage. This pattern fits:",
+"o": [
+"Manual strangulation",
+"Ligature strangulation",
+"Typical hanging",
+"Garrotting"
+],
+"a": 2,
+"ex": "Hanging: ligature mark oblique and upward with gap at the knot; strangulation mark is horizontal and complete.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Hanging",
+"idx": 368
+},
+{
+"q": "In judicial hanging by the long drop method, the commonest cause of death is:",
+"o": [
+"Slow asphyxia from the noose",
+"Fracture-dislocation of upper cervical spine with cord injury",
+"Vagal reflex",
+"Cerebral concussion"
+],
+"a": 1,
+"ex": "Long drop causes hyperextension fracture-dislocation of C2-C4 with spinal cord transection: instant death.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Hanging",
+"idx": 369
+},
+{
+"q": "A body recovered from freshwater shows hemolyzed blood and raised serum potassium. The mechanism is:",
+"o": [
+"Salt concentration dehydrates cells",
+"Hypercalcemia with magnesium loss",
+"Water entry causes hemolysis with hyperkalemia and arrhythmia",
+"Adrenaline suppression"
+],
+"a": 2,
+"ex": "Freshwater aspiration dilutes plasma, hemolyzes red cells, raises potassium and may cause ventricular fibrillation.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Drowning",
+"idx": 370
+},
+{
+"q": "An offender kneels on the victim's chest, occludes the nose and mouth with a hand, causing smothering combined with chest compression. This is:",
+"o": [
+"Throttling",
+"Burking",
+"Mugging",
+"Garrotting"
+],
+"a": 1,
+"ex": "Burking = smothering plus traumatic chest compression asphyxia, named after Burke and Hare.",
+"e": "INI-CET",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Asphyxial Deaths",
+"idx": 371
+},
+{
+"q": "A young woman is found dead with two semicircular thumbprint bruises on either side of the front of the neck. The mechanism is:",
+"o": [
+"Typical hanging",
+"Manual strangulation (throttling)",
+"Ligature strangulation",
+"Smothering"
+],
+"a": 1,
+"ex": "Throttling leaves semilunar thumb and finger bruises; fractured hyoid may be absent in young victims.",
+"e": "NEET PG",
+"y": "2024",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Strangulation",
+"idx": 372
+},
+{
+"q": "A 16-year-old girl insists intercourse with a 23-year-old man was consensual. Legally, this consent:",
+"o": [
+"Is valid since she is above 15",
+"Is invalid because a minor cannot give valid consent",
+"Is valid if no injury is present",
+"Is irrelevant to the charge"
+],
+"a": 1,
+"ex": "A minor below 18 cannot consent; intercourse with a minor is a statutory offence.",
+"e": "INI-CET",
+"y": "2024",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Sexual Offences Law",
+"idx": 373
+},
+{
+"q": "In court, a witness is asked: 'Did A stab B in your presence?' and answers yes. This leading question is permissible during:",
+"o": [
+"Examination-in-chief",
+"Cross-examination",
+"Re-examination",
+"Police interrogation"
+],
+"a": 1,
+"ex": "Leading questions are permitted only in cross-examination, not in chief.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Court Procedures",
+"idx": 374
+},
+{
+"q": "The court orders recording of a rape victim's evidence behind closed doors. This procedure is called:",
+"o": [
+"Trial in camera with identity protection",
+"Recording at police station",
+"Video testimony in custody",
+"Summary inquiry"
+],
+"a": 0,
+"ex": "Rape trials are conducted in camera and publication of the victim's identity is prohibited.",
+"e": "NEET PG",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Court Procedures",
+"idx": 375
+},
+{
+"q": "A child is born several months after the death of her father; DNA confirms paternity. The child is legally termed:",
+"o": [
+"Posthumous child, legitimate heir",
+"Adopted child",
+"Illegitimate child",
+"Surrogate child"
+],
+"a": 0,
+"ex": "A child born within 280 days of the father's death from a married union is a legitimate posthumous child.",
+"e": "NEET PG",
+"y": "2024",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": true,
+"tp": "Medical Jurisprudence",
+"idx": 376
+},
+{
+"q": "Regarding a dying declaration recorded by a doctor, which statement is correct?",
+"o": [
+"Only a magistrate can record it under oath",
+"It must be written by the declarant himself",
+"Any person present may record it; no oath is needed and it is admissible",
+"It requires cross-examination for admissibility"
+],
+"a": 2,
+"ex": "Dying declaration: any person may record, no oath required, admissible without cross-examination.",
+"e": "INI-CET",
+"y": "2024",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Dying Declaration",
+"idx": 377
+},
+{
+"q": "A medicolegal autopsy for a hospitalized road traffic accident death is ordered by:",
+"o": [
+"The attending doctor",
+"The magistrate",
+"The district collector",
+"Any police constable"
+],
+"a": 1,
+"ex": "Autopsy is ordered by the magistrate; the doctor conducts it on requisition.",
+"e": "NEET PG",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Medicolegal Autopsy",
+"idx": 378
+},
+{
+"q": "Under the POCSO Act, a 'child' is defined as any person below which age?",
+"o": [
+"16 years",
+"17 years",
+"18 years",
+"21 years"
+],
+"a": 2,
+"ex": "POCSO defines child as below 18 years.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "POCSO Act",
+"idx": 379
+},
+{
+"q": "In a civil consumer complaint of medical negligence, the burden of proof is on:",
+"o": [
+"The patient to prove negligence on balance of probabilities",
+"The hospital to disprove negligence",
+"The medical council",
+"The state"
+],
+"a": 0,
+"ex": "In civil negligence the plaintiff must prove duty, breach, causation and damage on preponderance of evidence.",
+"e": "INI-CET",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Medical Negligence",
+"idx": 380
+},
+{
+"q": "A 14-year-old needs elective appendicectomy. Valid consent must come from:",
+"o": [
+"The child's own consent",
+"Parent or legal guardian",
+"The ward nurse",
+"Hospital superintendent"
+],
+"a": 1,
+"ex": "Major operations on minors require written consent of the parent or guardian.",
+"e": "NEET PG",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Consent",
+"idx": 381
+},
+{
+"q": "The four Ds of medical negligence are:",
+"o": [
+"Duty, dereliction, direct causation, damages",
+"Danger, delay, distress, death",
+"Doctor, diagnosis, drug, dosage",
+"Duty, diligence, discretion, delay"
+],
+"a": 0,
+"ex": "Four Ds: duty owed, dereliction (breach), direct causation, damages.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Medical Negligence",
+"idx": 382
+},
+{
+"q": "A child ingests toilet cleaner containing sulfuric acid. Which gastric management is correct?",
+"o": [
+"Gastric lavage with large bore tube",
+"Washing with sodium bicarbonate",
+"Inducing vomiting",
+"Gastric lavage is contraindicated; give demulcents"
+],
+"a": 3,
+"ex": "Corrosives: lavage and emesis are contraindicated due to risk of perforation; demulcents are given.",
+"e": "NEET PG",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Corrosive Poisoning",
+"idx": 383
+},
+{
+"q": "A 22-week pregnant rape survivor requests termination. Under the MTP Act (2021 amendment), abortion is permissible up to:",
+"o": [
+"12 weeks",
+"20 weeks",
+"24 weeks",
+"28 weeks"
+],
+"a": 2,
+"ex": "MTP 2021: 24 weeks for rape survivors and vulnerable groups; board approval needed beyond 20 weeks.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Medical Termination of Pregnancy",
+"idx": 384
+},
+{
+"q": "In lead poisoning, which enzyme pair is directly inhibited?",
+"o": [
+"ALA dehydratase and ferrochelatase",
+"Catalase and peroxidase",
+"Cytochrome oxidase",
+"Cholinesterase"
+],
+"a": 0,
+"ex": "Lead inhibits delta-ALA dehydratase and ferrochelatase, causing anemia and basophilic stippling.",
+"e": "NEET PG",
+"y": "2024",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Lead Poisoning",
+"idx": 385
+},
+{
+"q": "Transverse white lines (Mees lines) in the nails of chronic poisoning are classically associated with:",
+"o": [
+"Bismuth",
+"Arsenic",
+"Cadmium",
+"Iron"
+],
+"a": 1,
+"ex": "Mees lines are seen in arsenic poisoning (also thallium); raindrop pigmentation suggests thallium.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Arsenic Poisoning",
+"idx": 386
+},
+{
+"q": "A middle-aged man develops total alopecia, dark raindrop pigmentation of the neck and chronic diarrhea. The poison is:",
+"o": [
+"Mercury",
+"Thallium",
+"Phosphorus",
+"Zinc phosphide"
+],
+"a": 1,
+"ex": "Thallium: alopecia is the hallmark, with raindrop pigmentation and gastroenteritis.",
+"e": "INI-CET",
+"y": "2021",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Thallium Poisoning",
+"idx": 387
+},
+{
+"q": "An adolescent ingests garden seeds; within minutes he is flushed with dry skin, widely dilated pupils, delirium and urinary retention. The antidote of choice is:",
+"o": [
+"Atropine",
+"Physostigmine",
+"Naloxone",
+"Flumazenil"
+],
+"a": 1,
+"ex": "Datura (anticholinergic) poisoning is reversed with physostigmine; atropine would worsen it.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Anticholinergic Poisoning",
+"idx": 388
+},
+{
+"q": "All are features of acute cocaine intoxication EXCEPT:",
+"o": [
+"Mydriasis",
+"Diaphoresis and agitation",
+"Tachycardia",
+"Miosis"
+],
+"a": 3,
+"ex": "Cocaine causes mydriasis; miosis suggests opioid poisoning, not cocaine.",
+"e": "NEET PG",
+"y": "2022",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Cocaine Toxicity",
+"idx": 389
+},
+{
+"q": "In organophosphate poisoning, the enzyme reactivator pralidoxime is of clinical benefit mainly within:",
+"o": [
+"72 hours",
+"12 hours",
+"24-48 hours before aging of acetylcholinesterase",
+"1 week"
+],
+"a": 2,
+"ex": "Pralidoxime works only before 'aging' of the phosphorylated enzyme, about 24-48 hours.",
+"e": "INI-CET",
+"y": "2025",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Organophosphate Poisoning",
+"idx": 390
+},
+{
+"q": "The accepted antidote combination in cyanide poisoning is:",
+"o": [
+"Methylene blue with ascorbic acid",
+"Sodium nitrite followed by sodium thiosulfate",
+"Calcium gluconate",
+"Atropine with oximes"
+],
+"a": 1,
+"ex": "Nitrite produces methemoglobin which binds cyanide; thiosulfate converts it to thiocyanate.",
+"e": "NEET PG",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Cyanide Poisoning",
+"idx": 391
+},
+{
+"q": "Mass deaths after consuming illicit country liquor in a village are most often due to:",
+"o": [
+"Ethanol",
+"Methanol",
+"Acetone",
+"Ethylene glycol"
+],
+"a": 1,
+"ex": "Methanol metabolites to formic acid causing acidosis, visual loss and death in hooch tragedies.",
+"e": "INI-CET",
+"y": "2023",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Methanol Poisoning",
+"idx": 392
+},
+{
+"q": "Seminal fluid stains are confirmed by the Florence test, which detects:",
+"o": [
+"Choline with iodine-potassium iodide crystals",
+"Spermatozoa by Gram stain",
+"Glucose by Fehling test",
+"Protein by Biuret test"
+],
+"a": 0,
+"ex": "Florence test: brown crystals of choline periodide; Barberio and acid phosphatase tests are others.",
+"e": "NEET PG",
+"y": "2024",
+"s": "Forensic Medicine",
+"src": "expand",
+"img": false,
+"tp": "Seminal Stains",
+"idx": 393
+},
+{
+"q": "A snakebite victim develops ptosis, diplopia and bulbar paralysis within an hour but no local swelling. The venom is predominantly:",
+"o": [
+"Hemotoxic (viper)",
+"Neurotoxic (cobra and krait)",
+"Cardiotoxic only",
+"Myotoxic only"
+],
+"a": 1,
+"ex": "Neurotoxic venom (elapids) causes early descending paralysis with minimal local signs.",
+"e": "INI-CET",
+"y": "2025",
+"s": "Forensic Medicine",
+"src": "inicet",
+"tp": "Snake Envenomation",
+"idx": 394
+},
+{
+"a": 0,
+"e": "NEET PG",
+"ex": "Anterior communicating artery junction is the single most common saccular aneurysm site in the circle of Willis.",
+"o": [
+"Anterior communicating artery junction",
+"Posterior communicating artery origin",
+"Middle cerebral artery main bifurcation",
+"Termination of the basilar artery"
+],
+"q": "A ruptured berry-shaped aneurysm inside the base of the brain arises most often at which junction?",
+"y": "2023",
+"s": "Anatomy",
+"src": "expand",
+"img": false,
+"tp": "Cerebral Aneurysms",
+"idx": 395
+},
+{
+"a": 0,
+"e": "NEET PG",
+"ex": "Chiasmal compression, classically from a pituitary fossa mass, causes bitemporal hemianopia.",
+"o": [
+"Bitemporal hemianopia",
+"Left homonymous hemianopia",
+"Right nasal hemianopia",
+"Binasal hemianopia"
+],
+"q": "A suprasellar mass pressing upward distorts the optic chiasm. The resulting visual field defect is:",
+"y": "2021",
+"s": "Anatomy",
+"src": "expand",
+"img": false,
+"tp": "Optic Chiasm Lesions",
+"idx": 396
+},
+{
+"a": 0,
+"e": "INI-CET",
+"ex": "CN IX has a distinct dural sheath; CN X and XI share the vagal-accessory sheath.",
+"o": [
+"Glossopharyngeal nerve",
+"Hypoglossal nerve",
+"Vagus nerve",
+"Accessory nerve"
+],
+"q": "Within the jugular foramen, which cranial nerve travels enclosed in its own separate dural sheath?",
+"y": "2025",
+"s": "Anatomy",
+"src": "inicet",
+"tp": "Cranial Nerves",
+"idx": 397
+},
+{
+"a": 2,
+"e": "INI-CET",
+"ex": "The spinal nucleus of CN V relays pain and temperature from the face; the main sensory nucleus handles touch.",
+"o": [
+"Vibration and light touch",
+"Joint position sense",
+"Pain and temperature",
+"Deep pressure from muscles of mastication"
+],
+"q": "Second-order neurons of the spinal nucleus of the trigeminal nerve subserve which sensation from the face?",
+"y": "2024",
+"s": "Anatomy",
+"src": "inicet",
+"tp": "Trigeminal Nerve",
+"idx": 398
+},
+{
+"a": 1,
+"e": "NEET PG",
+"ex": "The trochlear (CN IV) nucleus is the only one placed at the inferior collicular level of the midbrain.",
+"o": [
+"Motor nucleus of the trigeminal",
+"Trochlear nucleus",
+"Abducens nucleus",
+"Hypoglossal nucleus"
+],
+"q": "Which cranial nerve nucleus sits in the midbrain at the level of the inferior colliculus?",
+"y": "2023",
+"s": "Anatomy",
+"src": "expand",
+"img": false,
+"tp": "Cranial Nerve Nuclei",
+"idx": 399
+}
+]

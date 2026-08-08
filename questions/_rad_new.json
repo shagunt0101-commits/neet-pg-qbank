@@ -1,0 +1,600 @@
+[
+ {
+  "q": "According to the Bergonie-Tribondeau law, rapidly dividing undifferentiated cells are the most radiosensitive. Of these options the most radiosensitive cell is:",
+  "o": [
+   "Spermatogonia",
+   "Mature neurons",
+   "Mature erythrocytes",
+   "Osteocytes"
+  ],
+  "a": 0,
+  "ex": "Spermatogonia divide rapidly and are among the most radiosensitive cells of the body.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "A radiographer at distance d from a point photon source walks to distance 2d. The exposure rate relative to the original becomes:",
+  "o": [
+   "One fourth",
+   "One half",
+   "Four times",
+   "Unchanged"
+  ],
+  "a": 0,
+  "ex": "A point source follows the inverse-square law; doubling the distance cuts the exposure to a quarter.",
+  "e": "NEET PG",
+  "y": "2022"
+ },
+ {
+  "q": "Routine personal dosimetry of diagnostic radiology personnel in India is monitored today with which device?",
+  "o": [
+   "Thermoluminescent dosimeter (TLD)",
+   "Pocket ionization chamber",
+   "Geiger-Muller counter",
+   "Roentgen survey meter"
+  ],
+  "a": 0,
+  "ex": "A LiF thermoluminescent dosimeter now serves individual monitoring of staff, replacing film badges.",
+  "e": "NEET PG",
+  "y": "2023"
+ },
+ {
+  "q": "Which agent introduced the first non-ionic water-soluble iodinated contrast into clinical use?",
+  "o": [
+   "Metrizamide",
+   "Iohexol",
+   "Iopamidol",
+   "Diatrizoate"
+  ],
+  "a": 0,
+  "ex": "Metrizamide was the first non-ionic contrast; diatrizoate is an older ionic molecule.",
+  "e": "NEET PG",
+  "y": "2022"
+ },
+ {
+  "q": "A patient with eGFR 35 ml/min needs iodinated contrast for CT with hydration run. Which agent carries the lowest risk of contrast-induced nephropathy?",
+  "o": [
+   "Iso-osmolar non-ionic dimer (iodixanol)",
+   "High-osmolar ionic diatrizoate",
+   "Low-osmolar agent at double dose",
+   "Monomeric iodamide only"
+  ],
+  "a": 0,
+  "ex": "Iodixanol (iso-osmolar dimer) is associated with the lowest CIN rate among iodinated agents.",
+  "e": "INI-CET",
+  "y": "2023"
+ },
+ {
+  "q": "Which gadolinium-based compound is safest in a patient with coexisting advanced renal failure, minimising the risk of nephrogenic systemic fibrosis?",
+  "o": [
+   "Macrocyclic chelate (gadobutrol)",
+   "Linear chelate (gadodiamide)",
+   "Linear chelate (gadopentetate)",
+   "Low-susceptibility ferric-based"
+  ],
+  "a": 0,
+  "ex": "Macrocyclic chelates release far less free gadolinium and carry the least NSF risk; linear agents are contraindicated in renal impairment.",
+  "e": "INI-CET",
+  "y": "2025"
+ },
+ {
+  "q": "A preterm newborn with grunting and retractions has a film of widespread ground-glass granularity plus air bronchograms and over-aeration. The most consistent diagnosis is:",
+  "o": [
+   "Surfactant-deficient respiratory distress syndrome",
+   "Neonatal lobar emphysema",
+   "Congenital diaphragmatic hernia",
+   "Bronchogenic cyst"
+  ],
+  "a": 0,
+  "ex": "RDS appears as fine ground-glass granularity with air bronchograms; transient tachypnoea differs.",
+  "e": "INI-CET",
+  "y": "2022"
+ },
+ {
+  "q": "On a supine abdominal radiograph of a baby, free intra-peritoneal air gathers under the anterior abdominal wall and outlines the whole cavity as an oval gas collection. Which sign is this?",
+  "o": [
+   "Football sign",
+   "Rigler sign of double-wall",
+   "Cupola sign",
+   "Sentinel loop"
+  ],
+  "a": 0,
+  "ex": "The oval of gas under the ventral wall in a supine neonate is the football sign; Rigler sign is loop lamination.",
+  "e": "INI-CET",
+  "y": "2021"
+ },
+ {
+  "q": "A newborn who fails to pass meconium has an iodine enema showing a contracted narrow rectosigmoid that cones into a dilated colon. The diagnosis is:",
+  "o": [
+   "Hirschsprung disease",
+   "Meconium ileus",
+   "Anorectal malformation",
+   "Colonic atresia"
+  ],
+  "a": 0,
+  "ex": "A spastic aganglionic segment with a transition cone on the enema typifies Hirschsprung disease.",
+  "e": "INI-CET",
+  "y": "2024"
+ },
+ {
+  "q": "Foamy granular opacities in a distended newborn's right upper abdomen plus a colon of normal width favours:",
+  "o": [
+   "Meconium ileus (CF-linked)",
+   "Meconium peritonitis",
+   "Necrotising enterocolitis",
+   "Duodenal web"
+  ],
+  "a": 0,
+  "ex": "Soap-bubble meconium blended high in the abdomen with no mechanical block points to meconium ileus; a water-soluble enema treats it.",
+  "e": "INI-CET",
+  "y": "2025"
+ },
+ {
+  "q": "A normal newborn film shows a triangular opacity in the superior right mediastinum, most prominent in inspiration. What is it?",
+  "o": [
+   "Thymic sail sign",
+   "Neurenteric cyst",
+   "Oesophageal duplication",
+   "Thoracic kidney"
+  ],
+  "a": 0,
+  "ex": "The sail sign of the thymus is a normal neonatal thoracic finding that changes shape and size.",
+  "e": "INI-CET",
+  "y": "2021"
+ },
+ {
+  "q": "A head-injured patient is briefly conscious then comatose. NCCT shows a biconvex lentiform hyperdensity respecting the skull sutures. The diagnosis is:",
+  "o": [
+   "Acute extradural haematoma",
+   "Chronic subdural haematoma",
+   "Lobar contusion",
+   "Cerebral abscess"
+  ],
+  "a": 0,
+  "ex": "The lucid interval plus a biconvex suture-respecting bleed are the signature of extradural haematoma.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "A week after a fall an anticoagulated elderly patient presents with confusion and half-side weakness. The CT shows a concave crescent of subdensity sweeping across suture lines. The best next step is:",
+  "o": [
+   "Burr-hole drainage",
+   "Emergent hemicraniectomy",
+   "High-dose steroids only",
+   "Aspirin taper observation"
+  ],
+  "a": 0,
+  "ex": "A concave crescentic subacute subdural effuses the convexity brain; burr-hole drainage relieves the pressure.",
+  "e": "NEET PG",
+  "y": "2023"
+ },
+ {
+  "q": "A patient is scanned 90 minutes after acute-onset hemiplegia; the plain CT is essentially normal. Which sequence demonstrates the early infarct most sensitively?",
+  "o": [
+   "Diffusion-weighted MRI",
+   "T2-weighted fast spin echo",
+   "Proton-density scan",
+   "T1 pre-contrast sequence"
+  ],
+  "a": 0,
+  "ex": "DWI catches cytotoxic oedema within minutes of occlusion; FLAIR and T2 turn positive much later.",
+  "e": "INI-CET",
+  "y": "2023"
+ },
+ {
+  "q": "Sudden thunderclap headache and a rigid neck; the CT shows hyperdense basal cisterns and convexity sulci. What is the diagnosis?",
+  "o": [
+   "Subarachnoid haemorrhage",
+   "Meningoencephalitis",
+   "Chronic subdural hygroma",
+   "Posterior-fossa tumour"
+  ],
+  "a": 0,
+  "ex": "Fissural hyperdensity in the cisterns and sulci after thunderclap is acute subarachnoid haemorrhage.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "A febrile patient with seizures has an MRI ring-enhancing mass whose core is bright on the diffusion sequence. The most likely lesion:",
+  "o": [
+   "Pyogenic abscess",
+   "High-grade astrocytoma",
+   "Haemorrhagic metastasis",
+   "Epidermoid tumour"
+  ],
+  "a": 0,
+  "ex": "Pus restricts diffusion, so the abscess core stays bright on DWI whereas necrotic tumour does not.",
+  "e": "NEET PG",
+  "y": "2024"
+ },
+ {
+  "q": "MRI shows a snowman-shaped mass expanding the sella and rising above it, compressing the optic chiasm. The likely diagnosis:",
+  "o": [
+   "Pituitary macroadenoma",
+   "Craniopharyngioma",
+   "Suprasellar meningioma",
+   "Rathke cyst"
+  ],
+  "a": 0,
+  "ex": "An hour-glass sella-suprasellar mass lifting the chiasm with a snowman waist is a pituitary macroadenoma.",
+  "e": "INI-CET",
+  "y": "2023"
+ },
+ {
+  "q": "An extra-axial dural-based enhancing mass with broad base and hyperostosis of the adjacent vault on CT is classically:",
+  "o": [
+   "Meningioma",
+   "Glioblastoma",
+   "Osteogenic sarcoma",
+   "Metastatic deposit"
+  ],
+  "a": 0,
+  "ex": "Uniformly enhancing extra-axial dural mass with dural tail and local hyperostosis is a meningioma.",
+  "e": "NEET PG",
+  "y": "2022"
+ },
+ {
+  "q": "An infant with mild cyanosis and heart failure has a chest film showing a cardiac silhouette shaped like a snowman on a pedestal. Which diagnosis best fits this configuration?",
+  "o": [
+   "Total anomalous pulmonary venous return (supracardiac)",
+   "Coarctation of the aorta",
+   "Transposition of great vessels",
+   "Dilated cardiomyopathy"
+  ],
+  "a": 0,
+  "ex": "In supracardiac TAPVR the dilated vertical vein and SVC give the classic snowman or figure-of-eight sign on the film.",
+  "e": "NEET PG",
+  "y": "2022"
+ },
+ {
+  "q": "A construction mason with a chisel chip suspects an intraocular metallic foreign body in the eye. Which imaging study must be avoided?",
+  "o": [
+   "MRI",
+   "Plain skull film",
+   "Orbital CT scan",
+   "Magnetic ultrasound"
+  ],
+  "a": 0,
+  "ex": "A ferromagnetic intraocular fragment may be displaced and torque inside the globe; MRI is contraindicated until its nature is screened.",
+  "e": "NEET PG",
+  "y": "2023"
+ },
+ {
+  "q": "An expanded and totally opacified frontal sinus with a thin intact wall evolves over weeks of frontal headache. Diagnosis:",
+  "o": [
+   "Frontal mucocoele",
+   "Acute frontal sinusitis",
+   "Osteomyelitis",
+   "Dermoid sinus"
+  ],
+  "a": 0,
+  "ex": "A mucocoele is a sinus inflated by ostial obstruction that expands and can erode the orbital plate.",
+  "e": "NEET PG",
+  "y": "2023"
+ },
+ {
+  "q": "Dysphonia with an apical lung opacity that destroys the first two ribs in a long smoker points to:",
+  "o": [
+   "Pancoast superior-sulcus tumour",
+   "Aspergilloma of the apex",
+   "Sarcoid hilar mass",
+   "Old TB complex"
+  ],
+  "a": 0,
+  "ex": "Apical mass with rib erosion and Horner plus arm pain is the superior sulcus Pancoast tumour.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "A child with a murmur has a film showing very plethoric (engorged) lung fields plus a prominent main pulmonary segment. This suggests:",
+  "o": [
+   "A left-to-right shunt such as VSD or PDA",
+   "Tetralogy of Fallot",
+   "Isolated pulmonary stenosis",
+   "Constrictive pericarditis"
+  ],
+  "a": 0,
+  "ex": "Left-to-right shunting floods the lung; cyanosed tetralogy leaves lung fields oligaemic.",
+  "e": "NEET PG",
+  "y": "2022"
+ },
+ {
+  "q": "A PA film in a dyspnoeic woman shows a bulge of the left atrial appendage and upward displacement of the left main bronchus; a barium swallow is pushed gently backward. This corresponds to:",
+  "o": [
+   "Left-atrial enlargement",
+   "Right ventricular enlargement",
+   "Aortic root ectasia",
+   "Pulmonary artery dilatation"
+  ],
+  "a": 0,
+  "ex": "A left atrium of size lifts the bronchus, bulges the appendage and indents the oesophagus on swallow.",
+  "e": "NEET PG",
+  "y": "2024"
+ },
+ {
+  "q": "A swallow study in a woman with months of progressive food dysphagia shows a dilated oesophagus that ends in a smooth narrowed beak at the cardia with slow emptying. Diagnosis:",
+  "o": [
+   "Achalasia",
+   "Peptic stricture",
+   "Corrosive stricture",
+   "Oesophageal cancer"
+  ],
+  "a": 0,
+  "ex": "A dilated oesophagus tapering to a smooth beak at the cardia with delayed emptying fits achalasia.",
+  "e": "NEET PG",
+  "y": "2022"
+ },
+ {
+  "q": "Low-grade fever with an ileocaecal stricture, a contracted scarred caecum and a central contrast fleck on barium in a young Indian adult:",
+  "o": [
+   "Intestinal tuberculosis",
+   "Crohn colitis",
+   "Caecal lymphoma",
+   "Yersinial enteritis"
+  ],
+  "a": 0,
+  "ex": "A goblet caecum with terminal-ileal narrowing is the ileocaecal-TB pattern of a febrile young adult.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "A 3-month-old with projectile vomiting after each feed has a pyloric ultrasound showing muscle wall thickness of 4.5 mm and an elongated narrowed canal. Diagnosis:",
+  "o": [
+   "Hypertrophic pyloric stenosis",
+   "Hiatus hernia",
+   "Malrotation",
+   "Pylorus spasm"
+  ],
+  "a": 0,
+  "ex": "Pyloric wall >3-4 mm with a stretched channel on US confirms hypertrophic pyloric stenosis.",
+  "e": "INI-CET",
+  "y": "2023"
+ },
+ {
+  "q": "For a child with blunt abdominal trauma whose supine film is without free air, the most useful additional view to expose a GI perforation is:",
+  "o": [
+   "Upright chest and left-lateral decubitus",
+   "Anteroposterior lumbar spine",
+   "Oblique swallow",
+   "Repeated supine after 48 hours"
+  ],
+  "a": 0,
+  "ex": "Erect and decubitus films pool the free gas under a diaphragm that the supine film misses.",
+  "e": "NEET PG",
+  "y": "2024"
+ },
+ {
+  "q": "A woman notes a gurgling lump in the neck during swallowing and regurgitates food eaten the previous day. The barium swallow shows a pouch of the hypopharynx just above the cricopharyngeus. Diagnosis:",
+  "o": [
+   "Pharyngeal pouch (Zenker diverticulum)",
+   "Laryngocoele",
+   "Dysphagia lusoria",
+   "Oesophageal web"
+  ],
+  "a": 0,
+  "ex": "Zenker diverticulum arises above the cricopharyngeus in the pharynx and retains old food, causing late regurgitation.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "An elderly obstructed patient has a plain film and CT showing abundant intraluminal gas, air lucencies over the hepatic shadow and a remote calcified stone lodged in a mid small-bowel loop. The unifying diagnosis is:",
+  "o": [
+   "Gallstone ileus (with pneumobilia)",
+   "Cholelithiasis only",
+   "Gas-gangrene ileus",
+   "Infarct of the ileum"
+  ],
+  "a": 0,
+  "ex": "Pneumobilia meeting a calcified obstructing stone is the classic gallstone ileus (Rigler triad).",
+  "e": "INI-CET",
+  "y": "2023"
+ },
+ {
+  "q": "A limping adolescent has an expansile soap-bubble lucency of the proximal humeral metaphysis with a paper-thin blown-out cortex and no matrix. Diagnosis:",
+  "o": [
+   "Aneurysmal bone cyst",
+   "Osteosarcoma",
+   "Chondroblastoma",
+   "Fibrous cortical defect"
+  ],
+  "a": 0,
+  "ex": "A multiloculated soap-bubble blow-out metaphyseal lesion of the young is an aneurysmal bone cyst.",
+  "e": "NEET PG",
+  "y": "2024"
+ },
+ {
+  "q": "A growing teen limps after running; the frog-lateral view shows the proximal femoral head slipping backward and medially in the neck. The diagnosis is:",
+  "o": [
+   "Slipped capital femoral epiphysis",
+   "Acetabular dysplasia",
+   "Perthes flattening",
+   "Septic arthritis"
+  ],
+  "a": 0,
+  "ex": "SCFE shows a medial and posterior slipping of the femoral epiphysis best seen on the frog-lateral projection.",
+  "e": "NEET PG",
+  "y": "2025"
+ },
+ {
+  "q": "A teenager with a nagging knee has a lytic focus in the epiphysis of the distal femur containing small faint specks of calcific density. Diagnosis:",
+  "o": [
+   "Chondroblastoma",
+   "Osteoid osteoma",
+   "Unicameral bone cyst",
+   "Epidermoid"
+  ],
+  "a": 0,
+  "ex": "Lucent epiphyseal lesion with flecks of chondroid matrix in the young is a chondroblastoma.",
+  "e": "INI-CET",
+  "y": "2023"
+ },
+ {
+  "q": "An exophytic bony mound on a long bone with cortex and marrow continuous with the host bone and a direction away from the nearest joint describes:",
+  "o": [
+   "Osteochondroma (cartilage-capped exostosis)",
+   "Osteoid osteoma",
+   "Enchondroma",
+   "Subperiosteal callus"
+  ],
+  "a": 0,
+  "ex": "Osteochondroma keeps cortex and cancellous marrow continuous with the host and grows away from the joint.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "A 70-year-old with pelvic pain after a trivial fall has a bone scan showing an H-shaped double tracer band across the sacral alae. The diagnosis:",
+  "o": [
+   "Sacral insufficiency fracture (Honda sign)",
+   "Sacral myeloma",
+   "Sacroiliitis",
+   "Coccyx fracture"
+  ],
+  "a": 0,
+  "ex": "The bilateral H of tracer in both sacral alae (Honda sign) marks insufficiency sacral fractures.",
+  "e": "INI-CET",
+  "y": "2025"
+ },
+ {
+  "q": "A menopausal woman has knee pain and a decisive dense line of calcium in the meniscus and hyaline cartilage of the joint on the radiograph. The deposited crystal is:",
+  "o": [
+   "Calcium pyrophosphate dihydrate (CPPD)",
+   "Monosodium urate",
+   "Hydroxyapatite",
+   "Cystine"
+  ],
+  "a": 0,
+  "ex": "Chondrocalcinosis seen as dense cartilage lines is the CP-PD of pseudo-gout.",
+  "e": "INI-CET",
+  "y": "2022"
+ },
+ {
+  "q": "A 30-year-old man with ascending stiffness and repeated uveitis has a single lateral film that shows the whole spine with continuous bridging ossification. The unified diagnosis is:",
+  "o": [
+   "Ankylosing spondylitis",
+   "Diffuse idiopathic skeletal hyperostosis",
+   "Syringomyelia",
+   "Post-polio scoliosis"
+  ],
+  "a": 0,
+  "ex": "Complete syndesmophyte bridging of the spine (bamboo spine) with sacroiliitis is ankylosing spondylitis.",
+  "e": "NEET PG",
+  "y": "2023"
+ },
+ {
+  "q": "A KUB of a patient with repeated urinary infections shows a branched stone casting the whole pelvicalyceal tree. The usual composition is:",
+  "o": [
+   "Struvite (magnesium-ammonium-phosphorus)",
+   "Uric acid",
+   "Cystine",
+   "Xanthine"
+  ],
+  "a": 0,
+  "ex": "A branched staghorn replicating the pelvis is usually struvite from urease-producing infection.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "In a renal-colic emergency, the single best test to show the site, size and whether a ureterolith is present is:",
+  "o": [
+   "Unenhanced CT of the urinary tract",
+   "IVU with ionised contrast",
+   "Radiorenogram",
+   "Ultrasound after hydration"
+  ],
+  "a": 0,
+  "ex": "Non-contrast CT of the whole urinary tract images stones with high sensitivity and sizes them.",
+  "e": "INI-CET",
+  "y": "2025"
+ },
+ {
+  "q": "In a child with repeated infections, the test that demonstrates vesico-ureteric reflux while the child voids is:",
+  "o": [
+   "Voiding cysto-urethrogram (MCU)",
+   "Intravenous urogram",
+   "Ultrasound voiding study",
+   "Nuclear renogram"
+  ],
+  "a": 0,
+  "ex": "Micturating cystographic fill and void directly shows refluxing contrast into the ureters.",
+  "e": "NEET PG",
+  "y": "2022"
+ },
+ {
+  "q": "A bulky redundant renal pelvis with a long narrow pleat at the ureteric junction shown on an IVU in a young adult means:",
+  "o": [
+   "Pelvi-ureteric junction obstruction",
+   "Staghorn of calices",
+   "Renal vein cuff",
+   "PU-junction tumour"
+  ],
+  "a": 0,
+  "ex": "A distended pelvis with a delicate narrowed junction defines a PUJ obstruction.",
+  "e": "NEET PG",
+  "y": "2023"
+ },
+ {
+  "q": "A liver ultrasound displays a well-defined cyst containing folded undulating strands of membrane lying curled within. Which sign is this?",
+  "o": [
+   "Water-lily sign of hydatid cyst",
+   "Snow-storm mole",
+   "Target sign of intussuscept",
+   "Crescent air"
+  ],
+  "a": 0,
+  "ex": "The water lily sign from a detached endocyst membrane within the cyst is seen in hydatid (Echinococcus).",
+  "e": "INI-CET",
+  "y": "2024"
+ },
+ {
+  "q": "A young hypertensive with a short segment of rigid bean-pod beading over the mid renal artery at aortography contains:",
+  "o": [
+   "Fibromuscular dysplasia",
+   "Thromboembolism",
+   "AVM",
+   "Takayasu constriction"
+  ],
+  "a": 0,
+  "ex": "Multifocal beading of the renal artery in a young hypertensive is the classic fibromuscular dysplasia.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "A young hypoxic patient with pleuritic chest pain has a chest film showing a local lucent oligaemic patch in one zone and a prominent pulmonary trunk. The event most likely responsible is:",
+  "o": [
+   "Pulmonary embolism (Westermark)",
+   "Lobar pneumonia",
+   "Pneumothorax shrinking",
+   "Effusion under lung"
+  ],
+  "a": 0,
+  "ex": "The Westermark sign of regional oligaemia and an enlarged pulmonary artery is a strong hint for acute PE.",
+  "e": "INI-CET",
+  "y": "2022"
+ },
+ {
+  "q": "In a patient with a pre-existing upper-lobe cavity from old tuberculosis, a new fungal ball fills the cavity and a crescent of air separates it from the cavity wall on the radiograph. The lesion is:",
+  "o": [
+   "Mycetoma (aspergilloma)",
+   "Hydatid daughter cyst",
+   "Lung abscess with debris",
+   "Bronchogenic carcinoma"
+  ],
+  "a": 0,
+  "ex": "The air-crescent (Monod) sign between the fungus ball and the cavity wall is typical of an aspergiloma.",
+  "e": "NEET PG",
+  "y": "2021"
+ },
+ {
+  "q": "Contrast CT shows an enhancing liver mass that extends as thrombus into the inferior vena cava and portal vein. Which hepatic neoplasm has this characteristic vascular extension?",
+  "o": [
+   "Hepatocellular carcinoma",
+   "Cavernous haemangioma",
+   "Focal nodular hyperplasia",
+   "Regenerative nodule"
+  ],
+  "a": 0,
+  "ex": "The hepatocellular carcinoma classically invades the veins, occluding them with its dysplastic thrombus.",
+  "e": "INI-CET",
+  "y": "2022"
+ }
+]

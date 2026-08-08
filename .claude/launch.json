@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "question-bank",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "4173", "--directory", "F:/NEET PG"],
+      "port": 4173,
+      "url": "http://localhost:4173/"
+    },
+    {
+      "name": "imgs-server",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8765", "--directory", "F:/NEET PG/research/audit/imgs"],
+      "port": 8765
+    }
+  ]
+}

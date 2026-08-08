@@ -1,0 +1,800 @@
+========== idx:1600 | Microbiology | img:False | a:1 | MAY 2023 | inicet
+Q: In a male renal transplant recipient on immunosuppressants, a biopsy reveals budding cells with pseudohyphae. Which organism is the most likely cause?
+O: ["Invasive aspergillosis", "Invasive candidiasis", "Histoplasmosis", "Pneumocystis"]
+EX: The patient's status as a kidney transplant recipient on immunosuppressive therapy places him at high risk for opportunistic fungal infections. The key to the diagnosis lies in the histopathological findings described in the biopsy. The presence of both budding yeast cells and pseudohyphae is the characteristic microscopic morphology of Candida species, particularly Candida albicans. Candida is a 
+========== idx:1601 | Microbiology | img:False | a:0 | MAY 2023 | inicet
+Q: In an elderly patient with meningitis, whose CSF is evaluated using Gram stain and microscopy, NODIA 230=== page  219 INICET Examination Paper EXAMINATION PAPER MAY-2023 ANATOMY 1. What is the correct order of structures in the auditory pathway?
+O: ["Eight nerve cochlear nuclei superior olivary nucleus lateral lemniscus inferior colliculus → medial geniculate body → auditory cortex", "Cochlear nuclei superior olivary nucleus → lateral lemniscus inferior colliculus → medial geniculate body → auditory cortex → Eight nerve", "Superior olivary nucleus lateral lemniscus → inferior colliculus medial geniculate body → auditory cortex → Eight nerve → Cochlear nuclei", "Superior olivary nucleus inferior colliculus auditory cortex Cochlear nuclei la
+EX: The central auditory pathway is a complex, polysynaptic route that transmits sound information from the inner ear to the cerebral cortex for conscious perception. The pathway begins with the spiral ganglion neurons, whose axons form the cochlear division of the vestibulocochlear nerve (cranial nerve VIII). These fibers make their first synapse in the cochlear nuclei located in the brainstem. From 
+========== idx:1602 | Microbiology | img:False | a:0 | MAY 2023 | inicet
+Q: Special somatic afferent 2.	 Special visceral efferent 3.	 General somatic efferent 4.	 General somatic afferent
+O: ["GSE, SVE, GSA, SSA", "SVE, GSA, SSA, GSE", "GSA, SSA, GSE, SVE", "SVE, GSE, GSA, SSA"]
+EX: During the development of the brainstem, the cranial nerve nuclei are organized into longitudinal functional columns arranged in a specific medial-to-lateral sequence. The sulcus limitans divides the plate into a medial motor (basal) plate and a lateral sensory (alar) plate. The motor columns are thus medial to the sensory columns. Within the motor plate, the most medial column is the General Soma
+========== idx:1603 | Physiology | img:True | a:0 | MAY 2023 | inicet
+Q: In biostatistics, the formula given below stands for?
+O: ["Standard Deviation", "Sample Variance", "Sample Mean", "Median"]
+EX: The formula provided, σ = √[Σ(x - μ)² / N], is the precise mathematical definition of the population standard deviation. The Greek letter sigma (σ) is the standard symbol for this parameter. The formula calculates the square root of the average of the squared deviations of each data point (x) from the population mean (μ). The sum of the squared deviations is divided by N, the total size of the pop
+========== idx:1604 | ENT | img:False | a:0 | MAY 2023 | inicet
+Q: A male farmer from a tropical region in South India presents to the ENT outpatient department with a reddish mass protruding from his nostril. Histopathological examination of the lesion has been performed. Based on these findings, which diagnosis is most likely?
+O: ["Rhinosporidiosis", "Nasal polyp", "Rhinophyma", "Rhinoscleroma"]
+EX: The clinical scenario of a farmer from a tropical region like South India presenting with a reddish, polypoid, and friable nasal mass is highly suggestive of rhinosporidiosis. This is a chronic granulomatous infection caused by the aquatic protistan parasite Rhinosporidium seeberi. The infection is typically acquired through contact with contaminated water in ponds or rivers, which aligns with the
+========== idx:1605 | ENT | img:False | a:3 | MAY 2023 | inicet
+Q: A 14-year-old girl visits an ENT specialist because she can hear sounds and understand speech sounds but cannot comprehend their meaning. Her Pure Tone Audiometry and Auditory Brainstem Response tests are normal. What is the most likely diagnosis?
+O: ["Malingering", "Auditory cortex lesion", "Mixed transcortical aphasia", "Wernicke's aphasia"]
+EX: This 14-year-old girl can hear sounds normally and her Pure Tone Audiometry (PTA) and Auditory Brainstem Response (ABR) are normal. This confirms that the peripheral auditory system and brainstem auditory pathways are intact. Therefore, the problem is not related to hearing loss or auditory nerve dysfunction. However, she is unable to comprehend the meaning of speech despite being able to hear it 
+========== idx:1606 | ENT | img:False | a:1 | MAY 2023 | inicet
+Q: In the provided image, which nerve is subjected to blockage?
+O: ["Anterior ethmoidal nerve", "Nasociliary nerve", "Supratrochlear nerve", "Long ciliary nerve"]
+EX: The image shows a local anesthetic injection being administered at the medial aspect of the upper nose, near the bridge and medial canthus region. This area corresponds to the sensory distribution of the nasociliary nerve, which is a branch of the ophthalmic division (V₁) of the trigeminal nerve. The nasociliary nerve passes through the superior orbital fissure and runs medially within the orbit. 
+========== idx:1607 | ENT | img:True | a:0 | MAY 2023 | inicet
+Q: What is the accurate order of the auditory pathway?
+O: ["Cochlea Spiral Ganglion Cochlear Nerve → Superior Olivary N", "Spiral Ganglion Cochlea Cochlear Nerve → Superior Olivary N", "Spiral Ganglion Cochlear Nerve → Cochlea → Superior Olivary N", "Cochlea Spiral Ganglion Cochlear Nerve → Inferior Olivary N"]
+EX: This question asks for the correct initial sequence of the peripheral auditory pathway. Sound vibrations are first transduced into neural signals by the hair cells within the cochlea of the inner ear. These hair cells synapse with the first-order neurons of the auditory pathway. The cell bodies of these first-order neurons are located in the spiral ganglion, which is also situated within the cochl
+========== idx:1608 | ENT | img:False | a:3 | MAY 2023 | inicet
+Q: What is the recommended treatment for an ICU patient diagnosed with influenza?
+O: ["Amantadine", "Cephalosporin + Ganciclovir", "Clarithromycin", "None of the above"]
+EX: The appropriate treatment for a patient with severe influenza infection, particularly one requiring ICU admission, is an antiviral medication that specifically targets the influenza virus. The primary class of drugs recommended for this purpose is the neuraminidase inhibitors. The most commonly used agent in this class is oseltamivir, which is administered orally. For critically ill patients who c
+========== idx:1609 | Ophthalmology | img:False | a:2 | MAY 2023 | inicet
+Q: Based on the blanching of vascularity seen after administering phenylephrine, as shown in the image, what is the likely diagnosis? NODIA 232=== page  227 INICET Examination Paper
+O: ["Nodular phlycten", "Nodular scleritis", "Nodular episcleritis", "Conjunctivitis"]
+EX: The phenylephrine blanching test is a simple yet crucial diagnostic maneuver used to differentiate between episcleritis and scleritis, two conditions that cause a red eye with a localized nodule. Episcleritis is an inflammation of the episclera, a thin vascular layer that lies between the conjunctiva and the sclera. Scleritis is a more severe inflammation of the deeper scleral tissue itself. Pheny
+========== idx:1610 | Ophthalmology | img:False | a:1 | MAY 2023 | inicet
+Q: Which lens is utilized in direct gonioscopy?
+O: ["Goldmann", "Koeppe", "Zeiss", "Sussman"]
+EX: Gonioscopy is the clinical technique used to visualize the iridocorneal angle, the anatomical angle between the iris and the cornea where the aqueous humor drains from the eye. It is essential for diagnosing and managing glaucoma. Gonioscopy can be either direct or indirect. Direct gonioscopy provides an upright, direct view of the angle. This technique requires the patient to be in a supine posit
+========== idx:1611 | Ophthalmology | img:False | a:0 | MAY 2023 | inicet
+Q: Identify the structure that is indicated in the image.
+O: ["Canal of Petit", "Canal of Hannover", "Hyaloid canal", "Pars plana"]
+EX: The image shows a cross-section of the eye with a highlighted space located between the ciliary body and the lens equator, specifically between the posterior surface of the iris/ciliary body and the anterior surface of the vitreous body. This triangular potential space corresponds to the Canal of Petit (also called the hyaloidocapsular ligament space). Anatomically, the Canal of Petit is bounded: 
+========== idx:1612 | Ophthalmology | img:False | a:1 | MAY 2023 | inicet
+Q: What is the correct sequence of staining used in patients with dry eye disease? i = Fluorescein stain ii = Lissamine green iii	 = Rose Bengal stain
+O: ["i, iii, ii", "i, ii, iii", "ii, i, iii", "iii, ii, i"]
+EX: Vital staining of the ocular surface is a key component of the diagnosis and assessment of dry eye disease. When multiple stains are used during the same examination, they should be applied in a specific order to prevent one stain from masking the results of another. The recommended sequence is based on the staining characteristics and potential for interference. The standard order is to first ins
+========== idx:1613 | Ophthalmology | img:True | a:2 | MAY 2023 | inicet
+Q: What is the earliest perimetric sign of glaucoma?
+O: ["Tunnel vision defect", "Complete vision loss", "Isopter contraction + baring of blind spot", "Complete field loss"]
+EX: Glaucoma is a progressive optic neuropathy characterized by the gradual loss of retinal ganglion cells and their axons, which results in characteristic patterns of visual field loss. The earliest visual field defects detected by automated perimetry are often subtle and found in the paracentral region. These early changes include an increase in the size of the physiological baring of the blind spot
+========== idx:1614 | Medicine | img:False | a:2 | MAY 2023 | inicet
+Q: A 27-year-old woman has an enlarged thyroid that is compressing nearby structures. Which symptom would not be expected in this situation?
+O: ["Voice hoarseness, attributed to compression of the recurrent laryngeal nerve", "Difficulty swallowing (dysphagia), due to compression of the esophagus", "Superior vena cava syndrome", "None of the above"]
+EX: A significantly enlarged thyroid gland, or goiter, can cause compressive symptoms by impinging on adjacent structures in the neck. Compression of the trachea can cause dyspnea and stridor. Posterior extension can compress the esophagus, leading to dysphagia (B). The recurrent laryngeal nerve runs in the tracheoesophageal groove, and compression or invasion by the goiter can lead to vocal cord para
+========== idx:1615 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: Which ion channels are mainly impaired due to the defect seen in cystic fibrosis?
+O: ["Cl-", "Ca2+", "Na+", "K+"]
+EX: Cystic fibrosis (CF) is an autosomal recessive genetic disorder caused by mutations in the gene that encodes the cystic fibrosis transmembrane conductance regulator (CFTR) protein. The CFTR protein is an ATP-gated ion channel located in the apical membrane of epithelial cells in many different organs. The primary function of this channel is the transport of chloride ions (Cl-) out of the epithelia
+========== idx:1616 | Medicine | img:False | a:3 | MAY 2023 | inicet
+Q: A 40-year-old man presents with excessive daytime sleepiness, poor concentration, and memory problems. He has a BMI of 41 kg/m² and hypertension (BP 160/100 mm Hg). ABG analysis shows PaO₂ 66 mm Hg, PaCO₂ 50 mm Hg, and normal bicarbonate levels. What is the most likely diagnosis?
+O: ["Obstructive sleep apnea", "Narcolepsy", "Central sleep apnea", "Obesity hypoventilation syndrome Click Here to Buy book on Amazon"]
+EX: This patient's clinical picture is most consistent with Obesity Hypoventilation Syndrome (OHS), also known as Pickwickian syndrome. OHS is defined by the triad of obesity (BMI > 30 kg/m²), daytime hypercapnia (PaCO2 > 45 mmHg), and sleep-disordered breathing, after ruling out other causes of hypoventilation. This patient is severely obese (BMI 41) and his arterial blood gas analysis confirms the p
+========== idx:1617 | Medicine | img:True | a:1 | MAY 2023 | inicet
+Q: A 35-year-old woman presents with skin thickening, muscle weakness, and pallor of the extremities on cold exposure. Laboratory tests show elevated creatine kinase, positive ANA, and biopsy findings of scl-70 positivity with perifascicular infiltration. Which specific antibody is linked to her condition?
+O: ["Anti PM-Scl antibody", "Anti Jo-1 antibody", "Anti-centromere antibody", "Antinuclear antibody"]
+EX: This patient presents with a combination of features: skin thickening, muscle weakness, Raynaud’s phenomenon (pallor of extremities on cold exposure), elevated creatine kinase (CK) indicating muscle inflammation, and positive ANA. The biopsy showing perifascicular involvement suggests an inflammatory myopathy. The presence of Scl-70 positivity indicates overlap with systemic sclerosis features. Th
+========== idx:1618 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: Which of the following tests is not performed for Turner mosaic screening?
+O: ["ANA", "Audiometry", "Echo", "GTT"]
+EX: Turner syndrome (45,X0) and its mosaic variants are associated with a number of specific health issues that require routine screening and surveillance. Congenital heart defects, particularly bicuspid aortic valve and coarctation of the aorta, are common, making a baseline echocardiogram (Echo) essential. Sensorineural hearing loss is also a frequent finding, so regular audiometry is recommended. I
+========== idx:1619 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: What is the correct order for cardiac auscultation from superior to inferior? a. Pulmonary b. Tricuspid c. Mitral
+O: ["a > b > c", "b > a > c", "c > a > b", "c > b > a"]
+EX: Cardiac auscultation is performed systematically over specific areas of the precordium where the sounds from each heart valve are best heard. While the aortic valve is auscultated most superiorly (right second intercostal space), the question asks for the order of the three valves listed. The pulmonary valve area is located in the left second intercostal space. Moving inferiorly along the left ste
+========== idx:1620 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: Match the following medical conditions with their corresponding descriptions: a. Caplan syn- drome 1. Initially observed in coal workers b. Asbestosis 2. Presents with a char- acteristic "crazy pave- ment" appearance c. Mesothelioma 3. Affects the lower lobe of the lungs d. Silicosis 4. Exhibits the presence of pleural effusion
+O: ["A-1, B-3, C-4, D-2", "A-4, B-2, C-3, D-1", "A-3, B-4, C-2, D-1", "A-2, B-4, C-3, D-1"]
+EX: This question requires matching pneumoconioses and related conditions to their key features. 1. Caplan syndrome is a specific condition characterized by the development of rheumatoid nodules in the lungs of patients with a pneumoconiosis, and it was initially described in coal workers who also had rheumatoid arthritis (a - 1). 2. Asbestosis is a diffuse interstitial fibrosis caused by asbestos exp
+========== idx:1621 | Medicine | img:False | a:1 | MAY 2023 | inicet
+Q: A 30-year-old man presents with recent fever and cough. His SpO₂ on room air is 98%, blood pressure is 110/70 mm Hg, and chest X-ray shows extensive bilateral consolidation. A nasopharyngeal swab is positive for rhinovirus. Which antibiotic therapy is most appropriate in this case?
+O: ["Ceftazidime + Azithromycin", "Ceftriaxone", "Ceftriaxone + Levofloxacin", "Piptaz + Ciprofloxacin"]
+EX: The most appropriate antibiotic treatment is Ceftriaxone. The patient, a 30-year-old male, presents with fever and cough but maintains normal oxygen saturation (98%) and stable blood pressure (110/70 mm Hg), indicating a non-severe infection. The chest X-ray shows bilateral consolidation, and the nasopharyngeal swab confirms Rhinovirus, which is a viral pathogen. Viral pneumonias usually do not re
+========== idx:1622 | Medicine | img:False | a:3 | MAY 2023 | inicet
+Q: For a pneumonia patient on mechanical ventilation with the following parameters: 50 kg body weight, respiratory rate (RR) of 14 breaths per minute, bicarbonate level of 18 mEq/L, pH of 7.3, pCO2 of 48 mmHg, pO2 of 110 mmHg, PEEP of 12 cm H2O, tidal volume (TV) of 420 mL, SpO2 of 100%, and FiO2 of 90%, what adjustment should be made to their ventilator settings?
+O: ["Increase PEEP", "Increase tidal volume", "Decrease RR", "Decrease FiO2"]
+EX: The patient's arterial blood gas (ABG) shows a mixed acidosis (pH 7.3, high pCO2, low bicarbonate), but the most critical parameter to address immediately is the oxygenation status. The patient's PaO2 is 110 mmHg and the SpO2 is 100% while on a very high level of inspired oxygen (FiO2 of 90%). A PaO2 above 100 mmHg indicates hyperoxia, which can be toxic to the lungs, causing oxidative stress and 
+========== idx:1623 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: What is the ECG depicted in the following image?
+O: ["Torsades de pointes", "Pericarditis", "Viral myocarditis", "Cardiac tamponade"]
+EX: The ECG strip displays a life-threatening cardiac arrhythmia known as Torsades de pointes (TdP). This is a specific form of polymorphic ventricular tachycardia that is characterized by a distinctive morphology on the ECG. The QRS complexes are wide and have a continuously changing axis and amplitude, appearing to twist or spiral around the isoelectric baseline. This "twisting of the points" gives 
+========== idx:1624 | Medicine | img:False | a:3 | MAY 2023 | inicet
+Q: How would you describe the characteristic murmur of aortic regurgitation?
+O: ["Ventricular contraction", "Ejection systolic murmur", "Diastolic murmur NODIA", "A- Retrocecal; B- Postileal; C - Preileal; D - Pelvic; E - Subcecal"]
+EX: The image displays the various anatomical positions of the vermiform appendix in relation to the cecum and terminal ileum. 1. A points to the appendix lying posterior to the cecum, which is the retrocecal position, the most common variant. 2. B points to the appendix lying posterior to the terminal ileum, which is the post-ileal position. 3. C points to the appendix lying anterior to the terminal 
+========== idx:1625 | Medicine | img:True | a:1 | MAY 2023 | inicet
+Q: Based on the observation that a surgeon could retract the hernial sac but not its contents during examination, what type of hernia does the image likely depict?
+O: ["Incarcerated hernia", "Reduction en masse", "Sliding hernia", "Maydl's"]
+EX: The image and the description portray a specific and dangerous complication known as reduction en masse. This occurs when an incarcerated or strangulated hernia is forcibly reduced without first ensuring that the contents of the sac are freed from the constricting neck of the hernia. The entire hernial sac, along with its trapped contents, is pushed as a single unit back through the fascial defect
+========== idx:1626 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: For a 52-year-old female patient with HER-2 positive breast cancer showing resistance to trastuzumab, which treatment option is being considered next by the oncologist?
+O: ["Lapatinib", "Sorafenib", "Vemurafenib", "Erlotinib"]
+EX: Trastuzumab is a monoclonal antibody that targets the extracellular domain of the HER2 receptor and is a cornerstone of therapy for HER2-positive breast cancer. However, acquired resistance to trastuzumab can develop. In this setting, alternative HER2-targeted agents are employed. Lapatinib is an oral small-molecule tyrosine kinase inhibitor (TKI) that targets the intracellular kinase domain of bo
+========== idx:1627 | Medicine | img:True | a:0 | MAY 2023 | inicet
+Q: A 56 year old chronic smoker presented with weight loss and cough for more than 1 year. He is having hypercalcemia. On biopsy there are atypical cells with hyperchromatic nuclei. What is the diagnosis?
+O: ["SCC", "Adenocarcinoma", "Small cell cancer", "Atypical large cell"]
+EX: This patient presents with several classic features of lung cancer. A long history of chronic smoking is the most significant risk factor. The clinical presentation of chronic cough and weight loss is highly suggestive of malignancy. The key finding is hypercalcemia, which, in the context of lung cancer, is most often a paraneoplastic syndrome caused by the tumor's production of parathyroid hormon
+========== idx:1628 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: 13 year old patient with a 4 week H/O midline neck swelling which moves up on deglutition and protrusion of tongue as image given below. Diagnosis will be?
+O: ["Thyroglossal cyst", "Plunging Ranula", "Branchial cyst", "Dermoid cyst"]
+EX: The clinical features described are pathognomonic for a thyroglossal duct cyst. This is the most common congenital anomaly of the neck, resulting from the persistence of a remnant of the thyroglossal duct, the embryological tract along which the thyroid gland descends from the foramen cecum at the base of the tongue to its final position in the neck. These cysts typically present as a painless, sm
+========== idx:1629 | Medicine | img:False | a:1 | MAY 2023 | inicet
+Q: Patient came to OPD with erythematous neck swelling in the supraclavicular region. Pulsations were present over the swelling as shown in image below. What is the next best step?
+O: ["Needle biopsy", "USG Doppler neck", "CT angio + percutaneous intervention", "Oral antibiotics for 7 days"]
+EX: The presence of a pulsatile swelling in the supraclavicular region raises immediate suspicion of a vascular pathology, such as an aneurysm or a pseudoaneurysm of the subclavian or carotid arteries, or a highly vascular tumor like a carotid body tumor. In this situation, performing an invasive procedure like a fine-needle aspiration or needle biopsy (A) is absolutely contraindicated as it could lea
+========== idx:1630 | Medicine | img:False | a:1 | MAY 2023 | inicet
+Q: Which of the following is part of Nadas’ minor criteria for diagnosing congenital heart disease?
+O: ["Cyanosis", "Grade 3 systolic murmur", "Palpable thrill", "Abnormal 2nd heart sound"]
+EX: Nadas’ criteria are used for the clinical diagnosis of congenital heart disease (CHD) and are divided into major and minor criteria. Major criteria include: 1. Cyanosis 2. Congestive cardiac failure 3. Grade ≥3 systolic murmur 4. Any diastolic murmur 5. Abnormal second heart sound 6. Significant cardiomegaly Minor criteria include: 7. Grade 1 or 2 systolic murmur 8. Abnormal ECG 9. Abnormal chest 
+========== idx:1631 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: A 58-year-old man arrives with sudden dizziness, nausea, and difficulty swallowing. Examination reveals ipsilateral facial numbness with loss of pain and temperature, contralateral loss of pain and temperature in the body, right-sided ptosis and miosis, along with hoarseness, ataxia, and vertigo. Which artery is most likely affected in this condition?
+O: ["Posterior inferior cerebellar artery", "Superior cerebellar artery", "Basilar artery", "Anterior inferior cerebellar artery"]
+EX: This is a classic presentation of the lateral medullary syndrome, also known as Wallenberg syndrome. This stroke syndrome is caused by an infarction of the lateral portion of the medulla oblongata. The most common vascular occlusion leading to this syndrome is of the posterior inferior cerebellar artery (PICA), which is a branch of the vertebral artery. The specific combination of signs and sympto
+========== idx:1632 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: A “slapped cheek” appearance is classically associated with Parvovirus B19 infection (Erythema infectiosum / Fifth disease).
+O: ["Pure Red Cell Aplasia", "Molluscum contagiosum", "Herpes zoster", "Kaposi sarcoma"]
+EX: The "slapped cheek" appearance, a bright red rash on both cheeks, is the characteristic initial sign of Erythema Infectiosum, also known as Fifth Disease. This common childhood illness is caused by infection with Parvovirus B19. While typically a benign, self-limiting illness in healthy children, Parvovirus B19 has a specific tropism for erythroid progenitor cells in the bone marrow. In individual
+========== idx:1633 | Medicine | img:False | a:1 | MAY 2023 | inicet
+Q: Which of the following tests is not necessary for diagnosing Turner mosaic syndrome?
+O: ["Echocardiogram (Echo)", "Antinuclear antibody (ANA) test", "Oral glucose tolerance test (OGTT)", "Audiometry"]
+EX: Turner syndrome (45,X0) and its mosaic variants are associated with a number of specific health issues that require routine screening and surveillance. Congenital heart defects, particularly bicuspid aortic valve and coarctation of the aorta, are common, making a baseline echo cardiogram (Echo) essential. Sensorineural hearing loss is also a frequent finding, so regular audiometry is recommended. 
+========== idx:1634 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: Which medication should be given to a patient who presents with dizziness, cool clammy skin, pinpoint pupils, cyanosis of the lips and nails, respiratory depression, and pink frothy sputum on coughing?
+O: ["Naloxone", "Atropine", "Phentolamine", "Physostigmine"]
+EX: This clinical picture is a classic presentation of a severe opioid overdose. The key signs are central nervous system depression (dizziness), constricted (miotic) pupils, and profound respiratory depression, which can lead to cyanosis. A particularly ominous sign of severe opioid overdose is the development of non-cardiogenic pulmonary edema, which manifests as pink, frothy sputum. This is a medic
+========== idx:1635 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: For individuals with which of the following disorders is administering vaccines not contraindicated?
+O: ["Complement fixation disorders", "Digeorge syndrome", "Wiskott Aldrich syndrome", "Ataxia telangiectasia"]
+EX: The safety of vaccination, particularly with live attenuated vaccines, depends on the nature of the primary immunodeficiency. Live vaccines (e.g., MMR, varicella) are generally contraindicated in individuals with significant T-cell immunodeficiencies because the weakened pathogen can cause severe or disseminated disease. DiGeorge syndrome (B), Wiskott-Aldrich syndrome (C), and ataxia-telangiectasi
+========== idx:1636 | Medicine | img:False | a:1 | MAY 2023 | inicet
+Q: Match the following columns a. Byssinosis 1. Cane sugar factories b. Bagassosis 2. Sandstone industry c. Silicosis 3. Lower lobe involved d. Asbestosis 4. Textile industry
+O: ["A2-B4-C1-D3", "A4-B1-C2-D3", "A2-B1-C4-D3", "A4-B1-C3-D2"]
+EX: This question requires matching occupational lung diseases (pneumoconioses) with their associated industries or key features. 1. Byssinosis is an asthma-like lung disease caused by the inhalation of dust from cotton, flax, or hemp. It is classically associated with workers in the textile industry (a - 4). 2. Bagassosis is a type of hypersensitivity pneumonitis caused by inhaling thermophilic actin
+========== idx:1637 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: Peripheral neuropathy along with Black Foot Disease is typically seen in poisoning by which metal?
+O: ["Arsenic", "Lead", "Mercury", "Cadmium"]
+EX: The combination of a peripheral neuropathy and "Blackfoot disease" is pathognomonic for chronic arsenic poisoning. Chronic exposure to arsenic, typically through contaminated drinking water, is a multisystem toxin. It causes a stocking-glove, predominantly sensory peripheral neuropathy. A unique and severe manifestation is Blackfoot disease, a form of dry gangrene affecting the extremities, which 
+========== idx:1638 | Medicine | img:False | a:0 | MAY 2023 | inicet
+Q: A 2-month-old pediatric patient has had a persistent swelling on the head since birth. What is the most likely diagnosis?
+O: ["Cephalhematoma", "Caput succedaneum", "Soft tissue swelling", "None of the above"]
+EX: The key differentiating feature in this clinical scenario is the persistence of the head swelling for two months after birth. A caput succedaneum is a diffuse, edematous swelling of the scalp that is present at birth. It is caused by pressure on the presenting part of the scalp during delivery, crosses suture lines, and characteristically resolves within the first few days of life. In contrast, a 
+========== idx:1639 | Orthopaedics | img:False | a:0 | MAY 2023 | inicet
+Q: In a 14-year-old boy who has had a mushroom- shaped tumor in the distal femur for two years, which of the following characteristics suggests that the tumor has undergone malignant transformation?
+O: ["Cartilage thickness > 3 cm", "Bone marrow is continuous with the parent bone", "The cartilaginous growth goes towards the joint", "Cartilage thickness > 2 cm"]
+EX: The lesion described (mushroom-shaped tumor in the distal femur) is characteristic of an osteochondroma, a benign cartilage-capped bony exostosis. A key feature of osteochondroma is that the cortex and medullary cavity are continuous with the parent bone, which is a normal benign finding. Malignant transformation of osteochondroma (most commonly into secondary chondrosarcoma) is suggested by: 1. I
+========== idx:1640 | OBG | img:False | a:1 | MAY 2023 | inicet
+Q: A 40-year-old female patient experiencing vulvovaginal itching is currently prescribed an antidiabetic medication. Which of the following medications could likely be associated with her symptoms?
+O: ["Metformin", "Canagliflozin", "Linagliptin", "Liraglutide"]
+EX: Vulvovaginal itching is a hallmark symptom of vulvovaginal candidiasis (a yeast infection). Canagliflozin is an oral antidiabetic drug that belongs to the class of sodium-glucose cotransporter 2 (SGLT2) inhibitors. The mechanism of action of SGLT2 inhibitors is to block the reabsorption of glucose in the kidneys, thereby promoting the excretion of large amounts of glucose in the urine (glucosuria)
+========== idx:1641 | OBG | img:False | a:0 | MAY 2023 | inicet
+Q: In HER2-positive breast cancer that is resistant to trastuzumab, which of the following treatment options is considered appropriate?
+O: ["Lapatinib", "Sorafenib", "Vemurafenib", "Erlotinib"]
+EX: HER2-positive breast cancer is characterized by the overexpression of the human epidermal growth factor receptor 2. The primary targeted therapy for this subtype is trastuzumab, a monoclonal antibody that binds to the extracellular domain of the HER2 receptor. However, some tumors may develop resistance to trastuzumab. In such cases, other HER2-targeted agents are used. Lapatinib is a small-molecu
+========== idx:1642 | OBG | img:False | a:2 | MAY 2023 | inicet
+Q: Osimertinib is used to treat non-small cell lung cancer (NSCLC) associated with which genetic mutation?
+O: ["L858R mutation", "T890M mutation", "T790M mutation", "M790T mutation"]
+EX: Osimertinib is a third-generation, irreversible epidermal growth factor receptor (EGFR) tyrosine kinase inhibitor (TKI). It is a highly effective targeted therapy for patients with non-small cell lung cancer (NSCLC) whose tumors harbor specific EGFR mutations. While it is also active against the common sensitizing mutations like exon 19 deletions and the L858R mutation (A), its key indication and 
+========== idx:1643 | OBG | img:False | a:3 | MAY 2023 | inicet
+Q: In a patient with a pelvic fracture who is actively bleeding and presents with hypotension, what is the recommended immediate management?
+O: ["Administer Crystalloids", "Apply External fixation", "Perform Internal definite fixation", "Use Pelvic Binders"]
+EX: An unstable pelvic fracture in a hemodynamically unstable trauma patient is a life-threatening emergency. The primary source of bleeding is typically from the large venous plexuses and cancellous bone surfaces within the pelvis. The immediate and most critical first step in management is to stabilize the pelvis mechanically to reduce the pelvic volume and tamponade the bleeding. This is most rapid
+========== idx:1644 | OBG | img:False | a:0 | MAY 2023 | inicet
+Q: A patient presents with abnormal sensations in the little finger and part of the ring finger, weakness on the palmar side of the hand, and impaired finger coordination. Which nerve is most likely injured?
+O: ["Ulnar nerve", "Radial nerve", "Median nerve", "Axillary nerve"]
+EX: This constellation of symptoms points directly to a lesion of the ulnar nerve. The ulnar nerve provides sensory innervation to the medial one-and-a-half digits of the hand, which includes the little finger and the medial half of the ring finger. Paresthesias or numbness in this specific distribution is a classic hallmark of ulnar neuropathy. The ulnar nerve also provides motor innervation to most 
+========== idx:1645 | OBG | img:True | a:3 | MAY 2023 | inicet
+Q: In the scenario where a surgeon reduces the hernia sac into the abdominal cavity without manually repositioning its contents, as shown in the image, which type of hernia is illustrated?
+O: ["Strangulated hernia", "Maydl's hernia", "Sliding hernia", "Reduction en masse"]
+EX: Reduction en masse is a rare but serious complication of attempting to reduce an incarcerated or strangulated hernia. It occurs when the entire hernia sac, along with its constricted neck and strangulated contents, is forcibly pushed from its subcutaneous position back through the fascial defect into the abdominal cavity. This maneuver gives the false impression of a successful reduction because t
+========== idx:1646 | OBG | img:False | a:1 | MAY 2023 | inicet
+Q: Which of the following are not considered anterior relations of the third part of the duodenum?
+O: ["Root of mesentery", "Fundus of gallbladder", "Jejunum", "Superior mesenteric artery"]
+EX: The third part of the duodenum, also known as the horizontal part, runs transversely from right to left, anterior to the inferior vena cava and the aorta. It has several important anterior relations. It is crossed anteriorly by the superior mesenteric artery and vein as they descend from behind the pancreas. The root of the mesentery of the small intestine also originates from this area and crosse
+========== idx:1647 | OBG | img:False | a:1 | MAY 2023 | inicet
+Q: After surgical repair of a left-sided varicocele, a 30-year-old man asks how venous drainage will mainly occur. What should the surgeon identify as the primary drainage route?
+O: ["Penile veins", "Cremasteric veins", "Ectopic drainage in the iliac fossa", "At the usual location"]
+EX: The testis has a complex venous drainage system. The primary route is through the pampiniform plexus, which coalesces to form the testicular (internal spermatic) vein. A varicocele is a dilation of these pampiniform plexus veins. Surgical correction, or varicocelectomy, involves ligating these incompetent testicular veins. Following this ligation, the venous drainage of the testis must rely on its
+========== idx:1648 | OBG | img:False | a:0 | MAY 2023 | inicet
+Q: A 25-year-old woman with a one-month history of fever presents with headache and ataxia. Brain imaging reveals dilated ventricles and prominent basal exudates. What CSF finding is most likely?
+O: ["Lymphocytosis, Low Glucose, High protein", "Lymphocytosis, Low Glucose, Normal protein", "Lymphocytosis, Low Glucose, Normal protein", "Neutrophilia, Low glucose, Low Protein"]
+EX: The clinical presentation of a subacute illness lasting a month, coupled with neurological signs and imaging that reveals hydrocephalus (dilated ventricles) and prominent inflammation at the base of the brain (basal exudates), is highly characteristic of tuberculous (TB) meningitis. The cerebrospinal fluid (CSF) analysis in TB meningitis has a classic profile that distinguishes it from other forms
+========== idx:1649 | OBG | img:False | a:0 | MAY 2023 | inicet
+Q: A 42-year-old patient reports chronic fatigue, feeling warm, and being unable to gain weight despite a good appetite. Which laboratory result would most likely be expected?
+O: ["Decreased TSH with elevated T3 or T4 levels", "Elevated TSH with normal T3 or T4 levels", "Elevated TSH with euthyroid levels of T3 and T4", "Increased T3 levels with decreased T4 levels"]
+EX: The patient's constellation of symptoms—persistent fatigue, heat intolerance ("warm body"), and weight loss despite a good or increased appetite—strongly suggests a hypermetabolic state consistent with hyperthyroidism. This condition is caused by an excess of circulating thyroid hormones (T3 and T4). The endocrine regulation of the thyroid gland is governed by a negative feedback loop. The pituita
+========== idx:1650 | OBG | img:False | a:0 | MAY 2023 | inicet
+Q: A hypertensive patient is on multiple medications, and the ECG shown reflects a specific pattern. Which medications are likely responsible for this ECG finding?
+O: ["Spironolactone", "Thiazides", "Prazosin", "Metoprolol"]
+EX: The ECG shows tall, narrow-based, and symmetrically peaked T-waves, often referred to as "tented" T-waves. This is the earliest and most characteristic electrocardiographic sign of hyperkalemia (elevated serum potassium levels). This finding reflects altered ventricular repolarization due to the high extracellular potassium concentration. The question requires identifying which of the listed antih
+========== idx:1651 | OBG | img:False | a:1 | MAY 2023 | inicet
+Q: A 10-year-old boy is admitted with severe dehydration, nausea, vomiting, urine sugar 3+, RBS 550 mg/dL, ABG showing pH of 7.1, and HCO3= 7 mmol/L. What is the appropriate line of management as per ISPAD (International Society for Pediatric and Adolescent Diabetes) guidelines?
+O: ["10 ml per kg of IV fluids & 0.1 unit/kg/hr bolus", "10 ml per kg of IV fluids & after 1 hour of fluid 0.1 unit/kg/hr of insulin", "20 ml per kg of IV fluids & 0.1 unit/kg/hr of insulin bolus", "20 ml per kg of IV fluids & after 1 hour of fluid 0.1 unit/kg/hr of insulin bolus"]
+EX: The patient's presentation with hyperglycemia, ketonuria, and metabolic acidosis is diagnostic of diabetic ketoacidosis (DKA). Management according to ISPAD guidelines is systematic and cautious. The first priority is to correct dehydration and restore circulatory volume. The initial fluid bolus for a child in DKA who is not in profound shock is 10 ml/kg of isotonic saline (0.9% NaCl) given over t
+========== idx:1652 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: Which of the following statements about CPR is incorrect?
+O: ["Ventilation 22-25/min", "Depth of chest compression up to 5-6 cm", "Allow adequate chest recoil", "Chest compression rate 100-120/min"]
+EX: High-quality cardiopulmonary resuscitation (CPR) is crucial for improving outcomes from cardiac arrest. The current guidelines emphasize several key components. The recommended rate of chest compressions for an adult is between 100 and 120 per minute. The depth of compressions should be at least 2 inches (5 cm) but not more than 2.4 inches (6 cm). It is also vital to allow for complete chest recoi
+========== idx:1653 | Surgery | img:False | a:1 | MAY 2023 | inicet
+Q: A patient presents with flank pain and hematuria, and X-ray imaging shows multiple stones in both kidneys. What is the most likely diagnosis?
+O: ["Parathyroid Adenoma", "Renal calculi", "Polycystic kidney disease", "CKD"]
+EX: The patient presents with flank pain and hematuria, which are classic symptoms of kidney stones. Flank pain, often severe and colicky, occurs due to obstruction of urine flow by a stone, leading to increased pressure in the urinary tract. Hematuria results from irritation and damage to the urinary tract mucosa caused by the stone. The X-ray showing multiple stones in both kidneys strongly supports
+========== idx:1654 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: What was the primary aim of the Keynote-189 trial involving pembrolizumab?
+O: ["Pembrolizumab with chemo given for NSCLC", "Nivolumab with chemo given for NSCLC", "Only Pembrolizumab for NSCLC", "Only nivolumab for NSCLC"]
+EX: The KEYNOTE-189 clinical trial was a landmark phase 3 study that fundamentally changed the first-line treatment paradigm for a specific subset of patients with advanced lung cancer. The primary objective of this trial was to evaluate the efficacy and safety of adding the immune checkpoint inhibitor pembrolizumab (an anti-PD-1 antibody) to a standard platinum-based chemotherapy regimen (pemetrexed 
+========== idx:1655 | Surgery | img:False | a:1 | MAY 2023 | inicet
+Q: What is the test depicted in the provided image called? NODIA 239=== MEDINK EXAMINATION PAPER MAY-2023
+O: ["Cystic hygroma", "Ranula", "Dermoid", "Mucocele"]
+EX: The image shows a translucent, bluish, dome-shaped swelling located in the floor of the mouth, to one side of the midline. This is the classic clinical appearance of a ranula. A ranula is a type of mucocele, or mucus extravasation cyst, that arises specifically from a sublingual salivary gland. It occurs when the duct of the gland is obstructed or traumatized, leading to the leakage and pooling of
+========== idx:1656 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: Identify the surgical instrument depicted in the provided image.
+O: ["Mixter", "Rampley", "Kocher", "Adson"]
+EX: The surgical instrument shown in the image is a Mixter right-angle clamp, also known as a Lahey or Gemini forceps. Its defining characteristic is that its jaws are angled at 90 degrees to the shanks. This right-angle design makes it an ideal instrument for dissecting and clamping vessels or other structures in deep or difficult-to-reach areas where a straight instrument would be awkward to use. It
+========== idx:1657 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: Which of the following statements accurately describes thymoma?
+O: ["Thymoma is the most common neoplasia of the thymus", "Thymoma is primarily located in the posterior mediastinum.", "Chest X-ray is the investigation of choice for the diagnosis of thymoma.", "Thymoma is typically asymptomatic and rarely causes any symptoms"]
+EX: A thymoma is a tumor that arises from the epithelial cells of the thymus gland, and it is indeed the most common primary neoplasm of the thymus and the anterior mediastinum in adults. Thymomas are characteristically located in the anterior mediastinum, not the posterior mediastinum (B). While a chest X-ray may incidentally detect an anterior mediastinal mass, the investigation of choice for diagno
+========== idx:1658 | Surgery | img:False | a:1 | MAY 2023 | inicet
+Q: After lap cholecystectomy what should be the urine output of the patient if the renal function of the patient is normal?
+O: ["0.1 CC/hr", "0.5 ml/min", "0.5-1.5 ml/kg/min", "1 ml/kg/min"]
+EX: After laparoscopic cholecystectomy, urine output is an important indicator of adequate renal perfusion and overall hemodynamic stability. In adults with normal renal function, the standard benchmark for adequate urine output is at least 0.5 mL/kg/hour. This value is widely used in postoperative monitoring and critical care settings to assess kidney function and tissue perfusion. For example, in a 
+========== idx:1659 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: Which of the subsequent conditions is linked with perineural invasion?
+O: ["Adenoid cystic carcinoma", "Pleomorphic adenoma", "Mucoepidermoid tumor", "Pancreatic cancer"]
+EX: Perineural invasion (PNI), the process of tumor cells invading in, around, and along nerves, is a well-known feature of certain malignancies and is associated with a poorer prognosis. Among salivary gland tumors, adenoid cystic carcinoma is notorious for its marked propensity for perineural invasion. This is a key histological feature of the tumor and is responsible for its tendency to spread exte
+========== idx:1660 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: What is the minimum platelet count necessary for surgical procedures?
+O: ["50,000(10^9/L)", "20,000(10^9/L)", "30,000 (10^9/L)", "40,000 (10^9/L)"]
+EX: The decision to proceed with surgery in a patient with thrombocytopenia depends on the type of procedure and the risk of bleeding. While there is some variation in practice, a generally accepted and safe threshold for the minimum platelet count required for most major, non-neuraxial surgical procedures is 50,000/µL. A count at or above this level is usually considered sufficient to ensure adequate
+========== idx:1661 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: Identify the position of the appendix in the image provided.
+O: ["A-Retrocecal; B - Preileal, C-Postileal, D - Pelvic; E-Subcecal", "A- Retrocecal; B- Postileal; C - Preileal; D - Pelvic: E - Paracecal", "A- Retrocecal; B- Postileal; C Preileal; D - Subcecal; E - Pelvic Click Here to Buy book on Amazon", "Systolic murmur"]
+EX: Aortic regurgitation (or aortic insufficiency) is a condition where the aortic valve fails to close completely at the end of systole. This incompetence allows blood to leak backward from the aorta into the left ventricle during diastole. This retrograde flow of blood across the incompetent valve is what generates the characteristic heart murmur. Therefore, the murmur of aortic regurgitation is a d
+========== idx:1662 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: Which of the following is not a cause of high- output cardiac failure?
+O: ["Cor pulmonale", "Beri beri", "Anemia", "Systemic AV shunt"]
+EX: High-output cardiac failure is a form of heart failure where the cardiac output is normal or even elevated, but it is insufficient to meet the body's heightened metabolic demands. This condition is caused by a significant decrease in systemic vascular resistance. Classic causes include severe chronic anemia (C), where reduced blood viscosity and tissue hypoxia cause widespread vasodilation; beribe
+========== idx:1663 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: Which statement best describes Subclinical acute myocarditis?
+O: ["Low LVEF on 2D ECHO", "Palpitations", "Elevated pro-BNP, Trop T", "Regional wall abnormalities on 2D ECHO"]
+EX: Subclinical myocarditis refers to inflammation of the heart muscle that is not severe enough to cause overt clinical symptoms of heart failure, such as dyspnea or overt signs like a significantly reduced left ventricular ejection fraction (LVEF) on echo cardiography. However, there is still underlying myocardial injury and stress occurring. This subclinical inflammation and myocyte damage can be d
+========== idx:1664 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: Which artery is involved in Lateral Medullary Syndrome?
+O: ["Posterior inferior cerebellar artery", "Anterior inferior cerebellar artery", "Superior cerebellar artery", "Inferior cerebellar artery"]
+EX: Lateral medullary syndrome, also known as Wallenberg syndrome, is a specific type of stroke that produces a classic and well-defined constellation of neurological deficits. This syndrome is caused by an infarction of the lateral portion of the medulla oblongata. The most common vascular cause for this stroke is an occlusion of the posterior inferior cerebellar artery (PICA), which is a branch of t
+========== idx:1665 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: Which of the following statements correctly describes lithium?
+O: ["It is not teratogenic", "It is not absorbed from the gut", "It can cause fine postural tremors at therapeutic dosage", "It is also used for treatment of absence seizures"]
+EX: Lithium is a mood-stabilizing medication that is a cornerstone in the treatment of bipolar disorder. One of its most common and well-known side effects, which can occur even at therapeutic serum concentrations, is a fine postural tremor, particularly of the hands. This is a frequent finding and does not necessarily indicate toxicity. Statement (A) is false; lithium is a known teratogen, classicall
+========== idx:1666 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: For which of the following conditions are vaccines not contraindicated in affected individuals?
+O: ["DiGeorge syndrome", "Wiskott-Aldrich syndrome", "Complement deficiency", "Ataxia telangiectasia"]
+EX: The safety of vaccination depends on the specific type of primary immunodeficiency. Live attenuated vaccines (such as MMR and varicella) are generally contraindicated in patients with severe T-cell immunodeficiencies, as the weakened pathogen can cause disseminated disease. DiGeorge syndrome (A), Wiskott-Aldrich syndrome (B), and ataxia-telangiectasia (D) are all complex immunodeficiencies that in
+========== idx:1667 | Surgery | img:False | a:3 | MAY 2023 | inicet
+Q: What is the most appropriate advice when a fully vaccinated individual is bitten by a fully vaccinated dog, resulting only in a minor abrasion?
+O: ["Metronidazole", "Ciprofloxacin", "Amoxiclav", "Observation"]
+EX: In this scenario: 1. The person is fully vaccinated against rabies. 2. The dog is also fully vaccinated. 3. The injury is only a minor abrasion. 4. The biting animal is presumably healthy and can be observed. According to rabies post-exposure prophylaxis (PEP) guidelines: If a previously vaccinated person is exposed: 5. They require only 2 booster doses of rabies vaccine (Day 0 and Day 3). 6. Rabi
+========== idx:1668 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: In a female patient presenting with skin manifestations resembling scleroderma, which marker would be most indicative of her condition?
+O: ["Anti-centromere antibodies", "Anti-La antibodies", "Anti-Jo antibodies", "Anti-U1 RNP antibodies"]
+EX: Systemic sclerosis (scleroderma) is an autoimmune disease characterized by fibrosis of the skin and internal organs. It is associated with several specific autoantibodies that help to define clinical subsets of the disease. Anti-centromere antibodies (ACA) are highly specific for the limited cutaneous form of systemic sclerosis, which was formerly known as the CREST syndrome (Calcinosis, Raynaud's
+========== idx:1669 | Surgery | img:False | a:1 | MAY 2023 | inicet
+Q: A 62-year-old patient experiences calf pain while walking that subsides with rest. Which of the following features is not typically associated with intermittent claudication?
+O: ["Muscle cramping during physical activity", "Pain starting on taking the first step", "Atheroma as the most frequent underlying cause", "Level of occlusion cannot be decided based on symptoms"]
+EX: Intermittent claudication is the classic symptom of peripheral artery disease (PAD). It is characterized by a reproducible cramping pain or ache in a muscle group (e.g., the calf) that is induced by a consistent level of exercise or physical activity and is relieved promptly by rest. This is caused by ischemia resulting from an inadequate blood supply to meet the increased metabolic demands of the
+========== idx:1670 | Surgery | img:False | a:3 | MAY 2023 | inicet
+Q: Which of the following is not recognized as a complication of massive blood transfusion?
+O: ["Hypocalcemia", "Hypokalemia", "Hypothermia", "Hypernatremia"]
+EX: Massive blood transfusion (the replacement of a patient's entire blood volume within 24 hours) is associated with several well-known metabolic and physiological complications. The citrate anticoagulant used in stored blood chelates calcium, which can lead to clinically significant hypocalcemia (A), especially when large volumes are infused rapidly. Stored red blood cells leak potassium, and the tr
+========== idx:1671 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: Which marker is indicative of alcohol-related illness?
+O: ["SGPT", "SGOT", "GGT", "ANP"]
+EX: While several liver enzymes can be elevated in alcohol-related liver disease, Gamma-Glutamyl Transferase (GGT) is considered a particularly sensitive, though not entirely specific, marker of chronic alcohol consumption and alcohol-related liver injury. Alcohol is a potent inducer of the microsomal GGT enzyme in the liver. Therefore, chronic heavy drinking often leads to a significant and dispropor
+========== idx:1672 | Surgery | img:False | a:3 | MAY 2023 | inicet
+Q: Matching the following conditions: a. Trisomy 13 1. Huntington dis- ease b. Trisomy 18 2. Patau syndrome NODIA 241=== MEDINK EXAMINATION PAPER MAY-2023 AAns  EXAMINATION PAPER MAY-2023 The management of acute diverticulitis depends on its severity. Uncomplicated diverticulitis is typically managed conservatively with antibiotics. However, the development of complications is an indication for more aggressive management, including potential surgery. The finding of a pericolic abscess on a CT scan represents a complicated diverticulitis (Hinchey stage I or II). While small abscesses (<4 cm) can 
+O: ["Gingivostomatitis", "Immunodeficiency", "Lymphoproliferative disorder", "Pure red cell aplasia"]
+EX: The image shows a child with a characteristic facial appearance of prominent cheeks and a pale complexion, suggestive of a severe chronic anemia. The specific condition hinted at is Diamond-Blackfan Anemia (DBA). DBA is a congenital bone marrow failure syndrome characterized by a profound macrocytic anemia due to the failure of red blood cell precursors to proliferate and mature, a condition known
+========== idx:1673 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: What are the appropriate treatment options for a child exhibiting symptoms of a six-day fever, strawberry tongue, conjunctival congestion, and skin peeling?
+O: ["Aspirin + clopidogrel", "Warfarin", "IVIG", "LMWH"]
+EX: The patient's constellation of symptoms—prolonged fever (>5 days), strawberry tongue (oral mucosal changes), conjunctival congestion, and skin peeling (desquamation of the extremities)—are classic diagnostic criteria for Kawasaki disease. Kawasaki disease is an acute, self-limited vasculitis of childhood that primarily affects the medium-sized arteries. Its most serious complication is the develop
+========== idx:1674 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: A 10-week-old infant, previously experiencing inconsolable crying and a fever of 40 degrees Celsius following a 6-week vaccination, is now due for another round of immunizations. What is the most advisable course of action?
+O: ["Don't give DT", "Give DPT", "Don't give DPT", "Defer for 1 month"]
+EX: A 10-week-old infant previously developed inconsolable crying and high fever (40°C) after the 6-week vaccination. These are recognized severe adverse reactions to the whole-cell pertussis (wP) component of the DPT vaccine. According to immunization guidelines: 1. Persistent inconsolable crying lasting more than 3 hours 2. High fever ≥ 40°C within 48 hours of vaccination 3. Hypotonic hyporesponsive
+========== idx:1675 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: During a temple visit, a child with his grandmother began to cry incessantly. Medical evaluation revealed the child was in severe pain, had high blood pressure, an increased heart rate, was sweating profusely, had a persistent erection, and his skin was cool and clammy. Which treatment option is most appropriate for this patient?
+O: ["Prazosin", "Adrenaline", "Methylprednisolone", "Anti snake venom"]
+EX: This unusual and dramatic clinical presentation is the classic toxidrome of a scorpion sting, particularly from the Indian red scorpion (Mesobuthus tamulus). The venom of this scorpion contains potent neurotoxins that cause a massive and uncontrolled release of catecholamines (epinephrine and norepinephrine) from the adrenal glands and sympathetic nerve endings, leading to a "sympathetic storm." T
+========== idx:1676 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: Which of the following options can be associated with the appearance of a child presenting in this manner?
+O: ["Aplastic crises in sickle cell disease", "Immunodeficiency", "Lymphoproliferative disorder", "BK Nephropathy"]
+EX: The image shows the characteristic "slapped cheek" rash of Erythema Infectiosum, also known as Fifth Disease. This common childhood exanthem is caused by infection with Parvovirus B19. In immunologically normal children, the infection is typically mild and self-limiting. However, Parvovirus B19 has a unique and strong tropism for erythroid progenitor cells in the bone marrow. It infects and destro
+========== idx:1677 | Surgery | img:True | a:3 | MAY 2023 | inicet
+Q: Which test would be suitable for assessing incompetence of the superficial femoral vein (SFJ) in a patient who has dull aching pain and twisted veins in both lower limbs?
+O: ["Fegan's test", "Homan's test", "Modified Perthes test", "Brodie Trendelenburg test"]
+EX: The patient's symptoms are suggestive of varicose veins due to chronic venous insufficiency. The Brodie-Trendelenburg test is a classic clinical maneuver used to assess the competence of the valves in the superficial venous system, specifically at the saphenofemoral junction (SFJ), and in the perforating veins. The test involves elevating the patient's leg to empty the superficial veins, then appl
+========== idx:1678 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: Please identify the appendix position marked red in the image below:
+O: ["Retrocecal", "Preileal", "Subcecal", "Pelvic"]
+EX: The red-colored appendix in the image is located posterior to the cecum, extending upward behind it. This position corresponds to the retrocecal position, which is the most common anatomical location of the appendix (about 60–65% of cases). In the retrocecal position, the appendix lies behind the cecum and may be partially or completely retroperitoneal. Clinically, this position may cause atypical
+========== idx:1679 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: Which of the following complications is most commonly associated with the procedure performed on the patient?
+O: ["Pneumothorax", "Aspiration", "Dysphagia", "Refeeding"]
+EX: The image shows a central venous catheter (CVC) inserted in the supraclavicular/infraclavicular region, most likely via the subclavian vein. Central venous catheterization is commonly performed for fluid administration, medications, hemodynamic monitoring, or total parenteral nutrition. One of the most common and important complications of subclavian vein catheterization is pneumothorax. This occu
+========== idx:1680 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: For a 53-year-old patient presenting with rectal bleeding, where a colorectal condition is suspected by the surgeon, which is most appropriate diagnostic test?
+O: ["Colonoscopy", "CEA levels", "CA-19-9 levels", "CECT (Contrast-enhanced CT scan)"]
+EX: Rectal bleeding in a 53-year-old patient is a significant symptom that requires a thorough evaluation to rule out colorectal cancer and to identify other potential causes like diverticulosis or polyps. The gold standard and most appropriate diagnostic test in this situation is a colonoscopy. This procedure allows for direct visualization of the entire mucosal surface of the colon and rectum. It is
+========== idx:1681 | Surgery | img:False | a:3 | MAY 2023 | inicet
+Q: A 45-year-old woman with early-stage breast cancer is considering her surgical options with her surgeon. Which of the following does not accurately describe an aspect of breast conservation surgery?
+O: ["Wide local excision", "Post-operative radiotherapy", "Lymph node dissection", "Axillary dissection"]
+EX: Breast conservation surgery (BCS), also called lumpectomy or wide local excision, is performed in early-stage breast cancer to remove the tumor along with a margin of normal surrounding tissue while preserving most of the breast. The primary goal is to achieve oncological safety with good cosmetic outcome. A key component of BCS is wide local excision, making option (A) correct. After surgery, pos
+========== idx:1682 | Surgery | img:False | a:3 | MAY 2023 | inicet
+Q: A 55-year-old woman, a smoker for 30 years, reports a lump in her breast, which is confirmed by physical examination. Considering her extensive history of smoking, which of the following breast conditions is most directly associated with smoking?
+O: ["Mondor disease", "Fibroadenoma", "Ca breast", "Duct ectasia"]
+EX: While smoking is a known risk factor for breast cancer, it has a stronger and more direct association with certain benign breast conditions. Mammary duct ectasia is an inflammatory condition characterized by the dilation of the large milk ducts located beneath the nipple. It is strongly linked to cigarette smoking. The toxins in cigarette smoke are thought to directly damage the ductal epithelium,
+========== idx:1683 | Surgery | img:False | a:1 | MAY 2023 | inicet
+Q: Which of the subsequent options is not considered a perianal approach for rectal prolapse?
+O: ["Altemeir", "Frykman and Goldberg's", "Thiersch", "Delorme"]
+EX: The surgical management of a full-thickness rectal prolapse can be performed via either an abdominal approach or a perineal (perianal) approach. The choice of procedure depends on the patient's age, comorbidities, and the surgeon's preference. The perineal approaches are performed through an incision around the anus. These include the Altemeier procedure (a perineal rectosigmoidectomy), the Delorm
+========== idx:1684 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: In a 30-year-old pregnant woman at 28 weeks gestation, diagnosed with a fibroid and presenting with fever, elevated white blood cell count, and pain, what is the most likely cause of her symptoms?
+O: ["Red degeneration of fibroid", "Fibroid torsion", "Fibroid infection", "Labor pain"]
+EX: Uterine fibroids (leiomyomas) can grow rapidly during pregnancy due to the influence of high estrogen levels. Sometimes, a fibroid can outgrow its blood supply, leading to ischemic necrosis and infarction in the center of the tumor. This specific type of aseptic, hemorrhagic infarction is known as red degeneration. It is a well-known complication of fibroids, particularly during the second and thi
+========== idx:1685 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: Which condition has the lowest occurrence of perinatal transmission?
+O: ["HIV", "HSV", "Rubella", "CMV"]
+EX: Perinatal (vertical) transmission rates vary among infections: 1. CMV is the most common congenital viral infection. Primary maternal infection has a transmission rate of about 30–40%, and even higher in later pregnancy. 2. HIV has a transmission rate of 15–45% without treatment, but this can be reduced to <5% with antiretroviral therapy. 3. HSV has a high transmission risk (30–50%) if the mother 
+========== idx:1686 | Surgery | img:False | a:3 | MAY 2023 | inicet
+Q: In a scenario where a 36-year-old pregnant patient reports whitish vaginal discharge and yellow staining on clothing, but without symptoms of itching or redness, and with an acidic pH, what is the most likely explanation for these observations?
+O: ["Candidiasis", "Bacterial vaginosis", "Trichomoniasis", "Increased normal vaginal discharge"]
+EX: During pregnancy, hormonal changes, particularly high levels of estrogen, lead to a physiological increase in cervical secretions and vaginal transudate. This condition is known as leukorrhea of pregnancy and represents an increased normal vaginal discharge. This discharge is typically thin to mucoid, whitish in color, and has a mild or no odor. When it dries on clothing, it may appear yellowish. 
+========== idx:1687 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: What are clue cells?
+O: ["Vaginal epithelial cells lined by bacteria", "Cervical epithelial cells lined by bacteria", "Uterine endothelial cells lined by bacteria", "Abdominal cells lined by bacteria"]
+EX: Clue cells are the single most reliable microscopic finding for the diagnosis of bacterial vaginosis (BV). They are defined as vaginal squamous epithelial cells that are so densely coated with adherent coccobacilli (primarily Gardnerella vaginalis and other BV-associated anaerobes) that the borders of the epithelial cells become obscured and indistinct. This dense bacterial coating gives the cells
+========== idx:1688 | Surgery | img:False | a:1 | MAY 2023 | inicet
+Q: For a patient presenting with a retroverted uterus, dysmenorrhea, and dyspareunia, what is the recommended next step in investigation?
+O: ["Ultrasound (USG)", "Diagnostic Laparoscopy", "Laparotomy", "HSG (Hysterosalpingography)"]
+EX: A retroverted uterus alone is often a normal anatomical variant and may not cause symptoms. However, when it is associated with dysmenorrhea (painful menstruation) and dyspareunia (pain during intercourse), it strongly suggests an underlying pelvic pathology, most commonly endometriosis or pelvic adhesions. Endometriosis occurs when endometrial tissue is present outside the uterus, often involving
+========== idx:1689 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: A 15-year-old girl presents with primary amenorrhea, development of pubic hair, prepubertal breasts, a blind-ending vagina, clitoromegaly, normal testosterone levels, and a 46 XY karyotype. What condition explains these clinical findings?
+O: ["17-Hydroxylase deficiency", "Swyer syndrome", "5-alpha reductase deficiency", "Complete Androgen Insensitivity Syndrome (AIS)"]
+EX: The patient has a 46,XY karyotype but has developed along female lines, indicating a disorder of sex development. The key to the diagnosis is the specific pattern of androgen effects. Normal testosterone levels indicate functional testes. The development of pubic hair and clitoromegaly at puberty demonstrates that the body is responsive to testosterone. However, the external genitalia were female-
+========== idx:1690 | Surgery | img:False | a:3 | MAY 2023 | inicet
+Q: What is the wrong match? a. Uterine Pro- lapse 1. Hysterectomy b. Vault prolapse 2. Sacrospinous fixa- tion c. Rectocele 3. Posterior colpoperi- neorrhaphy d. Cystocele 4. Colposuspension
+O: ["a-1", "b-2", "c-3", "d-4"]
+EX: This question matches pelvic organ prolapse conditions with their surgical repairs. A hysterectomy can be part of the surgical management for severe uterine prolapse (a-1). Sacrospinous fixation is a common procedure used to suspend the vaginal vault after a hysterectomy to correct vault prolapse (b-2). A rectocele, a prolapse of the posterior vaginal wall, is repaired by a posterior colpoperineor
+========== idx:1691 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: What is the underlying reason for the absence of fructose in seminal fluid?
+O: ["Congenital absence of seminal vesicle", "Ejaculatory duct obstruction", "Both of the above", "None of the above"]
+EX: Fructose is the primary source of energy for sperm motility and is produced almost exclusively by the seminal vesicles. The seminal vesicles secrete their fructose-rich fluid into the ejaculatory ducts. Therefore, the absence of fructose in a semen analysis (azoospermia with low volume and acidic pH) points to a problem with either the production or the transport of seminal vesicle fluid. This can
+========== idx:1692 | Surgery | img:False | a:3 | MAY 2023 | inicet
+Q: Which of the following outcomes is associated with Hormone Replacement Therapy (HRT)?
+O: ["Decreased risk of breast cancer", "Decreased risk of endometrial cancer", "Increased risk of vertebral fracture", "Decreased risk of colon cancer"]
+EX: The risks and benefits of menopausal hormone replacement therapy (HRT) have been extensively studied. It is well-established that combined estrogen-progestin therapy is associated with a small but significant increased risk of breast cancer (A is false). Unopposed estrogen therapy in a woman with a uterus dramatically increases the risk of endometrial cancer (B is false). One of the primary benefi
+========== idx:1693 | Surgery | img:False | a:0 | MAY 2023 | inicet
+Q: What is the advised treatment plan for a 24-year- old woman with Polycystic Ovary Syndrome Click Here to Buy book on Amazon 244=== page  245 INICET Examination Paper
+O: ["Agranulocytosis", "Renal bleed", "Hepatomegaly", "Seizures"]
+EX: Clozapine is an atypical antipsychotic medication that is uniquely effective for treatment-resistant schizophrenia, but its use is restricted due to the risk of several rare yet potentially fatal adverse effects. The most well-known and feared of these is agranulocytosis, a severe form of neutropenia where the absolute neutrophil count drops to dangerously low levels. This catastrophic loss of neu
+========== idx:1694 | Surgery | img:False | a:2 | MAY 2023 | inicet
+Q: Which uncommon adverse effect in patients with schizophrenia taking clozapine requires routine blood monitoring?
+O: ["Seizures", "Cerebral bleed", "Agranulocytosis", "Myocarditis"]
+EX: Clozapine is a highly effective second-generation antipsychotic reserved for treatment-resistant schizophrenia due to its unique side effect profile, which includes several rare but serious conditions requiring diligent monitoring. The most critical of these, and the one that mandates a strict protocol of regular blood monitoring, is the risk of agranulocytosis. This is a potentially fatal conditi
+========== idx:1695 | Dermatology | img:True | a:0 | MAY 2023 | inicet
+Q: What condition is the banana sign observed in?
+O: ["Spina bifida", "NCC", "Omphalocele", "Anencephaly"]
+EX: The "banana sign" is a specific and important ultrasonographic marker that is highly associated with open spina bifida. This sign refers to the abnormal shape of the fetal cerebellum, which appears flattened and curved like a banana. The abnormal shape is a direct consequence of the Arnold-Chiari II malformation, a condition in which the cerebellum and brainstem are pulled downward and herniate th
+========== idx:1696 | Dermatology | img:False | a:0 | MAY 2023 | inicet
+Q: What is the identification of the images depicted?
+O: ["Langer's lines", "Blaschko lines", "Hinderer's line", "Dermatomes"]
+EX: The image shows characteristic linear patterns over the face and body that correspond to the natural orientation of collagen fibers within the dermis. These are known as Langer’s lines, also called skin tension lines. They represent the direction of maximum skin tension and are clinically important in surgical practice. Incisions made parallel to Langer’s lines tend to heal better and produce less
+========== idx:1697 | Dermatology | img:False | a:3 | MAY 2023 | inicet
+Q: What is the most probable diagnosis for a male patient who has a persistent, itchy rash on his side that hasn’t responded to over-the-counter treatments such as Lotrimin and hydrocortisone, and who also has similar lesions on one palm and one sole, with no involvement of the oral mucosa?
+O: ["Urticaria", "Viral exanthem", "Tinea corporis", "Erythema multiforme"]
+EX: This patient has a persistent itchy rash on the side that did not respond to antifungal (Lotrimin) or steroid (hydrocortisone) creams, along with lesions on one palm and one sole. The involvement of acral surfaces (palms and soles) strongly suggests erythema multiforme (EM). Erythema multiforme is an acute, immune-mediated condition often triggered by infections (commonly herpes simplex virus) or 
+========== idx:1698 | Dermatology | img:False | a:0 | MAY 2023 | inicet
+Q: Match the following wood's lamp findings: 1. Erythrasma a. Yellow 2. Pityriasis versicolor b. Coral red fluo- rescence 3. Tinea capitis c. Pink 4. Vitiligo d. Green, e. Milky white
+O: ["1-b, 2-a, 3-d, 4-e", "1-b, 2-d, 3-a, 4-c", "1-d, 2-a. 3-c. 4-e", "1-a, 2-c, 3-e, 4-d"]
+EX: A Wood's lamp exam uses ultraviolet A (UVA) light to detect fluorescence in certain skin conditions. 1. Erythrasma, a superficial bacterial infection caused by Corynebacterium minutissimum, characteristically fluoresces a striking coral-red color due to the production of porphyrins by the bacteria (1 -> b). 2. Pityriasis versicolor, a fungal infection caused by Malassezia species, typically shows 
+========== idx:1699 | Dermatology | img:False | a:3 | MAY 2023 | inicet
+Q: What is the most likely diagnosis in a patient receiving nivolumab (anti-PD1 therapy) who develops pruritus, eczema, and urticarial lesions, with biopsy showing a subepidermal blister and direct immunofluorescence demonstrating linear C3 and IgG deposition along the basement membrane?
+O: ["Dermatitis herpetiformis", "Pemphigus vulgaris", "Pemphigus foliaceous", "Bullous pemphigoid"]
+EX: Immune checkpoint inhibitors, such as the anti-PD-1 antibody nivolumab, can cause a variety of immune-related adverse events, including autoimmune skin diseases. The clinical and laboratory findings in this patient are classic for bullous pemphigoid. This is an autoimmune blistering disease characterized by autoantibodies against hemidesmosomal proteins (BP180 and BP230) in the basement membrane z
+========== idx:1700 | Dermatology | img:False | a:2 | MAY 2023 | inicet
+Q: Which of the following is not associated with non-scarring alopecia?
+O: ["Alopecia areata", "Androgenetic alopecia", "Frontal fibrosing alopecia", "Telogen effluvium"]
+EX: Alopecias are broadly classified into non-scarring and scarring (cicatricial) types. In non-scarring alopecias, the hair follicle is preserved, and hair regrowth is possible. This category includes alopecia areata (an autoimmune condition), androgenetic alopecia (male and female pattern baldness), and telogen effluvium (diffuse shedding after a stressor). In contrast, scarring alopecias involve in
+========== idx:1701 | Dermatology | img:False | a:0 | MAY 2023 | inicet
+Q: A 24-year-old man has widespread scaly skin lesions, as shown in the provided image, but remains asymptomatic. What is the most probable diagnosis based on this presentation? NODIA 246=== page  243 INICET Examination Paper
+O: ["PTH adenoma", "Wilms' tumor", "Renal cell carcinoma", "Lipoma"]
+EX: The abdominal X-ray shows multiple, dense, branching calcifications within the collecting systems of both kidneys. This appearance is known as nephrocalcinosis, and the branching pattern is suggestive of staghorn calculi. The patient's symptoms of dysuria and back pain are consistent with kidney stones (nephrolithiasis). The presence of bilateral nephrocalcinosis strongly suggests an underlying sy
+========== idx:1702 | Dermatology | img:False | a:0 | MAY 2023 | inicet
+Q: In a 35-year-old patient with six weeks of dysentery and right upper abdominal pain, an ultrasound shows a hypoechoic, hyperdense liver lesion. What condition does this finding most likely represent?
+O: ["Amoebic liver abscess", "Pyogenic liver abscess", "Hydatid cyst", "Hemangioma"]
+EX: The patient's clinical history is the key to this diagnosis. A history of dysentery (bloody diarrhea) followed by the development of right upper quadrant pain, fever, and a liver lesion strongly suggests an extraintestinal complication of an amoebic infection. The causative organism is Entamoeba histolytica. After invading the colonic mucosa, the amoebic trophozoites can enter the portal circulati
+========== idx:1703 | Dermatology | img:False | a:1 | MAY 2023 | inicet
+Q: A 52-year-old woman comes for her routine screening mammogram, which shows a few scattered punctate calcifications in both breasts that are unchanged from her study two years ago. She takes atorvastatin and a daily vitamin. She is worried about these findings. What BI- RADS category should she receive, and how should these results be explained to her?
+O: ["BI-RADS 1; findings are benign", "BI-RADS 2; findings are benign", "BI-RADS 2; findings are highly suggestive of malignancy", "BI-RADS 3; another mammogram is needed to comment on malignancy potential"]
+EX: The Breast Imaging Reporting and Data System (BI-RADS) is a standardized system for reporting mammogram findings. BI-RADS 1 means the mammogram is completely negative. BI-RADS 2 is used for cases where there are definite benign findings. This category includes things like calcified fibroadenomas, secretory calcifications, or, as in this case, scattered punctate calcifications that are morphologica
+========== idx:1704 | Dermatology | img:False | a:2 | MAY 2023 | inicet
+Q: A radiograph of a 10-year-old boy with three months of knee pain and no clear history of trauma is shown. What is the most likely diagnosis, and what is the appropriate management?
+O: ["Fracture of upper pole - Tension band wiring", "Avulsion fracture of patella- tension band wiring", "Bipartite patella- Do radiograph of the other knee", "Avulsion fracture of patella- Interfragmentary screw fixation"]
+EX: The radiograph shows what appears to be a bone fragment at the superolateral aspect of the patella. While this could be mistaken for a fracture, several features suggest it is a bipartite patella. A bipartite patella is a common and normal anatomical variant where one of the ossification centers of the patella fails to fuse with the main body of the bone during development. The key differentiating
+========== idx:1705 | Dermatology | img:False | a:2 | MAY 2023 | inicet
+Q: A 35-year-old patient reports morning stiffness, limited chest expansion, and red eyes. Given the spinal changes seen on the radiograph, what is the most likely diagnosis? Downloaded from www.pdf.tube 247=== MEDINK EXAMINATION PAPER MAY-2023
+O: ["1-2", "3-4", "6-7", "7-8"]
+EX: Careful examination of the provided chest radiograph is required to identify the location of any fractures. On the left side of the chest, there are visible fracture lines through the lateral aspects of the 6th and 7th ribs. The fractures show some displacement and are a clear disruption of the normal cortical outline of the ribs. The ribs are numbered sequentially from the top down, with the firs
+========== idx:1706 | Dermatology | img:True | a:2 | MAY 2023 | inicet
+Q: A 40-year-old man comes to the emergency department with pain and swelling in his right shoulder after a fall. An X-ray indicates a possible tear of a shoulder ligament. Which ligament is most likely injured?
+O: ["Coracoclavicular ligament", "Acromioclavicular ligament", "Both A & B", "Glenohumeral ligament"]
+EX: The radiograph shows a significant injury to the acromioclavicular (AC) joint, often referred to as a "separated shoulder." The image demonstrates a marked superior displacement of the distal end of the clavicle relative to the acromion process of the scapula. This degree of separation (classified as a Type III AC joint injury or higher) indicates a complete tear of not only the acromioclavicular 
+========== idx:1707 | Dermatology | img:False | a:1 | MAY 2023 | inicet
+Q: Banana sign on USG is seen in which of the following conditions?
+O: ["Omphalocele", "Spina bifida", "Anencephaly", "Encephalocele"]
+EX: The "banana sign" is a specific and important ultrasonographic marker that is highly associated with open spina bifida. This sign refers to the abnormal shape of the fetal cerebellum, which appears flattened and curved like a banana. The abnormal shape is a direct consequence of the Arnold-Chiari II malformation, a condition in which the cerebellum and brainstem are pulled downward and herniate th
+========== idx:1708 | Dermatology | img:True | a:1 | MAY 2023 | inicet
+Q: What is the association between a filling defect and the condition observed in the MRCP image?
+O: ["Stricture", "Choledocholithiasis", "Cholecystitis", "Stones"]
+EX: The image provided is from a Magnetic Resonance Cholangiopancreatography (MRCP), a non-invasive imaging technique that visualizes the biliary and pancreatic ducts. The image clearly shows the common bile duct (CBD), which appears dilated. Within the distal portion of this dilated CBD, there is a distinct, dark, ovoid signal void, which represents a filling defect. In this clinical and anatomical c
+========== idx:1709 | Dermatology | img:False | a:0 | MAY 2023 | inicet
+Q: In the USG image, what is the observed anatomical variation of the gallbladder?
+O: ["Phrygian sign", "Murphy sign", "Claw sign", "Omega sign"]
+EX: The ultrasound image of the gallbladder shows a common and benign congenital anatomical variation. The fundus of the gallbladder is seen folded over the body of the gallbladder, creating a septum or indentation. This specific folded appearance is known as a Phrygian cap. The name is derived from its resemblance to the soft, conical hats with the top bent over that were worn by the ancient inhabita
+========== idx:1710 | Dermatology | img:True | a:3 | MAY 2023 | inicet
+Q: Statement 1 : A 59-year-old patient presents with flaccid bullae. Histopathology shows a suprabasal acantholytic split. Statement 2 : The row of tombstones appearance is diagnostic of Pemphigus vulgaris. Which of the following statements is correct?
+O: ["Statement 1 is incorrect", "Statements 1 & 2 are correct, 2 is not explaining 1", "Statement 1 and 2 is incorrect", "Statements 1 and 2 are correct and 2 is the correct explanation for 1"]
+EX: Both statements describe classic features of pemphigus vulgaris, a severe autoimmune blistering disease. Statement 1 is correct: Pemphigus vulgaris is characterized by autoantibodies against desmoglein 3, leading to the loss of adhesion between keratinocytes (acantholysis). This process occurs just above the basal cell layer, resulting in a fragile, suprabasal split on histopathology, which clinic
+========== idx:1711 | Dermatology | img:False | a:1 | MAY 2023 | inicet
+Q: A 60-year-old woman presents with itchy, eczema- like skin lesions. Biopsy shows a subepidermal cleft, and direct immunofluorescence demonstrates linear C3 and IgG deposition along the basement membrane. What is the most likely diagnosis?
+O: ["Pemphigus Vulgaris", "Bullous Pemphigoid", "Dermatitis herpetiformis", "Pemphigus foliaceus"]
+EX: This patient's clinical and laboratory findings are the classic triad for bullous pemphigoid, the most common autoimmune blistering disease, which typically affects the elderly. The clinical presentation can begin with itchy, urticarial, or eczematous plaques, which then progress to the formation of large, tense bullae. The key diagnostic findings are on biopsy. Histopathology reveals a subepiderm
+========== idx:1712 | Dermatology | img:False | a:0 | MAY 2023 | inicet
+Q: Hyperpigmentation and keratosis can be seen in exposure to which of the following?
+O: ["Arsenic", "Cadmium", "Copper", "Mercury"]
+EX: Chronic exposure to arsenic, typically through contaminated drinking water, leads to a characteristic set of dermatological manifestations. These are considered the hallmarks of chronic arsenicism. The skin changes include a diffuse or mottled hyperpigmentation, often described as "raindrop" pigmentation, which is most prominent on the trunk and extremities. Another classic finding is the developm
+========== idx:1713 | Anaesthesia | img:False | a:2 | MAY 2023 | inicet
+Q: What is the most appropriate immediate response when a patient’s blood pressure suddenly falls to 40 mmHg during squint surgery?
+O: ["Give atropine", "Increase level of anesthesia", "Ask the surgeon to stop the surgery", "Give adrenaline"]
+EX: During squint (strabismus) surgery, traction on the extraocular muscles—especially the medial rectus—can trigger the oculocardiac reflex (OCR). This is a trigemino-vagal reflex in which stimulation of the ophthalmic division of the trigeminal nerve leads to increased vagal tone via the vagus nerve. The result can be bradycardia, hypotension, arrhythmias, or even asystole. If the patient’s blood pr
+========== idx:1714 | Anaesthesia | img:False | a:1 | MAY 2023 | inicet
+Q: Murphy's eye is seen in -
+O: ["Macintosh laryngoscope", "Endotracheal tube", "LMA", "Flexible laryngoscope"]
+EX: The Murphy's eye is a specific design feature found on most modern endotracheal tubes (ETTs). It is a small, oval-shaped hole located on the side of the ETT, opposite the beveled tip. The primary purpose of the Murphy's eye is to serve as a safety feature. If the main distal opening of the ETT becomes occluded, for example, by pressing against the tracheal wall or by a mucus plug, the Murphy's eye
+========== idx:1715 | Anaesthesia | img:False | a:2 | MAY 2023 | inicet
+Q: A patient under general anesthesia suddenly develops tachycardia, sweating, high blood pressure, and rapid breathing. What is the most appropriate immediate action to take in this situation?
+O: ["IV beta-blocker", "Abandon the surgery", "Deepen the plane of Anaesthesia", "Nothing is required"]
+EX: The sudden onset of tachycardia, hypertension, sweating, and tachypnea in a patient under general anesthesia is a classic presentation of a sympathetic nervous system response to a painful surgical stimulus. This indicates that the current level of anesthesia is insufficient to block the patient's autonomic reflexes to the surgical procedure. The patient is "light," meaning the plane of anesthesia
+========== idx:1716 | Radiology | img:False | a:1 | MAY 2023 | inicet
+Q: In the provided X-ray, which ribs are observed to have fractures? Click Here to Buy book on Amazon 249=== MEDINK EXAMINATION PAPER MAY-2023
+O: ["Healed TB", "Ankylosing spondylitis", "Paget's disease", "Osteoporosis"]
+EX: The radiograph of the spine shows the characteristic features of advanced ankylosing spondylitis (AS). The key findings include squaring of the vertebral bodies, sclerosis of the vertebral endplates, and, most notably, the presence of bridging syndesmophytes—thin, vertical calcifications of the outer fibers of the annulus fibrosus that connect adjacent vertebral bodies. The complete fusion of mult
+========== idx:1717 | Radiology | img:True | a:0 | MAY 2023 | inicet
+Q: Active pulmonary TB can be diagnosed on CT scan by which of the following findings?
+O: ["Tree-in-bud appearance", "Honeycomb appearance", "Ground glass appearance", "Signet ring sign"]
+EX: While several CT findings can be seen in pulmonary tuberculosis, the "tree-in-bud" appearance is highly suggestive of active, endobronchial spread of the infection. This sign consists of small, centrilobular nodules with linear, branching opacities, which represents the impaction of caseous material and inflammatory exudate within the small airways (terminal and respiratory bronchioles). This patt
+========== idx:1718 | Psychiatry | img:False | a:2 | MAY 2023 | inicet
+Q: What could be the potential reason behind irreversible dementia?
+O: ["NPH", "Hypothyroid", "Lewy body", "Vitamin B12 deficiency"]
+EX: Dementia is a syndrome of cognitive decline that can be caused by a wide range of conditions. It is crucial to identify potentially reversible causes of dementia, as prompt treatment can restore cognitive function. These reversible causes include Normal Pressure Hydrocephalus (NPH), severe hypothyroidism, and vitamin B12 deficiency. In these conditions, treating the underlying cause (e.g., with a 
+========== idx:1719 | Psychiatry | img:False | a:2 | MAY 2023 | inicet
+Q: Why are routine blood tests required for a 35-year-old man with schizophrenia who is being treated with clozapine?
+O: ["Cerebral bleed", "Myocarditis", "Agranulocytosis", "Seizures"]
+EX: Clozapine is a highly effective atypical antipsychotic medication, often used for treatment-resistant schizophrenia. However, its use is carefully regulated due to the risk of several serious adverse effects. The most critical and well-known of these is agranulocytosis, a rare but potentially fatal condition characterized by a severe decrease in the number of white blood cells, specifically neutro
+========== idx:1720 | Psychiatry | img:True | a:0 | MAY 2023 | inicet
+Q: A 35-year-old man with a mood disorder, who was recently started on a new psychiatric medication, arrives at the surgical emergency department with a painful erection lasting 7 hours. Which medication is most likely responsible for this condition?
+O: ["Trazodone", "Tianeptine", "Venlafaxine", "Mirtazapine"]
+EX: The patient is presenting with priapism, a prolonged and painful erection that is a urological emergency. Priapism is a well-known, albeit rare, side effect of several psychotropic medications, most notably the antidepressant trazodone. Trazodone has a complex pharmacology, but its association with priapism is thought to be primarily due to its potent alpha-1 adrenergic receptor blocking activity.
+========== idx:1721 | Psychiatry | img:False | a:0 | MAY 2023 | inicet
+Q: In which of the following conditions is La belle indifference typically observed?
+O: ["Conversion disorder", "Cotard syndrome", "Schizophrenia", "Depression"]
+EX: La belle indifférence, a French term meaning "beautiful indifference," is a classic psychiatric sign that describes a paradoxical lack of concern or an inappropriate nonchalance shown by a patient towards what appears to be a severe and dramatic medical symptom. For example, a patient might describe being suddenly paralyzed or blind with a calm and detached demeanor that is incongruent with the se
+========== idx:1722 | Psychiatry | img:False | a:0 | MAY 2023 | inicet
+Q: The SCOFF questionnaire is used as a screening tool for which specific disorder?
+O: ["Eating disorder", "Sexual disorder", "Alcohol use disorder", "Schizophrenia"]
+EX: The SCOFF questionnaire is a brief and widely used screening tool designed to help identify individuals who may have an eating disorder, such as anorexia nervosa or bulimia nervosa. It is a simple, five-question instrument that is easy to remember due to its acronym, SCOFF. The five questions are: 1. Do you make yourself Sick because you feel uncomfortably full? 2. Do you worry you have lost Contr
+========== idx:1723 | Psychiatry | img:False | a:1 | MAY 2023 | inicet
+Q: A patient tells their psychiatrist, “My brain is gone. There’s no reason to eat. I’m already dead.” How would you classify the type of delusion this patient is experiencing?
+O: ["Delusion of misidentification", "Nihilistic delusion", "Bizarre delusion", "Hypochondriacal delusion"]
+EX: The patient's statements are a classic example of nihilistic delusions, which are a core feature of Cotard's syndrome (also known as the delusion of negation). A nihilistic delusion is a false and fixed belief centered on themes of non-existence, death, or the futility of everything. The patient may believe that they are already dead, that parts of their body (like their brain) are missing or have
+========== idx:1724 | Psychiatry | img:False | a:3 | MAY 2023 | inicet
+Q: Which of the following statements regarding lithium are correct?
+O: ["It is used for absent seizure treatment", "It is not absorbed through the gut", "Lithium is not teratogenic", "It can cause postural tremors at therapeutic dosage"]
+EX: This question assesses knowledge of the pharmacology of lithium, a primary mood stabilizer. Statement (D) is correct: one of the most common side effects of lithium, which can occur even within the therapeutic range, is a fine postural tremor, especially of the hands. The other statements are incorrect. Lithium is not used to treat absence seizures (A); in fact, it can sometimes lower the seizure 
+========== idx:1725 | Psychiatry | img:False | a:0 | MAY 2023 | inicet
+Q: What uncommon but serious adverse effects need to be monitored in a patient with schizophrenia who is being treated with clozapine? NODIA 250=== page  239 INICET Examination Paper (PCOS) who has significant facial hair, infertility, and a BMI of 40?
+O: ["Metformin + Weight reduction + Finasteride", "Weight reduction + Metformin", "Weight reduction + Folic acid + Ovulation induction", "Metformin + Clomiphene"]
+EX: This patient has PCOS with infertility, significant hirsutism, and severe obesity (BMI 40). The priority in management depends on the primary complaint, which here includes infertility. First-line management in obese women with PCOS is weight reduction. Even a 5–10% reduction in body weight can restore ovulation and improve fertility. Since she desires pregnancy (infertility present), the next ste
+========== idx:1726 | Psychiatry | img:True | a:0 | MAY 2023 | inicet
+Q: Which diagnostic test should be performed next for a woman who has painless vulvar ulcers, a history of multiple sexual partners, and a previous stillbirth at 28 weeks?
+O: ["VDRL", "NAT", "Vaginal swab and culture", "PCR"]
+EX: This clinical scenario presents multiple red flags for syphilis. The presence of a painless ulcer (chancre) on the vulva is the classic sign of primary syphilis. A history of multiple sexual partners increases the risk for sexually transmitted infections. Most critically, a history of a mid-trimester stillbirth is a major adverse pregnancy outcome that is strongly associated with untreated materna
+========== idx:1727 | Psychiatry | img:False | a:1 | MAY 2023 | inicet
+Q: Which of the following is not a cause of non- immune hydrops?
+O: ["Parvovirus", "ABO incompatibility", "Cardiovascular causes", "Thalassemia"]
+EX: Hydrops fetalis is the excessive accumulation of fluid in the fetal extravascular compartments. It is broadly divided into immune and non-immune causes. Immune hydrops is caused by alloimmune hemolytic disease of the fetus and newborn, most classically due to Rh(D) incompatibility, although other red cell antibodies can be responsible. ABO incompatibility is a cause of hemolytic disease, but it ve
+========== idx:1728 | Psychiatry | img:False | a:0 | MAY 2023 | inicet
+Q: What is the outcome of the absence or mutation of the SRY gene?
+O: ["Agenesis of testis", "Undescended testis", "Hydrocele testis", "None of the above"]
+EX: The SRY (Sex-determining Region Y) gene, located on the Y chromosome, is the master switch that initiates male development. In a 46,XY embryo, the SRY gene product acts as a transcription factor that directs the bipotential, undifferentiated gonads to develop into testes. If the SRY gene is absent (e.g., due to a deletion from the Y chromosome) or has a loss-of-function mutation, the signal for te
+========== idx:1729 | Psychiatry | img:False | a:3 | MAY 2023 | inicet
+Q: Which medication should be given to reverse respiratory distress in a woman who received morphine sulfate for labor pain?
+O: ["Epinephrine", "Atropine", "Pralidoxime", "Naloxone"]
+EX: Morphine is a potent opioid analgesic commonly used for pain management. The most serious and life-threatening adverse effect of opioid administration is respiratory depression, which can progress to apnea and respiratory arrest. The patient's development of respiratory distress after receiving morphine is a clear sign of opioid-induced toxicity. The specific and life-saving antidote for opioid ov
+========== idx:1730 | Psychiatry | img:False | a:1 | MAY 2023 | inicet
+Q: What is the first diagnostic test that should be performed for a patient experiencing dyspareunia, dysmenorrhea, and adnexal tenderness?
+O: ["Diagnostic laparoscopy", "Transvaginal USG", "Colposcopy", "Pelvic Ultrasonography"]
+EX: The clinical triad of dyspareunia (painful intercourse), dysmenorrhea (painful periods), and adnexal tenderness is highly suggestive of underlying pelvic pathology, particularly conditions like endometriosis, pelvic inflammatory disease (PID), or ovarian cysts. The most appropriate initial investigation in this setting is a transvaginal ultrasound (USG). A transvaginal USG provides detailed imagin
+========== idx:1731 | Psychiatry | img:False | a:0 | MAY 2023 | inicet
+Q: What condition is associated with the sign seen on given USG?
+O: ["Spina bifida", "Rectal prolapse", "Uterine prolapse", "Cervical carcinoma"]
+EX: The ultrasound image displays the fetal cerebellum and posterior fossa, showing the characteristic "banana sign." This sign describes the abnormal, crescent or banana-like shape of the cerebellum, which is effaced and pulled inferiorly. This finding is a result of the Arnold-Chiari II malformation, a condition where the cerebellar tonsils and brainstem herniate downward through the foramen magnum.
+========== idx:1732 | Psychiatry | img:False | a:1 | MAY 2023 | inicet
+Q: Which of the following is not a potential complication of the substantial blood transfusion given to a 25-year-old mother who developed acute postpartum hemorrhage and hypovolemic shock after delivery?
+O: ["Hypothermia", "Hypokalemia", "Hypocalcemia", "Hyperkalemia"]
+EX: Massive blood transfusion (usually defined as replacement of one blood volume within 24 hours or ≥10 units of packed RBCs) can lead to several metabolic and physiological complications. Common complications include: 1. Hypothermia (A) → Stored blood is refrigerated, and rapid transfusion can lower body temperature. 2. Hypocalcemia (C) → Blood products contain citrate as an anticoagulant. Citrate b
+========== idx:1733 | Psychiatry | img:True | a:2 | MAY 2023 | inicet
+Q: Which one of the following is not transmitted during the perinatal period?
+O: ["CMV", "Rubella", "Meningitis", "Hepatitis B"]
+EX: Perinatal transmission refers to infections that are passed from mother to child during pregnancy (transplacental), during labor and delivery, or shortly after birth. Several infectious agents are well known to be transmitted in this period. Cytomegalovirus (CMV) is one of the most common congenital infections. It is transmitted transplacentally and can also be acquired during delivery or through 
+========== idx:1734 | Anatomy | img:False | a:3 | NOV 2023 | inicet
+Q: Match each of the following muscles with the action it performs: a. Pectoralis major 1. Extension at shoul- der b. Supraspinatus 2. Flexion at shoulder c. Infraspinatus 3. Lateral rotation of the shoulder d. Latissimus dorsi 4. Abduction at shoul- der
+O: ["a 4, b-3, c-2,d-1", "a-4,b-2,c-3, d-1", "a-2,b-4,c-1,d-3", "a-2,b-4, c-3,d-1"]
+EX: The pectoralis major is a powerful muscle of the upper chest, primarily responsible for flexion, adduction, and medial rotation of the humerus at the shoulder joint. The supraspinatus is one of the four rotator cuff muscles and is crucial for initiating abduction of the arm at the shoulder. The infraspinatus, another rotator cuff muscle, is a primary lateral (external) rotator of the shoulder. The
+========== idx:1735 | Anatomy | img:True | a:1 | NOV 2023 | inicet
+Q: Which portion of the inguinal canal is constituted by fibers from the internal oblique and transversus abdominis muscles?
+O: ["Anterior Wall", "Roof", "Floor", "Both A & C"]
+EX: The inguinal canal is an oblique passage in the lower anterior abdominal wall with four boundaries: a roof, a floor, and anterior and posterior walls. The roof (superior wall) of the inguinal canal is formed by the arching inferior fibers of the internal oblique and transversus abdominis muscles. These muscle fibers arch over the spermatic cord (in males) or the round ligament (in females) and the
+========== idx:1736 | Anatomy | img:False | a:2 | NOV 2023 | inicet
+Q: The internal oblique and transversus abdominis muscles contribute their fibers to form which part of the inguinal canal wall?
+O: ["Anterior", "Posterior", "Roof", "Floor"]
+EX: The inguinal canal is an oblique passage in the lower anterior abdominal wall with four boundaries: a roof, a floor, and anterior and posterior walls. The roof (superior wall) of the inguinal canal is formed by the arching inferior fibers of the internal oblique and transversus abdominis muscles. These muscle fibers arch over the spermatic cord (in males) or the round ligament (in females) and the
+========== idx:1737 | Physiology | img:False | a:0 | NOV 2023 | inicet
+Q: What contributes to the zero phase of the action potential in the SA node?
+O: ["Calcium (Ca) only", "Sodium (Na)", "Potassium (K)", "Calcium (Ca) and Sodium (Na)"]
+EX: The action potential of the sinoatrial (SA) node, the heart's natural pacemaker, differs significantly from that of ventricular myocytes. The upstroke, or phase 0, of the SA node action potential is primarily mediated by the influx of calcium ions (Ca²⁺) through L-type calcium channels. This is a slower process compared to the rapid sodium influx that characterizes phase 0 in ventricular and atria
+========== idx:1738 | Physiology | img:False | a:2 | NOV 2023 | inicet
+Q: With respect to glucose entry into cells, which organ or tissue does not rely on insulin for glucose uptake?
+O: ["RBC", "Pancreas", "Adipose tissue", "Hepatocytes"]
+EX: Most tissues in the body require insulin for glucose uptake, but some have insulin-independent mechanisms. This question asks to identify the tissue that is insulin-dependent. Adipose tissue and skeletal muscle primarily use the GLUT4 transporter, which is insulin-sensitive. In the presence of insulin, GLUT4 translocates from intracellular vesicles to the cell membrane to facilitate glucose entry.
+========== idx:1739 | Physiology | img:False | a:3 | NOV 2023 | inicet
+Q: What is the main mechanism through which parathyroid hormone (PTH) increases blood calcium levels?
+O: ["Increased renal reabsorption of calcium", "Stimulation of osteoclast activity", "Stimulates Vitamin D synthesis", "All are true"]
+EX: Parathyroid hormone (PTH) is the principal regulator of calcium homeostasis in the body, and it employs multiple mechanisms to increase serum calcium levels. Firstly, PTH acts directly on bone to stimulate osteoclast activity, which leads to the resorption of bone matrix and the release of calcium and phosphate into the bloodstream. Secondly, PTH acts on the kidneys to increase the reabsorption of
+========== idx:1740 | Physiology | img:False | a:2 | NOV 2023 | inicet
+Q: The diagram illustrates neuronal physiology. What processes occur at labels 3 to 4 in the diagram?
+O: ["Na+ entering the cell", "Na+ exiting the cell", "K+ exiting the cell", "K entering the cell"]
+EX: The diagram illustrates a typical action potential in a neuron. The phase from label 3 to label 4 represents repolarization, the process by which the membrane potential returns to its negative resting state after the peak of depolarization. This phase is initiated by the inactivation of voltage-gated sodium channels and the opening of voltage-gated potassium channels. The opening of these potassiu
+========== idx:1741 | Physiology | img:False | a:2 | NOV 2023 | inicet
+Q: Which component of the nerve fiber provides the motor innervation to the muscle spindle?
+O: ["Alpha", "Beta", "Gamma", "Delta"]
+EX: Muscle spindles are proprioceptive sensory organs within skeletal muscles that detect changes in muscle length and the rate of change in length. While they are primarily sensory, their intrafusal muscle fibers (specialized fibers within the spindle capsule) receive motor innervation to regulate their sensitivity. This motor supply is provided by gamma motor neurons. The axons of gamma motor neuron
+========== idx:1742 | Physiology | img:False | a:0 | NOV 2023 | inicet
+Q: Which of the following statements most accurately explains the mechanism of coughing? 1 Forceful expiration against an open glottis 2 Expiration against an open glottis 3 Deep inspiration against a closed glottis 4 Removing harmful substances.
+O: ["1,4", "1,2,3", "2,4", "2,3"]
+EX: A cough is a protective reflex that helps clear the airways of irritants, mucus, and foreign particles. The process begins with a deep inspiration, followed by the closure of the glottis. Next, a powerful contraction of the expiratory muscles (abdominal and internal intercostal) builds up high intrathoracic pressure. The final step is the abrupt opening of the glottis, resulting in a forceful expi
+========== idx:1743 | Biochemistry | img:False | a:0 | NOV 2023 | inicet
+Q: Match the given mutation with respective cancers: A. KRAS 1. Myeloproliferative neoplasm B. Kit 2. Adenocarcinoma lung C. JAK 2 3. Pancreatic cancer D. ALK 4. GIST
+O: ["A-3, B-4, C-1, D-2", "A-2, B-3, C-4, D-1", "A-1, B-3, C-2, D-4", "A-2, B-4, C-3, D-1"]
+EX: This question tests the association between specific genetic mutations and different types of cancer. KRAS mutations are frequently found in several adenocarcinomas, most notably in pancreatic cancer, where they are present in over 90% of cases, and also in colorectal and lung cancers. KIT (also known as c-Kit or CD117) mutations are the defining molecular feature of most Gastrointestinal Stromal 
+========== idx:1744 | Biochemistry | img:False | a:3 | NOV 2023 | inicet
+Q: Which stain produces the characteristic brown coloration observed in HER2/neu-positive breast carcinoma cells?
+O: ["FITC", "Phycoerythrin", "Cyanate dye", "Diaminobenzidine (DAB)"]
+EX: The image shows the result of an immunohistochemistry (IHC) stain, a technique used to detect the presence of specific proteins in tissue sections. For HER2/neu testing in breast cancer, a primary antibody against the HER2 protein is applied to the tissue. This is followed by a secondary antibody linked to an enzyme, most commonly horseradish peroxidase (HRP). To visualize the location of the HRP-
+========== idx:1745 | Biochemistry | img:False | a:3 | NOV 2023 | inicet
+Q: A patient was evaluated for hepatic cirrhosis and underwent testing for hepatitis B. The results are as follows: • HBsAg: Not reactive • Anti-HBs IgM: Not reactive • Total Anti-HBc: Reactive • HBeAg: Not reactive • Anti-HBe Ab: Not reactive What is the most likely conclusion?
+O: ["Acute HBV window period", "Chronic Hepatitis B carrier", "Post-vaccination status", "Remote infection with complete recovery"]
+EX: Interpreting hepatitis B serology requires understanding each marker. HBsAg is the surface antigen, indicating current infection. Anti-HBs is the antibody to the surface antigen, indicating immunity from vaccination or recovery. Anti-HBc is the core antibody; IgM indicates acute infection, while total (mostly IgG) indicates past or current infection. In this case, HBsAg is negative, ruling out act
+========== idx:1746 | Biochemistry | img:True | a:3 | NOV 2023 | inicet
+Q: Which of the following statements about sickle cell anemia is correct?
+O: ["Low mechanical fragility, high osmotic fragility", "High mechanical fragility, high osmotic fragility", "Low mechanical fragility, low osmotic fragility", "High mechanical fragility, Low osmotic fragility"]
+EX: Sickle cell anemia is characterized by the presence of hemoglobin S, which polymerizes under low oxygen conditions, causing red blood cells (RBCs) to deform into a rigid, sickle shape. This rigidity makes the cells highly susceptible to damage as they pass through narrow capillaries, leading to a high mechanical fragility and subsequent hemolysis. Osmotic fragility, on the other hand, tests the RB
+========== idx:1747 | Biochemistry | img:False | a:1 | NOV 2023 | inicet
+Q: Identify the structure marked by the arrow in the given image.
+O: ["Respiratory bronchus", "Terminal bronchioles", "Alveolar sac", "Intrapulmonary bronchus"]
+EX: The image shows a microscopic view of the lung parenchyma. The arrow is pointing to a small airway that is lined by cuboidal epithelium and lacks cartilage and glands in its wall. This structure is seen leading into the more distal airspaces. This morphology is characteristic of a terminal bronchiole. Terminal bronchioles are the most distal segment of the conducting zone of the respiratory system
+========== idx:1748 | Biochemistry | img:False | a:3 | NOV 2023 | inicet
+Q: A 75-year-old woman with type 2 diabetes and hypertension presented with heart failure and subsequently died. A post-mortem cardiac biopsy was obtained, and the histology slide is shown. Based on the features seen, which type of cardiomyopathy is most likely? Downloaded from www.pdf.tube 300=== MEDINK EXAMINATION PAPER NOV-2023
+O: ["Bronchus", "Arch of aorta", "Brachiocephalic trunk", "Pulmonary trunk"]
+EX: The image provided is an axial (transverse) cross-section of the thorax, likely at the level of the sternal angle (T4/T5 vertebral level). At this level, several key vascular structures are visible. The marked structure is anterior to the ascending aorta and bifurcates into the left and right pulmonary arteries. This anatomical position and branching pattern are characteristic of the pulmonary tru
+========== idx:1749 | Biochemistry | img:False | a:2 | NOV 2023 | inicet
+Q: In which region do the fibers of the internal oblique and transversus abdominis form part of the inguinal canal wall?
+O: ["Anterior wall", "Posterior wall", "Roof", "Floor"]
+EX: The inguinal canal is an oblique passage through the lower part of the anterior abdominal wall. Its walls are formed by different layers of the abdominal musculature. The roof (superior wall) of the inguinal canal is formed by the arching lower fibers of the internal oblique and transversus abdominis muscles as they pass superiorly and medially to insert into the pubic crest and pectineal line, fo
+========== idx:1750 | Biochemistry | img:True | a:2 | NOV 2023 | inicet
+Q: Hybridoma technology uses which of the following?
+O: ["HMP shunt", "TCA cycle", "Purine Salvage pathway", "Glycolysis"]
+EX: Hybridoma technology is a method for producing large numbers of identical antibodies (monoclonal antibodies). It involves fusing antibody-producing B cells with immortal myeloma (cancerous plasma) cells. A crucial step in this process is the selection of fused hybridoma cells from the unfused myeloma cells. This is accomplished using the HAT medium (Hypoxanthine-Aminopterin-Thymidine). Aminopterin
+========== idx:1751 | Biochemistry | img:False | a:0 | NOV 2023 | inicet
+Q: Which of the following is not involved in the repair of DNA double-strand breaks?
+O: ["ATP", "RAD 51", "ATM", "Ku 70"]
+EX: DNA double-strand breaks (DSBs) are highly cytotoxic lesions that are primarily repaired by two major pathways: non-homologous end joining (NHEJ) and homologous recombination (HR). The proteins listed are key players in these pathways. ATM (Ataxia-Telangiectasia Mutated) is a sensor kinase that detects DSBs and initiates the signaling cascade for repair. Ku70 (along with Ku80) is a critical compon
+========== idx:1752 | Biochemistry | img:False | a:1 | NOV 2023 | inicet
+Q: The active site of an enzyme is mostly complementary to:
+O: ["Allosteric activator", "Substrate", "Product", "Transition state"]
+EX: Although enzymes bind substrates, the active site is most complementary to the transition state, not the substrate itself. According to modern enzyme theory (transition state theory), enzymes catalyze reactions by stabilizing the transition state — the high-energy, unstable intermediate formed during conversion of substrate to product. The active site is shaped and chemically arranged to bind this
+========== idx:1753 | Biochemistry | img:False | a:2 | NOV 2023 | inicet
+Q: Regarding the entry of glucose, which body organ or tissue demonstrates insulin-independent glucose uptake, except for:
+O: ["RBC", "Pancreas", "Adipose tissue", "Brain"]
+EX: Most tissues in the body require insulin for glucose uptake, but some have insulin-independent mechanisms. This question asks to identify the tissue that is insulin-dependent. Adipose tissue and skeletal muscle primarily use the GLUT4 transporter, which is insulin-sensitive. In the presence of insulin, GLUT4 translocates from intracellular vesicles to the cell membrane to facilitate glucose entry.
+========== idx:1754 | Biochemistry | img:False | a:0 | NOV 2023 | inicet
+Q: 2,3-BPG binds to which part of hemoglobin?
+O: ["Central part of hemoglobin", "Outer part of hemoglobin", "Heme part of hemoglobin", "Globin part of hemoglobin"]
+EX: 2,3-Bisphosphoglycerate (2,3-BPG) binds in the central cavity of deoxyhemoglobin, between the two β-chains of the hemoglobin tetramer. This central pocket is present in the T (tense) state of hemoglobin. 2,3-BPG is negatively charged and interacts with positively charged amino acid residues (such as lysine and histidine) located in the central region of the globin chains. By binding in this cavity
+========== idx:1755 | Pathology | img:False | a:0 | NOV 2023 | inicet
+Q: A patient presents with cough, night sweats, and fever, and the histopathology image is provided. Which cytokine is most likely responsible for the immune response?
+O: ["Interferon-gamma (IFN-y)", "Complement C5a", "Histamine", "Bradykinin"]
+EX: The histopathology image shows a granuloma with central caseous necrosis, which is the hallmark of tuberculosis. The formation and maintenance of granulomas against intracellular pathogens like Mycobacterium tuberculosis is a classic example of a cell-mediated immune response orchestrated by T-helper 1 (Th1) cells. A key cytokine produced by activated Th1 cells and NK cells in this response is Int
+========== idx:1756 | Pathology | img:False | a:1 | NOV 2023 | inicet
+Q: A 47-year-old man produces only 400 mL of urine in 24 hours. Histology shows rapidly progressive glomerulonephritis (RPGN) with pauci-immune features and crescent formation. What is the most probable underlying cause?
+O: ["Anti-GBM (Anti-Glomerular Basement Membrane)", "ANCA (Anti-Neutrophil Cytoplasmic Antibody)", "Anti-PLA2R (Anti-Phospholipase A2 Receptor)", "ANA (Anti-Nuclear Antibody)"]
+EX: Rapidly progressive glomerulonephritis (RPGN) is characterized histologically by extensive crescent formation in the glomeruli. RPGN is classified based on immunofluorescence findings into three types. Type I is caused by anti-GBM antibodies (e.g., Goodpasture syndrome). Type II is immune complex-mediated (e.g., lupus nephritis). Type III is termed "pauci-immune," meaning there is a lack of signif
+========== idx:1757 | Pathology | img:False | a:1 | NOV 2023 | inicet
+Q: Following class switching, a specific antibody class is generated, yet IgM and IgD continue to be co-expressed. Which mechanism accounts for this?
+O: ["Allelic exclusion", "Alternate RNA splicing", "Somatic hypermutation", "Affinity maturation"]
+EX: Naive mature B cells, before encountering an antigen, co-express both IgM and IgD on their surface. This is not a result of class switching, which is a later, irreversible DNA recombination event that changes the constant region of the heavy chain. Instead, the co-expression of IgM and IgD is achieved through alternate RNA splicing. A single long primary RNA transcript is synthesized, which contai
+========== idx:1758 | Pathology | img:False | a:0 | NOV 2023 | inicet
+Q: A patient shows reduced serum transferrin saturation. What is the most probable underlying condition?
+O: ["Iron Deficiency Anemia", "Hemochromatosis", "Sideroblastic anemia", "Pernicious anemia"]
+EX: Transferrin saturation is a key laboratory parameter used to assess iron status. It is calculated as (Serum Iron / Total Iron-Binding Capacity) × 100%. In Iron Deficiency Anemia (IDA), the body's iron stores are depleted. This leads to a low serum iron level. Simultaneously, the liver increases the production of transferrin (the protein that transports iron), leading to a high Total Iron-Binding C
+========== idx:1759 | Pathology | img:False | a:1 | NOV 2023 | inicet
+Q: Following an orchidectomy, the specimen reveals the presence of Reinke’s crystals. What is the most probable diagnosis?
+O: ["Seminoma", "Leydig Cell Tumor", "Metastasis", "Yolk Sac Tumor"]
+EX: Reinke's crystals are distinctive, eosinophilic, rod-shaped or rhomboid cytoplasmic inclusions. Their presence is a pathognomonic histological feature of a Leydig cell tumor. Leydig cells are the testosterone-producing cells of the testes, and tumors arising from them are a type of sex cord-stromal tumor. These tumors can be hormonally active, leading to symptoms of androgen excess like precocious
+========== idx:1760 | Pathology | img:False | a:1 | NOV 2023 | inicet
+Q: Decreased % transferrin saturation is seen in?
+O: ["Hemochromatosis", "Iron deficiency anemia", "Megaloblastic anemia", "Hemosiderosis"]
+EX: Transferrin saturation is a key laboratory parameter used to assess iron status. It is calculated as (Serum Iron / Total Iron-Binding Capacity) × 100%. In Iron Deficiency Anemia (IDA), the body's iron stores are depleted. This leads to a low serum iron level. Simultaneously, the liver increases the production of transferrin (the protein that transports iron), leading to a high Total Iron-Binding C
+========== idx:1761 | Pharmacology | img:False | a:1 | NOV 2023 | inicet
+Q: Which recently approved anti-diabetic medication is indicated for patients who have heart failure with reduced ejection fraction and decreased urine output?
+O: ["Linagliptin", "Empagliflozin", "Pioglitazone", "Degludec"]
+EX: Empagliflozin is a sodium-glucose co-transporter 2 (SGLT2) inhibitor. Initially developed for treating type 2 diabetes, large cardiovascular outcome trials (like the EMPA-REG OUTCOME trial) have demonstrated significant benefits for patients with heart failure, including those with reduced ejection fraction (HFrEF). SGLT2 inhibitors have been shown to reduce the risk of cardiovascular death and ho
+========== idx:1762 | Pharmacology | img:False | a:2 | NOV 2023 | inicet
+Q: Which antigen is present in the HPV vaccine?
+O: ["E1+E2", "E6+E7", "L1", "L2"]
+EX: The currently available prophylactic HPV vaccines (Gardasil, Cervarix) are based on virus-like particles (VLPs) that are produced by recombinant DNA technology. These VLPs are composed of the L1 major capsid protein of the human papillomavirus. The L1 proteins have the ability to self-assemble into particles that mimic the structure of the native HPV virion but are non-infectious because they cont
+========== idx:1763 | Pharmacology | img:True | a:3 | NOV 2023 | inicet
+Q: Which drug exerts its effect by inhibiting ATP- binding cassette (ABC) transporters?
+O: ["Nifedipine", "Diltiazem", "Tacrolimus", "Verapamil"]
+EX: ATP-binding cassette (ABC) transporters are a family of transmembrane proteins that transport various substrates across cell membranes. One of the most well-known is P-glycoprotein (P-gp), encoded by the ABCB1 gene, which functions as an efflux pump that can extrude drugs from cells, contributing to multidrug resistance in cancer. Certain drugs can inhibit the function of these transporters. Verap
+========== idx:1764 | Pharmacology | img:False | a:2 | NOV 2023 | inicet
+Q: A patient presents with exertional and nocturnal breathlessness, fatigue, cardiomegaly, pedal edema, a gallop rhythm on examination, and bilateral lung rales. Based on these findings, which medication is best suited to slow the progression of the disease?
+O: ["Furosemide", "Digoxin", "Captopril", "Carvedilol"]
+EX: The patient's symptoms are classic for congestive heart failure with reduced ejection fraction. While furosemide (a diuretic) is essential for relieving symptoms of fluid overload (edema, dyspnea), it does not halt the progression of the disease. Similarly, digoxin can improve symptoms and reduce hospitalizations but does not have a proven mortality benefit. The cornerstones of therapy that have b
+========== idx:1765 | Pharmacology | img:False | a:3 | NOV 2023 | inicet
+Q: Which of the following is the disadvantage of oxcarbazepine over carbamazepine?
+O: ["Hepatotoxicity", "Stevens-Johnson syndrome", "Thrombocytopenia", "Dilutional hyponatremia"]
+EX: Oxcarbazepine is a structural analog of carbamazepine, another antiepileptic drug. While oxcarbazepine is generally better tolerated, with a lower incidence of severe side effects like hepatotoxicity and skin reactions (Stevens-Johnson syndrome), it has one notable disadvantage. Oxcarbazepine is associated with a significantly higher incidence of dilutional hyponatremia (low blood sodium levels) c
+========== idx:1766 | Pharmacology | img:False | a:3 | NOV 2023 | inicet
+Q: All of the following drugs are used in thyroid storm except?
+O: ["Propranolol", "Lugol's lodine", "Propylthiouracil", "Aspirin"]
+EX: Thyroid storm is a life-threatening hypermetabolic state caused by excessive release of thyroid hormones. Management involves a multi-pronged approach. Beta-blockers like propranolol are used to control the adrenergic symptoms (tachycardia, tremor). Thionamides like propylthiouracil (PTU) or methimazole are used to block the synthesis of new thyroid hormones. Iodine solutions, such as Lugol's iodi
+========== idx:1767 | Pharmacology | img:False | a:1 | NOV 2023 | inicet
+Q: A patient presents with purpura and is found to have isolated thrombocytopenia. Which tyrosine kinase inhibitor is used to treat isolated thrombocytopenia?
+O: ["Oprelvekin", "Fostamatinib", "Eltrombopag", "Romiplostim"]
+EX: The question asks for a tyrosine kinase inhibitor used for isolated thrombocytopenia, such as Immune Thrombocytopenia (ITP). Fostamatinib is an oral spleen tyrosine kinase (Syk) inhibitor. In ITP, antibody-coated platelets are destroyed by macrophages in the spleen. This process is mediated by Fcγ receptors on the macrophages, and Syk is a critical signaling molecule downstream of these receptors.
+========== idx:1768 | PSM | img:True | a:1 | NOV 2023 | inicet
+Q: A longitudinal, observational, and analytical study is also known as?
+O: ["Case Control Study", "Cohort Study", "Ecological Study", "Randomized Control Trial"]
+EX: A cohort study is a type of epidemiological study that fits the description perfectly. It is longitudinal because it follows a group of individuals (the cohort) over a period of time. It is observational because the investigator does not intervene or assign exposures but instead observes the outcomes that naturally occur. It is analytical because it is designed to test hypotheses about the relatio
+========== idx:1769 | PSM | img:False | a:3 | NOV 2023 | inicet
+Q: Which type of graph is used to represent healthcare and disease-related data in a population? What are qualitative studies addressing health-related problems called?
+O: ["Bar diagram", "Histogram", "Multiple regression model", "Ishikawa diagram/Fishbone diagram"]
+EX: The question asks for a tool used in qualitative studies to analyze health problems. An Ishikawa diagram, also known as a fishbone diagram or cause-and-effect diagram, is a visualization tool used to explore and categorize the potential causes of a specific problem or effect. In healthcare, it is frequently used in quality improvement and root cause analysis to systematically brainstorm and displa
+========== idx:1770 | PSM | img:False | a:1 | NOV 2023 | inicet
+Q: The socially acquired learned behavior is known as?
+O: ["Custom", "Culture", "Socialization", "Mores"]
+EX: Culture is the broad and encompassing term for the set of shared attitudes, values, goals, and practices that characterizes an institution or organization, and the knowledge and beliefs that are acquired by a person as a member of a society. It represents the entire complex of socially acquired and learned behaviors, beliefs, arts, morals, laws, and customs. Customs (A) are specific, traditional w
+========== idx:1771 | PSM | img:False | a:2 | NOV 2023 | inicet
+Q: Which of the following statements is not correct regarding the National Program for Control of Blindness & Visual Impairment?
+O: ["Patients requiring cataract surgeries are selected and asked to report to the base hospital.", "To perform more small incision cataract surgeries.", "To perform surgeries in rural areas with makeshift hospitals/OTs.", "To perform surgeries in fixed facilities by shifting patients from rural areas."]
+EX: The National Program for Control of Blindness & Visual Impairment (NPCB&VI) in India aims to reduce the prevalence of blindness. A significant shift in strategy occurred to improve the quality and safety of cataract surgery, which is the leading cause of blindness. The older model of holding large-scale "eye camps" with makeshift operating theaters in rural areas was discontinued due to concerns a
+========== idx:1772 | PSM | img:False | a:2 | NOV 2023 | inicet
+Q: What is the schedule and route of administration of the MR vaccine and vitamin A?
+O: ["MR vaccine administered subcutaneously along with oral vitamin A at 8 months", "MR vaccine administered intramuscularly along with oral vitamin A at 8 months", "MR vaccine administered subcutaneously along with oral vitamin A at 9 months", "MR vaccine administered intramuscularly along with oral vitamin A at 9 months"]
+EX: According to India's National Immunization Schedule, the first dose of the Measles-Rubella (MR) vaccine is administered at 9 completed months of age. The route of administration for the MR vaccine is subcutaneous, typically in the right upper arm. Concurrently, at the same visit, the first dose of Vitamin A solution (1 mL or 1 lakh IU) is given orally. A second dose of the MR vaccine is given at 1
+========== idx:1773 | PSM | img:False | a:0 | NOV 2023 | inicet
+Q: Incubation period: match the following: 1. Measles a. 50 days 2. Mumps b. 2-4 weeks 3. Chickenpox c. 10-21 days 4. Syphilis d. 14-16 days 5. Hepatitis A e. 9-90 days
+O: ["1-d, 2-b, 3-c, 4-e, 5-a", "1-c, 2-b, 3-d, 4-e, 5-a", "1-b, 2-d, 3-c, 4-e, 5-a", "1-d, 2-b, 3-c, 4-a, 5-e"]
+EX: This question tests knowledge of the typical incubation periods for various infectious diseases. Measles has an incubation period of about 10-14 days, fitting into the 14-16 days range. Mumps typically has an incubation period of 2-4 weeks. The incubation period for Chickenpox (Varicella) is usually 10-21 days. Syphilis has a wide-ranging incubation period for its primary chancre, typically from 9
+========== idx:1774 | ENT | img:True | a:0 | NOV 2023 | inicet
+Q: A patient presents with altered sensorium, hypotension, and constricted pinpoint pupils. Which of the following is most likely responsible for the poisoning?
+O: ["Opioids", "Datura", "Cocaine", "Amphetamine"]
+EX: The clinical triad of central nervous system depression (altered sensorium), respiratory depression (which can lead to hypotension), and pupillary constriction (miosis or "pinpoint pupils") is the classic toxidrome for opioid poisoning. Opioids like morphine, heroin, and fentanyl stimulate the Edinger-Westphal nucleus, leading to parasympathetic activation and profound pupillary constriction. In c
+========== idx:1775 | ENT | img:False | a:3 | NOV 2023 | inicet
+Q: Which of the following injuries is not commonly associated with a patient presenting after a road traffic accident (RTA)?
+O: ["Contusion", "Abrasions", "Laceration", "Chop wound"]
+EX: Road traffic accidents (RTAs) can cause a wide variety of blunt and sharp force injuries. Abrasions (grazes or scrapes), contusions (bruises), and lacerations (tears or splits in the skin) are extremely common due to the impact with the vehicle, the road surface, or other objects. These are all typical blunt force injuries. A chop wound, however, is a distinct type of injury caused by a heavy weap
+========== idx:1776 | ENT | img:False | a:3 | NOV 2023 | inicet
+Q: All of the following are used in the identification of a dead body except:
+O: ["Teeth", "Blood", "Nail", "Muscle"]
+EX: Forensic identification of a deceased individual relies on unique and durable characteristics. Teeth (A) are extremely valuable for identification through dental records (forensic odontology) due to their durability and unique fillings, restorations, and morphology. Blood (B) is fundamental for DNA profiling, which provides a definitive genetic identity. Nails (C) can also be a source of DNA, and 
+========== idx:1777 | ENT | img:False | a:0 | NOV 2023 | inicet
+Q: Match the poisons with their site of action: A. Datura 1. CVS B. Nicotine 2. CNS C. Nitric acid 3. SKIN D. Nux vomica (strychnine) 4. SPINAL CORD
+O: ["A-2,B-1,C-3,D-4", "A-1,B-2,C-3,D-4", "A-1,B-2,C-4,D-3", "A-4,B-3,C-1,D-2"]
+EX: This question matches various poisons to their primary site or system of action. Datura contains atropine and scopolamine, which are anticholinergic agents that cross the blood-brain barrier and cause significant Central Nervous System (CNS) effects like delirium, hallucinations, and coma. Nicotine acts on autonomic ganglia and the adrenal medulla, leading to complex and often biphasic effects on 
+========== idx:1778 | ENT | img:False | a:0 | NOV 2023 | inicet
+Q: Which of the following diseases is not transmitted by the vector shown in the image?
+O: ["Orientia tsutsugamushi infection", "Crimean-Congo fever", "Babesia", "Ehrlichia"]
+EX: The image shows a hard tick, which is a vector for numerous diseases. Crimean-Congo hemorrhagic fever is a viral disease transmitted by ticks of the Hyalomma genus. Babesiosis is a malaria-like parasitic disease transmitted by Ixodes ticks. Ehrlichiosis is a bacterial infection also transmitted by ticks, such as the lone star tick (Amblyomma americanum). In contrast, Orientia tsutsugamushi infecti
+========== idx:1779 | ENT | img:False | a:3 | NOV 2023 | inicet
+Q: Which of the following substances is not used as a chelating agent for treating heavy metal poisoning?
+O: ["Deferiprone", "EDTA", "Penicillamine", "Oximes"]
+EX: Chelating agents are molecules that can form multiple bonds with a single metal ion, sequestering it and facilitating its excretion from the body. They are the mainstay of treatment for heavy metal poisoning. Deferiprone is an oral iron chelator used in iron overload conditions like thalassemia. EDTA (Ethylenediaminetetraacetic acid) is a broad-spectrum chelator used for lead poisoning. Penicillam
+========== idx:1780 | ENT | img:True | a:2 | NOV 2023 | inicet
+Q: An autopsy on a man with a history of drowning revealed no water in the lungs, and the case was classified as dry drowning. What is the most probable cause of death?
+O: ["Asphyxia", "Vagal inhibition", "Laryngospasm", "Ventricular fibrillation"]
+EX: Drowning is typically categorized as "wet" or "dry." In wet drowning, which is the majority of cases, water enters the lungs. In dry drowning, which accounts for about 10-15% of cases, very little or no water is aspirated into the lungs. The cause of death in these cases is asphyxia resulting from an intense, reflex laryngospasm. When a small amount of water first enters the larynx, it triggers a 
+========== idx:1781 | Microbiology | img:False | a:0 | NOV 2023 | inicet
+Q: Which drug shows intrinsic resistance?
+O: ["Fluconazole - Candida glabrata and Candida krusei", "Itraconazole - Sporothrix", "Voriconazole - Aspergillus fumigatus", "Amphotericin B - Candida glabrata"]
+EX: Intrinsic resistance refers to a naturally occurring resistance of a microorganism to a particular antimicrobial agent. Among the options, Candida krusei is intrinsically resistant to fluconazole, a commonly used azole antifungal. Candida glabrata often exhibits dose-dependent resistance or acquired resistance, but it is well-known for being less susceptible to fluconazole than Candida albicans. T
+========== idx:1782 | Microbiology | img:False | a:0 | NOV 2023 | inicet
+Q: A patient who has been taking ampicillin now develops diarrhea. Which medication is the treatment of choice for this condition?
+O: ["Oral metronidazole", "Oral fidaxomicin", "Oral ciprofloxacin", "Bezlotoxumab"]
+EX: Antibiotic-associated diarrhea is a common side effect, often caused by the overgrowth of Clostridioides difficile (formerly Clostridium difficile). For an initial, non-severe episode of C. difficile infection (CDI), the traditional drug of choice has been oral metronidazole or oral vancomycin. While recent guidelines often favor oral vancomycin or fidaxomicin for all severities due to better effi
+========== idx:1783 | Microbiology | img:False | a:1 | NOV 2023 | inicet
+Q: A young patient receiving therapy for multidrug- resistant tuberculosis develops weight gain, cold intolerance, and lethargy. Lab results show high TSH with low T3 and T4 levels. Which drug in the MDR-TB regimen is most likely causing these symptoms?
+O: ["Cycloserine", "Ethionamide", "Streptomycin", "Pyrazinamide"]
+EX: The patient's clinical symptoms (weight gain, cold intolerance, lethargy) and laboratory findings (high TSH, low T3/T4) are classic for primary hypothyroidism. Several second-line anti-tuberculosis drugs can cause this side effect. Ethionamide and prothionamide are well-known to cause hypothyroidism by inhibiting thyroid hormone synthesis, similar to the action of thionamide drugs used to treat hy
+========== idx:1784 | Microbiology | img:False | a:2 | NOV 2023 | inicet
+Q: Which of the following protease inhibitors can cause altered mental status, headache, and intracranial bleed?
+O: ["Tenofovir", "Saquinavir", "Tipranavir", "Darunavir"]
+EX: Tipranavir is a non-peptidic protease inhibitor used in antiretroviral therapy for HIV. It carries a specific black box warning from the FDA regarding the risk of both fatal and non-fatal intracranial hemorrhage. Patients taking tipranavir have shown an increased risk of this serious adverse event, and the mechanism is not fully understood but may relate to effects on platelet function or vascular
+========== idx:1785 | Microbiology | img:False | a:3 | NOV 2023 | inicet
+Q: Which chelation therapy is used to prevent doxorubicin-induced cardiotoxicity?
+O: ["Aprepitant", "Deferoxamine", "Amifostine", "Dexrazoxane"]
+EX: Doxorubicin, a potent anthracycline chemotherapeutic agent, is known for its dose-dependent cardiotoxicity. This toxicity is mediated primarily through the generation of reactive oxygen species via iron-catalyzed reactions. Dexrazoxane is a cardioprotective agent specifically approved to prevent this complication. It is a cyclic derivative of EDTA and acts as an intracellular iron-chelating agent.
+========== idx:1786 | Forensic Medicine | img:False | a:0 | NOV 2023 | inicet
+Q: Which of the following substances was the East India Company smuggling to China in the 18th century?
+O: ["Opium", "Cannabis", "Lysergic acid diethylamide (LSD)", "Cocaine"]
+EX: In the 18th and 19th centuries, the British East India Company engaged in a large-scale trade of opium, which was cultivated in British-controlled India, and smuggled it into China. This trade was established to reverse a significant trade imbalance, as Britain had a high demand for Chinese goods like tea, silk, and porcelain, but China had little demand for British goods. The widespread opium add
+========== idx:1787 | Forensic Medicine | img:False | a:3 | NOV 2023 | inicet
+Q: Identify the option that does not correspond to grievous hurt according to Section 320 of the Indian Penal Code (IPC)?
+O: ["Emasculation", "Fracture of femur", "Permanent privation of hearing", "7 days hospital admission"]
+EX: Section 320 of the Indian Penal Code (IPC) defines "grievous hurt" through eight specific categories of injury. These include emasculation (A), permanent privation of the sight of either eye, permanent privation of the hearing of either ear (C), privation of any member or joint, permanent impairment of the powers of any member or joint, permanent disfiguration of the head or face, fracture or disl
+========== idx:1788 | Forensic Medicine | img:False | a:0 | NOV 2023 | inicet
+Q: What causes the blackening around a gunshot entry wound?
+O: ["Smoke particles", "Unburned gunpowder", "Muzzle of firearm", "Fire effect"]
+EX: The characteristics of a gunshot entry wound vary depending on the range of fire. When a firearm is discharged at close range (but not in direct contact), several elements are expelled from the muzzle along with the bullet. The blackening (also called soiling or smudging) seen around the entry wound is caused by the deposition of fine smoke particles (soot) from the combustion of the gunpowder. Th
+========== idx:1789 | Forensic Medicine | img:False | a:1 | NOV 2023 | inicet
+Q: A 13-year-old girl arrives at the OPD with her mother, complaining of abdominal pain, and her urine pregnancy test comes back positive. As the medical officer, what should be your first step?
+O: ["Start physical examination", "Inform the police", "Take consent from the patient's mother", "Preserve the patient's clothes"]
+EX: In India, the age of consent for sexual activity is 18 years. Sexual intercourse with a minor below this age, even if consensual, is considered statutory rape under the Protection of Children from Sexual Offences (POCSO) Act, 2012. A positive pregnancy test in a 13-year-old girl is definitive evidence that sexual activity has occurred. The POCSO Act mandates that any person, including a medical of
+========== idx:1790 | Forensic Medicine | img:False | a:0 | NOV 2023 | inicet
+Q: Cadaveric spasm is seen in all except? NODIA 309=== MEDINK EXAMINATION PAPER NOV-2023 71.	 Which of the following viruses needs reverse transcription for PCR?
+O: ["RSV", "EBV", "CMV", "Adenovirus"]
+EX: Polymerase Chain Reaction (PCR) is a technique used to amplify a segment of DNA. Standard PCR can only work with a DNA template. When the starting genetic material is RNA, an initial step of reverse transcription is required to convert the RNA into complementary DNA (cDNA). This cDNA then serves as the template for the PCR amplification. The combined technique is called Reverse Transcriptase PCR (
+========== idx:1791 | Forensic Medicine | img:True | a:2 | NOV 2023 | inicet
+Q: A patient has had a fever for 3 days, and CBC shows a platelet count below 90,000. Dengue is suspected. Which of the following tests cannot be performed on day 3 of illness?
+O: ["PCR", "NS1", "IgM ELISA", "Xenodiagnosis using culture in Aedes mosquito"]
+EX: During a primary dengue infection, the virus and viral components are detectable first, followed by the host's immune response. On day 3 of the illness, the patient is typically in the acute viremic phase. During this time, the dengue virus itself can be detected, so methods like PCR (which detects viral RNA) would be positive. The dengue NS1 antigen is a viral non-structural protein that is secre
+========== idx:1792 | Forensic Medicine | img:False | a:0 | NOV 2023 | inicet
+Q: The HIV genome needs which of the following to enter the membrane?
+O: ["GP120", "CCR5", "GP41", "CXCR4"]
+EX: The entry of HIV into a host cell is a multi-step process mediated by its envelope glycoproteins. The process is initiated by the binding of the viral surface glycoprotein, gp120, to the primary CD4 receptor on the surface of the target cell (like a T-helper cell). This initial binding induces a conformational change in gp120, which then allows it to bind to a second receptor, a chemokine co-recep
+========== idx:1793 | Forensic Medicine | img:False | a:0 | NOV 2023 | inicet
+Q: A patient who recovered from COVID-19 and received steroid therapy now presents, after 3 weeks, with nasal discharge. The image shows a fungal organism. What is the most probable diagnosis?
+O: ["Mucor", "Aspergillus", "Candida", "Trichosporon"]
+EX: The clinical scenario of a patient recovering from COVID-19, particularly one treated with corticosteroids, developing invasive sino-orbital or sino-cerebral fungal infection is highly characteristic of mucormycosis. The image likely shows broad, ribbon-like, irregularly branched, and pauciseptate (or non-septate) hyphae, which are the classic microscopic features of fungi belonging to the order M
+========== idx:1794 | Forensic Medicine | img:False | a:0 | NOV 2023 | inicet
+Q: Which bacterial toxin exerts its effect by inhibiting the activity of elongation factor-2 (EF-2)?
+O: ["Diphtheria", "Clostridium", "Bacillus", "Vibrio"]
+EX: Diphtheria toxin, produced by Corynebacterium diphtheriae, and Exotoxin A, produced by Pseudomonas aeruginosa, both act by the same mechanism: they inhibit protein synthesis in eukaryotic cells. The A-subunit of these toxins catalyzes the ADP-ribosylation of eukaryotic Elongation Factor 2 (eEF-2). EF-2 is essential for the translocation step of protein synthesis on the ribosome, where it facilitat
+========== idx:1795 | Forensic Medicine | img:False | a:1 | NOV 2023 | inicet
+Q: Which of the following is/are an advantage(s) of a saline mount compared to an iodine mount? 1 Motility of trophozoites 2 Internal structure of cysts 3 Differentiate bile-stained vs non-bile stained
+O: ["1", "1 and 3", "2 and 3", "1,2 and 3"]
+EX: A saline mount is commonly used in stool microscopy for the detection of intestinal parasites. Compared to an iodine mount, it has certain advantages. 1 Motility of trophozoites – This is a major advantage of saline mount. It allows observation of the characteristic motility of protozoan trophozoites (e.g., Entamoeba histolytica, Giardia), which is essential for diagnosis. Iodine mount kills the o
+========== idx:1796 | Forensic Medicine | img:False | a:0 | NOV 2023 | inicet
+Q: Identify the organism and staining
+O: ["Nocardia and acid-fast stain", "Streptococcus and gram stain", "Cryptococcus and India ink", "Coccidioidomycosis and PAS stain"]
+EX: The image displays filamentous, branching rods. This morphology is characteristic of Actinomycetes, which includes both Nocardia and Actinomyces. A key distinguishing feature is their staining property. Nocardia species contain mycolic acids in their cell walls, similar to Mycobacteria, which makes them partially acid-fast. They will stain positive (appearing red/pink) with a modified acid-fast st
+========== idx:1797 | Forensic Medicine | img:False | a:0 | NOV 2023 | inicet
+Q: What is the most probable diagnosis in an HIV patient who develops a white patch on the tongue or buccal mucosa that does not scrape off?
+O: ["EBV", "Candida", "HSV", "HHV8"]
+EX: The clinical description of a white, corrugated or "hairy" patch, typically on the lateral borders of the tongue, that cannot be scraped off is the classic presentation of Oral Hairy Leukoplakia (OHL). This condition is an opportunistic infection strongly associated with immunosuppression, particularly in HIV-infected individuals. The causative agent of OHL is the Epstein-Barr virus (EBV). In cont
+========== idx:1798 | Forensic Medicine | img:False | a:0 | NOV 2023 | inicet
+Q: 1D sph and -2D at 180 is what type of refractive error?
+O: ["With the rule astigmatism", "Against the rule astigmatism", "Simple astigmatism", "Mixed astigmatism"]
+EX: The prescription +1.00 D sphere with −2.00 D cylinder at 180° represents with-the-rule (WTR) astigmatism. Astigmatism occurs when the cornea has unequal curvature in different meridians, causing light rays to focus at different points. In a cylindrical prescription, the axis indicates the meridian that has no cylindrical power, and the cylinder power acts 90° away from that axis. Here, the cylinde
+========== idx:1799 | Forensic Medicine | img:False | a:1 | NOV 2023 | inicet
+Q: Iritis is most commonly associated with which of the following?
+O: ["Systemic Lupus Erythematosus", "Behcet's Disease", "Psoriatic Arthropathy", "Ulcerative colitis"]
+EX: Iritis, a form of anterior uveitis, is inflammation of the iris and is often associated with systemic inflammatory conditions. Behçet's disease is a multi-systemic inflammatory vasculitis, and ocular involvement is a major criterion for diagnosis and a common cause of morbidity. It frequently presents as a recurrent, bilateral, non-granulomatous panuveitis or posterior uveitis, but severe anterior

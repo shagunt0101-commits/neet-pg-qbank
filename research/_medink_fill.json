@@ -1,0 +1,887 @@
+[
+{
+"year": 2024,
+"n": 132,
+"q": "A 34-year-old woman presents with anemia, a platelet count of 25,000/mm³, and prolonged PT and APTT. A peripheral blood smear image is provided. Based on these findings, which fusion gene is most likely involved?",
+"o": [
+"PML-RARA",
+"RUNX1-RUNX1T1",
+"INV 16",
+"IGH-NSD2"
+],
+"a": 0,
+"ex": "PML-RARA The clinical presentation of pancytopenia, coagulopathy (raised PT/APTT, suggesting DIC), and the key morphological finding of a promyelocyte with multiple Auer rods (a faggot cell) on the peripheral smear are pathognomonic for Acute Promyelocytic Leukemia (APL), a subtype of AML. APL is cytogenetically characterized by a specific translocation between chromosome 15 and 17, denoted as t(15;17)(q24;q21). This translocation creates a fusion gene between the Promyelocytic Leukemia (PML) gene on chromosome 15 and the Retinoic Acid Receptor Alpha (RARA) gene on chromosome 17. The resulting PML-RARA fusion protein acts as a transcriptional repressor, blocking the differentiation of myeloid cells at the promyelocyte stage. This is the molecular hallmark of APL. The other fusion genes are associated with different subtypes of AML : RUNX1-RUNX1T1 with t(8;21) and INV 16 with inv(16).",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 133,
+"q": "Which gene is most commonly implicated in the carcinoma stage depicted in the image shown?",
+"o": [
+"RAS",
+"RET",
+"BRAF V600E",
+"P53"
+],
+"a": 2,
+"ex": "BRAF V600E The image displays the classic histological features of Papillary Thyroid Carcinoma (PTC), which is the most common type of thyroid cancer. The most common genetic alteration found in PTC is a point mutation in the BRAF gene, specifically the V600E mutation. This mutation occurs in approximately 45-50% of all PTC cases and is a driver mutation that leads to constitutive activation of the MAP kinase signaling pathway, promoting cell proliferation and survival. The BRAF V600E mutation is particularly associated with the classic and tall cell variants of PTC and is often linked to more aggressive tumor behavior and a higher risk of recurrence. RET/PTC rearrangements (Option B) are also common in PTC, especially in radiation-associated cases. RAS mutations (Option A) are more characteristic of Follicular Thyroid Carcinoma. P53 mutations (Option D) are associated with poorly differentiated and Anaplastic Thyroid Carcinoma.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 134,
+"q": "A patient presents with tingling sensations in both legs, increased urination, and weight loss. A bone marrow aspirate image is provided. Click Here to Buy book on Amazon 98=== Based on these clinical features and marrow findings, what is the most likely diagnosis?",
+"o": [
+"Multiple myeloma with renal failure",
+"Subacute combined degeneration (SACD) with Vitamin B12 deficiency",
+"Subacute combined degeneration (SACD) with diabetes",
+"Amyloidosis"
+],
+"a": 0,
+"ex": "Multiple myeloma with renal failure The bone marrow aspirate image, showing a high percentage of plasma cells (likely >10-20%), is the key finding for diagnosing a plasma cell dyscrasia, most notably Multiple Myeloma. The clinical symptoms fit well with this diagnosis. The tingling sensation in the legs can be due to peripheral neuropathy caused by the monoclonal protein or amyloid deposition. Weight loss is a constitutional symptom of malignancy. The polyuria is a classic symptom of hypercalcemia, which is common in multiple myeloma due to bone destruction (osteolytic lesions). Hypercalcemia itself can lead to renal impairment (myeloma kidney). The combination of the bone marrow findings with the systemic symptoms strongly points to multiple myeloma with associated complications, including renal failure. SACD (Option B) is due to B12 deficiency and affects the spinal cord, and amyloidosis (Option D) can be a complication of multiple myeloma but is not the primary diagnosis here.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 135,
+"q": "The immunohistochemical marker TTF- 1 (thyroid transcription factor-1) is most commonly expressed in which of the following tumors or tissues?",
+"o": [
+"Squamous Cell Carcinoma (SCC)",
+"Lung adenocarcinoma",
+"Papillary thyroid carcinoma",
+"Large cell lung cancer"
+],
+"a": 1,
+"ex": "Lung adenocarcinoma Thyroid Transcription Factor-1 (TTF-1), also known as NKX2-1, is a nuclear transcription factor that plays a crucial role in the development of the thyroid, lung, and forebrain. In pathology, TTF-1 is used as an immunohistochemical (IHC) marker to determine the origin of tumors. It shows strong nuclear staining in the vast majority of lung adenocarcinomas (around 75-85%) and small cell lung carcinomas. It is also positive in all types of well-differentiated thyroid carcinomas, including papillary (Option C) and follicular types. However, when differentiating metastatic tumors of unknown primary, a positive TTF-1 stain is most commonly indicative of a lung or thyroid origin. Between the options of lung adenocarcinoma and papillary thyroid carcinoma, it is a key marker for both. In the context of lung cancer differentiation, it is the primary marker for adenocarcinoma. Squamous cell carcinoma of the lung (Option A) is typically TTF-1 negative.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 136,
+"q": "A patient is found to have a cerebellar mass along with a renal tumor and reports a family history of similar illnesses. Which genetic mutation is most likely present in this family?",
+"o": [
+"VHL",
+"NF",
+"TSC",
+"Li-Fraumeni syndrome"
+],
+"a": 0,
+"ex": "VHL The triad of a cerebellar mass (specifically a hemangioblastoma), a renal tumor (specifically clear cell renal cell carcinoma), and a positive family history is the classic presentation of von Hippel-Lindau (VHL) disease. VHL is an autosomal dominant hereditary cancer syndrome caused by a germline mutation in the VHL tumor suppressor gene on chromosome 3. This mutation predisposes individuals to the development of various benign and malignant tumors. In addition to cerebellar hemangioblastomas and renal cell carcinomas, patients with VHL disease are also at risk for retinal angiomas, pheochromocytomas, and pancreatic neuroendocrine tumors. The other options are different hereditary cancer syndromes : Neurofibromatosis (NF) involves neurofibromas and optic gliomas, Tuberous Sclerosis Complex (TSC) involves hamartomas in multiple organs, and Li-Fraumeni syndrome (p53 mutation) is associated with sarcomas, breast cancer, brain tumors, and adrenal cortical carcinoma.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 137,
+"q": "A 30-year-old football player is brought to the emergency department after a sudden collapse due to cardiac arrest. A histological image is provided. Based on the microscopic findings shown, what is the most likely cause of death?",
+"o": [
+"Hypertrophic Obstructive Cardiomyopathy (HOCM)",
+"Dilated Cardiomyopathy (DCM)",
+"Restrictive Cardiomyopathy (RCM)",
+"Arrhythmogenic cardiomyopathy"
+],
+"a": 0,
+"ex": "Hypertrophic Obstructive Cardiomyopathy (HOCM) Sudden cardiac death in a young athlete is most commonly caused by an underlying, often undiagnosed, cardiac condition. The histological image shows the pathognomonic features of Hypertrophic Cardiomyopathy (HCM), which include cardiomyocyte hypertrophy, extensive myofiber disarray (where the muscle cells are arranged in a chaotic, whorled pattern instead of being parallel), and interstitial fibrosis. HCM is a genetic disorder caused by mutations in genes encoding sarcomeric proteins, leading to unexplained left ventricular hypertrophy. This hypertrophy and disarray create a substrate for fatal ventricular arrhythmias (like ventricular fibrillation), which are the usual cause of sudden death, especially during or after intense physical exertion. The other cardiomyopathies have different histological features : DCM (Option B) shows thinned walls and attenuated fibers, RCM (Option C) often shows infiltration (e.g., amyloid), and arrhythmogenic cardiomyopathy (Option D) is characterized by fibrofatty replacement of the right ventricular myocardium.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 138,
+"q": "The skin biopsy image shown is most characteristic of which of the following clinical conditions?",
+"o": [
+"Lichen planus",
+"Lichen nitidus",
+"Morphea",
+"Viral myocarditis"
+],
+"a": 2,
+"ex": "Morphea The image displays histological features characteristic of morphea, also known as localized scleroderma. The key finding is in the dermis, which appears markedly thickened and sclerotic, with dense, eosinophilic collagen bundles that have replaced the normal dermal architecture and subcutaneous fat. There is also a notable loss of skin adnexal structures, such as hair follicles and sweat glands, which become entrapped and atrophied within the fibrotic tissue. The overlying epidermis is often thinned and flattened. This picture reflects the clinical process of excessive collagen deposition leading to hardened, indurated skin plaques. Lichen planus (Option A) is an interface dermatitis with a band-like lymphocytic infiltrate. Lichen nitidus (Option B) shows a claw-and-ball granulomatous infiltrate. Viral myocarditis (Option D) is an inflammation of the heart muscle, not a skin condition.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 139,
+"q": "A child presents with pruritic skin lesions along with diarrhea and has been advised to follow a gluten-free diet. What is the most likely underlying etiology of this condition?",
+"o": [
+"Celiac disease",
+"Whipple's disease",
+"Crohn's disease",
+"Dermatitis herpetiformis"
+],
+"a": 0,
+"ex": "Celiac disease Celiac disease is an autoimmune disorder triggered by ingestion of gluten, a protein found in wheat, barley, and rye. It leads to immune-mediated damage of the small intestinal mucosa, particularly the villi, resulting in malabsorption. In children, common symptoms include chronic diarrhea, abdominal pain, bloating, weight loss, and nutritional deficiencies. A distinctive extraintestinal manifestation is pruritic skin lesions, known as dermatitis herpetiformis, which occur due to IgA deposition in the dermal papillae. This skin condition is strongly associated with celiac disease and improves with a gluten-free diet. Because gluten triggers the immune response that damages the intestinal lining, the primary treatment is lifelong avoidance of gluten-containing foods. Following a gluten-free diet helps restore the intestinal villi and reduces both gastrointestinal and skin symptoms. The other options are less consistent with the scenario. Whipple's disease is a rare bacterial infection, Crohn’s disease is an inflammatory bowel disease not specifically related to gluten, and dermatitis herpetiformis is actually a cutaneous manifestation of celiac disease rather than the underlying cause. Therefore, the most likely underlying etiology is celiac disease.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 140,
+"q": "Which specific antibody is most commonly associated with celiac disease?",
+"o": [
+"Anti-TTG (Tissue Transglutaminase)",
+"ANCA (Anti-Neutrophil Cytoplasmic Antibodies) NODIA 99=== EXAMINATION PAPER 2024",
+"ASCA (Anti-Saccharomyces cerevisiae Antibodies)",
+"Anti-gliadin"
+],
+"a": 0,
+"ex": "Anti-TTG (Tissue Transglutaminase) The serological diagnosis of Celiac Disease relies on the detection of highly specific autoantibodies. The most sensitive and specific antibody test currently used is the IgA anti-tissue transglutaminase (anti-TTG) antibody test. Tissue transglutaminase is the autoantigen in celiac disease; it deamidates gliadin (a component of gluten), which increases its immunogenicity and triggers the autoimmune response. IgA anti-endomysial antibodies (EMA) are also highly specific but the test is more subjective. While anti-gliadin antibodies (AGA) (Option D) were used in the past, they have lower sensitivity and specificity and are no longer recommended for primary diagnosis. ANCA (Option B) is associated with vasculitides like granulomatosis with polyangiitis. ASCA (Option C) is associated with Crohn's disease. Therefore, anti-TTG is the premier antibody marker for celiac disease.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 141,
+"q": "In a patient with thalassemia, which viral infection is known to target erythroid progenitor cells and can precipitate aplastic anemia?",
+"o": [
+"CMV (Cytomegalovirus)",
+"EBV (Epstein-Barr Virus)",
+"Parvovirus B19",
+"Hepatitis C virus (HCV)"
+],
+"a": 2,
+"ex": "Parvovirus B19 Patients with chronic hemolytic anemias, such as thalassemia and sickle cell disease, rely on a hyperactive bone marrow to compensate for the rapid destruction of red blood cells. Parvovirus B19 has a unique tropism for erythroid progenitor cells (the precursors to red blood cells) in the bone marrow. Infection with this virus leads to the lysis of these progenitor cells, causing a temporary cessation of red blood cell production (erythropoiesis). In a person with normal red cell survival, this 7-10 day pause is clinically insignificant. However, in a thalassemia patient with a shortened red cell lifespan, this abrupt halt in production, known as a transient aplastic crisis, leads to a rapid and severe drop in hemoglobin levels, which can be life-threatening. The other viruses listed (CMV, EBV, HCV) can cause bone marrow suppression but are not the classic cause of transient aplastic crisis.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 142,
+"q": "A 23-year-old woman with a height of 4 feet is evaluated, and her karyotype is shown in the image below. Which of the following options best explains the underlying etiology of her condition?",
+"o": [
+"Turner syndrome",
+"Klinefelter's syndrome",
+"Down syndrome",
+"Edward's syndrome"
+],
+"a": 0,
+"ex": "Turner syndrome The provided karyotype is 45,X, which is the classic genetic signature for Turner syndrome. This condition is a chromosomal disorder in females characterized by the complete or partial absence of one of the two X chromosomes. The clinical features described, particularly short stature (height of 4 feet), are cardinal signs of Turner syndrome. Other common features include gonadal dysgenesis (streak ovaries) leading to primary amenorrhea and infertility, a webbed neck, a low posterior hairline, and a broad chest with widely spaced nipples. Cardiac and renal anomalies are also common. Klinefelter's syndrome (Option B) is 47,XXY and affects males. Down syndrome (Option C) is Trisomy 21. Edward's syndrome (Option D) is Trisomy 18. The karyotype is definitive for Turner syndrome.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 143,
+"q": "Identify the structure or finding shown in the image and state the disease with which it is associated.",
+"o": [
+"Gaucher's disease",
+"Tay-Sachs disease",
+"Sandhoff's disease",
+"Fabry's disease"
+],
+"a": 0,
+"ex": "Gaucher's disease The image displays a Gaucher cell, which is the pathognomonic finding in Gaucher's disease. This is a large macrophage (20-100 µm in diameter) whose cytoplasm is filled with undigested glucocerebroside, giving it a characteristic fibrillary or striated appearance often described as wrinkled tissue paper or crumpled silk. Gaucher's disease is the most common lysosomal storage disorder, caused by a deficiency of the enzyme glucocerebrosidase. This leads to the accumulation of glucocerebroside in the lysosomes of macrophages throughout the reticuloendothelial system, particularly in the spleen, liver, and bone marrow. This accumulation results in the clinical features of hepatosplenomegaly, pancytopenia, and bone disease (pain, fractures). The other options are also lysosomal storage diseases but have different enzymatic defects and stored substrates, and do not feature Gaucher cells.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 144,
+"q": "A patient presents with hepatosplenomegaly, abdominal pain, and a markedly elevated white blood cell count exceeding 50,000/mm³. Which underlying gene abnormality is most likely responsible for these findings, and what is the most probable diagnosis?",
+"o": [
+"t(9 :22)",
+"Del 1q",
+"t(15 :17)",
+"Del 3q"
+],
+"a": 0,
+"ex": "t(9 :22) The clinical presentation of marked splenomegaly, constitutional symptoms, and a very high white blood cell count (leukocytosis) with a spectrum of myeloid precursors is classic for Chronic Myeloid Leukemia (CML). The molecular hallmark and diagnostic criterion for CML is the presence of the Philadelphia chromosome, which results from a reciprocal translocation between the long arms of chromosome 9 and 22, denoted as t(9;22)(q34;q11). This translocation creates a fusion gene called BCR-ABL1 on the shortened chromosome 22 (the Philadelphia chromosome). The protein product of this fusion gene is a constitutively active tyrosine kinase that drives the massive proliferation of granulocytic cells, leading to the clinical and laboratory features of CML. The translocation t(15;17) (Option C) is characteristic of Acute Promyelocytic Leukemia (APL).",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 145,
+"q": "A male patient diagnosed with acute respiratory distress syndrome (ARDS) is not responding to oxygen therapy. What role does interleukin-8 (IL-8) play in the pathogenesis of ARDS?",
+"o": [
+"Endothelial cell activation",
+"Recruitment of neutrophils",
+"Macrophage activation",
+"Promote surfactant production"
+],
+"a": 1,
+"ex": "Recruitment of neutrophils Acute Respiratory Distress Syndrome (ARDS) is a form of acute, diffuse, inflammatory lung injury characterized by severe hypoxemia and bilateral pulmonary infiltrates. The pathophysiology involves an uncontrolled inflammatory response within the lungs. A key event is the massive infiltration of neutrophils into the interstitium and alveolar spaces. Interleukin-8 (IL-8), also known as CXCL8, is a potent neutrophil chemoattractant and activator. It is released by activated alveolar macrophages and epithelial cells early in the inflammatory cascade. The high levels of IL-8 in the alveolar fluid of ARDS patients create a strong chemotactic gradient that is primarily responsible for the recruitment of neutrophils from the circulation into the lung tissue. These recruited neutrophils then release proteases, reactive oxygen species, and other inflammatory mediators that damage the alveolar-capillary barrier, leading to protein-rich edema and impaired gas exchange.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 146,
+"q": "A patient presents with a renal mass associated with hematuria and flank pain, and a histological image is provided. Based on these findings, what is the most likely diagnosis?",
+"o": [
+"Clear Cell Carcinoma",
+"Papillary Cell Carcinoma",
+"Chromophobe Renal Cell Carcinoma (RCC)",
+"Bellini Duct Carcinoma"
+],
+"a": 2,
+"ex": "Chromophobe Renal Cell Carcinoma (RCC) The patient presents with a renal mass, hematuria, and flank pain, which are classic clinical features of renal cell carcinoma (RCC). Histological examination helps differentiate the various subtypes of RCC. In the provided histological image, the tumor cells appear large and polygonal with pale or eosinophilic cytoplasm and well-defined cell borders, giving them a plant-cell–like appearance. The cytoplasm often appears clear or finely granular, and the nuclei are relatively uniform. These features are characteristic of chromophobe renal cell carcinoma. Chromophobe RCC arises from the intercalated cells of the collecting ducts. It typically shows pale cytoplasm, prominent cell membranes, and perinuclear clearing (halo) on microscopy. Compared with other types of RCC, chromophobe carcinoma generally has a better prognosis. The other options have different histological patterns. Clear cell carcinoma shows cells with lipid- and glycogen-rich clear cytoplasm and a delicate vascular network. Papillary RCC shows papillary structures with fibrovascular cores. Bellini duct carcinoma (collecting duct carcinoma) is rare and usually more aggressive. Based on the histological features and clinical presentation, the most likely diagnosis is chromophobe renal cell carcinoma (RCC).",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 147,
+"q": "Identify the diagnosis from the given image? NODIA 100===",
+"o": [
+"TB",
+"Malakoplakia",
+"BCC",
+"Drug induced lesion"
+],
+"a": 1,
+"ex": "Malakoplakia The histological image is pathognomonic for malakoplakia. This is a rare, chronic inflammatory condition that most commonly affects the urinary tract but can occur in other organs. The key diagnostic feature is the presence of large, eosinophilic histiocytes (macrophages) called von Hansemann cells. Within the cytoplasm of these cells are characteristic laminated, calcified, intracytoplasmic inclusions known as Michaelis-Gutmann bodies. These bodies are thought to represent phagolysosomes containing incompletely digested bacteria (often E. coli) due to a defect in macrophage function. The arrow in the image likely points to one of these targetoid, basophilic Michaelis-Gutmann bodies within a larger macrophage. The condition presents as soft, yellowish plaques or nodules. Tuberculosis (Option A) would show caseating granulomas. Basal cell carcinoma (BCC, Option C) is a skin malignancy with different histology.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 148,
+"q": "An adult male presents with a protuberant abdomen, chronic diarrhea, visual disturbances, and neurological symptoms. Laboratory investigations reveal low LDL cholesterol levels, and a peripheral blood smear image is provided. Based on the clinical features and the smear findings shown, what is the most likely diagnosis?",
+"o": [
+"Abetalipoproteinemia",
+"EDTA changes",
+"Uremia",
+"Burns"
+],
+"a": 0,
+"ex": "Abetalipoproteinemia The key finding in the peripheral smear is the presence of acanthocytes, which are red blood cells with irregular, spiky projections of varying length and width. This finding, combined with the clinical picture of fat malabsorption (diarrhea, protruding abdomen), neurological problems (ataxia, peripheral neuropathy), and visual symptoms (retinitis pigmentosa), along with very low or absent LDL, is diagnostic of Abetalipoproteinemia (also known as Bassen-Kornzweig syndrome). This is a rare autosomal recessive disorder caused by a mutation in the MTTP gene, which is essential for assembling and secreting apolipoprotein B-containing lipoproteins (chylomicrons, VLDL, and LDL) from enterocytes and hepatocytes. The inability to absorb and transport fats leads to steatorrhea and severe deficiency of fat-soluble vitamins (A, D, E, K), which causes the neurological and visual symptoms. The acanthocytosis results from abnormal lipid composition of the red cell membrane.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 149,
+"q": "A patient presents with respiratory distress and is diagnosed with panacinar emphysema. Deficiency of which substance is most likely responsible for this condition?",
+"o": [
+"Alpha-1 antitrypsin",
+"Surfactant",
+"Albumin",
+"Type II pneumocytes"
+],
+"a": 0,
+"ex": "Alpha-1 antitrypsin Emphysema is characterized by the permanent enlargement of airspaces distal to the terminal bronchioles, accompanied by the destruction of their walls. Panacinar (or panlobular) emphysema, which affects the entire acinus uniformly and is most severe in the lower lobes of the lungs, is the classic form associated with alpha-1 antitrypsin (AAT) deficiency. AAT is a protease inhibitor produced by the liver that circulates in the blood. Its primary function in the lung is to protect the elastic tissue of the alveolar walls from destruction by proteases, particularly neutrophil elastase, which is released by neutrophils during inflammation. In AAT deficiency, this protective shield is absent, leading to unchecked elastase activity and progressive destruction of the lung parenchyma. Centriacinar emphysema, in contrast, is typically associated with smoking. Surfactant (Option B) deficiency causes neonatal respiratory distress syndrome.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 150,
+"q": "Which of the following statements accurately describes paroxysmal nocturnal hemoglobinuria (PNH)?",
+"o": [
+"Flow cytometry is the best investigation",
+"Sucrose lysis test is used for the confirmation",
+"The most common cause of death is heart failure",
+"It is an inherited disorder"
+],
+"a": 0,
+"ex": "Flow cytometry is the best investigation Paroxysmal Nocturnal Hemoglobinuria (PNH) is a rare, acquired (not inherited, so D is incorrect) clonal hematopoietic stem cell disorder. It is caused by a somatic mutation in the PIGA gene, which leads to the absence of glycosylphosphatidylinositol (GPI)-anchored proteins on the surface of blood cells. These missing proteins include CD55 and CD59, which protect cells from complement-mediated destruction. The gold standard and best investigation for diagnosing PNH is flow cytometry. This test can precisely detect and quantify the population of blood cells (red cells, neutrophils, and monocytes) that are deficient in GPI-anchored proteins like CD55 and CD59 on their surface. The sucrose lysis test (Option B) is an older, less specific screening test. The most common cause of death in PNH is thrombosis (venous or arterial), not heart failure (Option C).",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 151,
+"q": "Based on the dermatology immunofluorescence (IF) image shown, what is the most likely diagnosis?",
+"o": [
+"Pemphigus vulgaris",
+"Pemphigus foliaceus",
+"Bullous pemphigoid",
+"Dermatitis herpetiformis"
+],
+"a": 0,
+"ex": "Pemphigus vulgaris The image shows a direct immunofluorescence (IF) pattern characteristic of pemphigus vulgaris. In this condition, immunofluorescence demonstrates intercellular deposition of IgG antibodies within the epidermis, producing a net-like or “fish-net/chicken-wire” pattern between keratinocytes. Pemphigus vulgaris is an autoimmune blistering disorder caused by autoantibodies against desmoglein-3 (and sometimes desmoglein-1), which are components of desmosomes that help maintain adhesion between epidermal cells. When these antibodies disrupt cell adhesion, acantholysis occurs, leading to intraepidermal blister formation. Clinically, patients present with flaccid bullae and painful erosions, often involving the skin and mucous membranes, especially the oral cavity. A characteristic clinical sign is the Nikolsky sign, where gentle pressure causes the epidermis to separate. The other options show different immunofluorescence patterns:",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 152,
+"q": "An elderly man presents with clinical features suggestive of multiple myeloma. Serum protein electrophoresis demonstrates an M spike, and the immunofixation pattern is shown in the image below. Which of the following statements best explains or corresponds to these findings?",
+"o": [
+"Multiple myeloma with increased IgM",
+"Multiple myeloma with increased IgG Downloaded from www.pdf.tube 101=== EXAMINATION PAPER 2024",
+"Multiple myeloma with increased IgA",
+"Waldenström macroglobulinemia"
+],
+"a": 1,
+"ex": "Multiple myeloma with increased IgG The patient's presentation and the M spike on electrophoresis are suggestive of a plasma cell dyscrasia. The immunofixation electrophoresis (IFE) is the confirmatory test used to identify the specific type of monoclonal immunoglobulin (M-protein) being produced. In the provided IFE gel, a distinct, dense band is seen in two specific lanes : the lane corresponding to the IgG heavy chain and the lane corresponding to the kappa (κ) light chain. This result indicates that the malignant plasma cells are producing a monoclonal protein composed of an IgG heavy chain and a kappa light chain. Therefore, the diagnosis is IgG kappa Multiple Myeloma. This is the most common type of multiple myeloma. Waldenström macroglobulinemia (Option D) is characterized by an IgM monoclonal protein (Option A). An IgA M-protein (Option C) would show a band in the IgA lane.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 153,
+"q": "A patient presents with pulmonary hemorrhage and tests positive for p-ANCA, with involvement of medium-sized blood vessels. What is the most likely diagnosis?",
+"o": [
+"Churg-Strauss syndrome",
+"Microscopic polyangiitis",
+"Wegener granulomatosis",
+"Polyarteritis nodosa (PAN)"
+],
+"a": 1,
+"ex": "Microscopic polyangiitis This question describes a case of ANCA-associated vasculitis. Microscopic polyangiitis (MPA) is a necrotizing vasculitis that primarily affects small vessels (capillaries, venules, arterioles), though medium-sized vessels can be involved. Its classic presentation involves necrotizing glomerulonephritis and pulmonary capillaritis, which manifests as pulmonary hemorrhage. A key laboratory finding in MPA is the presence of perinuclear anti-neutrophil cytoplasmic antibodies (P-ANCA), which are typically directed against the antigen myeloperoxidase (MPO-ANCA). Churg-Strauss syndrome (EGPA, Option A) also is often P-ANCA positive but is distinguished by a history of asthma and prominent eosinophilia. Wegener's granulomatosis (GPA, Option C) is characterized by granulomatous inflammation of the respiratory tract and is strongly associated with C-ANCA (PR3-ANCA). Polyarteritis nodosa (PAN, Option D) affects medium-sized vessels but is ANCA-negative and typically spares the lungs.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 154,
+"q": "Which of the following findings is most commonly seen on laboratory investigations in a patient with iron deficiency anemia (IDA)?",
+"o": [
+"Increased serum ferritin",
+"Decreased transferrin saturation",
+"Increased serum iron",
+"Normal total iron-binding capacity (TIBC)"
+],
+"a": 1,
+"ex": "Decreased transferrin saturation Iron deficiency anemia (IDA) is characterized by the depletion of the body's iron stores. This leads to a distinct pattern on iron studies. Serum ferritin is a measure of stored iron, so in IDA, it is the first marker to fall and will be decreased, not increased (Option A is incorrect). Total iron-binding capacity (TIBC) is an indirect measure of transferrin, the protein that transports iron. The liver increases transferrin production in an attempt to capture more iron, so TIBC is increased, not normal (Option D is incorrect). Serum iron measures the amount of iron circulating in the blood, which will be low in IDA (Option C is incorrect). Transferrin saturation is the ratio of serum iron to TIBC (Serum Iron / TIBC × 100%). Since serum iron is low and TIBC is high, the resulting saturation percentage is significantly decreased, typically to less than 15%. This is a hallmark of IDA.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 155,
+"q": "An adult woman presents with pallor and fatigue, and laboratory investigations reveal low hemoglobin, reduced serum iron, low ferritin levels, decreased transferrin saturation, and increased total iron-binding capacity. What is the most likely diagnosis?",
+"o": [
+"Iron Deficiency Anemia (IDA)",
+"Anemia of Chronic Disease",
+"Hemolytic Anemia",
+"Thalassemia"
+],
+"a": 0,
+"ex": "Iron Deficiency Anemia (IDA) The pattern of laboratory results provided is the classic and definitive profile for Iron Deficiency Anemia (IDA). The low hemoglobin confirms anemia. The low serum ferritin indicates that the body's iron stores are depleted. The low serum iron shows there is insufficient iron in circulation. The increased Total Iron-Binding Capacity (TIBC) reflects the liver's compensatory response of producing more transferrin protein to try and bind more iron from the diet. Finally, the low transferrin saturation (the percentage of transferrin that is actually carrying iron) is a direct consequence of low iron and high TIBC. In contrast, Anemia of Chronic Disease (Option B) typically presents with low serum iron but normal or increased ferritin (as it's an acute phase reactant) and a low TIBC. Hemolytic anemia (Option C) involves red cell destruction, and thalassemia (Option D) is a disorder of globin chain synthesis; neither shows this iron study pattern.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 156,
+"q": "Which of the following findings or complications is not typically associated with resection of the ileum?",
+"o": [
+"Microcytic hypochromic anemia",
+"Nuclear cytological asynchrony",
+"Neurological manifestation",
+"Reverse dementia"
+],
+"a": 0,
+"ex": "Microcytic hypochromic anemia The terminal ileum is the primary site for absorption of vitamin B₁₂ (cobalamin) and bile salts. When the ileum is resected, absorption of vitamin B₁₂ is impaired, which can lead to vitamin B₁₂ deficiency. Vitamin B₁₂ deficiency results in megaloblastic anemia, characterized by macrocytic red blood cells and impaired DNA synthesis. One important microscopic feature of this condition is nuclear–cytoplasmic asynchrony, where the nucleus matures more slowly than the cytoplasm in developing blood cells. Therefore, nuclear cytological asynchrony is associated with ileal resection. Vitamin B₁₂ deficiency can also cause neurological manifestations, such as peripheral neuropathy, paresthesia, ataxia, and degeneration of the spinal cord (subacute combined degeneration). In severe cases, it may lead to cognitive impairment or reversible dementia, which can improve after vitamin B₁₂ supplementation. In contrast, microcytic hypochromic anemia is usually caused by iron deficiency. Iron is primarily absorbed in the duodenum and proximal jejunum, not the ileum. Therefore, ileal resection does not typically lead to iron deficiency anemia. Hence, the finding not associated with ileal resection is microcytic hypochromic anemia, making Option (A) correct.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 157,
+"q": "A child presents with recurrent infections, and imaging of the mediastinum shows absence of the thymus. Further laboratory evaluation reveals low levels of adenosine deaminase (ADA). What is the most likely diagnosis?",
+"o": [
+"Severe Combined Immunodeficiency (SCID)",
+"DiGeorge syndrome",
+"X-linked agammaglobulinemia",
+"Hyper-IgM syndrome"
+],
+"a": 0,
+"ex": "Severe Combined Immunodeficiency (SCID) The combination of an absent thymus (or thymic shadow on X-ray) and recurrent severe infections points towards a profound T-cell immunodeficiency. While an absent thymus is the hallmark of DiGeorge syndrome (Option B), the laboratory finding of low adenosine deaminase (ADA) levels is specific for a particular autosomal recessive form of Severe Combined Immunodeficiency (SCID). ADA deficiency accounts for about 15% of SCID cases. The ADA enzyme is crucial for purine metabolism. Its absence leads to the accumulation of toxic metabolites (deoxyadenosine and dATP), which are particularly toxic to developing lymphocytes. This results in a severe impairment of both T-cell and B-cell function, leading to the combined immunodeficiency. Although both conditions can have an absent thymus on imaging, the specific enzyme deficiency (low ADA) definitively points to SCID as the diagnosis.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 158,
+"q": "Which of the following pathological markers or abnormal protein deposits is characteristically found in Alzheimer’s disease?",
+"o": [
+"Tau protein",
+"Aβ 40/42 (Amyloid-beta 40/42)",
+"Alpha-synuclein",
+"TDP-43"
+],
+"a": 1,
+"ex": "Aβ 40/42 (Amyloid-beta 40/42) Alzheimer’s disease (AD) is a neurodegenerative disorder characterized by two key pathological hallmarks :",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 159,
+"q": "A patient presents with episodic headaches, palpitations, and hypertension, and urinary vanillylmandelic acid (VMA) testing is positive. A biopsy image is provided. Based on the clinical features and histopathological findings, which of the following statements is correct?",
+"o": [
+"Mostly malignant",
+"Mostly in children",
+"Mostly bilateral",
+"Associated with MEN 2A"
+],
+"a": 3,
+"ex": "Associated with MEN 2A The clinical triad of episodic headaches, palpitations, and sweating, along with hypertension and elevated urinary vanillylmandelic acid (VMA), is classic for a pheochromocytoma, a catecholamine-secreting tumor of the adrenal medulla. The histology shows the characteristic Zellballen pattern (nests of chief cells). While most pheochromocytomas are sporadic, a significant portion (around 25-30%) are hereditary. They are a key feature of Multiple Endocrine Neoplasia type 2A (MEN 2A) and 2B. MEN 2A is an autosomal dominant syndrome (caused by RET proto-oncogene mutations) characterized by medullary thyroid carcinoma, pheochromocytoma, and primary hyperparathyroidism. Regarding the other options : approximately 10% are malignant (A is incorrect), they can occur in children but are more common in adults (B is incorrect), and about 10% are bilateral (more common in hereditary cases) (C is incorrect). The association with MEN 2A is a well-established and important clinical fact.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 160,
+"q": "An adult tall male presents with an increased arm span, pectus excavatum, and associated cardiac abnormalities. Deficiency or defect of which protein is most likely responsible for these features?",
+"o": [
+"Fibrillin",
+"Elastin",
+"Collagen",
+"Myosin"
+],
+"a": 0,
+"ex": "Fibrillin This clinical presentation is classic for Marfan syndrome. It is an autosomal dominant connective tissue disorder characterized by skeletal abnormalities (tall stature, long limbs and fingers - arachnodactyly, pectus excavatum or carinatum, scoliosis), ocular problems (ectopia lentis - lens dislocation), and cardiovascular manifestations (aortic root aneurysm and dissection, mitral valve prolapse). Marfan syndrome is caused by a mutation in the FBN1 gene, which codes for the protein fibrillin-1. Fibrillin-1 is a major component of extracellular microfibrils, which provide structural support to connective tissues throughout the body, particularly in the aorta, ligaments, and the ciliary zonules of the eye. Defective fibrillin-1 leads to weakened connective tissue, explaining the multisystemic features of the disease. Elastin (Option B) mutations cause other conditions like cutis laxa.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 161,
+"q": "A 32-year-old woman presents with a gradually progressive, painless swelling on the left side of her neck that has been present for the past two months. She also complains of low- grade fever, night sweats, and unintentional NODIA 102=== weight loss during this period. On physical examination, there is a firm, non-tender, and immobile mass in the left cervical region, along with multiple smaller lymph nodes palpable in the supraclavicular area. A chest X-ray reveals widening of the mediastinum. Lymph node biopsy demonstrates the presence of Reed– Sternberg cells, confirming the diagnosis. Based on these clinical, radiological, and histopathological findings, what is the most appropriate management for this patient?",
+"o": [
+"NHL with a highly aggressive chemotherapy regimen",
+"Hodgkin Lymphoma with the ABVD regimen",
+"NHL with Rituximab",
+"Hodgkin Lymphoma with surgical excision only"
+],
+"a": 1,
+"ex": "Hodgkin Lymphoma with the ABVD regimen The patient's presentation with painless lymphadenopathy, constitutional B symptoms (fever, night sweats, weight loss), and the definitive histological finding of Reed-Sternberg cells is diagnostic of Classical Hodgkin Lymphoma. Surgical excision alone (Option D) is not curative as the disease is often systemic. Hodgkin lymphoma is highly sensitive to chemotherapy and radiation. The standard, first-line chemotherapy regimen for most patients with classical Hodgkin lymphoma is ABVD, which consists of Adriamycin (doxorubicin), Bleomycin, Vinblastine, and Dacarbazine. This regimen has high cure rates and has been the gold standard for decades. The other options pertain to Non-Hodgkin Lymphoma (NHL), which is a different disease entity and is treated with different regimens, often including the monoclonal antibody Rituximab (Option C) for B-cell lymphomas.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 173,
+"q": "Identify the visual field defect shown in the image.",
+"o": [
+"Central scotoma",
+"Roennes Nasal step",
+"Blind spot enlargement",
+"Arcuate scotoma"
+],
+"a": 2,
+"ex": "Blind spot enlargement The image shows a visual field test (perimetry chart) with a darkened area located temporally in each eye, corresponding to the location of the physiological blind spot. The abnormal finding here is that this area is larger than normal, indicating enlargement of the blind spot. The blind spot represents the point where the optic nerve exits the retina, known as the optic disc. Since this area lacks photoreceptors, it normally appears as a small scotoma in the temporal visual field of each eye. Blind spot enlargement commonly occurs in conditions that cause swelling of the optic disc, such as papilledema due to raised intracranial pressure. When the optic disc becomes swollen, the area without photoreceptors expands, leading to a larger blind spot on visual field testing. The other options show different patterns:",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 174,
+"q": "A patient presents with a gradual decline in night vision along with progressive loss of peripheral vision. Based on the fundoscopic image shown, what is the most likely diagnosis?",
+"o": [
+"Retinitis pigmentosa",
+"Retinal hemorrhage",
+"Fundus albipunctatus",
+"Fundus flavimaculatus Downloaded from www.pdf.tube 106=== EXAMINATION PAPER 2024"
+],
+"a": 0,
+"ex": "Retinitis pigmentosa The combination of symptoms (nyctalopia - night blindness, and progressive peripheral visual field loss - tunnel vision) and the fundoscopic findings are classic for Retinitis Pigmentosa (RP). RP is a group of inherited retinal dystrophies characterized by the progressive loss of photoreceptor cells (primarily rods, then cones). The fundus image shows the characteristic triad of findings for advanced RP : 1) attenuation (narrowing) of the retinal arterioles, 2) waxy pallor of the optic disc, and 3) distinctive mid-peripheral retinal pigmentation in a bone-spicule pattern. This pigmentation occurs as a result of pigment migration from the degenerating retinal pigment epithelium. Fundus albipunctatus (Option C) and fundus flavimaculatus (Option D) are other retinal dystrophies but have different fundus appearances (white dots and yellow flecks, respectively).",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 175,
+"q": "Ptosis seen in Horner syndrome results from involvement or paralysis of which muscle?",
+"o": [
+"Müller muscle",
+"Levator aponeurosis",
+"Horner's muscle",
+"Orbicularis oculi"
+],
+"a": 0,
+"ex": "Müller muscle Horner syndrome is caused by a disruption of the sympathetic nerve supply to the eye and face. One of the classic signs is a mild ptosis (drooping of the upper eyelid), typically 1-2 mm. This ptosis is not caused by paralysis of the main eyelid elevator, the levator palpebrae superioris (which is innervated by the oculomotor nerve, CN III). Instead, it is due to paralysis of the Müller's muscle, also known as the superior tarsal muscle. This is a small smooth muscle located in the upper eyelid that is innervated by sympathetic fibers. It provides a small amount of tonic elevation to the eyelid. Loss of this sympathetic innervation results in the characteristic mild ptosis. Horner's muscle (Option C) is part of the lacrimal drainage system. The orbicularis oculi (Option D) closes the eye and is innervated by the facial nerve.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 176,
+"q": "If a patient is able to see only three green dots on the Worth four-dot test, what is the most likely diagnosis?",
+"o": [
+"Right eye suppression",
+"Left eye suppression",
+"Crossed diplopia",
+"Uncrossed diplopia"
+],
+"a": 0,
+"ex": "Right eye suppression The Worth 4 Dot test is a key tool for evaluating binocular vision, determining how the eyes work together. It uses color filters to present a different image to each eye. The patient wears glasses with a red filter over the right eye and a green filter over the left eye. They look at a target with one red, two green, and one white light. The interpretation is based on what each eye can see :",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 177,
+"q": "A patient presents to the outpatient department with the clinical finding shown in the image. Based on this observation, what is the most likely diagnosis?",
+"o": [
+"Limbal dermoid",
+"Pyogenic granuloma",
+"Papilloma",
+"Pinguecula"
+],
+"a": 0,
+"ex": "Limbal dermoid The image shows a yellowish, dome-shaped mass located at the limbus (junction of the cornea and sclera). The lesion appears solid, elevated, and contains hair, which is a classic feature of a limbal dermoid. A limbal dermoid is a benign congenital choristoma composed of normal tissues (such as skin, hair follicles, sebaceous glands, and connective tissue) present in an abnormal location on the ocular surface. It usually appears as a whitish-yellow or yellow-brown mass at the inferotemporal limbus and may have hair growing from its surface, which is clearly visible in the image. These lesions are often present since birth and may be associated with Goldenhar syndrome (oculo-auriculo-vertebral spectrum). Depending on size and location, they can cause astigmatism or visual impairment. The other options do not match the appearance:",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 178,
+"q": "A patient who underwent surgery three years ago now presents with the condition shown in the image and complains of decreased vision. What is the most likely diagnosis?",
+"o": [
+"Pseudophakic Bullous Keratopathy",
+"Posterior Capsular Opacification",
+"Corneal Dystrophy",
+"Posterior Subcapsular Cataract (PSC)"
+],
+"a": 1,
+"ex": "Posterior Capsular Opacification The most common cause of a gradual, painless decrease in vision months to years after successful cataract surgery is Posterior Capsular Opacification (PCO), sometimes called a secondary cataract. During modern cataract surgery, the cloudy natural lens is removed, but the thin, clear posterior membrane of the lens capsule is left intact to support the new intraocular lens (IOL). Over time, residual lens epithelial cells on the capsule can proliferate and migrate across the posterior capsule, causing it to become hazy, wrinkled, and opacified, as seen in the image. This blocks light from reaching the retina, causing blurred vision and glare. PCO is easily and effectively treated with a non-invasive laser procedure called a YAG laser capsulotomy, which creates a clear opening in the center of the cloudy capsule.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 179,
+"q": "Which of the following statements is incorrect with respect to the condition depicted in the image?",
+"o": [
+"NOSPECS score is used to classify",
+"The management corresponds to improvement in thyrotoxic state",
+"Seen in More than 10% of patients with hyperthyroidism",
+"Can lead to visual loss"
+],
+"a": 1,
+"ex": "The management corresponds to improvement in thyrotoxic state The image shows features of Thyroid Eye Disease (TED), also known as Graves' ophthalmopathy, an autoimmune condition associated with Graves' disease. The statement that is false is that the management (and course of the eye disease) corresponds to the improvement in the thyrotoxic state. While TED and Graves' hyperthyroidism are caused by the same autoimmune process (antibodies against the TSH receptor), they are considered to be two distinct entities with independent clinical courses. Treating the hyperthyroidism and achieving a euthyroid state does not guarantee improvement or prevent the progression of the eye disease. The ophthalmopathy can worsen even when the patient is euthyroid or hypothyroid after treatment. All other statements are true : the NOSPECS classification is used for severity (A), it is a common manifestation of Graves' disease (C), and it can cause sight-threatening optic neuropathy or corneal exposure, leading to visual loss (D).",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 180,
+"q": "Identify the visual field defect shown in the image. NODIA 107===",
+"o": [
+"Binasal hemianopia",
+"Bitemporal hemianopia",
+"Homonymous hemianopia",
+"Altitudinal defect"
+],
+"a": 2,
+"ex": "Homonymous hemianopia The visual field charts show loss of the same half of the visual field in both eyes. In the images, the right half of the visual field is absent in both the left and right eyes, which is characteristic of homonymous hemianopia. Homonymous hemianopia occurs due to lesions posterior to the optic chiasm, such as in the optic tract, lateral geniculate body, optic radiation, or occipital cortex. Because the fibers have already crossed at the optic chiasm, damage in these regions affects the same side of the visual field in both eyes. Typical causes include:",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 181,
+"q": "Based on the image provided, what is the most likely diagnosis? Identify the condition shown.",
+"o": [
+"Horner-Trantas spots",
+"Herbert's pits",
+"Pannus",
+"Corneal dystrophy"
+],
+"a": 1,
+"ex": "Herbert's pits The image shows multiple small, round, dark depressions arranged along the superior limbus of the cornea. These lesions are characteristic of Herbert’s pits, which are considered a pathognomonic sign of healed trachoma. Herbert’s pits form due to healing of limbal follicles that occur during the active stage of trachoma, an infectious eye disease caused by Chlamydia trachomatis. When these follicles resolve, they leave behind small crater-like depressions at the limbus, known as Herbert’s pits. Trachoma is a chronic conjunctival infection and an important cause of preventable blindness worldwide, particularly in regions with poor sanitation. Other associated findings in trachoma include pannus formation, conjunctival scarring, trichiasis, and corneal opacity. The other options show different features:",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 182,
+"q": "A 2-month-old infant presents with the condition depicted in the image. What is the most appropriate or ideal management protocol for this condition?",
+"o": [
+"Operate immediately",
+"Surgery after 6 months of age",
+"Surgery after 2 years of age",
+"Medical management"
+],
+"a": 2,
+"ex": "Surgery after 2 years of age The image shows a 2-month-old infant with inward deviation of the eyes, consistent with congenital (infantile) esotropia, a form of strabismus that usually presents within the first 6 months of life. Congenital esotropia is characterized by:",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 183,
+"q": "A child presents with leukocoria and is found to have an intraocular mass. Microscopic examination reveals rosette formations with scanty cytoplasm, and immunohistochemistry shows positivity for synaptophysin. What is the most likely diagnosis?",
+"o": [
+"Retinoblastoma",
+"Medulloblastoma",
+"Neuroblastoma",
+"Ependymoma"
+],
+"a": 0,
+"ex": "Retinoblastoma Leukocoria (a white pupillary reflex) in a child is a red flag sign for retinoblastoma, the most common intraocular malignancy of childhood. The diagnosis is confirmed by histological examination of the enucleated eye. The classic microscopic features of retinoblastoma include sheets of small, round, blue cells with hyperchromatic nuclei and scant cytoplasm. A characteristic feature is the formation of rosettes, particularly Flexner-Wintersteiner rosettes (cells arranged around a central empty lumen) and Homer Wright rosettes (cells arranged around a fibrillary center). The tumor cells are of neuronal origin, so they typically stain positive for neuronal markers like neuron-specific enolase (NSE) and synaptophysin. Medulloblastoma (Option B), neuroblastoma (Option C), and ependymoma (Option D) are other pediatric tumors that can form rosettes, but their location and clinical presentation (intraocular mass causing leukocoria) are definitive for retinoblastoma.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 184,
+"q": "A patient develops eye pain and difficulty in vision after watching a movie. What should be the first-line management for this condition?",
+"o": [
+"Mannitol with Moxifloxacin",
+"Mannitol with Pilocarpine",
+"Mannitol with Atropine",
+"Mannitol with lubricating eye drops"
+],
+"a": 1,
+"ex": "Mannitol with Pilocarpine The patient's symptoms of acute eye pain and blurred vision, precipitated by being in a dark environment (a movie theater, which causes pupillary dilation), are classic for an attack of acute angle-closure glaucoma (AACG). This is an ophthalmic emergency caused by a sudden increase in intraocular pressure (IOP). The immediate goal of management is to lower the IOP rapidly and to break the pupillary block. This is achieved with a combination of medications. An intravenous osmotic agent like Mannitol is given to quickly dehydrate the vitreous and lower IOP systemically. Concurrently, a topical miotic agent like Pilocarpine is administered. Pilocarpine constricts the pupil, which helps to pull the peripheral iris away from the trabecular meshwork, thereby opening the drainage angle and relieving the pupillary block. Atropine (Option C) is a mydriatic and would worsen the condition. Moxifloxacin (Option A) is an antibiotic.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 185,
+"q": "A patient presents with sudden, painful loss of vision accompanied by photophobia, circumcorneal congestion, and the presence of hypopyon. What is the most likely diagnosis?",
+"o": [
+"Acute conjunctivitis",
+"Episcleritis",
+"Acute congestive glaucoma",
+"Acute anterior uveitis"
+],
+"a": 3,
+"ex": "Acute anterior uveitis This constellation of symptoms—acute onset of pain, photophobia, blurred vision, circumcorneal congestion (ciliary flush - a reddish ring around the cornea), and hypopyon (a layer of white blood cells in the anterior chamber)—is the classic presentation of acute anterior uveitis (also called iridocyclitis). The inflammation of the iris and ciliary body leads to a breakdown of the blood-aqueous barrier, causing cells and flare (protein) to leak into the anterior chamber. In severe cases, these inflammatory cells can settle inferiorly, forming a visible hypopyon. Acute congestive glaucoma (Option C) presents with severe pain and blurred vision but is associated with a mid-dilated pupil and corneal edema, not typically a hypopyon. Acute conjunctivitis (Option A) causes discharge and generalized redness but not typically severe pain, photophobia, or vision loss. Episcleritis (Option B) causes sectoral redness and mild discomfort. Click Here to Buy book on Amazon 108=== EXAMINATION PAPER 2024",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 186,
+"q": "A patient presents with a nodular swelling near the limbus that temporarily blanches with treatment but tends to recur. Based on the clinical features and the image shown, what is the most likely diagnosis?",
+"o": [
+"Scleritis with rheumatoid arthritis",
+"Episcleritis with rheumatoid arthritis",
+"Pinguecula",
+"Dry eye"
+],
+"a": 1,
+"ex": "Episcleritis with rheumatoid arthritis The image shows a localized, nodular, inflamed lesion on the surface of the eye. A key differentiating feature between episcleritis and the more serious scleritis is the response to topical phenylephrine. In episcleritis, the inflammation is in the superficial episcleral vessels, which will blanch (constrict and turn white) with the application of a topical vasoconstrictor. In scleritis, the deep scleral vessels are inflamed and do not blanch. The description of blanching points towards episcleritis. Episcleritis is often idiopathic but can be associated with systemic autoimmune diseases, the most common of which is rheumatoid arthritis. The recurrent nature of the lesion is also typical for episcleritis. Scleritis (Option A) would not blanch and typically causes much more severe, boring pain. A pinguecula (Option C) is a degenerative lesion, not an inflammatory nodule.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 187,
+"q": "A newborn presents with hydrocephalus, intracranial calcifications, and chorioretinitis. What is the most likely diagnosis based on these findings?",
+"o": [
+"Toxoplasmosis",
+"Syphilis",
+"Cytomegalovirus (CMV) infection",
+"Rubella"
+],
+"a": 0,
+"ex": "Toxoplasmosis The triad of hydrocephalus, diffuse intracranial calcifications, and chorioretinitis in a neonate is the classic presentation of congenital toxoplasmosis. This is the Sabin triad, and while not all infected infants show all three signs, their combination is highly suggestive. The infection is caused by the protozoan Toxoplasma gondii, which is transmitted transplacentally from a mother who acquires a primary infection during pregnancy. In contrast, congenital Cytomegalovirus (CMV) infection (Option C) is the most common congenital infection and can also cause chorioretinitis and hydrocephalus, but the intracranial calcifications are typically periventricular rather than diffuse. Congenital rubella (Option D) is associated with cataracts, deafness, and heart defects. Congenital syphilis (Option B) has a different constellation of symptoms, including rash, snuffles, and skeletal abnormalities.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2024,
+"n": 188,
+"q": "A patient diagnosed with homocystinuria presents with ectopia lentis (lens dislocation). Supplementation of which vitamin is indicated in this condition?",
+"o": [
+"Vitamin B12",
+"Vitamin B6",
+"Thiamine",
+"Vitamin B9 (Folate)"
+],
+"a": 1,
+"ex": "Vitamin B6 Homocystinuria is an inherited disorder of metabolism that leads to high levels of homocysteine. The most common form is caused by a deficiency of the enzyme cystathionine β-synthase (CBS). One of the classic clinical features is ectopia lentis, or dislocation of the ocular lens, which typically displaces inferiorly and nasally. The CBS enzyme requires pyridoxal phosphate (PLP), the active form of Vitamin B6, as a cofactor. In a significant number of patients with this form of homocystinuria, the genetic defect results in an enzyme that has reduced affinity for its cofactor but is still partially functional. In these B6-responsive patients, treatment with high pharmacological doses of Vitamin B6 (pyridoxine) can enhance the residual enzyme activity, lower homocysteine levels, and potentially slow the progression of complications like ectopia lentis and thromboembolism.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 84,
+"q": "An infant presented with difficulty opening the eyes, a cloudy cornea, and excessive watering from the eyes since birth. Based on the clinical picture shown, what is the most probable diagnosis?",
+"o": [
+"Congenital glaucoma",
+"Mucopolysaccharoidosis",
+"Congenital cataract",
+"Opthalmia neonatarum"
+],
+"a": 0,
+"ex": "Congenital glaucoma The image and clinical description point strongly to congenital glaucoma. This condition results from abnormal development of the eyes aqueous humor drainage system, leading to elevated intraocular pressure (IOP). In an infant, whose sclera is still elastic, this high pressure causes the eyeball to stretch and enlarge, a condition called buphthalmos (ox eye), as seen in the picture. The elevated IOP also causes edema in the cornea, leading to the cloudy cornea. The classic triad of symptoms for congenital glaucoma is epiphora (excessive watering), photophobia (light sensitivity, leading to difficulty opening the eye), and blepharospasm. Congenital cataract involves opacification of the lens, not the cornea. Ophthalmia neonatorum is conjunctivitis with discharge.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 85,
+"q": "A 65-year-old man presented with colored halos and a gradual decrease in vision. He has a long- standing history of diabetes mellitus. Based on the slit-lamp examination findings shown, what is the diagnosis and the appropriate management for this patient?",
+"o": [
+"Sunflower cataract/ snow flake cataract- control sugar levels",
+"Zonular cataract- lens extraction",
+"Immature senile cataract- Phacoemulsification & IMSC",
+"Rossette cataract- ECCE"
+],
+"a": 2,
+"ex": "Immature senile cataract- Phacoemulsification & IMSC The slit lamp image shows a uniformly opacified lens, consistent with a cataract. The patient is 65 years old, making an age-related senile cataract the most common type. The symptoms of gradual vision decrease and colored halos (due to diffraction of light by water clefts in the lens) are classic for cataracts. While diabetes can cause specific types of cataracts (like snowflake cataracts), senile cataracts are still the most prevalent in this age group, even with diabetes. The image shows a significant but not completely opaque (mature) cataract, so it could be classified as an immature senile cataract. The definitive and standard modern management for a visually significant cataract is surgical removal. Phacoemulsification with implantation of an intraocular lens (IOL) is the current gold standard procedure. IMSC is incorrect as it is an outdated method.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 86,
+"q": "Which is the best diagnostic modality for this corneal condition",
+"o": [
+"Rose bengal dye",
+"Lissamine green stain",
+"Fluorescein dye with cobalt blue light",
+"Fluorescein dye with green filter"
+],
+"a": 2,
+"ex": "Fluorescein dye with cobalt blue light The image shows a classic dendritic ulcer of the cornea, which is pathognomonic for Herpes Simplex Virus (HSV) keratitis. This ulcer has a characteristic branching, tree-like pattern. The best way to visualize and diagnose such corneal epithelial defects is by using fluorescein dye staining followed by examination with a cobalt blue light. Fluorescein is a yellow dye that stains areas where the corneal epithelium is absent (the stroma), but it does not stain intact epithelial cells. When viewed under the cobalt blue filter of a slit lamp, the stained ulcerated area fluoresces a brilliant green, making the dendritic pattern clearly visible. While Rose Bengal and Lissamine Green dyes can also be used to stain devitalized cells, fluorescein with a cobalt blue light is the standard and most effective method for identifying epithelial defects like this one.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 87,
+"q": "A 65-year-old patient presented with binasal visual field loss. Imaging revealed a space- occupying lesion in the brain, for which the patient is receiving treatment. What is the most probable location of this lesion?",
+"o": [
+"Chiasma",
+"Rt. Optic tract",
+"Lt. Optic tract",
+"Lt. Visual cortex"
+],
+"a": 0,
+"ex": "Chiasma The visual pathway has a precise organization. The optic chiasm is where the nerve fibers from the nasal (medial) half of each retina cross to the opposite side, while the temporal (lateral) fibers remain uncrossed. The nasal retinal fibers are responsible for vision in the temporal visual fields. A lesion that compresses the optic chiasm from the center (like a pituitary adenoma) will damage these crossing nasal fibers from both eyes. This results in the loss of vision in both temporal fields, a defect known as bitemporal hemianopia. The question describes binasal vision loss, which is the loss of vision in the fields closest to the nose. This rare defect is caused by bilateral lesions compressing the lateral, uncrossed fibers of the optic chiasm, for example, from bilateral internal carotid artery aneurysms. However, chiasmal lesions are the only single location that can produce bilateral field defects like this. The options likely contain an error, intending to say bitemporal, which points directly to the chiasm.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 21,
+"q": "A 5-year-old child presents with a history of fever and is diagnosed with ventricular tachycardia and cardiac dysfunction. Histopathology of the heart is shown below. What is the most likely diagnosis?",
+"o": [
+"Chagas disease",
+"Rheumatic heart disease",
+"Lymphocytic myocarditis",
+"Pericarditis"
+],
+"a": 2,
+"ex": "Lymphocytic myocarditis The histopathology image (HPE) of the heart muscle reveals a dense inflammatory infiltrate composed mainly of lymphocytes, with associated damage and necrosis of adjacent cardiac muscle cells (myocytes). This finding, combined with the clinical presentation in a child—acute onset of fever, cardiac arrhythmia (ventricular tachycardia), and myocardial dysfunction—is the classic picture of acute lymphocytic myocarditis. This condition is an inflammation of the heart muscle, most commonly triggered by a viral infection (e.g., Coxsackievirus B). The immune response to the virus leads to the infiltration of lymphocytes and subsequent cardiac damage. Rheumatic heart disease (B) is characterized by Aschoff bodies. Chagas disease (A) would show a parasitic infiltrate. Pericarditis (D) is inflammation of the pericardial sac, not the muscle itself.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 22,
+"q": "A 34-year-old man employed in the cement industry presented with a history of breathing difficulty. On examination, a chest X-ray revealed an opacity, and histological analysis confirmed the diagnosis of mesothelioma. Which of the following is the most likely causative factor?",
+"o": [
+"Silicosis",
+"Asbestosis",
+"Coal",
+"Iron oxide"
+],
+"a": 1,
+"ex": "Asbestosis Malignant mesothelioma, a cancer arising from the mesothelial cells lining the pleura, has an exceptionally strong and well-established causal link to asbestos exposure. Although the patient works in the cement industry, this is a known risk factor, as asbestos was frequently incorporated into cement products for many years to provide reinforcement and fire resistance. The diagnosis of mesothelioma is considered a sentinel event for prior asbestos exposure, which often occurred decades before the cancer develops. The other listed dusts are associated with different pneumoconioses: silica causes silicosis (A), coal dust causes coal workers pneumoconiosis (C), and iron oxide causes siderosis (D). None of these are known to cause mesothelioma.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 23,
+"q": "A 20-year-old patient presented with a history of pedal edema and was found to have proteinuria on investigation. Kidney biopsy revealed a characteristic spike-and-dome appearance. What is the most likely diagnosis?",
+"o": [
+"Minimal change disease",
+"Membranous glomerulonephritis",
+"FSGS",
+"C3 glomerulonephritis"
+],
+"a": 1,
+"ex": "Membranous glomerulonephritis The clinical presentation of pedal edema and proteinuria suggests a nephrotic syndrome. The key to the diagnosis is the kidney biopsy finding. A spike and dome appearance is pathognomonic for Membranous Glomerulonephritis (MGN). This appearance is seen on silver staining, where the domes are subepithelial immune complex deposits on the outer side of the glomerular basement membrane (GBM), and the spikes are new GBM material laid down by podocytes between these deposits. This process thickens the GBM and damages the filtration barrier, causing the massive proteinuria characteristic of nephrotic syndrome. Minimal change disease (A) shows normal light microscopy. Focal segmental glomerulosclerosis (FSGS) (C) shows segmental scarring. Neither has a spike and dome pattern.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 24,
+"q": "A 12-year-old child with a history of pyoderma two weeks earlier was evaluated and found to have hematuria with a serum creatinine level of 2 mg%. On follow-up three weeks later, the creatinine level increased to 4.5 mg%. Which of the following electron microscopy findings is most likely in this patient?",
+"o": [
+"Subepithelial deposit",
+"Subendothelial deposit",
+"Crescents",
+"Intramembranous deposit"
+],
+"a": 0,
+"ex": "Subepithelial deposit This clinical scenario describes an acute nephritic syndrome (hematuria, rising creatinine) following a skin infection (pyoderma), which is a classic presentation of Post-Streptococcal Glomerulonephritis (PSGN). The question asks for the finding on electron microscopy (EM). The pathognomonic ultrastructural feature of PSGN is the presence of large, discrete, hump-shaped, electron-dense immune complex deposits on the epithelial side of the glomerular basement membrane. These are referred to as subepithelial deposits or humps. While the rapidly worsening renal function suggests the development of a crescentic glomerulonephritis, crescents (C) are a finding on light microscopy, not EM. Subendothelial deposits (B) and intramembranous deposits (D) are characteristic of other types of glomerulonephritis.",
+"s": "Ophthalmology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 16,
+"q": "A 35-year-old man presents with fatigue and weakness. Peripheral blood smear shows the findings illustrated below. What is the most likely genetic change associated with this patient?",
+"o": [
+"T(9,22)",
+"T(15,17)",
+"T(11,14)",
+"T(14,18)"
+],
+"a": 1,
+"ex": "T(15,17) The peripheral blood smear in the image shows numerous abnormal promyelocytes containing heavy cytoplasmic granules and likely Auer rods. This appearance is characteristic of Acute Promyelocytic Leukemia (APL), a subtype of acute myeloid leukemia. Patients with APL commonly present with symptoms such as fatigue, weakness, anemia, and bleeding tendencies due to bone marrow failure and coagulopathy. The most common genetic abnormality associated with APL is the translocation t(15;17). This translocation occurs between chromosome 15 and chromosome 17 and results in the fusion of the PML gene on chromosome 15 with the RARA (retinoic acid receptor alpha) gene on chromosome 17. The resulting PML-RARA fusion protein blocks the normal differentiation of myeloid precursor cells at the promyelocyte stage, leading to accumulation of abnormal promyelocytes in the bone marrow and peripheral blood. This genetic defect is clinically important because APL is highly responsive to targeted therapy. Treatment with all-trans retinoic acid (ATRA) or arsenic trioxide helps overcome the differentiation block, allowing the leukemic promyelocytes to mature into normal cells. Therefore, the correct answer is (B) t(15;17), which is the hallmark cytogenetic abnormality of Acute Promyelocytic Leukemia.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 17,
+"q": "A 44-year-old patient presents with lymphadenopathy. On examination, generalized lymphadenopathy is noted without organomegaly. Peripheral blood smear shows lymphocytosis with smudge cells. What is the next appropriate step in the diagnostic workup?",
+"o": [
+"Lymph node biopsy",
+"Flow cytometry",
+"BM examination",
+"Genetic analysis"
+],
+"a": 1,
+"ex": "Flow cytometry This clinical presentation is highly characteristic of Chronic Lymphocytic Leukemia (CLL), a malignancy of mature B-lymphocytes. Key features include an older patient, generalized lymphadenopathy, significant lymphocytosis, and the presence of smudge cells (fragile neoplastic lymphocytes) on the peripheral smear. The gold standard and essential next step to confirm the diagnosis is immunophenotyping by flow cytometry on the peripheral blood. This test identifies a monoclonal population of B-cells expressing a unique pattern of surface markers (typically CD19, CD20-dim, CD5, and CD23). This confirms the clonality and specific cell type, establishing the diagnosis of CLL without initially needing more invasive procedures like a bone marrow (BM) examination or lymph node biopsy, which are reserved for atypical cases or staging.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 18,
+"q": "A 7-year-old child presents to the outpatient department with swelling of the jaw. On examination, cytopenias are noted, and bone marrow aspiration shows the cells depicted below. What is the most likely diagnosis?",
+"o": [
+"Follicular lymphoma",
+"Adult T cell leukemia",
+"Burkitts lymphoma",
+"Infectious mononucleosis"
+],
+"a": 2,
+"ex": "Burkitts lymphoma This combination of features—a jaw mass in a child (a classic location for endemic Burkitts), cytopenias indicating bone marrow infiltration, and the characteristic cell morphology—is pathognomonic for Burkitts lymphoma/leukemia. The bone marrow aspirate shows uniform, medium-sized lymphoblasts with round nuclei, stippled chromatin, and, most distinctively, intensely basophilic cytoplasm filled with prominent lipid vacuoles. This morphology is classified as L3 in the FAB system. Burkitts lymphoma is an extremely aggressive B-cell non-Hodgkin lymphoma. Follicular lymphoma (A) is a low-grade lymphoma typically found in adults. Adult T-cell leukemia (B) is also rare in children. Infectious mononucleosis (D) features reactive atypical lymphocytes, not a uniform population of malignant blasts.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 19,
+"q": "Identify the structure in the below histology slide?",
+"o": [
+"Islet of langerhans",
+"Glomerulus",
+"Lymph node",
+"Hassall corpuscles"
+],
+"a": 1,
+"ex": "Glomerulus The histology slide clearly shows the microscopic architecture of the kidney cortex. The prominent, ball-like structures are glomeruli, which are tufts of capillaries responsible for the initial filtration of blood. Each glomerulus is surrounded by Bowmans capsule and is interspersed among numerous cross-sections of renal tubules. This appearance is uniquely characteristic of the kidney. Islets of Langerhans (A) are endocrine cell clusters found in the pancreas. A lymph node (C) has a distinct architecture with follicles and sinuses. Hassalls corpuscles (D) are structures found only in the medulla of the thymus. The image is unequivocally a view of the renal cortex, and the identified structures are glomeruli.",
+"s": "Pathology",
+"src": "medink"
+},
+{
+"year": 2023,
+"n": 20,
+"q": "Which of the following statements are true regarding the relative risk associated with Mendelian patterns of inheritance?",
+"o": [
+"2/3 autosomal dominant",
+"1/4 autosomal recessive",
+"1/10 Y linked",
+"3/4 X Linked"
+],
+"a": 1,
+"ex": "1/4 autosomal recessive This question asks for the correct recurrence risk for an affected child in a typical Mendelian inheritance scenario. For an autosomal recessive disorder, an affected child (genotype aa) is most commonly born to two heterozygous carrier parents (genotype Aa). In such a cross (Aa x Aa), the probability for each pregnancy is as follows: a 1 in 4 chance of having an affected child (aa), a 2 in 4 (or 1/2) chance of having an unaffected carrier child (Aa), and a 1 in 4 chance of having an unaffected, non-carrier child (AA). Therefore, the risk of having another child affected with the same autosomal recessive condition is 1/4 or 25%. The other options are incorrect for standard Mendelian patterns. Click Here to Buy book on Amazon 238=== page 232 Examination Paper 2023",
+"s": "Pathology",
+"src": "medink"
+}
+]

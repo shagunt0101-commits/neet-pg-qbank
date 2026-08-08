@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Audit</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; background: #f5f5f5; }
+        .img-container { margin-bottom: 30px; }
+        .img-container h3 { margin-bottom: 10px; }
+        img { max-width: 100%; border: 1px solid #ccc; background: white; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .info { color: #666; font-size: 14px; margin-top: 5px; }
+    </style>
+</head>
+<body>
+    <h1>Question 1182 - Image Audit</h1>
+
+    <div class="img-container">
+        <h3>q1182_0.jpg</h3>
+        <img id="img0" src="q1182_0.jpg" onload="showInfo(0)" onerror="showError(0)">
+        <div class="info" id="info0"></div>
+    </div>
+
+    <div class="img-container">
+        <h3>q1182_1.jpg</h3>
+        <img id="img1" src="q1182_1.jpg" onload="showInfo(1)" onerror="showError(1)">
+        <div class="info" id="info1"></div>
+    </div>
+
+    <div class="img-container">
+        <h3>q1182_2.jpg</h3>
+        <img id="img2" src="q1182_2.jpg" onload="showInfo(2)" onerror="showError(2)">
+        <div class="info" id="info2"></div>
+    </div>
+
+    <script>
+        function showInfo(idx) {
+            const img = document.getElementById('img' + idx);
+            document.getElementById('info' + idx).innerText =
+                `Loaded: ${img.naturalWidth}x${img.naturalHeight}px, file size: ${img.fileSize || 'unknown'} bytes`;
+        }
+        function showError(idx) {
+            document.getElementById('info' + idx).innerText = 'FAILED TO LOAD';
+            document.getElementById('info' + idx).style.color = 'red';
+        }
+    </script>
+</body>
+</html>

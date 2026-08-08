@@ -1,0 +1,632 @@
+[
+{
+"idx": 2000,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Medicine (SVT)",
+"severity": "high"
+},
+{
+"idx": 2001,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Neurology (ODS)",
+"severity": "high"
+},
+{
+"idx": 2002,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Medicine/toxicology (methanol)",
+"severity": "high"
+},
+{
+"idx": 2002,
+"issue": "Explanation empty",
+"severity": "low"
+},
+{
+"idx": 2003,
+"issue": "Stem (TB peritonitis/ascites, start ATT) mismatched with options+explanation (skin graft contractures); also chest X-ray referenced but img=false",
+"severity": "high"
+},
+{
+"idx": 2004,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Surgery (fistula)",
+"severity": "high"
+},
+{
+"idx": 2005,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Surgery (inguinal hernia nerves)",
+"severity": "high"
+},
+{
+"idx": 2006,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Surgery (BI-RADS)",
+"severity": "high"
+},
+{
+"idx": 2007,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Surgery (appendectomy)",
+"severity": "high"
+},
+{
+"idx": 2008,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Surgery (GB carcinoma)",
+"severity": "high"
+},
+{
+"idx": 2009,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Surgery (damage control)",
+"severity": "high"
+},
+{
+"idx": 2010,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Medicine (cholinergic crisis)",
+"severity": "high"
+},
+{
+"idx": 2011,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Neurosurgery (chronic SDH)",
+"severity": "high"
+},
+{
+"idx": 2012,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Medicine (shock)",
+"severity": "high"
+},
+{
+"idx": 2013,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Surgery (pancreatic necrosis)",
+"severity": "high"
+},
+{
+"idx": 2014,
+"issue": "Subject tag 'Orthopaedics' wrong; content is Surgery (perforated PUD)",
+"severity": "high"
+},
+{
+"idx": 2015,
+"issue": "Stem (skin graft contractures) mismatched with options+explanation (ATT for TB peritonitis)",
+"severity": "high"
+},
+{
+"idx": 2016,
+"issue": "Subject tag 'Surgery' wrong; content is Medicine (cerebral malaria)",
+"severity": "high"
+},
+{
+"idx": 2017,
+"issue": "Subject tag 'Surgery' wrong; content is Medicine (Hamman sign)",
+"severity": "high"
+},
+{
+"idx": 2018,
+"issue": "Subject tag 'Surgery' wrong; content is Medicine (PFT)",
+"severity": "high"
+},
+{
+"idx": 2019,
+"issue": "Subject tag 'Surgery' wrong; content is Medicine (heart failure)",
+"severity": "high"
+},
+{
+"idx": 2020,
+"issue": "Stem (cardiac output measurement, OCR-garbled) mismatched with options+explanation (tension pneumothorax management)",
+"severity": "high"
+},
+{
+"idx": 2024,
+"issue": "Answer index 1 = 40 ml/min (Schwartz k=0.413) conflicts with explanation computing k=0.55 giving 55 ml/min (option 2)",
+"severity": "medium"
+},
+{
+"idx": 2027,
+"issue": "Stem (febrile seizure recurrence factors) mismatched with explanation (SSRI neonatal risks)",
+"severity": "high"
+},
+{
+"idx": 2028,
+"issue": "Subject tag 'Paediatrics' wrong; content is OBG (Sheehan)",
+"severity": "high"
+},
+{
+"idx": 2029,
+"issue": "Subject tag 'Paediatrics' wrong; content is OBG (MgSO4)",
+"severity": "high"
+},
+{
+"idx": 2030,
+"issue": "Subject tag 'Paediatrics' wrong; content is OBG (preeclampsia)",
+"severity": "high"
+},
+{
+"idx": 2030,
+"issue": "Explanation empty",
+"severity": "low"
+},
+{
+"idx": 2031,
+"issue": "Subject tag 'Paediatrics' wrong; content is OBG (cerclage)",
+"severity": "high"
+},
+{
+"idx": 2032,
+"issue": "Subject tag 'Paediatrics' wrong; content is OBG (UTI pregnancy)",
+"severity": "high"
+},
+{
+"idx": 2033,
+"issue": "Subject tag 'Paediatrics' wrong; content is OBG (uterine innervation)",
+"severity": "high"
+},
+{
+"idx": 2034,
+"issue": "Subject tag 'Paediatrics' wrong; content is OBG (modified BPP)",
+"severity": "high"
+},
+{
+"idx": 2035,
+"issue": "Subject tag 'Paediatrics' wrong; content is Surgery (psoas abscess)",
+"severity": "high"
+},
+{
+"idx": 2036,
+"issue": "Subject tag 'Paediatrics' wrong; content is Orthopaedics (axillary nerve)",
+"severity": "high"
+},
+{
+"idx": 2037,
+"issue": "Subject tag 'Paediatrics' wrong; content is Orthopaedics (AVN hip)",
+"severity": "high"
+},
+{
+"idx": 2038,
+"issue": "Subject tag 'Paediatrics' wrong; content is Orthopaedics (OA knee)",
+"severity": "high"
+},
+{
+"idx": 2039,
+"issue": "Subject tag 'Paediatrics' wrong; content is Surgery (bladder rupture)",
+"severity": "high"
+},
+{
+"idx": 2040,
+"issue": "Subject tag 'OBG' wrong; content is Biochemistry (peroxisomes)",
+"severity": "high"
+},
+{
+"idx": 2041,
+"issue": "Subject tag 'OBG' wrong; content is Dermatology (BCC)",
+"severity": "high"
+},
+{
+"idx": 2041,
+"issue": "Stem gives no lesion description; question unanswerable without stripped image",
+"severity": "medium"
+},
+{
+"idx": 2042,
+"issue": "Subject tag 'OBG' wrong; content is Anaesthesia (RSI)",
+"severity": "high"
+},
+{
+"idx": 2043,
+"issue": "Subject tag 'OBG' wrong; content is Endocrinology (Kallmann)",
+"severity": "high"
+},
+{
+"idx": 2044,
+"issue": "Subject tag 'OBG' wrong; content is Pharmacology (benzodiazepines)",
+"severity": "high"
+},
+{
+"idx": 2045,
+"issue": "Subject tag 'OBG' wrong; content is Neurology (spinal cord)",
+"severity": "high"
+},
+{
+"idx": 2046,
+"issue": "Subject tag 'OBG' wrong; content is Medicine (SVT)",
+"severity": "high"
+},
+{
+"idx": 2047,
+"issue": "Subject tag 'OBG' wrong; content is Neurology (Brown-Sequard)",
+"severity": "high"
+},
+{
+"idx": 2061,
+"issue": "Stem describes eyelid rash+myositis (heliotrope rash) but answer 0 is Gottron papules; explanation contradicts stem, relies on stripped image (img=false)",
+"severity": "medium"
+},
+{
+"idx": 2062,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2063,
+"issue": "Subject tag 'Dermatology' wrong; content is Microbiology (HHV-8)",
+"severity": "high"
+},
+{
+"idx": 2066,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2067,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2068,
+"issue": "Subject tag 'Radiology' wrong; content is Paediatrics (Rett)",
+"severity": "high"
+},
+{
+"idx": 2069,
+"issue": "Subject tag 'Radiology' wrong; content is Psychiatry (DTs)",
+"severity": "high"
+},
+{
+"idx": 2070,
+"issue": "Subject tag 'Radiology' wrong; content is Psychiatry (paraphilias)",
+"severity": "high"
+},
+{
+"idx": 2071,
+"issue": "img=true but stem is pure knowledge with no image reference",
+"severity": "medium"
+},
+{
+"idx": 2073,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2074,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2079,
+"issue": "img=true but stem is pure knowledge with no image reference",
+"severity": "medium"
+},
+{
+"idx": 2088,
+"issue": "img=true but stem is pure knowledge with no image reference",
+"severity": "medium"
+},
+{
+"idx": 2090,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2091,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2095,
+"issue": "img=true but stem is pure knowledge with no image reference",
+"severity": "medium"
+},
+{
+"idx": 2098,
+"issue": "Stem (delayed milestones/hepatosplenomegaly/bone marrow findings) mismatched with options+explanation (pembrolizumab/checkpoint inhibitors); image referenced but img=false",
+"severity": "high"
+},
+{
+"idx": 2099,
+"issue": "Subject tag 'Pathology' wrong; content is Pharmacology (drug ADRs)",
+"severity": "high"
+},
+{
+"idx": 2100,
+"issue": "Subject tag 'Pathology' wrong; content is Pharmacology (tamoxifen)",
+"severity": "high"
+},
+{
+"idx": 2101,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2102,
+"issue": "Subject tag 'Pathology' wrong; content is Medicine (muscarinic poisoning)",
+"severity": "high"
+},
+{
+"idx": 2103,
+"issue": "Subject tag 'Pathology' wrong; content is Medicine/Pharmacology (septic UTI)",
+"severity": "high"
+},
+{
+"idx": 2104,
+"issue": "Subject tag 'Pathology' wrong; content is Pharmacology (drug matching)",
+"severity": "high"
+},
+{
+"idx": 2105,
+"issue": "Subject tag 'Pathology' wrong; content is Medicine (scorpion sting)",
+"severity": "high"
+},
+{
+"idx": 2106,
+"issue": "Stem (drug causing palm/sole hyperpigmentation, OCR-garbled) mismatched with options+explanation (tPA stroke contraindications); also tagged Pathology not Pharmacology/Medicine",
+"severity": "high"
+},
+{
+"idx": 2111,
+"issue": "Stem (hilar mass, p40+ IHC = lung SCC) mismatched with options+explanation (Gaucher disease)",
+"severity": "high"
+},
+{
+"idx": 2116,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2117,
+"issue": "img=true but stem is pure knowledge with no image reference",
+"severity": "medium"
+},
+{
+"idx": 2120,
+"issue": "Subject tag 'Pharmacology' wrong; content is Medicine (diabetes diet)",
+"severity": "high"
+},
+{
+"idx": 2122,
+"issue": "Subject tag 'Pharmacology' wrong; content is Pathology (proto-oncogenes)",
+"severity": "high"
+},
+{
+"idx": 2123,
+"issue": "Subject tag 'Pharmacology' wrong; content is Medicine (FAP)",
+"severity": "high"
+},
+{
+"idx": 2124,
+"issue": "Subject tag 'Pharmacology' wrong; content is Pathology (MTC histology)",
+"severity": "high"
+},
+{
+"idx": 2124,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2125,
+"issue": "Subject tag 'Pharmacology' wrong; content is Pathology (cell-malignancy)",
+"severity": "high"
+},
+{
+"idx": 2126,
+"issue": "Subject tag 'Pharmacology' wrong; content is Dermatology (molluscum)",
+"severity": "high"
+},
+{
+"idx": 2130,
+"issue": "Stem OCR-garbled/truncated (bioavailability modes)",
+"severity": "medium"
+},
+{
+"idx": 2132,
+"issue": "img=true but stem is pure knowledge with no image reference",
+"severity": "medium"
+},
+{
+"idx": 2135,
+"issue": "Stem (fingerprint formation gestational age) mismatched with options+explanation (Kayser-Fleischer ring/Wilson disease)",
+"severity": "high"
+},
+{
+"idx": 2136,
+"issue": "Subject tag 'Forensic Medicine' wrong; content is Ophthalmology (keratoconus)",
+"severity": "high"
+},
+{
+"idx": 2142,
+"issue": "Subject tag 'Medicine' wrong; content is Forensic (marbling)",
+"severity": "high"
+},
+{
+"idx": 2144,
+"issue": "Subject tag 'Microbiology' wrong; content is Biochemistry (rDNA)",
+"severity": "high"
+},
+{
+"idx": 2149,
+"issue": "Subject tag 'Microbiology' wrong; content is Medicine (MEN2B)",
+"severity": "high"
+},
+{
+"idx": 2150,
+"issue": "Subject tag 'Microbiology' wrong; content is Medicine (myxedema coma)",
+"severity": "high"
+},
+{
+"idx": 2151,
+"issue": "Subject tag 'Microbiology' wrong; content is Neurology (Wallenberg)",
+"severity": "high"
+},
+{
+"idx": 2152,
+"issue": "Subject tag 'Microbiology' wrong; content is Neurology (syringomyelia)",
+"severity": "high"
+},
+{
+"idx": 2153,
+"issue": "Subject tag 'Microbiology' wrong; content is Medicine (ECG)",
+"severity": "high"
+},
+{
+"idx": 2153,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2154,
+"issue": "Subject tag 'Microbiology' wrong; content is Paediatrics (West syndrome)",
+"severity": "high"
+},
+{
+"idx": 2155,
+"issue": "Subject tag 'Microbiology' wrong; content is Paediatrics (cyanotic CHD)",
+"severity": "high"
+},
+{
+"idx": 2156,
+"issue": "Subject tag 'Microbiology' wrong; content is Medicine (SIRS)",
+"severity": "high"
+},
+{
+"idx": 2157,
+"issue": "Subject tag 'Microbiology' wrong; content is PSM (HPV vaccine)",
+"severity": "high"
+},
+{
+"idx": 2158,
+"issue": "Subject tag 'Microbiology' wrong; content is PSM (genetic screening)",
+"severity": "high"
+},
+{
+"idx": 2159,
+"issue": "Subject tag 'Microbiology' wrong; content is PSM (typhoid)",
+"severity": "high"
+},
+{
+"idx": 2160,
+"issue": "Subject tag 'Microbiology' wrong; content is PSM (OR/multivariate)",
+"severity": "high"
+},
+{
+"idx": 2161,
+"issue": "Subject tag 'Microbiology' wrong; content is PSM (leprosy indicator)",
+"severity": "high"
+},
+{
+"idx": 2163,
+"issue": "Subject tag 'Microbiology' wrong; content is PSM (VVM)",
+"severity": "high"
+},
+{
+"idx": 2164,
+"issue": "Subject tag 'Microbiology' wrong; content is PSM (scientists)",
+"severity": "high"
+},
+{
+"idx": 2165,
+"issue": "Subject tag 'Microbiology' wrong; content is PSM (Anemia Mukt Bharat)",
+"severity": "high"
+},
+{
+"idx": 2167,
+"issue": "Subject tag 'ENT' wrong; content is Medicine (Tangier)",
+"severity": "high"
+},
+{
+"idx": 2169,
+"issue": "img=true but stem is pure knowledge with no image reference",
+"severity": "medium"
+},
+{
+"idx": 2170,
+"issue": "img=true but stem is pure knowledge with no image reference",
+"severity": "medium"
+},
+{
+"idx": 2173,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2176,
+"issue": "Stem (hepatomegaly, intention tremor, eye changes = Wilson disease) mismatched with options+explanation (Nocardia acid-fast staining); tagged Ophthalmology wrong; image referenced but img=false",
+"severity": "high"
+},
+{
+"idx": 2177,
+"issue": "Subject tag 'Ophthalmology' wrong; content is Microbiology (parvovirus)",
+"severity": "high"
+},
+{
+"idx": 2178,
+"issue": "Subject tag 'Ophthalmology' wrong; content is Microbiology (filovirus)",
+"severity": "high"
+},
+{
+"idx": 2179,
+"issue": "Subject tag 'Ophthalmology' wrong; content is Microbiology (Cyclospora)",
+"severity": "high"
+},
+{
+"idx": 2180,
+"issue": "Subject tag 'Medicine' wrong; content is PSM (NTEP)",
+"severity": "high"
+},
+{
+"idx": 2181,
+"issue": "Stem (physician-patient communication via interpreter) mismatched with options+explanation (central cyanosis causes)",
+"severity": "high"
+},
+{
+"idx": 2182,
+"issue": "img=true but stem is pure knowledge with no image reference",
+"severity": "medium"
+},
+{
+"idx": 2184,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2187,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2189,
+"issue": "Subject tag 'Medicine' wrong; content is Forensic (plant ID)",
+"severity": "high"
+},
+{
+"idx": 2190,
+"issue": "Subject tag 'Medicine' wrong; content is Forensic (hesitation cuts)",
+"severity": "high"
+},
+{
+"idx": 2192,
+"issue": "Subject tag 'Medicine' wrong; content is Forensic (cardiac poisons)",
+"severity": "high"
+},
+{
+"idx": 2193,
+"issue": "Subject tag 'Medicine' wrong; content is Forensic (drowning)",
+"severity": "high"
+},
+{
+"idx": 2194,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2195,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2196,
+"issue": "img=false but stem/explanation references an image (stripped image reference)",
+"severity": "medium"
+},
+{
+"idx": 2199,
+"issue": "Subject tag 'Medicine' wrong; content is PSM (hand hygiene)",
+"severity": "high"
+},
+{
+"idx": 2199,
+"issue": "Option 0 contains OCR garbage (\"Click Here to Buy book on Amazon\")",
+"severity": "low"
+}
+]

@@ -1,0 +1,18 @@
+{
+  "q": "Arrange the following cells in the order they are found from the basal layer to the lumen within the seminiferous tubules : 1 Spermatogonia 2 Primary spermatocyte 3 Spermatid 4 Spermatozoa 5 Myoepithelial cell",
+  "o": [
+    "1,5,4,2,3",
+    "1,2,3,4,5",
+    "5,4,3,2,1",
+    "5,1,2,3,4"
+  ],
+  "a": 3,
+  "ex": "The process of spermatogenesis occurs within the seminiferous tubules of the testes, with cells arranged in a highly organized fashion from the periphery towards the lumen. The outermost layer of the tubule is the basement membrane, which is surrounded by contractile peritubular myoid cells (often called myoepithelial cells in this context). Immediately inside the basement membrane, in the basal compartment, are the most immature germ cells, the spermatogonia. As these cells divide and differentiate, they move towards the adluminal compartment. Spermatogonia develop into primary spermatocytes, which undergo meiosis I to become secondary spermatocytes. These then undergo meiosis II to become spermatids. Finally, through the process of spermiogenesis, the round spermatids mature and elongate to form spermatozoa, which are then released into the lumen of the tubule. Therefore, the correct sequence from the outermost layer to the lumen is Myoid cell → Spermatogonia → Primary spermatocyte → Spermatid → Spermatozoa.",
+  "e": "INI-CET",
+  "y": "NOV 2022",
+  "s": "OBG",
+  "img": false,
+  "src": "inicet",
+  "tp": "Drug Mechanisms",
+  "idx": 2223
+}

@@ -1,0 +1,18 @@
+{
+  "q": "A 68-year-old man with hypertension, diabetes, and coronary artery disease presents with palpitations and shortness of breath. His heartbeat is irregular, and ECG shows an irregular rhythm with no P waves and no isoelectric baseline. His vitals are BP 132/84 mmHg, HR 130 bpm, and SpO₂ 94% on room air. Based on these findings, which treatment should be considered the first-line option for this patient?",
+  "o": [
+    "Amiodarone",
+    "Metoprolol",
+    "Electrical cardioversion",
+    "Direct oral anticoagulant (DOAC) therapy"
+  ],
+  "a": 1,
+  "ex": "The patient's ECG findings—an irregularly irregular rhythm with no discernible P waves—are diagnostic of atrial fibrillation. The heart rate of 130 bpm indicates a rapid ventricular response (RVR). Since the patient is hemodynamically stable (BP 132/84), the immediate goal of management is rate control, not rhythm control. The first-line agents for rate control in atrial fibrillation are either beta-blockers (like metoprolol) or non-dihydropyridine calcium channel blockers (like diltiazem). These drugs slow conduction through the AV node, thereby reducing the ventricular rate and improving symptoms. Electrical cardioversion (C) is reserved for unstable patients. Amiodarone (A) is typically a second-line agent for rate or rhythm control. Anticoagulation (D) is essential for long-term stroke prevention but is not the first-line intervention for acute rate control.",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "s": "Orthopaedics",
+  "img": false,
+  "src": "inicet",
+  "tp": "General",
+  "idx": 2583
+}
