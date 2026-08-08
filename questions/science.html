@@ -170,8 +170,6 @@ a { color: var(--accent); }
       <div class="fit-row">
         <div><label>Exam</label><select id="qbExam"><option value="">All exams</option><option>NEET PG</option><option>INI-CET</option></select></div>
         <div><label>Source</label><select id="qbSource"><option value="">All Sources</option><option value="original">Original Bank</option><option value="core_btr">Core BTR PDF</option></select></div>
-        <div><label>Subject</label><select id="qbSubj"><option value="">All Subjects</option></select></div>
-        <div><label>Topic</label><select id="qbTopic"><option value="">All Topics</option></select></div>
         <div><label>Attempt Status</label><select id="qbAttempt"><option value="all">All</option><option value="unattempted">Unattempted</option><option value="correct">Correct</option><option value="wrong">Wrong</option><option value="skipped">Skipped</option></select></div>
         <div><label>Image / Clinical focus</label><select id="qbMode" style="width:auto">
           <option value="all">All questions</option>
@@ -182,8 +180,10 @@ a { color: var(--accent); }
         <div><label>Questions per set</label><input id="qbCount" type="number" value="10" min="1" max="200"></div>
         <div><button class="btn" id="qbStart">Start QBank set</button></div>
       </div>
-      <div class="score-note" style="margin-top:8px">Tap a subject to drill into topics.</div>
+      <div class="score-note" style="margin-top:8px">Tap a subject to drill into topics, or toggle chips below for a mixed set.</div>
     </div>
+    <div class="card"><h3 style="margin-bottom:10px;">Subjects <span class="score-note">(click to toggle)</span></h3><div id="qbSubjList" class="chip-list"></div></div>
+    <div class="card"><h3 style="margin-bottom:10px;">Topics <span class="score-note">(shown for selected subjects)</span></h3><div id="qbTopicList" class="chip-list"></div></div>
     <div class="card"><div id="qbTree"></div></div>
   </div>
 
@@ -239,7 +239,7 @@ a { color: var(--accent); }
       <div class="fit-row">
         <div><label>Test name</label><input id="tName" type="text" value="Practice Test 1" style="width:220px"></div>
         <div><label>Exam</label><select id="tExam"><option value="">All exams</option><option>NEET PG</option><option>INI-CET</option></select></div>
-        <div><label>Subject</label><select id="tSubj"><option value="">All subjects</option></select></div>
+        <div><label>Subjects</label><div id="tSubj" class="chip-list"></div></div>
         <div><label>Year</label><select id="tYear"><option value="any">Any year</option></select></div>
         <div><label>Questions</label><input id="tCount" type="number" value="20" min="1" max="200"></div>
         <div><label>Timed</label><select id="tTimed" style="width:auto"><option value="0">Untimed</option><option value="1">Timed</option></select></div>
@@ -775,8 +775,8 @@ function getAttemptStatus(i) {
 function renderTree() {
   var mode = $('qbMode').value;
   var srcFilter = $('qbSource').value;
-  var subjFilter = $('qbSubj').value;
-  var topicFilter = $('qbTopic').value;
+  var subjFilter = Object.keys(QB.subjs).length ? Object.keys(QB.subjs) : null;
+  var topicFilter = Object.keys(QB.topics).length ? Object.keys(QB.topics) : null;
   var attemptFilter = $('qbAttempt').value;
   var counts = {};
   var idxBySubj = {};
@@ -786,8 +786,8 @@ function renderTree() {
       var qsrc = q.src || 'original';
       if (qsrc !== srcFilter) return;
     }
-    if (subjFilter && q.s !== subjFilter) return;
-    if (topicFilter && topicOf(q) !== topicFilter) return;
+    if (subjFilter && subjFilter.indexOf(q.s) === -1) return;
+    if (topicFilter && topicFilter.indexOf(topicOf(q)) === -1) return;
     if (attemptFilter !== 'all') {
       var status = getAttemptStatus(i);
       if (attemptFilter === 'unattempted' && status !== 'unattempted') return;
@@ -799,7 +799,7 @@ function renderTree() {
     if (!idxBySubj[q.s]) idxBySubj[q.s] = [];
     idxBySubj[q.s].push(i);
   });
-  var html = '<div class="score-note" style="margin-bottom:8px">Showing ' + totalCount + ' questions</div>';
+  var html = totalCount ? '<div class="score-note" style="margin-bottom:8px">Showing ' + totalCount + ' questions</div>' : '<div class="empty" style="margin-bottom:8px">No questions match the selected chips.</div>';
   Object.keys(idxBySubj).sort(function (a, b) { return SUBJECTS.indexOf(a) - SUBJECTS.indexOf(b); }).forEach(function (s) {
     if (!SUBJECTS.includes(s)) return;
     var ids = idxBySubj[s];
@@ -909,26 +909,8 @@ function populateBrowseDropdowns() {
   var addOpts = function (sel, opts) {
     sel.innerHTML = '<option value="">All</option>' + opts.map(function (o) { return '<option value="' + o + '">' + o + '</option>'; }).join('');
   };
-  addOpts($('qbSubj'), subjOpts);
-  addOpts($('qbTopic'), topicOpts);
   addOpts($('browseSubj'), subjOpts);
   addOpts($('browseTopic'), topicOpts);
-}
-
-function filterBrowseTopics() {
-  var subjFilter = $('qbSubj').value;
-  var topicFilter = $('qbTopic').value;
-  var html = '<option value="">All Topics</option>';
-  var topicSet = new Set();
-  BANK.forEach(function (q) {
-    if (subjFilter && q.s !== subjFilter) return;
-    topicSet.add(topicOf(q));
-  });
-  Array.from(topicSet).sort().forEach(function (t) {
-    html += '<option value="' + t + '">' + t + '</option>';
-  });
-  $('qbTopic').innerHTML = html;
-  if (topicFilter) $('qbTopic').value = topicFilter;
 }
 
 function filterBrowseTopics2() {
@@ -1026,15 +1008,15 @@ function cmAllSubjects() {
   BANK.forEach(function (q) { s.add(q.s); });
   return Array.from(s).sort(function (a, b) { return SUBJECTS.indexOf(a) - SUBJECTS.indexOf(b); });
 }
-function cmTopicsForSubjs() {
+function topicsFor(selSubjs, src) {
   var t = new Set();
-  var src = $('cmSource').value;
   BANK.forEach(function (q) {
     if (src && (q.src || 'original') !== src) return;
-    if (CM.subjs[q.s] || Object.keys(CM.subjs).length === 0) t.add(topicOf(q));
+    if (selSubjs[q.s] || Object.keys(selSubjs).length === 0) t.add(topicOf(q));
   });
   return Array.from(t).sort();
 }
+function cmTopicsForSubjs() { return topicsFor(CM.subjs, $('cmSource').value); }
 function renderCM() {
   var subjHtml = cmAllSubjects().map(function (s) {
     return '<span class="chip' + (CM.subjs[s] ? ' on' : '') + '" data-s="' + s + '">' + s + '</span>';
@@ -1079,6 +1061,51 @@ $('cmStart').addEventListener('click', function () {
   var name = $('cmName').value.trim() || 'My Module';
   startQuiz('qbank', 'Custom: ' + name, sel);
 });
+
+/* ---------------- Multi-select chips: QBank + Test Series ---------------- */
+var QB = { subjs: {}, topics: {} };  // QBank chip toggle sets
+var T = { subjs: {} };               // Test Series subject chips (isolated)
+
+function renderQBChips() {
+  var subjs = cmAllSubjects();
+  $('qbSubjList').innerHTML = subjs.map(function (s) {
+    return '<span class="chip' + (QB.subjs[s] ? ' on' : '') + '" data-s="' + s + '">' + s + '</span>';
+  }).join('');
+  var topics = topicsFor(QB.subjs, $('qbSource').value);
+  $('qbTopicList').innerHTML = topics.map(function (t) {
+    return '<span class="chip' + (QB.topics[t] ? ' on' : '') + '" data-t="' + t + '">' + t + '</span>';
+  }).join('');
+  $('qbSubjList').querySelectorAll('.chip').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var s = el.dataset.s;
+      if (QB.subjs[s]) delete QB.subjs[s]; else QB.subjs[s] = true;
+      QB.topics = {};  // subject set changed -> topic list rebuilt
+      renderQBChips();
+      renderTree();
+    });
+  });
+  $('qbTopicList').querySelectorAll('.chip').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var t = el.dataset.t;
+      if (QB.topics[t]) delete QB.topics[t]; else QB.topics[t] = true;
+      renderQBChips();
+      renderTree();
+    });
+  });
+}
+
+function renderTChips() {
+  $('tSubj').innerHTML = SUBJECTS.map(function (s) {
+    return '<span class="chip' + (T.subjs[s] ? ' on' : '') + '" data-s="' + s + '">' + s + '</span>';
+  }).join('');
+  $('tSubj').querySelectorAll('.chip').forEach(function (el) {
+    el.addEventListener('click', function () {
+      var s = el.dataset.s;
+      if (T.subjs[s]) delete T.subjs[s]; else T.subjs[s] = true;
+      renderTChips();
+    });
+  });
+}
 
 /* ---------------- Quiz engine ---------------- */
 function startQuiz(mode, name, sel) {
@@ -1287,14 +1314,14 @@ function renderTestList() {
   var html = tests.length ? '' : '<div class="empty">No tests yet. Create one above.</div>';
   tests.forEach(function (t, i) {
     html += '<div class="res-row"><div class="res-main"><div class="res-name">' + t.name + '</div>' +
-      '<div class="res-meta">' + t.n + ' Qs' + (t.s ? ' • ' + t.s : '') + (t.y !== 'any' ? ' • ' + t.y : '') + (t.timed ? ' • Timed' : ' • Untimed') + '</div></div>' +
+      '<div class="res-meta">' + t.n + ' Qs' + ((t.multiS && t.multiS.length) ? ' • ' + t.multiS.join(', ') : (t.s ? ' • ' + t.s : '')) + (t.y !== 'any' ? ' • ' + t.y : '') + (t.timed ? ' • Timed' : ' • Untimed') + '</div></div>' +
       '<button class="btn small" data-i="' + i + '">Attempt</button><button class="btn small secondary" data-d="' + i + '">Delete</button></div>';
   });
   $('testList').innerHTML = html;
   $('testList').querySelectorAll('button[data-i]').forEach(function (b) {
     b.addEventListener('click', function () {
       var t = (lsGet('neet_tests') || [])[parseInt(b.dataset.i, 10)];
-      startQuiz('test', t.name, { exam: t.e, s: t.s, y: t.y, n: t.n, timed: !!t.timed });
+      startQuiz('test', t.name, { exam: t.e, multiS: t.multiS, s: t.s, y: t.y, n: t.n, timed: !!t.timed });
     });
   });
   $('testList').querySelectorAll('button[data-d]').forEach(function (b) {
@@ -1361,10 +1388,7 @@ function renderMarks() {
 
 /* ---------------- Init ---------------- */
 function populateSubjects() {
-  var sel = tSubj;
-  var any = document.createElement('option'); any.value = ''; any.textContent = 'All subjects';
-  sel.appendChild(any);
-  SUBJECTS.forEach(function (s) { var o = document.createElement('option'); o.value = s; o.textContent = s; sel.appendChild(o); });
+  renderTChips();
 }
 function populateYears() {
   var sel = tYear;
@@ -1374,15 +1398,13 @@ function populateYears() {
   ["2021", "2022", "2023", "2024", "2025", "2026"].forEach(function (y) { var o = document.createElement('option'); o.value = y; o.textContent = y; sel.appendChild(o); });
 }
 
-var tSubj = $('tSubj'), tYear = $('tYear');
+var tYear = $('tYear');
 var quizArea = $('quizArea'), qList = $('qList'), reviewArea = $('reviewArea');
 
 $('qbStart').addEventListener('click', function () {
-  startQuiz('qbank', 'QBank Set', { src: $('qbSource').value, s: $('qbSubj').value || undefined, t: $('qbTopic').value || undefined, attempt: $('qbAttempt').value, mode: $('qbMode').value, n: parseInt($('qbCount').value, 10) || 10 });
+  startQuiz('qbank', 'QBank Set', { src: $('qbSource').value, multiS: Object.keys(QB.subjs), multiT: Object.keys(QB.topics), attempt: $('qbAttempt').value, mode: $('qbMode').value, n: parseInt($('qbCount').value, 10) || 10 });
 });
-$('qbSource').addEventListener('change', function() { filterBrowseTopics(); renderTree(); });
-$('qbSubj').addEventListener('change', function() { filterBrowseTopics(); renderTree(); });
-$('qbTopic').addEventListener('change', renderTree);
+$('qbSource').addEventListener('change', function() { QB.topics = {}; renderQBChips(); renderTree(); });
 $('qbAttempt').addEventListener('change', renderTree);
 $('qbMode').addEventListener('change', renderTree);
 $('browseSource').addEventListener('change', function() { filterBrowseTopics2(); renderBrowse(); });
@@ -1395,7 +1417,7 @@ function showView(v) {
   document.querySelectorAll('.view').forEach(function (el) { el.classList.toggle('active', el.id === v); });
   document.querySelectorAll('.tab').forEach(function (el) { el.classList.toggle('active', el.dataset.v === v); });
   if (v === 'dash') renderDash();
-  if (v === 'qbank') { populateBrowseDropdowns(); renderTree(); }
+  if (v === 'qbank') { populateBrowseDropdowns(); renderQBChips(); renderTree(); }
   if (v === 'custom') renderCM();
   if (v === 'browse') { populateBrowseDropdowns(); renderBrowse(); }
   if (v === 'tests') renderTestList();
@@ -1405,7 +1427,7 @@ function showView(v) {
 }
 $('tCreate').addEventListener('click', function () {
   var name = $('tName').value.trim() || 'Practice Test';
-  var t = { name: name, e: $('tExam').value, s: $('tSubj').value, y: $('tYear').value, n: parseInt($('tCount').value, 10) || 20, timed: $('tTimed').value === '1' };
+  var t = { name: name, e: $('tExam').value, multiS: Object.keys(T.subjs), s: $('tExam').value ? undefined : undefined, y: $('tYear').value, n: parseInt($('tCount').value, 10) || 20, timed: $('tTimed').value === '1' };
   var tests = lsGet('neet_tests') || [];
   tests.unshift(t);
   lsSet2('neet_tests', tests);
@@ -1423,6 +1445,7 @@ $('t2026Start').addEventListener('click', function () {
 populateSubjects();
 populateYears();
 populateBrowseDropdowns();
+renderQBChips();
 renderDash();
 try { syncInit(); } catch (e) { console.warn('sync disabled', e); }
 </script>
