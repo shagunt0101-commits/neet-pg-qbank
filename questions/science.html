@@ -514,7 +514,8 @@ function syncAfterAuth(u) {
       if (!SYNC.user) return;
       var d = snap.data();
       if (!d) { syncPush(); return; } // first login: seed doc from local
-      syncMerge(d);
+      var n = syncMerge(d);
+      if (n) syncPush(); // only push up when a merge actually changed local
     }, function (err) { console.warn('sync snapshot err', err); });
     syncPush(); // ensure latest local state is up
   }
@@ -528,9 +529,15 @@ function syncUI() {
   if (SYNC.user) {
     st.innerHTML = 'Signed in as <b>' + SYNC.user.email + '</b> \u2014 progress auto-syncs across devices.';
     body.innerHTML = '<div class="fit-row"><button class="btn secondary" id="accLogout">Sign out</button></div>' +
+      '<div class="fit-row"><button class="btn" id="accSyncPush">Push to cloud</button><button class="btn secondary" id="accSyncPull">Pull from cloud</button></div>' +
+      '<div class="score-note" id="accSyncStatus" style="margin-top:10px"></div>' +
       '<div class="score-note" style="margin-top:10px">Offline answers queue and sync when you reconnect. Merge is a union \u2014 nothing gets overwritten.</div>';
     var lo = $('accLogout');
     if (lo) lo.addEventListener('click', function () { firebase.auth(SYNC.f).signOut().catch(function (e) { console.warn(e); }); });
+    var pu = $('accSyncPush');
+    if (pu) pu.addEventListener('click', syncNow);
+    var pl = $('accSyncPull');
+    if (pl) pl.addEventListener('click', syncPullNow);
   } else {
     st.innerHTML = 'Not signed in \u2014 progress stays on this device only.';
     body.innerHTML = '<div class="fit-row">' +
@@ -581,13 +588,34 @@ function doPush() {
 }
 
 function syncMerge(d) {
-  if (!SYNC.user) return;
+  if (!SYNC.user) return 0;
   var c = mergeHist(d.hist || {}) + mergeMarks(d.marks || {}) + mergeResults(d.results || []) + mergeTests(d.tests || []);
-  if (!c) return;
-  if ($('dash').classList.contains('active')) renderDash();
-  if ($('report').classList.contains('active')) { fillRepSubj(); renderReport(); }
-  if ($('marks').classList.contains('active')) renderMarks();
+  if (c) {
+    if ($('dash').classList.contains('active')) renderDash();
+    if ($('report').classList.contains('active')) { fillRepSubj(); renderReport(); }
+    if ($('marks').classList.contains('active')) renderMarks();
+  }
   syncPush(); // merged result goes back up
+  return c;
+}
+function syncNow() {
+  if (!SYNC.user) { alert('Sign in first.'); return; }
+  doPush();
+  syncStatus('Pushed local progress to cloud.');
+}
+function syncPullNow() {
+  if (!SYNC.user) { alert('Sign in first.'); return; }
+  syncStatus('Pulling from cloud…');
+  SYNC.db.collection('users').doc(SYNC.user.uid).get().then(function (snap) {
+    var dd = snap.data();
+    if (!dd) { syncStatus('Cloud doc empty — nothing to pull.'); return; }
+    var n = syncMerge(dd);
+    syncStatus(n ? ('Pulled and merged ' + n + ' changes.') : 'Already up to date.');
+  }).catch(function (e) { syncStatus('Pull failed: ' + e.message); });
+}
+function syncStatus(m) {
+  var el = $('accSyncStatus');
+  if (el) el.textContent = m;
 }
 
 function mergeHist(remote) {
