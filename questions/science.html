@@ -578,6 +578,20 @@ function syncPush() {
 function doPush() {
   SYNC.timer = null;
   if (!SYNC.dirty || !SYNC.user) return;
+  var lh = Object.keys(lsGet('neet_hist') || {}).length;
+  if (!lh) {
+    // never overwrite non-empty cloud with an empty local (stale-device wipe)
+    SYNC.db.collection('users').doc(SYNC.user.uid).get().then(function (snap) {
+      var dd = snap.data() || {};
+      if (Object.keys(dd.hist || {}).length) { SYNC.dirty = false; return; }
+      doPushSet();
+    }).catch(function () { SYNC.dirty = true; });
+    return;
+  }
+  doPushSet();
+}
+function doPushSet() {
+  if (!SYNC.dirty || !SYNC.user) return;
   SYNC.dirty = false;
   SYNC.db.collection('users').doc(SYNC.user.uid).set({
     hist: lsGet('neet_hist') || {},
