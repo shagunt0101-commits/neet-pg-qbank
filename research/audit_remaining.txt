@@ -1,0 +1,188 @@
+=== q1397 | Physiology / Skeletal Muscle ===
+Q: Based on the given electron microscopy image, match the items to their respective sarcomere structures. EXAMINATION PAPER NOV-2024
+A. 1-b, 2-a, 3-d, 4-c
+B. 1-a, 2-c, 3-b, 4-d
+C. 1-d, 2-c, 3-b, 4-a
+D. 1-b, 2-c, 3-d, 4-a
+ANSWER: A
+EXPLANATION: This question tests knowledge of the metabolic origins of important biological molecules. 1 Histidine is the precursor for histamine, a key mediator of allergic reactions and gastric acid secretion. This is achieved through the decarboxylation of histidine. (1 - b) 2 Tyrosine is the starting point for the synthesis of catecholamines (dopamine, norepinephrine, and epinephrine). (2 - a) 3 Tryptophan is the precursor for the synthesis of both the neurotransmitter serotonin and the hormone melatonin. (3 - d) 4 Cysteine is one of the three amino acids (along with glutamate and glycine) that make up the important antioxidant tripeptide glutathione. (4 - c) Therefore, the correct matching is 1-b, 2-a, 3-d, 4-c.
+
+=== q1503 | Paediatrics / Biliary Atresia ===
+Q: All of the following statements about Extrahepatic Biliary Atresia are true EXCEPT:
+A. Kasai procedure should be done within 90 days
+B. HIDA scan is used for diagnosis
+C. Can be differentiated from other differential diagnoses by biopsy
+D. Biliary atresia is the most common cause of neonatal cholestasis.
+ANSWER: A
+EXPLANATION: Extrahepatic biliary atresia is a progressive inflammatory disease leading to fibrosis and obliteration of the extrahepatic bile ducts. It is the most common cause of pathological neonatal cholestasis and the most common indication for pediatric liver transplantation. A hepatobiliary iminodiacetic acid (HIDA) scan is used to assess biliary excretion; failure of the tracer to reach the intestine is highly suggestive of the diagnosis. A liver biopsy showing bile duct proliferation and portal tract fibrosis is often used for confirmation. The definitive surgical treatment is the Kasai procedure (hepatoportoenterostomy). The success of this procedure in restoring bile flow and preventing cirrhosis is highly time-dependent. It should be performed as early as possible, ideally before 60 days of life. The success rate drops significantly after 90 days. Therefore, the statement that it should be done within 90 days is not ideal; it should be done much earlier. It is the "least true" statement.
+
+=== q1558 | PSM / Study Designs ===
+Q: Please match the given columns based on Epidemiology Guidelines. a. CARE 1. RCT b. CONSORT 2. Case report c. PRISMA 3. Observational study EXAMINATION PAPER MAY-2023 Fetal heart rate (FHR) accelerations are transient increases in the heart rate of at least 15 beats per minute above the baseline, lasting for at least 15 seconds. These accelerations are a key indicator of fetal well-being on cardiotocography. They are primarily mediated by the fetal autonomic nervous system, specifically through sympathetic nervous system stimulation in response to fetal movement. When the fetus moves, the sympathetic nervous system is activated, leading to the release of catecholamines that increase the heart rate. The presence of these accelerations indicates that the fetus has an intact and responsive central nervous system, particularly the autonomic control centers within the brainstem. Baroreceptors (A, B) are primarily involved in responding to blood pressure changes, typically causing a decrease in heart rate when pressure rises. Chemoreceptors (D) respond to changes in oxygen and carbon dioxide levels.
+A. Abdominal aorta
+B. Aorta
+C. Renal artery
+D. Radial artery
+ANSWER: D
+EXPLANATION: The Windkessel effect describes the phenomenon where the pulsatile flow of blood ejected from the heart is converted into a more continuous, smoother flow in the distal vasculature. This is achieved by the elastic recoil of large arteries. During systole, the walls of large elastic arteries like the aorta and its major branches (e.g., abdominal aorta, subclavian artery) stretch to accommodate the stroke volume, storing potential energy. During diastole, these elastic walls recoil, pushing the stored blood forward and maintaining diastolic pressure and flow. As arteries travel further from the heart, their composition changes from predominantly elastic to more muscular. The radial artery, a muscular artery in the forearm, has significantly less elastin in its walls compared to the aorta. Therefore, it exhibits a much-reduced Windkessel effect and demonstrates a more pulsatile pressure waveform. The renal artery is still a large branch off the aorta and retains significant elastic properties. 8. Arrange the following sarcomere components from the most peripheral region to the most central region.
+
+=== q1601 | Anatomy / Neuroanatomy ===
+Q: In an elderly patient with meningitis, whose CSF is evaluated using Gram stain and microscopy, EXAMINATION PAPER MAY-2023 ANATOMY
+A. Eight nerve cochlear nuclei superior olivary nucleus lateral lemniscus inferior colliculus → medial geniculate body → auditory cortex
+B. Cochlear nuclei superior olivary nucleus → lateral lemniscus inferior colliculus → medial geniculate body → auditory cortex → Eight nerve
+C. Superior olivary nucleus lateral lemniscus → inferior colliculus medial geniculate body → auditory cortex → Eight nerve → Cochlear nuclei
+D. Superior olivary nucleus inferior colliculus auditory cortex Cochlear nuclei lateral → medial geniculate body → Eight nerve lemniscus
+ANSWER: A
+EXPLANATION: The central auditory pathway is a complex, polysynaptic route that transmits sound information from the inner ear to the cerebral cortex for conscious perception. The pathway begins with the spiral ganglion neurons, whose axons form the cochlear division of the vestibulocochlear nerve (cranial nerve VIII). These fibers make their first synapse in the cochlear nuclei located in the brainstem. From here, auditory information ascends bilaterally, with a major synapse in the superior olivary nucleus, which is crucial for sound localization. The pathway continues upward through a major ascending tract known as the lateral lemniscus. The next significant relay station is the inferior colliculus in the midbrain, another key auditory processing center. Subsequently, fibers project to the medial geniculate body of the thalamus, the final subcortical relay nucleus. Finally, thalamocortical radiations carry the processed auditory information to the primary auditory cortex located in the temporal lobe. 2. Which nerve provides innervation to the gluteus maximus muscle? Femoral nerve Sciatic nerve Inferior Gluteal Nerve Superior gluteal nerve
+
+=== q1672 | Paediatrics / Diamond-Blackfan Anemia ===
+Q: Matching the following conditions: a. Trisomy 13 1. Huntington dis- ease b. Trisomy 18 2. Patau syndrome EXAMINATION PAPER MAY-2023 The management of acute diverticulitis depends on its severity. Uncomplicated diverticulitis is typically managed conservatively with antibiotics. However, the development of complications is an indication for more aggressive management, including potential surgery. The finding of a pericolic abscess on a CT scan represents a complicated diverticulitis (Hinchey stage I or II). While small abscesses (<4 cm) can sometimes be managed with antibiotics alone, larger abscesses often require percutaneous drainage. The presence of a complicated episode, such as one involving an abscess, significantly increases the risk of recurrence and future complications. Therefore, after the acute episode has resolved, the presence of an abscess is a strong relative indication for recommending an elective sigmoid colectomy to prevent further episodes. A second episode of uncomplicated diverticulitis is also an indication, but an abscess is a more compelling reason after the first episode. PEDIATRICS
+A. Gingivostomatitis
+B. Immunodeficiency
+C. Lymphoproliferative disorder
+D. Pure red cell aplasia
+ANSWER: D
+EXPLANATION: The image shows a child with a characteristic facial appearance of prominent cheeks and a pale complexion, suggestive of a severe chronic anemia. The specific condition hinted at is Diamond-Blackfan Anemia (DBA). DBA is a congenital bone marrow failure syndrome characterized by a profound macrocytic anemia due to the failure of red blood cell precursors to proliferate and mature, a condition known as pure red cell aplasia. While the anemia is the central feature, about 50% of patients with DBA also have associated congenital anomalies, including characteristic craniofacial features (e.g., prominent forehead, snub nose), short stature, and thumb abnormalities. The other options are less likely; while immunodeficiency can occur in DBA, the primary and defining feature is the aplasia of the red cell line. This condition is distinct from other aplastic or lymphoproliferative disorders.
+
+=== q1758 | Pathology / Red Cell Disorders ===
+Q: A patient shows reduced serum transferrin saturation. What is the most probable underlying condition?
+A. Iron Deficiency Anemia
+B. Hemochromatosis
+C. Sideroblastic anemia
+D. Pernicious anemia
+ANSWER: A
+EXPLANATION: Transferrin saturation is a key laboratory parameter used to assess iron status. It is calculated as (Serum Iron / Total Iron-Binding Capacity) × 100%. In Iron Deficiency Anemia (IDA), the body's iron stores are depleted. This leads to a low serum iron level. Simultaneously, the liver increases the production of transferrin (the protein that transports iron), leading to a high Total Iron-Binding Capacity (TIBC). The combination of low serum iron and high TIBC results in a significantly low transferrin saturation percentage, often below 15%. In contrast, conditions of iron overload like hemochromatosis would show a high transferrin saturation. Sideroblastic anemia can have normal or high saturation because iron is available but cannot be properly incorporated into heme. Pernicious anemia is a type of vitamin B12 deficiency anemia and does not directly affect iron saturation levels in this manner. MEDINK pattern is suggestive of staghorn calculi. The patient's symptoms of dysuria and back pain are consistent with kidney stones (nephrolithiasis). The presence of bilateral nephrocalcinosis strongly suggests an underlying systemic metabolic disorder that is causing hypercalcemia and hypercalciuria. The most common cause of non-malignancy-related hypercalcemia is primary hyperparathyroidism, which is most often (in ~85% of cases) caused by a benign parathyroid adenoma (PTH adenoma). The excess parathyroid hormone secreted by the adenoma leads to increased bone resorption and renal calcium reabsorption, causing the high calcium levels that precipitate in the kidneys. Wilms' tumor and renal cell carcinoma are renal malignancies. In a 35-year-old patient with six weeks of dysentery and right upper abdominal pain, an ultrasound shows a hypoechoic, hyperdense liver lesion. What condition does this finding most likely represent? Amoebic liver abscess Pyogenic liver abscess Hydatid cyst Hemangioma
+
+=== q1791 | Medicine / Dengue Fever ===
+Q: A patient has had a fever for 3 days, and CBC shows a platelet count below 90,000. Dengue is suspected. Which of the following tests cannot be performed on day 3 of illness?
+A. PCR
+B. NS1
+C. IgM ELISA
+D. Xenodiagnosis using culture in Aedes mosquito
+ANSWER: C
+EXPLANATION: During a primary dengue infection, the virus and viral components are detectable first, followed by the host's immune response. On day 3 of the illness, the patient is typically in the acute viremic phase. During this time, the dengue virus itself can be detected, so methods like PCR (which detects viral RNA) would be positive. The dengue NS1 antigen is a viral non-structural protein that is secreted into the blood during active infection and is detectable from day 1 up to day 9. Xenodiagnosis, though not a routine clinical test, would also be possible as the mosquito could become infected by feeding on the viremic patient. In contrast, the host's antibody response takes time to develop. IgM antibodies, which are detected by ELISA, usually do not appear until day 4-5 of the illness and then rise to detectable levels. Therefore, on day 3, an IgM ELISA is the least likely test to be positive.
+
+=== q1811 | Medicine / Obstructive Lung Diseases ===
+Q: The image shows? EXAMINATION PAPER NOV-2023 The patient described can perceive basic visual features such as color, texture, and shape, which means primary visual processing is intact. This function is mainly carried out by the occipital lobe, specifically the primary visual cortex. Since basic perception is preserved, the lesion is unlikely to be in the occipital lobe. However, the patient is unable to identify or recognize objects despite seeing them clearly. This condition is called visual agnosia. Visual agnosia occurs when higher-order visual association areas are damaged. These association areas are located primarily in the inferior temporal cortex, particularly along the ventral visual processing stream (the “what” pathway). The ventral stream runs from the occipital lobe to the temporal lobe and is responsible for object recognition and identification. Damage to this pathway prevents the brain from attaching meaning to visual input, even though the person can describe the object's physical features. The frontal lobe is mainly involved in executive functions and motor control, while the parietal lobe processes spatial relationships (“where” pathway). Therefore, the lesion most likely involves the temporal lobe.
+A. Hypersensitivity pneumonitis
+B. Sarcoidosis
+C. Acute respiratory distress syndrome
+D. Bronchiectasis
+ANSWER: D
+EXPLANATION: The flow-volume loop shown demonstrates a classic obstructive pattern. The key feature is the "scooped-out" or concave appearance of the descending (expiratory) limb. This indicates a dynamic reduction in airflow during forced expiration, which is characteristic of airway obstruction. While the total volume (x-axis) may be normal or slightly reduced, the peak expiratory flow is decreased, and the flow rate drops off rapidly. Among the options provided, bronchiectasis is an obstructive lung disease characterized by permanent dilation of the airways, chronic inflammation, and poor mucus clearance, which leads to airflow limitation. In contrast, hypersensitivity pneumonitis, sarcoidosis, and ARDS typically produce a restrictive pattern on spirometry. A restrictive pattern is characterized by a reduction in lung volumes (FVC) with a normal or increased FEV1/FVC ratio, and the flow-volume loop would be a smaller, "witch's hat" version of the normal loop, without the scooping.
+
+=== q1844 | Medicine / Tuberculous Meningitis ===
+Q: A PAP smear from a 45-year-old woman with a left ovarian mass is shown. What is the most likely diagnosis? EXAMINATION PAPER NOV-2023 Hydroxyurea is the primary disease-modifying therapy used for patients with sickle cell anemia. Its main mechanism of action is the induction of fetal hemoglobin (HbF) production. HbF interferes with the polymerization of sickle hemoglobin (HbS), which is the underlying cause of red blood cell sickling. By increasing the proportion of HbF, hydroxyurea reduces the frequency of painful vaso-occlusive crises, decreases the incidence of acute chest syndrome, and lowers the need for blood transfusions. It is a cornerstone of long-term management to reduce the complications of the disease. Methotrexate is a chemotherapy/immunosuppressive agent. Eltrombopag is a thrombopoietin receptor agonist used to increase platelet counts. Methionine is an amino acid. None of these have a role in preventing sickle cell crises.
+A. Tuberculous meningitis
+B. Viral meningitis
+C. Bacterial meningitis
+D. Aseptic meningitis
+ANSWER: A
+EXPLANATION: The cerebrospinal fluid (CSF) analysis provides key clues to the etiology of meningitis. The presence of a lymphocytic pleocytosis (increased lymphocytes) argues against typical acute bacterial meningitis, which is characterized by a predominance of neutrophils. The significantly decreased glucose level (hypoglycorrhachia), often less than 40% of the serum glucose level, is a hallmark of infections where organisms actively consume glucose, such as bacterial, fungal, or tuberculous meningitis. Viral meningitis typically presents with normal CSF glucose. The moderately increased protein level is also consistent with an infectious or inflammatory process. This specific combination—a subacute clinical course with lymphocytic pleocytosis, very low glucose, and elevated protein—is the classic CSF profile for Tuberculous Meningitis.
+
+=== q1983 | ENT / Tympanoplasty ===
+Q: Match the following. Wullstein's Classification Procedure/other name a. Type II Fenestration tympano- plasty b. Type III Graft placed over the incus c. Type IV Cavum minor EXAMINATION PAPER MAY-2022 This is a duplicate of the previous question. To reiterate, vaccination guidelines for older adults prioritize protection against infections with high morbidity and mortality in this age group. The Varicella zoster virus vaccine (for shingles) is recommended for adults 50 years and older. The annual influenza vaccine is crucial for preventing severe illness from seasonal flu. The pneumococcal vaccine is recommended to prevent diseases like pneumonia and invasive meningitis. The Rota virus vaccine is a pediatric vaccine and is not administered to adults. Thus, the correct combination of recommended vaccines for the elderly from this list is 1, 3, and 4.
+A. Ureaplasma urealyticum
+B. Orientia tsutsugamushi
+C. Chlamydophila pneumoniae
+D. Chlamydia trachomatis
+ANSWER: A
+EXPLANATION: The class Mollicutes is a group of bacteria uniquely characterized by the complete absence of a cell wall. This fundamental structural difference makes them resistant to many common antibiotics, like penicillins, that target cell wall synthesis. The genera Mycoplasma and Ureaplasma are the primary human pathogens within this class. Therefore, Ureaplasma urealyticum is a classic example of a Mollicute. In contrast, Orientia tsutsugamushi is a species of Rickettsia. Chlamydophila pneumoniae and Chlamydia trachomatis are obligate intracellular bacteria belonging to the phylum Chlamydiae; they possess a cell wall, although it uniquely lacks peptidoglycan.
+
+=== q2020 | Surgery / Trauma ===
+Q: Which of the following options can be employed to determine cardiac output? a. ECHO EXAMINATION PAPER MAY-2022 a. A Marjolin ulcer (SCC in a chronic wound) is a large skin lesion. An incisional biopsy, such as a wedge biopsy (3) from the active edge, is appropriate for diagnosis. b. For a discrete cervical lymph node where lymphoma is a strong possibility, an excision biopsy (4) is the gold standard. It provides the entire node, which is essential for assessing the architecture needed for an accurate diagnosis. c. For a large, deep-seated soft tissue mass suspected to be a sarcoma, a core needle biopsy (1), often image-guided, is the preferred initial diagnostic procedure. It obtains adequate tissue for histology while minimizing tumor seeding. d. The standard first-line investigation for a solitary thyroid nodule to assess for malignancy is an ultrasound-guided fine-needle aspiration cytology (FNAC) (2).
+A. Resuscitative thoracotomy
+B. ICD placement
+C. Needle thoracocentesis
+D. Finger thoracotomy
+ANSWER: C
+EXPLANATION: The patient's signs—unilateral decreased breath sounds, contralateral tracheal deviation, and jugular venous distention—are the classic clinical triad for a tension pneumothorax. This is a true medical emergency where air accumulates in the pleural space, collapsing the lung and shifting the mediastinum, which obstructs venous return to the heart, leading to obstructive shock. The immediate, life-saving priority is to decompress the pleural space. The fastest and most appropriate initial intervention is needle thoracocentesis (needle decompression). This involves inserting a large-bore cannula into the pleural space (typically the 2nd intercostal space, midclavicular line) to release the trapped air and relieve the tension. This temporizing measure is then followed by the definitive placement of a chest tube (ICD) .
+
+=== q2098 | Pathology / Inherited Metabolic Disorders ===
+Q: What is the likely diagnosis for a baby who has delayed developmental milestones, hepatosplenomegaly, and the shown bone marrow microscopic findings? EXAMINATION PAPER NOV-2022 In pharmacokinetics, the absorption of a drug is characterized by two main parameters : the rate of absorption and the extent of absorption. The rate describes how quickly the drug enters the systemic circulation, which is indicated by Tmax (the time to reach maximum concentration) and Cmax (the maximum plasma concentration achieved). The extent of absorption, however, refers to the total amount or fraction of the administered drug that reaches the systemic circulation unchanged. This is a measure of the drug's bioavailability. The most reliable measure of the extent of absorption is the Area Under the Plasma Concentration-Time Curve (AUC). A larger AUC indicates that more of the drug has been absorbed into the systemic circulation over a period of time. T-1/2 (D) is the elimination half-life, which relates to drug elimination, not absorption.
+A. Nivolumab
+B. Pembrolizumab
+C. Trastuzumab
+D. Ipilimumab
+ANSWER: B
+EXPLANATION: Immune checkpoint inhibitors have revolutionized the treatment of many cancers. Pembrolizumab (brand name Keytruda) is an antibody that targets the programmed cell death protein 1 (PD-1) receptor. It has received FDA approval for the treatment of advanced endometrial carcinoma, particularly for patients whose cancer is mismatch repair deficient (dMMR) or microsatellite instability-high (MSI-H) and has progressed following prior systemic therapy. It works by blocking the PD-1/PD-L1 pathway, which cancer cells often exploit to evade the immune system, thereby restoring the ability of T-cells to attack the tumor. Nivolumab is another anti-PD-1 antibody used for other cancers. Ipilimumab is an anti-CTLA-4 antibody. Trastuzumab is a monoclonal antibody that targets the HER2 receptor and is not an immune checkpoint inhibitor.
+
+=== q2106 | Pharmacology / Adverse Drug Reactions ===
+Q: Which medication is most likely to have caused hyperpigmentation of the palms and soles EXAMINATION PAPER NOV-2022 The image displays the genome of the Human Papillomavirus (HPV). High-risk HPV types (like HPV-16 and HPV-18) are the primary cause of cervical cancer and other anogenital cancers. Their oncogenic potential is primarily attributed to two early viral proteins, E6 and E7. The E6 oncoprotein targets the tumor suppressor protein p53 for ubiquitination and degradation, thereby disrupting cell cycle arrest and apoptosis. The E7 oncoprotein targets the retinoblastoma tumor suppressor protein (pRb) for degradation. This releases the E2F transcription factor, which pushes the cell into the S phase of the cell cycle, promoting uncontrolled proliferation. The L1 and L2 proteins (C) are late genes that encode the major and minor capsid proteins, respectively, which are structural and not oncogenic. E1 and E2 (D) are involved in viral replication and transcription regulation.
+A. MRI showing density in less than 1/3rd of the area supplied by MCA
+B. Blood pressure of more than 185/110 mmHg
+C. Ischemic stroke within 2 hours
+D. Onset of symptoms <4 hours
+ANSWER: B
+EXPLANATION: Thrombolysis with tissue plasminogen activator (tPA) is a critical treatment for acute ischemic stroke, but it has strict inclusion and exclusion criteria to minimize the risk of hemorrhagic transformation. Statements and represent the therapeutic time window; treatment is most effective when given early, typically within 3 to 4.5 hours of symptom onset. Statement is an inclusion criterion; if a large area of the brain supplied by the middle cerebral artery (MCA) is already infarcted (hypodense on CT or evident on MRI), the risk of hemorrhage with thrombolysis is high. Therefore, evidence of infarction in less than one-third of the MCA territory is favorable. Statement , a persistently elevated blood pressure of more than 185/110 mmHg, is a major contraindication to thrombolysis. High blood pressure significantly increases the risk of intracranial hemorrhage after tPA administration. The blood pressure must be carefully lowered and maintained below this threshold before thrombolysis can be initiated.
+
+=== q2283 | Pathology / Immunopathology ===
+Q: Please match the following eggs with their corresponding organisms. cell, CMV EXAMINATION PAPER MAY-2021
+A. IgA
+B. IgE
+C. IgM
+D. IgG
+ANSWER: B
+EXPLANATION: The patient is experiencing a systemic allergic reaction, or anaphylaxis, triggered by a bee sting. This is a classic example of a Type I (immediate) hypersensitivity reaction. This type of reaction is mediated by Immunoglobulin E (IgE) antibodies. In a previously sensitized individual, specific IgE antibodies against bee venom antigens are bound to the surface of mast cells and basophils. Upon re-exposure to the venom (the bee sting), the antigens cross-link these surface-bound IgE molecules. This cross-linking triggers the rapid degranulation of the mast cells, releasing a massive amount of pre-formed and newly synthesized inflammatory mediators, such as histamine and leukotrienes. These mediators are responsible for the clinical manifestations of anaphylaxis, including vasodilation (causing hypotension), increased vascular permeability (causing facial swelling or angioedema), and smooth muscle contraction.
+
+=== q2315 | Microbiology / Parasitology Diagnosis ===
+Q: Which of the following methods is used for xenodiagnosis?
+A. Rabbit ileal loop for enterotoxigenic Escherichia coli
+B. Injecting Aedes thorax with blood of a suspected dengue patient
+C. Injecting a hamster with splenic biopsy for diagnosis of leishmaniasis
+D. Intradermal test on guinea pigs for toxigenicity of Corynebacterium diphtheriae
+ANSWER: C
+EXPLANATION: Xenodiagnosis is a diagnostic method in which material from a suspected patient is inoculated into a living susceptible animal or vector, and the animal is later examined for development of the infection. It is used when direct detection in hum
+
+=== q2380 | Paediatrics / Immunization ===
+Q: What is the likely diagnosis in a young child who presents with mild, intermittent upper abdominal pain and has the X-ray shown below? EXAMINATION PAPER MAY-2021 The patient has developed a symptomatic postoperative fluid collection (a biloma or abscess) in the subhepatic space following a cholecystectomy, as evidenced by her pain, tachycardia, and leukocytosis. The ultrasound has confirmed a well-defined 5×5 cm collection. Given that the patient is clinically stable, the most appropriate and least invasive management strategy is percutaneous drainage of the collection under imaging guidance. An ultrasound-guided pigtail catheter drainage allows for the evacuation of the infected fluid, which provides both a therapeutic benefit (relieving pressure and removing the source of infection) and a diagnostic sample for culture. This is often sufficient when combined with intravenous antibiotics. A laparoscopy and re-exploration (C) is a more invasive option reserved for patients who are unstable or fail percutaneous drainage. ERCP (D) would be indicated if a bile duct injury with an ongoing leak is suspected, but initial drainage is the priority.
+A. Veress needle
+B. Lind's needle
+C. Jacob needle
+D. Mathew needle
+ANSWER: A
+EXPLANATION: The instrument shown in the image is a Veress needle. It is a specialized, spring-loaded needle specifically designed for the initial insufflation of the abdomen (creation of a pneumoperitoneum) at the beginning of a laparoscopic procedure. Its key safety feature is a blunt, spring-loaded inner stylet that protrudes from the sharp outer cannula. As the needle is pushed through the layers of the abdominal wall, the blunt stylet retracts. Once the needle tip enters the peritoneal cavity, the loss of resistance allows the blunt stylet to spring forward, shielding the sharp tip and reducing the risk of inadvertently injuring the intra-abdominal org
+
+=== q2425 | Radiology / Radiotherapy Complications ===
+Q: For which procedure are the following instruments used? EXAMINATION PAPER MAY-2021 The image shows a coronal view of a CT scan of the paranasal sinuses. The arrow is pointing to the thin, horizontal plate of the ethmoid bone that forms the roof of the nasal cavity and the floor of the anterior cranial fossa. This structure is known as the cribriform plate. It is characterized by its numerous small perforations (foramina) which allow the passage of the olfactory nerve fascicles from the nasal epithelium to the olfactory bulb, which rests on its superior surface. Its delicate nature makes it vulnerable to fracture in cases of facial trauma, which can lead to cerebrospinal fluid (CSF) rhinorrhea and a risk of meningitis. The anterior and posterior ethmoidal canals (A, B) are small foramina located on the medial wall of the orbit. The optic nerve (C) is located more laterally and posteriorly, within the optic canal.
+A. Hypopituitarism
+B. Increased risk of cerebrovascular accident
+C. Optic nerve damage
+D. All of the above
+ANSWER: D
+EXPLANATION: Radiation therapy to the pituitary region, used for tumors like pituitary adenomas, can have several significant long-term side effects due to radiation damage to the gland and surrounding structures. Hypopituitarism : Radiation can cause delayed damage to the normal hormone-producing cells of the pituitary gland, leading to deficiencies in one or more pituitary hormones. This is the most common late complication. Optic nerve damage : The optic nerves and chiasm are located in very close proximity to the pituitary gland. They are highly sensitive to radiation, and damage can lead to a progressive and irreversible loss of vision, known as radiation-induced optic neuropathy. Increased risk of cerebrovascular accident : Radiation can induce vasculopathy in the large arteries at the base of the brain (e.g., the internal carotid arteries), leading to stenosis or occlusion and a significantly increased long-term risk of stroke. Since all these are well-documented and serious potential side effects, the correct is all of the above.
+
+=== q2448 | Physiology / Ventilation-Perfusion ===
+Q: If a patient has low blood oxygen (hypoxemia) but a normal alveolar-arterial (A-a) oxygen gradient, what medical condition does this typically point to?
+A. Right to left shunt
+B. Ventilation/perfusion (V/Q) mismatch
+C. Hypoventilation
+D. Alveolar membrane damage
+ANSWER: C
+EXPLANATION: 8. What is a characteristic feature observed in physiological jaundice? Increased indirect bilirubin, increased urobilinogen, absent bilirubin in urine Increased direct bilirubin, increased urobilinogen, absent bilirubin in urine Increased indirect bilirubin, absent urobilinogen, absent bilirubin in urine Increased direct bilirubin, absent urobilinogen, absent bilirubin in urine
+
+=== q2482 | Ophthalmology / Lacrimal Gland Tumours ===
+Q: By what mechanism did the injuries occur in a man brought to the emergency department EXAMINATION PAPER NOV-2021 Oculomotor nerve supplies most of the extraocular muscles: superior rectus, inferior rectus, medial rectus, inferior oblique, and levator palpebrae superioris. It also carries parasympathetic fibers to the pupil. In oculomotor nerve palsy: 1. The eye deviates “down and out” due to unopposed action of the lateral rectus (VI nerve) and superior oblique (IV nerve). 2. There is impaired upward, downward, and medial movement. 3. Ptosis may be present due to levator palpebrae involvement. 4. Pupil may be dilated if parasympathetic fibers are affected. The image shows limitation of multiple eye movements, not just a single direction. This excludes: 5. Medial rectus palsy (would only affect adduction) 6. Trochlear nerve palsy (primarily affects depression in adducted position) 7. Abducens nerve palsy (inability to abduct) Because several movements are restricted, the pattern is consistent with oculomotor nerve palsy. Thus, the correct diagnosis is Option (D).
+A. Adenoid cystic carcinoma
+B. Non-Hodgkin Lymphoma
+C. Pleomorphic adenoma
+D. Mucoepidermoid carcinoma
+ANSWER: C
+EXPLANATION: Pleomorphic adenoma is the most common tumor of the lacrimal gland. It is a benign epithelial tumor, also known as a benign mixed tumor, and resembles pleomorphic adenoma of the salivary glands because the lacrimal gland is structurally similar to salivary tissue. Clinically, pleomorphic adenoma presents as: 1. Slowly progressive, painless swelling in the superolateral orbit 2. Downward and medial displacement of the globe 3. No pain or rapid progression (suggesting benign nature) It is important to avoid incisional biopsy before complete excision because incomplete removal can lead to recurrence or malignant transformation. In contrast: 4. Adenoid cystic carcinoma is the most common malignant lacrimal gland tumor but less common overall than pleomorphic adenoma. 5. Non-Hodgkin lymphoma can involve the lacrimal gland but is not the most common primary tumor. 6. Mucoepidermoid carcinoma is rare in the lacrimal gland. Thus, the most common lacrimal gland tumor is pleomorphic adenoma.
+
+=== q2610 | Anatomy / Lungs Anatomy ===
+Q: What is the maximum level till which the lung reaches the liver?
+A. A
+B. B
+C. C
+D. D
+ANSWER: B
+EXPLANATION: B and C A, B, C, D EXAMINATION PAPER NOV-2020 B and C Gluconeogenesis is the metabolic pathway for the synthesis of glucose from non-carbohydrate precursors. It is largely the reverse of glycolysis, but it must bypass the three irreversible steps of glycolysis using a different set of enzymes. 1. The first bypass involves two enzymes : Pyruvate carboxylase converts pyruvate to oxaloacetate, and Phosphoenolpyruvate carboxykinase (PEPCK) then converts oxaloacetate to phosphoenolpyruvate. These two enzymes together bypass the irreversible step catalyzed by pyruvate kinase in glycolysis. 2. The other two bypass enzymes are fructose-1,6-bisphosphatase (bypassing phosphofructokinase) and glucose-6-phosphatase (bypassing glucokinase/hexokinase). 3. Hexokinase and pyruvate kinase are key regulatory enzymes of glycolysis, not gluconeogenesis. They catalyze irreversible steps in the forward direction (glucose breakdown) and are themselves bypassed during gluconeogenesis. Therefore, only PEPCK and pyruvate carboxylase from the list are gluconeogenic enzymes.
+
+=== q2726 | Surgery / Hepatobiliary Surgery ===
+Q: A 40-year-old female undergoes cholecystectomy and later develops postoperative abdominal pain. Which test is used to detect a bile leak?
+A. ERCP
+B. MRCP
+C. HIDA
+D. CECT
+ANSWER: C
+EXPLANATION: When a post-cholecystectomy bile leak is suspected, the most sensitive and specific functional imaging study to identify the leak is a HIDA scan (Hepatobiliary Iminodiacetic Acid scan), also known as cholescintigraphy. This is a nuclear medicine test where a radioactive tracer (e.g., technetium-99m labeled mebrofenin) is injected intravenously. The tracer is taken up by the hepatocytes and excreted into the biliary system, mimicking the flow of bile. The flow of the tracer is imaged over time with a gamma camera. In a patient with a bile leak, the scan will show the tracer flowing normally through the bile ducts but will also demonstrate the abnormal extravasation of the tracer from the biliary tree into the peritoneal cavity, confirming the presence, and often the location, of the leak. While MRCP shows anatomy and ERCP is therapeutic, HIDA is the best test to functionally demonstrate an active leak.

@@ -1,0 +1,2060 @@
+[
+ {
+  "qid": "q215",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Scaphoid Fracture",
+  "q": "A 45-year-old man falls on an outstretched hand and develops pain and tenderness in the anatomic snuffbox. Which carpal bone is most commonly fractured in this injury?",
+  "a": 0,
+  "o": [
+   "Scaphoid",
+   "Lunate",
+   "Triquetrum",
+   "Capitate"
+  ]
+ },
+ {
+  "qid": "q216",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Monteggia Fracture",
+  "q": "A 6-year-old boy falls on the elbow. X-ray shows a fracture of the proximal ulna with the radial head displaced off it. This Monteggia fracture-dislocation pattern classically dislocates which joint?",
+  "a": 1,
+  "o": [
+   "Distal radioulnar joint",
+   "Radiocapitellar (radial head) joint",
+   "Humeroulnar joint",
+   "Scapholunate joint"
+  ]
+ },
+ {
+  "qid": "q217",
+  "e": "INI-CET",
+  "y": "2023",
+  "tp": "Colles Fracture",
+  "q": "An elderly woman falls on her outstretched palm and develops a painful wrist that shows a dinner-fork-like dorsal bump. Which fracture explains this deformity?",
+  "a": 0,
+  "o": [
+   "Colles fracture",
+   "Smith fracture",
+   "Barton fracture",
+   "Scaphoid waist fracture"
+  ]
+ },
+ {
+  "qid": "q218",
+  "e": "INI-CET",
+  "y": "2022",
+  "tp": "Erb Palsy",
+  "q": "A newborn delivered with shoulder traction keeps the arm adducted with forearm pronated, palm facing backwards (\"waiter's tip\"). Which cervical roots are affected in this pattern?",
+  "a": 1,
+  "o": [
+   "C7 alone",
+   "C5 and C6",
+   "C8 and T1",
+   "Entire cord flat"
+  ]
+ },
+ {
+  "qid": "q219",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Klumpke Palsy",
+  "q": "A young adult with a traction injury develops a claw hand with an ipsilateral drooping eyelid and small pupil. Which nerve roots are involved?",
+  "a": 1,
+  "o": [
+   "C5-C6",
+   "C8-T1",
+   "C7",
+   "C5-T1 diffusely"
+  ]
+ },
+ {
+  "qid": "q220",
+  "e": "INI-CET",
+  "y": "2023",
+  "tp": "Compartment Syndrome",
+  "q": "Two days after a closed tibial shaft fracture immobilised in a cast, the patient has intense pain not relieved by analgesia, pain on passive toe stretch and a tense calf. Which single action is most appropriate now?",
+  "a": 3,
+  "o": [
+   "Firmly wrap the fracture in crepe bandage for a week",
+   "Elevate the limb above heart level",
+   "Repeat palpation of distal pulses",
+   "Check intra-compartmental pressure as the next step"
+  ]
+ },
+ {
+  "qid": "q221",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Supracondylar Humerus Fracture",
+  "q": "In children, which injury most commonly produces acute forearm compartment syndrome that may later lead to Volkmann ischemic contracture if undiagnosed?",
+  "a": 0,
+  "o": [
+   "Supracondylar fracture of the humerus",
+   "Fracture of the radial head with posterior interosseous palsy",
+   "Restriction of pronation without ischemia",
+   "Elbow osteoarthritis"
+  ]
+ },
+ {
+  "qid": "q222",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Osteosarcoma",
+  "q": "A 17-year-old boy has night pain and a warm swelling just above the knee. X-ray shows a sunburst pattern of subperiosteal bone formation. Which bone is the typical most frequent interface for this tumour?",
+  "a": 0,
+  "o": [
+   "Distal femur",
+   "Proximal humerus",
+   "Calcaneum",
+   "Vertebral body"
+  ]
+ },
+ {
+  "qid": "q223",
+  "e": "INI-CET",
+  "y": "2022",
+  "tp": "Giant Cell Tumor",
+  "q": "A 30-year-old woman has mild pain and swelling at the wrist. X-ray of the distal radius end shows a radiolucent, eccentric expansile soap-bubble lesion crossing the epiphysis. Most likely diagnosis?",
+  "a": 0,
+  "o": [
+   "Giant cell tumour",
+   "Osteochondroma",
+   "Simple bone cyst",
+   "Ewing sarcoma"
+  ]
+ },
+ {
+  "qid": "q224",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Osteochondroma",
+  "q": "A 15-year-old boy has a hard, painless, slow growing bony lump on the media of the proximal tibia, present for years. The X-ray shows a bone stalk continuous with the shaft. Which tumour is this?",
+  "a": 0,
+  "o": [
+   "Osteochondroma",
+   "Enchondroma",
+   "Osteoid osteoma",
+   "Chondroblastoma"
+  ]
+ },
+ {
+  "qid": "q225",
+  "e": "INI-CET",
+  "y": "2021",
+  "tp": "Osteomyelitis",
+  "q": "A 7-year-old has fever and a warm tender lower thigh refusing to bear weight. Which bone group is the most common site of acute hematogenous osteomyelitis in children?",
+  "a": 0,
+  "o": [
+   "Femur or tibia",
+   "Calcaneum",
+   "Radius",
+   "Phalanges"
+  ]
+ },
+ {
+  "qid": "q226",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "ACL Injury",
+  "q": "A footballer pivots on the knee and the joint later feels as if it gives way. The tibia slides in front of the femur with the knee flexed. Which ligament has been torn?",
+  "a": 2,
+  "o": [
+   "Posterior cruciate ligament",
+   "Lateral collateral ligament",
+   "Anterior cruciate ligament",
+   "Medial collateral ligament"
+  ]
+ },
+ {
+  "qid": "q728",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Inborn Errors of Metabolism",
+  "q": "In an adult, the dominant blood supply to the femoral head comes from which source?",
+  "a": 0,
+  "o": [
+   "Medial circumflex femoral artery via retinacular vessels",
+   "Lateral circumflex femoral artery",
+   "Artery of the ligamentum teres (foveolar artery)",
+   "Inferior gluteal artery"
+  ]
+ },
+ {
+  "qid": "q729",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Ankylosing Spondylitis",
+  "q": "A 70-year-old woman slips and sustains an extracapsular intertrochanteric fracture of the femur. Which treatment is the standard choice?",
+  "a": 0,
+  "o": [
+   "Dynamic hip screw (sliding hip screw)",
+   "Hemiarthroplasty",
+   "Cannulated cancellous screws",
+   "Traction alone"
+  ]
+ },
+ {
+  "qid": "q730",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Multiple Myeloma",
+  "q": "Two days after a shaft of femur fracture, a man develops confusion, hypoxia with SpO2 unresponsive to high-flow oxygen, and petechiae over the chest, while the chest X-ray is clear. The diagnosis is:",
+  "a": 0,
+  "o": [
+   "Fat embolism syndrome",
+   "Pulmonary thromboembolism",
+   "Aspiration pneumonia",
+   "ARDS from sepsis"
+  ]
+ },
+ {
+  "qid": "q731",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Trendelenburg Gait",
+  "q": "After a road traffic accident, a patient's affected leg lies flexed, adducted and internally rotated with apparent shortening. Which injury fits this posture?",
+  "a": 0,
+  "o": [
+   "Posterior dislocation of the hip",
+   "Anterior dislocation of the hip",
+   "Intracapsular neck of femur fracture",
+   "Acetabular central fracture-dislocation"
+  ]
+ },
+ {
+  "qid": "q732",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Kawasaki Disease",
+  "q": "The most common type of shoulder dislocation is:",
+  "a": 0,
+  "o": [
+   "Anterior (subcoracoid)",
+   "Posterior",
+   "Inferior (luxatio erecta)",
+   "Superior"
+  ]
+ },
+ {
+  "qid": "q733",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Papulosquamous Disorders",
+  "q": "A man sustains a mid-shaft humerus fracture and cannot extend his wrist or fingers afterwards. Which nerve is injured?",
+  "a": 0,
+  "o": [
+   "Radial nerve",
+   "Median nerve",
+   "Ulnar nerve",
+   "Musculocutaneous nerve"
+  ]
+ },
+ {
+  "qid": "q734",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Hair Loss",
+  "q": "Avulsion of the medial epicondyle of the humerus most commonly injures which nerve?",
+  "a": 0,
+  "o": [
+   "Ulnar nerve",
+   "Radial nerve",
+   "Median nerve",
+   "Anterior interosseous nerve"
+  ]
+ },
+ {
+  "qid": "q735",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Anaesthetic Agents",
+  "q": "Which lesion pairs a fracture of the distal third of the radius with dislocation of the distal radioulnar joint?",
+  "a": 0,
+  "o": [
+   "Galeazzi fracture-dislocation",
+   "Monteggia fracture-dislocation",
+   "Essex-Lopresti injury",
+   "Colle's fracture"
+  ]
+ },
+ {
+  "qid": "q736",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Anaesthetic Agents",
+  "q": "A 5-year-old boy limps with pain in the hip and thigh, worse on activity. MRI shows avascular necrosis of the femoral head. The most likely diagnosis is:",
+  "a": 0,
+  "o": [
+   "Legg-Calve-Perthes disease",
+   "Slipped capital femoral epiphysis",
+   "Transient synovitis",
+   "Septic arthritis"
+  ]
+ },
+ {
+  "qid": "q737",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Chest Trauma",
+  "q": "A 13-year-old obese boy complains of hip and knee pain with limited internal rotation of the hip. X-ray shows posterior and medial displacement of the femoral head relative to the neck. The management is:",
+  "a": 0,
+  "o": [
+   "In-situ screw fixation (pinning)",
+   "Traction and observation",
+   "Containment bracing",
+   "Open reduction and grafting"
+  ]
+ },
+ {
+  "qid": "q738",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Anaesthetic Circuits",
+  "q": "A 5-year-old child has bilateral knee and leg pain with normal bone density. X-ray shows metaphyseal 'corner' (Frankel) signs and subperiosteal haemorrhage. The diagnosis is:",
+  "a": 0,
+  "o": [
+   "Scurvy",
+   "Rickets",
+   "Metaphyseal dysplasia",
+   "Osteogenesis imperfecta"
+  ]
+ },
+ {
+  "qid": "q739",
+  "e": "NEET PG",
+  "y": "2023",
+  "tp": "Hip Fractures",
+  "q": "A patient with an enlarged maxilla, progressive hearing loss and visual deterioration has a markedly raised serum alkaline phosphatase with normal calcium and phosphate. The diagnosis is:",
+  "a": 0,
+  "o": [
+   "Paget's disease of bone",
+   "Fibrous dysplasia",
+   "Osteomalacia",
+   "Primary hyperparathyroidism"
+  ]
+ },
+ {
+  "qid": "q740",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Parathyroid Disorders",
+  "q": "Which X-ray finding is the most specific pointer to osteomalacia in an adult?",
+  "a": 0,
+  "o": [
+   "Looser zones (pseudofractures)",
+   "Codman triangle",
+   "Crescent sign",
+   "Onion-peel periosteal reaction"
+  ]
+ },
+ {
+  "qid": "q741",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Craniopharyngioma",
+  "q": "A postmenopausal woman's DEXA scan shows a lumbar spine T-score of -3.2. How is this classified?",
+  "a": 0,
+  "o": [
+   "Osteoporosis",
+   "Osteopenia",
+   "Normal bone mass",
+   "Osteomalacia"
+  ]
+ },
+ {
+  "qid": "q742",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Substance Use Disorders",
+  "q": "A newborn with multiple long-bone fractures sustained in utero has blue sclerae and dental abnormalities. The likely condition and its basic defect are:",
+  "a": 0,
+  "o": [
+   "Osteogenesis imperfecta - defective type I collagen",
+   "Hypophosphatasia - low alkaline phosphatase",
+   "Osteopetrosis - defective osteoclast function",
+   "Rickets - vitamin D deficiency"
+  ]
+ },
+ {
+  "qid": "q743",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Depression",
+  "q": "An adolescent has dull bone pain that characteristically wakes him at night and is dramatically relieved by aspirin. X-ray shows a small radiolucent nidus with surrounding sclerosis in the femoral diaphysis. The best definitive treatment is:",
+  "a": 0,
+  "o": [
+   "CT-guided radiofrequency ablation",
+   "Wide en-bloc resection",
+   "Radiotherapy",
+   "Oral bisphosphonates"
+  ]
+ },
+ {
+  "qid": "q744",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Obsessive-Compulsive Disorder",
+  "q": "Which is the most common primary malignant bone tumour overall?",
+  "a": 0,
+  "o": [
+   "Multiple myeloma",
+   "Osteosarcoma",
+   "Chondrosarcoma",
+   "Ewing's sarcoma"
+  ]
+ },
+ {
+  "qid": "q745",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "EEG",
+  "q": "A 20-year-old woman has a gradually enlarging painless tibial swelling. X-ray shows an intramedullary lesion with a ground-glass matrix and thinning of cortex, and the femur shows a shepherd's-crook deformity. The diagnosis is:",
+  "a": 0,
+  "o": [
+   "Fibrous dysplasia",
+   "Non-ossifying fibroma",
+   "Enchondroma",
+   "Chondrosarcoma"
+  ]
+ },
+ {
+  "qid": "q746",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Pediatric Resuscitation",
+  "q": "A 5-year-old boy has a red, hot, swollen knee with high fever and refuses to bear weight. What is the single most important next step to confirm the diagnosis?",
+  "a": 0,
+  "o": [
+   "Aspirate the joint for analysis and culture",
+   "Start empirical analgesics and observe",
+   "Obtain a bone scan",
+   "Order an X-ray and wait for the report"
+  ]
+ },
+ {
+  "qid": "q747",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Post-Cardiac Arrest Care",
+  "q": "A 12-year-old boy has had a dull aching pain and mild swelling in the lower leg for six months, without fever. X-ray shows a well-defined round lytic lesion in the tibial metaphysis with a surrounding rim of sclerosis. The most likely diagnosis is:",
+  "a": 0,
+  "o": [
+   "Brodie's abscess",
+   "Ewing's sarcoma",
+   "Osteoblastoma",
+   "Osteosarcoma"
+  ]
+ },
+ {
+  "qid": "q748",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Radiological Anatomy",
+  "q": "Which angle is measured to quantify the severity of a scoliotic curve on a standing X-ray?",
+  "a": 0,
+  "o": [
+   "Cobb angle",
+   "Bohler angle",
+   "Baumann angle",
+   "Garden angle"
+  ]
+ },
+ {
+  "qid": "q749",
+  "e": "NEET PG",
+  "y": "2025",
+  "tp": "Urolithiasis",
+  "q": "A 26-year-old man has chronic low back pain with early-morning stiffness for over an hour, relieved by exercise, plus recurrent anterior uveitis. Which investigation is most useful for an early diagnosis?",
+  "a": 0,
+  "o": [
+   "MRI of the sacroiliac joints",
+   "CT of the lumbar spine",
+   "Plain lumbosacral X-ray",
+   "Serum HLA-B27 alone"
+  ]
+ },
+ {
+  "qid": "q750",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Pleural Effusion",
+  "q": "A patient has pain in the DIP and PIP joints and the first carpometacarpal joint, while the wrist and metacarpophalangeal joints are spared. The likely diagnosis is:",
+  "a": 0,
+  "o": [
+   "Osteoarthritis of the hand",
+   "Rheumatoid arthritis",
+   "Psoriatic arthritis",
+   "Gouty arthritis"
+  ]
+ },
+ {
+  "qid": "q751",
+  "e": "NEET PG",
+  "y": "2021",
+  "tp": "Molecular Genetics",
+  "q": "Pain felt only between 60 and 120 degrees of active shoulder abduction, with relief at the extremes, describes:",
+  "a": 0,
+  "o": [
+   "Painful arc (subacromial impingement) syndrome",
+   "Adhesive capsulitis",
+   "AC joint arthritis",
+   "Glenohumeral instability"
+  ]
+ },
+ {
+  "qid": "q752",
+  "e": "NEET PG",
+  "y": "2022",
+  "tp": "Rubella",
+  "q": "An obese man has burning pain and numbness over the outer side of the thigh, worse on standing and walking and relieved by sitting. Examination shows sensory loss only, with no weakness. The diagnosis is:",
+  "a": 0,
+  "o": [
+   "Meralgia paresthetica",
+   "L2 radiculopathy",
+   "Femoral neuropathy",
+   "Lateral popliteal nerve palsy"
+  ]
+ },
+ {
+  "qid": "q753",
+  "e": "NEET PG",
+  "y": "2024",
+  "tp": "Incubation Periods",
+  "q": "A rigid plate is used to compress and fix a fracture. By which mechanism does this fracture heal?",
+  "a": 0,
+  "o": [
+   "Primary (direct) bone healing without callus",
+   "Secondary healing with abundant callus",
+   "Intramembranous healing through periosteum only",
+   "Fibrous non-union with interposition"
+  ]
+ },
+ {
+  "qid": "q754",
+  "e": "NEET PG",
+  "y": "2023",
+  "tp": "Microscopy Identification",
+  "q": "A patellar tendon-bearing (PTB) cast is most appropriate for which fracture?",
+  "a": 0,
+  "o": [
+   "Shaft of tibia fracture",
+   "Fracture of the patella",
+   "Fracture of the femur",
+   "Fracture of the medial malleolus"
+  ]
+ },
+ {
+  "qid": "q755",
+  "e": "INI-CET",
+  "y": "2024",
+  "tp": "Amyloidosis",
+  "q": "A 75-year-old man sustains a displaced intracapsular fracture of the femoral neck. What is the most commonly recommended management?",
+  "a": 0,
+  "o": [
+   "Cemented hemiarthroplasty",
+   "Internal fixation with cannulated screws",
+   "Dynamic hip screw",
+   "Bed rest with traction"
+  ]
+ },
+ {
+  "qid": "q756",
+  "e": "INI-CET",
+  "y": "2023",
+  "tp": "Biostatistics",
+  "q": "After trauma, a patient's leg lies flexed, abducted and externally rotated. Which injury is most likely?",
+  "a": 0,
+  "o": [
+   "Anterior dislocation of the hip",
+   "Posterior dislocation of the hip",
+   "Intertrochanteric fracture",
+   "Femoral neck fracture"
+  ]
+ },
+ {
+  "qid": "q757",
+  "e": "INI-CET",
+  "y": "2025",
+  "tp": "Evidence-Based Medicine",
+  "q": "A 10-year-old boy with an extension-type supracondylar fracture cannot make an 'OK' sign (thumb-index ring) after the injury. Which nerve is involved?",
+  "a": 0,
+  "o": [
+   "Anterior interosseous nerve (median)",
+   "Radial nerve",
+   "Ulnar nerve",
+   "Musculocutaneous nerve"
+  ]
+ },
+ {
+  "qid": "q758",
+  "e": "INI-CET",
+  "y": "2022",
+  "tp": "Muscle Physiology",
+  "q": "A fracture of the neck of the fibula produces which of the following clinical patterns?",
+  "a": 0,
+  "o": [
+   "Foot drop with high-stepping gait and first-web-space numbness",
+   "Inability to plantar-flex the foot",
+   "Loss of sensation over the medial sole",
+   "Weakness of all calf muscles with absent ankle jerk"
+  ]
+ },
+ {
+  "qid": "q759",
+  "e": "INI-CET",
+  "y": "2022",
+  "tp": "Membrane Physiology",
+  "q": "Which combination of injuries constitutes the 'terrible triad' of the elbow?",
+  "a": 0,
+  "o": [
+   "Elbow dislocation + radial head fracture + coronoid process fracture",
+   "Elbow dislocation + medial epicondyle avulsion + ulnar nerve palsy",
+   "Radial head fracture + capitellum fracture + medial collateral tear",
+   "Olecranon fracture + radial head fracture + distal radioulnar injury"
+  ]
+ },
+ {
+  "qid": "q760",
+  "e": "INI-CET",
+  "y": "2024",
+  "tp": "Muscle Contraction",
+  "q": "A 5-month-old infant has a positive Galeazzi sign (apparent leg-length inequality) and an Ortolani clunk. What is the first-line treatment?",
+  "a": 0,
+  "o": [
+   "Pavlik harness",
+   "Immediate open reduction",
+   "Spica cast application",
+   "Surgical derotation osteotomy"
+  ]
+ },
+ {
+  "qid": "q761",
+  "e": "INI-CET",
+  "y": "2022",
+  "tp": "Muscle Physiology",
+  "q": "In the Ponseti method for clubfoot (CTEV), which deformity is corrected FIRST in the sequence of manipulations and casting?",
+  "a": 0,
+  "o": [
+   "Cavus",
+   "Forefoot adductus",
+   "Hindfoot varus",
+   "Equinus"
+  ]
+ },
+ {
+  "qid": "q762",
+  "e": "INI-CET",
+  "y": "2022",
+  "tp": "Energy Metabolism",
+  "q": "A child walks with difficulty and has marked bowing of the legs. Serum alkaline phosphatase is 1322 IU/L with low phosphate. The most likely diagnosis is:",
+  "a": 0,
+  "o": [
+   "Rickets",
+   "Osteomalacia",
+   "Osteogenesis imperfecta",
+   "Paget's disease"
+  ]
+ },
+ {
+  "qid": "q763",
+  "e": "INI-CET",
+  "y": "2025",
+  "tp": "Glycogen Storage Diseases",
+  "q": "A 13-year-old boy has months of waxing-and-waning arm pain, low-grade fever and a raised ESR, with a destructive diaphyseal lesion on X-ray. Ewing's sarcoma and osteomyelitis both fit. What is the next best step?",
+  "a": 0,
+  "o": [
+   "MRI to differentiate and define tumour extent",
+   "Immediate open biopsy",
+   "Bone marrow aspiration",
+   "PET scan"
+  ]
+ },
+ {
+  "qid": "q764",
+  "e": "INI-CET",
+  "y": "2024",
+  "tp": "Vitamin B6 Deficiency",
+  "q": "A 19-year-old man has knee pain and a lytic lesion in the epiphysis of the proximal tibia. Biopsy shows sheets of chondroblasts with a cobblestone pattern and chicken-wire calcification. The diagnosis is:",
+  "a": 0,
+  "o": [
+   "Chondroblastoma",
+   "Giant cell tumour",
+   "Chondromyxoid fibroma",
+   "Enchondroma"
+  ]
+ },
+ {
+  "qid": "q765",
+  "e": "INI-CET",
+  "y": "2022",
+  "tp": "Mitochondrial Disorders",
+  "q": "The most common pattern of vertebral involvement in tuberculous spondylitis (Pott's spine) is:",
+  "a": 0,
+  "o": [
+   "Paradiscal (adjacent to the disc)",
+   "Central body",
+   "Anterior ligamentous",
+   "Posterior appendiceal"
+  ]
+ },
+ {
+  "qid": "q766",
+  "e": "INI-CET",
+  "y": "2025",
+  "tp": "Acid-Base Disorders",
+  "q": "According to the WHO, which test is recommended as the diagnostic test for spinal tuberculosis?",
+  "a": 0,
+  "o": [
+   "GeneXpert MTB/RIF (NAAT)",
+   "Mantoux test",
+   "Interferon-gamma release assay",
+   "CT-guided needle biopsy culture"
+  ]
+ },
+ {
+  "qid": "q767",
+  "e": "INI-CET",
+  "y": "2024",
+  "tp": "Ketone Metabolism",
+  "q": "A 3-year-old child has fever of 39 deg C, refuses to bear weight, ESR 55 mm/h and WBC 15,000/cu mm. How many of the Kocher criteria are satisfied, and what is the likely diagnosis?",
+  "a": 0,
+  "o": [
+   "All four - septic arthritis",
+   "Two - transient synovitis",
+   "One - normal hip",
+   "Three - Perthes disease"
+  ]
+ },
+ {
+  "qid": "q768",
+  "e": "INI-CET",
+  "y": "2022",
+  "tp": "Biochemical Tests",
+  "q": "A 65-year-old woman gets leg pain radiating down both legs after walking about 100 metres, relieved by leaning forward, but climbs stairs without pain. Peripheral pulses are normal. The diagnosis is:",
+  "a": 0,
+  "o": [
+   "Lumbar canal stenosis with neurogenic claudication",
+   "Vascular claudication",
+   "Osteoporotic vertebral compression fracture",
+   "Hip osteoarthritis"
+  ]
+ },
+ {
+  "qid": "q769",
+  "e": "INI-CET",
+  "y": "2023",
+  "tp": "Glycogen Storage Diseases",
+  "q": "A 35-year-old woman has symmetric pain and swelling of both wrists, MCP and PIP joints with morning stiffness lasting two hours, and the most specific serological marker would be:",
+  "a": 0,
+  "o": [
+   "Anti-cyclic citrullinated peptide (anti-CCP) antibodies",
+   "Rheumatoid factor",
+   "Anti-nuclear antibody",
+   "HLA-B27"
+  ]
+ },
+ {
+  "qid": "q770",
+  "e": "INI-CET",
+  "y": "2022",
+  "tp": "Pathology Basics",
+  "q": "A patient with an open (Gustilo type III) fracture of the femur shaft arrives in the emergency room. Which step is NOT part of the immediate emergency management?",
+  "a": 0,
+  "o": [
+   "Immediate open reduction and internal fixation",
+   "Intravenous broad-spectrum antibiotics",
+   "Wound irrigation and debridement",
+   "Tetanus prophylaxis"
+  ]
+ },
+ {
+  "qid": "q771",
+  "e": "INI-CET",
+  "y": "2025",
+  "tp": "Primary Immunodeficiencies",
+  "q": "A 30-year-old woman has generalised bone pain and fatigue, X-ray shows diffuse osteopenia, and blood shows hypercalcaemia with hypophosphataemia. Which test would best localise the cause?",
+  "a": 0,
+  "o": [
+   "Tc-99m sestamibi parathyroid scan",
+   "MRI of the spine",
+   "DEXA scan",
+   "Serum 25-hydroxyvitamin D"
+  ]
+ },
+ {
+  "qid": "q772",
+  "e": "INI-CET",
+  "y": "2023",
+  "tp": "Protein Folding Disorders",
+  "q": "A patient cannot initiate shoulder abduction; when the examiner releases the arm after lifting it, it falls, and passive elevation is full. Which tendon is most likely torn?",
+  "a": 0,
+  "o": [
+   "Supraspinatus",
+   "Subscapularis",
+   "Infraspinatus",
+   "Long head of biceps"
+  ]
+ },
+ {
+  "qid": "q1147",
+  "e": "INI-CET",
+  "y": "MAY 2025",
+  "tp": "Labor Management",
+  "q": "According to WHO, which investigation is included in the diagnostic work-up for spinal tuberculosis?",
+  "a": 2,
+  "o": [
+   "X-ray",
+   "CT scan",
+   "CBNAAT",
+   "Culture and sensitivity"
+  ]
+ },
+ {
+  "qid": "q1148",
+  "e": "INI-CET",
+  "y": "MAY 2025",
+  "tp": "Imperforate Hymen",
+  "q": "What is the recommended treatment for an inter-trochanteric fracture in a 72-year-old woman?",
+  "a": 1,
+  "o": [
+   "Hemiarthroplasty / Dynamic Hip Screw (DHS)",
+   "Intramedullary nailing",
+   "Open Reduction and Internal Fixation (ORIF) with plating",
+   "Boot and bar"
+  ]
+ },
+ {
+  "qid": "q1149",
+  "e": "INI-CET",
+  "y": "MAY 2025",
+  "tp": "Reproductive Endocrinology",
+  "q": "A laborer falls on an outstretched hand and develops pain in the anatomical snuffbox. What is the most appropriate next step?",
+  "a": 2,
+  "o": [
+   "NSAIDs and discharge",
+   "MRI of the wrist",
+   "Thumb spica cast and follow-up after 10-14 days",
+   "CT scan of the wrist"
+  ]
+ },
+ {
+  "qid": "q1150",
+  "e": "INI-CET",
+  "y": "MAY 2025",
+  "tp": "Primary Amenorrhea",
+  "q": "A patient with rheumatoid arthritis develops neck pain along with clinical features of myelopathy. What is the most likely diagnosis?",
+  "a": 2,
+  "o": [
+   "Osteoarthritis of vertebrae",
+   "C2-C3 intervertebral stenosis",
+   "Atlantoaxial dislocation",
+   "Disc herniation"
+  ]
+ },
+ {
+  "qid": "q1330",
+  "e": "INI-CET",
+  "y": "MAY 2024",
+  "tp": "Oral Lesions (Hairy Leukoplakia)",
+  "q": "What is the standard management for a 75-year- old man with an intracapsular fracture of the femoral neck?",
+  "a": 0,
+  "o": [
+   "Hemiarthroplasty",
+   "Boot and Bar Cast",
+   "Intramedullary Nail",
+   "Russell’s Traction"
+  ]
+ },
+ {
+  "qid": "q1331",
+  "e": "INI-CET",
+  "y": "MAY 2024",
+  "tp": "Z-Plasty (Plastic Surgery)",
+  "q": "In a Salter–Harris Type I fracture, through which layer does the fracture pass, resulting in a separation of that layer?",
+  "a": 1,
+  "o": [
+   "Mineralization Layer",
+   "Hypertrophic or Calcific Layer",
+   "Resting Layer",
+   "Through whole of Epiphysis"
+  ]
+ },
+ {
+  "qid": "q1332",
+  "e": "INI-CET",
+  "y": "MAY 2024",
+  "tp": "VAC Therapy (Wound Management)",
+  "q": "What is the preferred treatment for a 26-year-old man with a fracture of the proximal one-third of the femoral shaft?",
+  "a": 0,
+  "o": [
+   "Interlocking Nail",
+   "Hip Spica",
+   "Above Knee Slab",
+   "Above Knee Cast"
+  ]
+ },
+ {
+  "qid": "q1333",
+  "e": "INI-CET",
+  "y": "MAY 2024",
+  "tp": "Live Vaccines (Contraindications)",
+  "q": "Which of the following is an osteoporotic fracture?",
+  "a": 0,
+  "o": [
+   "Vertebrae",
+   "Subtrochanteric Fracture",
+   "Glenoid Fracture",
+   "Midshaft of Humerus"
+  ]
+ },
+ {
+  "qid": "q1334",
+  "e": "INI-CET",
+  "y": "MAY 2024",
+  "tp": "Turner Syndrome",
+  "q": "Which of the following is the Zone of Calcification in the image given below? NODIA 99=== page  97 INICET Examination Paper",
+  "a": 3,
+  "o": [
+   "1",
+   "2",
+   "3",
+   "4"
+  ]
+ },
+ {
+  "qid": "q1335",
+  "e": "INI-CET",
+  "y": "MAY 2024",
+  "tp": "Immune Thrombocytopenia (ITP)",
+  "q": "Which of the following is a complication of intermittent administration of Teriparatide?",
+  "a": 2,
+  "o": [
+   "Osteonecrosis of Jaw",
+   "Net Bone Loss",
+   "Osteosarcoma",
+   "Subtrochanteric Fracture of Femur"
+  ]
+ },
+ {
+  "qid": "q1336",
+  "e": "INI-CET",
+  "y": "MAY 2024",
+  "tp": "Neonatal Respiratory Distress Syndrome",
+  "q": "All of the following regarding Ankylosing Spondylitis are true except:",
+  "a": 0,
+  "o": [
+   "Occurs before the age of 20, never after 40",
+   "More common in males than females",
+   "HLA-B27 is positive in >90%",
+   "Non-erosive arthritis"
+  ]
+ },
+ {
+  "qid": "q1530",
+  "e": "INI-CET",
+  "y": "NOV 2024",
+  "tp": "Pelvic Inflammatory Disease",
+  "q": "A 35-year-old patient reports back pain, stiffness, and repeated episodes of red, painful eyes. Examination shows anterior uveitis and sacroiliitis. Which HLA type is most commonly linked to this condition?",
+  "a": 2,
+  "o": [
+   "HLA DQB1",
+   "HLA DR3",
+   "HLA B27",
+   "HLA DR4"
+  ]
+ },
+ {
+  "qid": "q1531",
+  "e": "INI-CET",
+  "y": "NOV 2024",
+  "tp": "Obstetric Ultrasound Signs",
+  "q": "An elderly patient sustains a fracture after a minor fall. X-ray imaging reveals a pathological fracture with lytic lesions in the femur. What is the most likely underlying cause?",
+  "a": 0,
+  "o": [
+   "Bone metastasis",
+   "Tubercular hip",
+   "Brown tumor",
+   "Eosinophilic granuloma"
+  ]
+ },
+ {
+  "qid": "q1532",
+  "e": "INI-CET",
+  "y": "NOV 2024",
+  "tp": "Blood Transfusion Complications",
+  "q": "Difficulty standing on one leg is caused by weakness of which muscle on the opposite (supporting) side?",
+  "a": 3,
+  "o": [
+   "Quadratus lumborum",
+   "Gluteus maximus",
+   "Iliacus",
+   "Gluteus medius"
+  ]
+ },
+ {
+  "qid": "q1535",
+  "e": "INI-CET",
+  "y": "NOV 2024",
+  "tp": "Inguinal Canal",
+  "q": "A woman reports experiencing hair loss for the past month and had COVID-19 eight weeks ago. What is the most likely diagnosis?",
+  "a": 0,
+  "o": [
+   "Telogen Effluvium",
+   "Trichomania",
+   "Anagen Effluvium",
+   "Androgenic alopecia female pattern"
+  ]
+ },
+ {
+  "qid": "q1639",
+  "e": "INI-CET",
+  "y": "MAY 2023",
+  "tp": "Dermatitis",
+  "q": "In a 14-year-old boy who has had a mushroom- shaped tumor in the distal femur for two years, which of the following characteristics suggests that the tumor has undergone malignant transformation?",
+  "a": 0,
+  "o": [
+   "Cartilage thickness > 3 cm",
+   "Bone marrow is continuous with the parent bone",
+   "The cartilaginous growth goes towards the joint",
+   "Cartilage thickness > 2 cm"
+  ]
+ },
+ {
+  "qid": "q1857",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Medicolegal Examination",
+  "q": "A 40-year-old woman presents with bilateral, symmetrical tenderness in the joints of her hands and ankles, along with marked early-morning stiffness but no redness on examination. Based on these findings, what is the most probable diagnosis?",
+  "a": 3,
+  "o": [
+   "Gout",
+   "Psoriatic Arthritis",
+   "Osteoarthritis",
+   "Rheumatoid arthritis"
+  ]
+ },
+ {
+  "qid": "q1858",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Forensic Pathology",
+  "q": "For which type of fractures does the Hawkins classification apply?",
+  "a": 0,
+  "o": [
+   "Talus",
+   "Tibia",
+   "Humerus",
+   "Calcaneus"
+  ]
+ },
+ {
+  "qid": "q1859",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Forensic Toxicology",
+  "q": "In a patient who presents after a road traffic accident and is unable to dorsiflex or evert the ankle, what gait abnormality would be expected based on the X-ray findings? Click Here to Buy book on Amazon 319=== MEDINK EXAMINATION PAPER NOV-2023 147.\t Which of the following statements is incorrect related to the given image?",
+  "a": 3,
+  "o": [
+   "Benign tumor of coccyx",
+   "Presence of teeth and hair",
+   "Result from the aberrant migration of primordial germ cells",
+   "Prechordal plate anomaly"
+  ]
+ },
+ {
+  "qid": "q1860",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Forensic Wound Analysis",
+  "q": "A child is brought to the ER in an unconscious state after severe vomiting and abdominal pain episodes. /min HR 100 = and / BP 100 60 = mm Hg. Work-up shows . , pH 7 2 = blood glucose 300 mg/dL, and ketones 3+. What should be the best management?",
+  "a": 0,
+  "o": [
+   "Infusion of 0.05-0.1 U/kg dose insulin after 1 hour of IVF",
+   "0.1 Unit/kg insulin stat followed by infusion of 0.5 U-0.1 U/kg dose insulin and IVF",
+   ". / U kg 0 1 insulin subcutaneous stat followed by IVF",
+   "IVF followed by subcutaneous 0.1 U/kg insulin"
+  ]
+ },
+ {
+  "qid": "q1861",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Firearm Injuries",
+  "q": "A child arrives with acute respiratory distress, and examination shows a scaphoid abdomen. Which of the following interventions should be avoided in this patient?",
+  "a": 1,
+  "o": [
+   "Positive Pressure Ventilation (PPV)",
+   "Bag and mask ventilation",
+   "Oxygen therapy",
+   "Intubation"
+  ]
+ },
+ {
+  "qid": "q1862",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Substance Abuse",
+  "q": "A child is receiving oxygen through a nasal cannula at 3 L/min. What is the delivered FiO2 (fraction of inspired oxygen)?",
+  "a": 1,
+  "o": [
+   "24%",
+   "30%",
+   "44%",
+   "32%"
+  ]
+ },
+ {
+  "qid": "q1863",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Parasite Life Cycles",
+  "q": "What feature is not typically associated with Down syndrome?",
+  "a": 0,
+  "o": [
+   "Caudal regression",
+   "Short stature",
+   "Hypothyroidism",
+   "Hearing loss"
+  ]
+ },
+ {
+  "qid": "q1864",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Protozoan Parasites",
+  "q": "A child developed a fever following the DPT vaccine at 6 weeks. Now at 10 weeks, the child is due for the next dose. What is the recommended approach?",
+  "a": 0,
+  "o": [
+   "Give DPT Vaccination",
+   "Give DT",
+   "Don't give DPT",
+   "Don't give any vaccination"
+  ]
+ },
+ {
+  "qid": "q1865",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Sexually Transmitted Infections",
+  "q": "A child has had fever for 6 days along with a strawberry tongue, conjunctival congestion, and skin peeling. What is the appropriate management for this presentation?",
+  "a": 0,
+  "o": [
+   "IVIg",
+   "Aspirin",
+   "Plenty of fluids",
+   "Cephalosporins"
+  ]
+ },
+ {
+  "qid": "q1866",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Sexually Transmitted Infections",
+  "q": "A 45-year-old man has had recurrent blisters and oral ulcers for 3 years, and the histology shown is provided. What is the diagnosis?",
+  "a": 0,
+  "o": [
+   "Pemphigus vulgaris",
+   "Dermatitis herpetiformis",
+   "Bullous pemphigoid",
+   "Linear IgA disease"
+  ]
+ },
+ {
+  "qid": "q1867",
+  "e": "INI-CET",
+  "y": "NOV 2023",
+  "tp": "Prion Diseases",
+  "q": "Mark the correct statement/statements regarding Inner and Outer hair cells? I. Inner hair cells are in a single row and transmit auditory impulses. II. Outer hair cells are in 3-4 rows and modulate function of inner hair cells. III. Outer hair cells are more responsible for movement of Tectorial membrane. IV. Outer and inner hair cells present in the ratio of 3:1.",
+  "a": 0,
+  "o": [
+   "I, II and IV are correct",
+   "I, II and III are correct",
+   "All are correct",
+   "II, IV are correct"
+  ]
+ },
+ {
+  "qid": "q1997",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Central Retinal Artery Occlusion",
+  "q": "Which nerve is most likely injured when alcohol ingestion or other factors impair the cough reflex that normally prevents foreign bodies from entering the laryngeal inlet?",
+  "a": 0,
+  "o": [
+   "Internal laryngeal nerve",
+   "Glossopharyngeal nerve",
+   "External laryngeal nerve",
+   "Recurrent laryngeal nerve"
+  ]
+ },
+ {
+  "qid": "q1998",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Ascites",
+  "q": "A young man is hospitalized with high fever, altered mental status, and meningitis signs such as neck stiffness and pain on neck flexion. Lumbar puncture reveals 45 WBCs/µL with neutrophil predominance, raised opening pressure, protein 120 mg/dL, and glucose 70 mg/dL. What is the most appropriate initial management for this patient?",
+  "a": 1,
+  "o": [
+   "Piperacillin + tazobactam",
+   "Vancomycin + ceftriaxone",
+   "Amphotericin B + flucytosine",
+   "Antitubercular therapy"
+  ]
+ },
+ {
+  "qid": "q1999",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Obstructive Jaundice",
+  "q": "A heart disease patient becomes breathless when walking to the bathroom. Which functional grade does this correspond to?",
+  "a": 0,
+  "o": [
+   "NYHA 3",
+   "NYHA 4",
+   "mMRC 4",
+   "mMRC 5"
+  ]
+ },
+ {
+  "qid": "q2000",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Nerve Fiber Types",
+  "q": "Based on the ECG shown, which of the following medications is not used to manage this condition?",
+  "a": 3,
+  "o": [
+   "Verapamil",
+   "Metoprolol",
+   "Amiodarone",
+   "Non synchronised DC shock"
+  ]
+ },
+ {
+  "qid": "q2001",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Peripheral Nerve Injuries",
+  "q": "An elderly woman with a history of severe vomiting treated for dehydration one week earlier now presents with mutism, quadriplegia, and rigidity. Given this background and her current signs, what is the most likely diagnosis?",
+  "a": 0,
+  "o": [
+   "Rapid sodium correction",
+   "Malignant hyperthermia",
+   "Severe catatonia",
+   "Neuroleptic malignant syndrome"
+  ]
+ },
+ {
+  "qid": "q2002",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Muscle Contraction Physiology",
+  "q": "In methanol intoxication, which of the following electrolyte abnormalities is observed?",
+  "a": 1,
+  "o": [
+   "Metabolic alkalosis with high anion gap",
+   "Metabolic acidosis with high anion gap",
+   "Metabolic acidosis with normal anion gap",
+   "Metabolic alkalosis with normal anion gap"
+  ]
+ },
+ {
+  "qid": "q2003",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Basal Ganglia Disorders",
+  "q": "A patient presents with cough, cold, fever, malaise, weight loss, and ascites. Ascitic fluid analysis shows elevated adenosine deaminase levels, and the chest X-ray is shown. What should be the next step in this patient’s management? Downloaded from www.pdf.tube 389=== page  383 INICET Examination Paper 2.\t Secondary contractures are more in split- thickness skin grafts 3.\t Primary contractures are more in full- thickness grafts 4.\t Secondary contractures are more in full- thickness grafts",
+  "a": 0,
+  "o": [
+   "2,3",
+   "2,4",
+   "1,3",
+   "1,4"
+  ]
+ },
+ {
+  "qid": "q2004",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Trigeminal Nerve Pathways",
+  "q": "What is the primary cause of severe malnutrition among the options provided below?",
+  "a": 2,
+  "o": [
+   "Pancreatic fistula",
+   "Duodenal fistula",
+   "Distal ileal fistula",
+   "Colonic fistula"
+  ]
+ },
+ {
+  "qid": "q2005",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Memory and Limbic System",
+  "q": "Which nerve is likely to be affected when a patient develops loss of sensation over the root of the penis following an open hernia surgery?",
+  "a": 1,
+  "o": [
+   "Iliohypogastric nerve",
+   "Ilioinguinal nerve",
+   "Genitofemoral nerve",
+   "Medial cutaneous nerve to thigh"
+  ]
+ },
+ {
+  "qid": "q2006",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Parkinson Disease",
+  "q": "A 25-year-old woman presents with a breast lump showing no skin changes or induration, and histology confirms a fibroadenoma. This lesion would fall under which BI-RADS classification?",
+  "a": 3,
+  "o": [
+   "BI-RADS 1 and 2",
+   "BI-RADS 2 or 4",
+   "BI-RADS 2, 3, 4",
+   "BI-RADS 2"
+  ]
+ },
+ {
+  "qid": "q2007",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Autonomic Nervous System",
+  "q": "A patient develops severe abdominal pain two days after an appendectomy, and an exploratory procedure reveals an intra-abdominal blood collection. Which artery, if inadequately ligated during the original operation, is most likely the source of the bleeding?",
+  "a": 0,
+  "o": [
+   "Ileocolic artery",
+   "Right colic artery",
+   "Superior rectal artery",
+   "Superior mesenteric artery"
+  ]
+ },
+ {
+  "qid": "q2008",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Spinal Cord Lesions",
+  "q": "What are the accurate characteristics of gall bladder carcinoma?",
+  "a": 1,
+  "o": [
+   "Palpable abdominal lump is the earliest sign",
+   "Median survival is 6 months",
+   "Earliest sign is jaundice",
+   "Clinical presentation of gallstones can be distinguished from gallbladder cancer"
+  ]
+ },
+ {
+  "qid": "q2009",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Vision Physiology (Photoreceptors)",
+  "q": "Which of the following options does not fall under the category of damage control surgery?",
+  "a": 3,
+  "o": [
+   "Control of hemorrhage",
+   "Resuscitation",
+   "Decontamination",
+   "Vascular anastomosis"
+  ]
+ },
+ {
+  "qid": "q2010",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "HELLP Syndrome",
+  "q": "A male patient who has ingested an unknown substance now exhibits profuse sweating, excessive tearing, diarrhea, muscle weakness, and tachycardia. What is the correct management for this condition?",
+  "a": 3,
+  "o": [
+   "Calcium gluconate",
+   "Pralidoxime",
+   "Obidoxime",
+   "Atropine"
+  ]
+ },
+ {
+  "qid": "q2011",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Preeclampsia Treatment",
+  "q": "What is the probable diagnosis in an elderly woman who suffered a fall and then, after several days, began to develop a headache and neurological deficits?",
+  "a": 3,
+  "o": [
+   "Multi-infarct dementia",
+   "Frontal lobe meningioma",
+   "Korsakoff disease",
+   "Subdural hematoma"
+  ]
+ },
+ {
+  "qid": "q2012",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Cord Prolapse",
+  "q": "Which of the following statements is true regarding shock?",
+  "a": 2,
+  "o": [
+   "Anaerobic respiration produces carbon dioxide",
+   "Septic shock-most common type",
+   "Stage of compensatory shock is also called stage 2 of shock",
+   "Anaphylactic shock-is due to Type 2 hypersensitivity reaction"
+  ]
+ },
+ {
+  "qid": "q2013",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Shoulder Dystocia",
+  "q": "What treatment measures should be included for a patient who presents with significant abdominal fluid accumulation and has been diagnosed with pancreatic necrosis? 1.\t Antibiotics IV 2.\t IV fluids 3.\t Culture 4.\t MRI 5.\t Assisted drainage 6.\t Laparotomy",
+  "a": 3,
+  "o": [
+   "1,2,3,4 and 5",
+   "2,4,5 and 6",
+   "1,2,3 and 5",
+   "1,2,3,4,5 and 6"
+  ]
+ },
+ {
+  "qid": "q2014",
+  "e": "INI-CET",
+  "y": "MAY 2022",
+  "tp": "Fetal Surveillance (NST)",
+  "q": "A 32-year-old man arrives at the surgical emergency department with a 2-day history of abdominal pain, bloating, and constipation suggestive of peptic ulcer disease. An X-ray image is provided. Which combination of management steps is most appropriate for this patient? 1.\t IV fluids 2.\t CECT (Contrast-Enhanced Computed Tomography) of the abdomen 3.\t Exploratory laparotomy 4.\t Upper Gl (gastrointestinal) endoscopy Below is the provided x-ray film image.",
+  "a": 1,
+  "o": [
+   "1 and 2",
+   "1 and 3",
+   "1 and 4",
+   "1, 2 and 3"
+  ]
+ },
+ {
+  "qid": "q2219",
+  "e": "INI-CET",
+  "y": "NOV 2022",
+  "tp": "Acid-Base Disorders",
+  "q": "What is the most frequent pattern of involvement observed in Pott's spine?",
+  "a": 0,
+  "o": [
+   "Paradiscal",
+   "Central",
+   "Anterior",
+   "Posterior"
+  ]
+ },
+ {
+  "qid": "q2220",
+  "e": "INI-CET",
+  "y": "NOV 2022",
+  "tp": "Gallbladder Carcinoma",
+  "q": "What is the most probable diagnosis for a 35-year-old man presenting with knee pain, based on the knee joint X-ray provided?",
+  "a": 2,
+  "o": [
+   "Chondroblastoma",
+   "Osteochondroma",
+   "Osteoclastoma",
+   "Fibrous dysplasia"
+  ]
+ },
+ {
+  "qid": "q2221",
+  "e": "INI-CET",
+  "y": "NOV 2022",
+  "tp": "Femoral Hernia",
+  "q": "What is the combination of deformities seen in Congenital Talipes Equinovarus (CTEV), also known as clubfoot?",
+  "a": 1,
+  "o": [
+   "Equinus, eversion, forefoot adduction, cavus",
+   "Equinus, inversion, forefoot adduction, cavus",
+   "Equinus, eversion, forefoot abduction, cavus",
+   "Equinus, inversion, forefoot adduction, planus"
+  ]
+ },
+ {
+  "qid": "q2222",
+  "e": "INI-CET",
+  "y": "NOV 2022",
+  "tp": "Alcoholic Steatohepatitis",
+  "q": "The Book test is used to assess the function of the adductor pollicis. Which of the following nerves supplies this muscle?",
+  "a": 1,
+  "o": [
+   "Posterior interosseous nerve",
+   "Ulnar nerve",
+   "Radial nerve",
+   "Median nerve"
+  ]
+ },
+ {
+  "qid": "q2396",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Airway Foreign Body",
+  "q": "An elderly woman slipped at home and sustained a Colles fracture, which was treated with a plaster of Paris (POP) cast. What is the correct sequence for performing the reduction?",
+  "a": 1,
+  "o": [
+   "Traction, POP, palmar flexion, ulnar deviation",
+   "Traction, palmar flexion, ulnar deviation, POP",
+   "Traction, ulnar deviation, palmar flexion, POP",
+   "Palmar flexion, ulnar deviation, traction, POP"
+  ]
+ },
+ {
+  "qid": "q2397",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Superior Laryngeal Nerve",
+  "q": "Following a femoral shaft fracture, your consultant advises you to apply tibial traction. Which equipment should you request from the nurse? 1.\t Thomas splint 2.\t K-wire 3.\t Steinmann pin 4.\t Denham's pin 5.\t Bohler's stirrup 6.\t Bohler Braun splint",
+  "a": 1,
+  "o": [
+   "1,2,4",
+   "3,5,6",
+   "3,4,5",
+   "1, 2, 3, 4, 5, 6"
+  ]
+ },
+ {
+  "qid": "q2398",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Bacterial Meningitis",
+  "q": "A patient suffers a type IIIa compound fracture of the tibia after a road traffic accident. How should the following external fixators be ranked from the most stable to the least stable? 1.\t Ilizarov fixator Downloaded from www.pdf.tube 548=== page  529 INICET Examination Paper The correct and universally taught method for estimating the proper insertion length of a nasogastric (NG) tube is the NEX measurement. This acronym stands for the path the tube follows from the Tip of the Nose to the Earlobe, and then down to the Xiphisternum. This method provides an anatomical approximation of the distance from the patient's nostril to the esophagogastric junction or the body of the stomach. Ensuring the tube is inserted to at least this length helps to confirm that the tip has passed beyond the esophagus and is correctly positioned within the stomach, which is crucial for safe and effective use. Using incorrect landmarks can lead to dangerous complications, such as placing the tube too short (coiled in the esophagus) or too long (advancing into the duodenum), or, most critically, misplacement into the trachea and lung. The other options describe incorrect measurement techniques that should not be used. OPHTHALMOLOGY 104.\t A 30-year-old woman presents with eye redness, pain, elevated intraocular pressure (38 mmHg), aqueous flare, and keratic precipitates. Which medication should she avoid in this condition?",
+  "a": 3,
+  "o": [
+   "Beta-blockers",
+   "Mannitol",
+   "Carbonic anhydrase inhibitors",
+   "Prostaglandin analogs"
+  ]
+ },
+ {
+  "qid": "q2399",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "NYHA Classification",
+  "q": "What is the primary mode of dissemination of retinoblastoma?",
+  "a": 0,
+  "o": [
+   "Optic nerve invasion",
+   "Hematogenous",
+   "Direct invasion",
+   "Lymphatic spread"
+  ]
+ },
+ {
+  "qid": "q2400",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Placenta Previa",
+  "q": "Identify the surgical procedure depicted in the provided image.",
+  "a": 0,
+  "o": [
+   "Capsulorrhexis",
+   "Hydrodissection",
+   "Intraocular lens implantation",
+   "Lens aspiration"
+  ]
+ },
+ {
+  "qid": "q2401",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Kawasaki Disease",
+  "q": "Can you determine the observation indicated by the arrow in the image provided?",
+  "a": 0,
+  "o": [
+   "Vossius ring",
+   "Weiss ring",
+   "Fleischer's ring",
+   "Kayser-Fleischer ring"
+  ]
+ },
+ {
+  "qid": "q2402",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Neuroleptic Malignant Syndrome",
+  "q": "Which nerve is targeted by the local anesthesia technique indicated in the image?",
+  "a": 0,
+  "o": [
+   "Nasociliary nerve",
+   "Anterior ethmoidal nerve",
+   "Sphenopalatine nerve",
+   "Greater palatine nerve"
+  ]
+ },
+ {
+  "qid": "q2403",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Malignant Hyperthermia",
+  "q": "Please match the following syndromes with their corresponding karyotypes. Condition Karyotype 1. Turner's syndrome a. 46,XX 2. Swyer's syndrome b. 46,XY 3. Androgen insensitivity syndrome c. 46,XY 4. Mayer Rokitansky Kuster Hauser syn- drome d. 45,X",
+  "a": 0,
+  "o": [
+   "1-d, 2-b, 3-c, 4-a",
+   "1-b, 2-c, 3-d, 4-a",
+   "1-a, 2-b, 3-c, 4-d",
+   "1-d, 2-a, 3-c, 4-b"
+  ]
+ },
+ {
+  "qid": "q2404",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Duodenal Atresia",
+  "q": "Which instruments are utilized during a cesarean section? 1.\t Bard-Parker blade 2.\t Doyen's retractor 3.\t Cusco's speculum 4.\t Allis forceps 5.\t Shirodkar's uterine clamp 6.\t Green Armytage forceps",
+  "a": 2,
+  "o": [
+   "1,2,5,6",
+   "1, 2, 3,5",
+   "1,2,4,6",
+   "1,2,3,6"
+  ]
+ },
+ {
+  "qid": "q2405",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Scaphoid Fracture",
+  "q": "What is the normal uterocervical length?",
+  "a": 1,
+  "o": [
+   "3 cm",
+   "5 cm",
+   "7 cm",
+   "10 cm"
+  ]
+ },
+ {
+  "qid": "q2406",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Pemphigus Vulgaris",
+  "q": "What are the symptoms observed in individuals with endometriosis? 1.\t Infertility 2.\t Dysmenorrhea 3.\t Vaginal discharge 4.\t Vaginal bleeding",
+  "a": 2,
+  "o": [
+   "3,4",
+   "2,3",
+   "1,2",
+   "1,2,4"
+  ]
+ },
+ {
+  "qid": "q2407",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Axillary Nerve Injury",
+  "q": "What is the first-line treatment for a woman who presents with frothy vaginal discharge and a strawberry-appearing cervix?",
+  "a": 0,
+  "o": [
+   "Metronidazole",
+   "Fluconazole",
+   "Tetracycline",
+   "Cefixime"
+  ]
+ },
+ {
+  "qid": "q2408",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Thiamine Deficiency",
+  "q": "A primigravida at 10 weeks of pregnancy presents with spotting, and a transvaginal ultrasound shows the uterus measuring the size expected at 12 weeks. What is the most likely diagnosis? Click Here to Buy book on Amazon 550=== page  541 INICET Examination Paper would not be effective for managing her condition?",
+  "a": 1,
+  "o": [
+   "Topical benzoyl peroxide",
+   "Topical fluocinolone",
+   "Topical tazarotene",
+   "Topical antibiotics"
+  ]
+ },
+ {
+  "qid": "q2409",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "High Altitude Physiology",
+  "q": "What is the most likely diagnosis in a child who has asymptomatic lesions on the forearm and on the shaft of the penis, as illustrated in the forearm image provided?",
+  "a": 1,
+  "o": [
+   "Focal vitiligo",
+   "Segmental vitiligo",
+   "Piebaldism",
+   "Nevus depigmentosus"
+  ]
+ },
+ {
+  "qid": "q2410",
+  "e": "INI-CET",
+  "y": "MAY 2021",
+  "tp": "Minimal Change Disease",
+  "q": "What is the most likely diagnosis in a young man who presents with painful lesions, as shown in the image?",
+  "a": 0,
+  "o": [
+   "Herpes Zoster",
+   "Molluscum contagiosum",
+   "Herpes simplex",
+   "Lymphangioma circumscriptum"
+  ]
+ },
+ {
+  "qid": "q2572",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "A 15-year-old boy is brought to the emergency department after a motor vehicle accident with complaints of hip pain, and an X-ray has been performed. What is the most appropriate next step in management?",
+  "a": 0,
+  "o": [
+   "Closed reduction and assessment of hip stability",
+   "CT pelvis with 3D reconstruction",
+   "High weight skeletal traction",
+   "Open reduction and reconstruction of posterior pillar of acetabulum"
+  ]
+ },
+ {
+  "qid": "q2573",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "Which of the following statements are true about open fractures? 1.\t Tibia and phalanges are most commonly involved 2.\t Usually no co-existing injuries 3.\t Compartment syndrome does not occur in open fractures 4.\t Early debridement should be done",
+  "a": 1,
+  "o": [
+   "1 and 2",
+   "1 and 4",
+   "2 and 4",
+   "2 and 3"
+  ]
+ },
+ {
+  "qid": "q2574",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "Match the following fractures with their corresponding locations. a. Jones fracture 1. 5th metatarsal b. Bennett's fracture 2. 2nd metatarsal Click Here to Buy book on Amazon 629=== MEDINK EXAMINATION PAPER NOV-2021 164.\t Which of the following is not a part of the quadruple screening test?",
+  "a": 0,
+  "o": [
+   "Inhibin B",
+   "Unconjugated Estriol (E3)",
+   "AFP",
+   "hCG"
+  ]
+ },
+ {
+  "qid": "q2575",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "Which fixative is employed for a Pap smear?",
+  "a": 3,
+  "o": [
+   "Formalin",
+   "Air dried",
+   "Normal saline",
+   "95% ethanol"
+  ]
+ },
+ {
+  "qid": "q2576",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "What is considered the optimal percentage of normal sperm morphology in a semen analysis?",
+  "a": 1,
+  "o": [
+   "10%",
+   "4%",
+   "6%",
+   "8%"
+  ]
+ },
+ {
+  "qid": "q2577",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "What is the most likely diagnosis in an 18-year- old girl who has amenorrhea, normal genitalia and breast development, and tests positive for 5-alpha-reductase deficiency?",
+  "a": 1,
+  "o": [
+   "Mullerian agenesis",
+   "Concealed sex",
+   "AIS (Androgen Insensitivity Syndrome)",
+   "Turner's syndrome"
+  ]
+ },
+ {
+  "qid": "q2578",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "A 32-year-old pregnant woman with monochorionic diamniotic twins shows polyhydramnios in one twin and oligohydramnios in the other on an ultrasound. What is the most likely complication indicated by these findings?",
+  "a": 2,
+  "o": [
+   "Selective fetal growth restriction",
+   "Preterm labor",
+   "Twin to twin transfusion syndrome",
+   "Neural tube defects"
+  ]
+ },
+ {
+  "qid": "q2579",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "Please match the following disorders that cause secondary amenorrhea with their corresponding laboratory findings. Condition Lab markers 1. Sheehan's syndrome a. Normal LH, Normal FSH, Normal estra- diol 2. Premature Ovarian Failure b. High LH, Low FSH, Normal estradiol 3. PCOS (Polycystic Ovary Syndrome) c. Low LH, Low FSH, Low es- tradiol 4. Asherman's syn- drome d. High LH, High FSH, Low es- tradiol",
+  "a": 0,
+  "o": [
+   "1-c, 2-d, 3-b, 4-a",
+   "1-d, 2-b, 3-c, 4-a",
+   "1-c, 2-b, 3-d, 4-a",
+   "1-a, 2-b, 3-d, 4-c"
+  ]
+ },
+ {
+  "qid": "q2580",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "Which diagnostic test is used to identify a unicornuate uterus among the following options? 1.\t Falloposcopy 2.\t Laparoscopy 3.\t HSG (Hysterosalpingography) 4.\t X-ray",
+  "a": 3,
+  "o": [
+   "2,4",
+   "1,2",
+   "1,3",
+   "2,3"
+  ]
+ },
+ {
+  "qid": "q2581",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "Please match the following colors of STI kits with their corresponding use : a. Lower abdominal pain 1. Grey, Kit 1 b. Urethral discharge 2. Green, Kit 2 c. Non herpetic genital ulcer 3. White, Kit 3 d. Vaginal discharge 4. Yellow, Kit 6",
+  "a": 1,
+  "o": [
+   "a-4, b-3, c-2, d-1",
+   "a-4, b-1, c-3, d-2",
+   "a-1, B-4, C-3, d-2",
+   "a-3, b-2, c-4, d-1"
+  ]
+ },
+ {
+  "qid": "q2582",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "What should be done for a newly diagnosed HIV patient who presents with fever, cough, and hemoptysis, and whose sputum sample shows acid-fast bacilli?",
+  "a": 2,
+  "o": [
+   "Start ART if CD4 <200",
+   "Start ART and then ATT after 2 weeks",
+   "Start ATT and then ART after 2 weeks",
+   "Start ATT and ART simultaneously"
+  ]
+ },
+ {
+  "qid": "q2583",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "A 68-year-old man with hypertension, diabetes, and coronary artery disease presents with palpitations and shortness of breath. His heartbeat is irregular, and ECG shows an irregular rhythm with no P waves and no isoelectric baseline. His vitals are BP 132/84 mmHg, HR 130 bpm, and SpO₂ 94% on room air. Based on these findings, which treatment should be considered the first-line option for this patient?",
+  "a": 1,
+  "o": [
+   "Amiodarone",
+   "Metoprolol",
+   "Electrical cardioversion",
+   "Direct oral anticoagulant (DOAC) therapy"
+  ]
+ },
+ {
+  "qid": "q2584",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "Which of the following is not regarded as a primary diagnostic criterion for neuromyelitis optica?",
+  "a": 2,
+  "o": [
+   "Area postrema syndrome",
+   "Acute myelitis",
+   "Focal epilepsy",
+   "Optic neuritis"
+  ]
+ },
+ {
+  "qid": "q2585",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "Which of the following does not show hypokinesia movements?",
+  "a": 3,
+  "o": [
+   "Parkinson's disease",
+   "Apraxia",
+   "Catatonia",
+   "Chorea"
+  ]
+ },
+ {
+  "qid": "q2586",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "Which of the following conditions are associated with hypertension and hypokalemic metabolic alkalosis?",
+  "a": 1,
+  "o": [
+   "Bartter syndrome",
+   "Liddle syndrome",
+   "Gitelman syndrome",
+   "Gordon syndrome"
+  ]
+ },
+ {
+  "qid": "q2587",
+  "e": "INI-CET",
+  "y": "NOV 2021",
+  "tp": "General",
+  "q": "A 20-year-old athlete collapses during a football match and is later declared dead at the hospital. Based on the autopsy image provided, what is the most likely cause of his sudden death?",
+  "a": 2,
+  "o": [
+   "Valvular heart disease due to RHD (Rheumatic heart disease)",
+   "Sudden cardiac death due to arrhythmia",
+   "Sudden cardiac death due to Hypertrophic cardiomyopathy",
+   "Sudden cardiac death due to atherosclerosis"
+  ]
+ },
+ {
+  "qid": "q2786",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Internal Capsule Lesions",
+  "q": "A 25-year-old man falls on his outstretched right hand. He has wrist pain with tenderness over the anatomical snuffbox; plain radiographs are normal. What is the most appropriate management?",
+  "a": 2,
+  "o": [
+   "Reassure the patient and allow full activity",
+   "Reduce a suspected Colles fracture and apply a below-elbow cast",
+   "Immobilize in a thumb spica cast and repeat radiographs in 2 weeks",
+   "Immediately proceed to MRI of the wrist"
+  ]
+ },
+ {
+  "qid": "q2805",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Cervical Length Assessment",
+  "q": "A 22-year-old man falls on his outstretched right hand while playing basketball. He has tenderness in the anatomical snuffbox, but initial wrist radiographs show no fracture. What is the most appropriate next step?",
+  "a": 1,
+  "o": [
+   "Reassure the patient and allow unrestricted activity",
+   "Immobilize in a thumb spica cast and repeat radiographs after 2 weeks",
+   "Urgent MRI of the wrist",
+   "Immediate surgical exploration of the wrist"
+  ]
+ },
+ {
+  "qid": "q2824",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Asherman Syndrome",
+  "q": "A 25-year-old man falls on his outstretched right hand and develops wrist pain with tenderness in the anatomical snuffbox. Initial wrist X-ray shows no fracture. What is the most appropriate next step?",
+  "a": 2,
+  "o": [
+   "Perform wrist arthroscopy to exclude a ligament injury",
+   "Discharge with NSAIDs and advise review only if pain persists",
+   "Immobilize in a thumb spica cast and repeat X-ray in 2 weeks",
+   "Proceed directly to MRI of the wrist"
+  ]
+ },
+ {
+  "qid": "q2843",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Nutrition Physiology",
+  "q": "A 20-year-old male sustains a closed fracture of the middle third of the tibia in a road traffic accident and is treated with an above-knee plaster cast. Eight hours later he develops severe pain in the leg, not relieved by analgesics. Examination reveals a tense, swollen leg with severe pain on passive extension of the toes. What is the most appropriate next step in management?",
+  "a": 2,
+  "o": [
+   "Remove the cast, elevate the limb and apply ice packs",
+   "Administer high-dose intravenous opioids and observe for 6 hours",
+   "Remove the cast and perform urgent decompressive fasciotomy",
+   "Perform nerve conduction studies to confirm the diagnosis"
+  ]
+ },
+ {
+  "qid": "q2862",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Hypersensitivity Reactions",
+  "q": "A 60-year-old woman falls on an outstretched hand and presents with a \"dinner fork\" deformity of the right wrist. Radiograph shows a transverse fracture of the distal radius with dorsal displacement and impaction. What is the most likely diagnosis?",
+  "a": 0,
+  "o": [
+   "Colles fracture",
+   "Smith fracture",
+   "Barton fracture",
+   "Scaphoid fracture"
+  ]
+ },
+ {
+  "qid": "q2881",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Forensic Psychiatry",
+  "q": "A 25-year-old man falls on his outstretched right hand. He has wrist pain and tenderness in the anatomical snuffbox; plain radiographs show no fracture. What is the most appropriate management?",
+  "a": 1,
+  "o": [
+   "Reassure and allow full activity as radiographs are normal",
+   "Immobilize in a thumb spica cast and repeat radiographs after 10-14 days",
+   "Proceed with immediate open reduction and internal fixation",
+   "Order MRI before any treatment decision"
+  ]
+ },
+ {
+  "qid": "q2900",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Microbial Identification",
+  "q": "A 68-year-old woman slips on the floor and sustains a fall. She has pain in the right hip and is unable to bear weight. Examination shows a shortened, externally rotated right lower limb. X-ray reveals a displaced intracapsular (subcapital) fracture of the femoral neck. Which is the most appropriate management?",
+  "a": 2,
+  "o": [
+   "Traction and prolonged bed rest",
+   "Internal fixation with cannulated screws",
+   "Hemiarthroplasty",
+   "Total hip replacement"
+  ]
+ },
+ {
+  "qid": "q2919",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Antiretrovirals (Protease Inhibitors)",
+  "q": "A 22-year-old man sustains a fall onto an outstretched hand. On examination, he has a dinner-fork deformity of the wrist. Plain radiographs show a dorsally displaced, dorsally angulated fracture of the distal radius with associated fracture of the ulnar styloid. Which of the following is the most appropriate diagnosis?",
+  "a": 1,
+  "o": [
+   "Smith fracture",
+   "Colles fracture",
+   "Barton fracture",
+   "Die-punch fracture"
+  ]
+ },
+ {
+  "qid": "q2938",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Male Infertility",
+  "q": "A 25-year-old man falls on his outstretched right hand while playing cricket. He has tenderness in the anatomical snuffbox and mild wrist pain, but the initial wrist radiograph shows no obvious fracture. What is the most appropriate next step in management?",
+  "a": 1,
+  "o": [
+   "Advise rest and review in 4 weeks if pain persists",
+   "Immobilize in a thumb spica cast and repeat radiograph in 2 weeks",
+   "Immediate open reduction and internal fixation",
+   "Emergency MRI of the wrist to confirm the diagnosis"
+  ]
+ },
+ {
+  "qid": "q2957",
+  "e": "NEET PG",
+  "y": "2026",
+  "tp": "Posterior Urethral Valves",
+  "q": "A 65-year-old man with chronic renal failure on haemodialysis presents with acute severe pain in the left shoulder after lifting a light object. Radiograph shows displacement of the humeral head with a 'lightbulb sign'. What is the most appropriate immediate management?",
+  "a": 0,
+  "o": [
+   "Closed reduction and shoulder immobilisation",
+   "Open reduction and internal fixation",
+   "Total shoulder arthroplasty",
+   "Neer's hemiarthroplasty"
+  ]
+ }
+]

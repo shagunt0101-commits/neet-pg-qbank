@@ -1,0 +1,5599 @@
+{
+ "q1000": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Which muscles are supplied by the ulnar nerve?"
+ },
+ "q1001": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A teenager comes to the emergency department with wrist pain after falling off his skateboard and has tenderness in the anatomical snuffbox. Which bone is most "
+ },
+ "q1002": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the diagnosis suggested by the eye movement abnormality shown in the image?"
+ },
+ "q1003": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Primary muscle repair in cleft lip surgery involves reconstruction of which muscle?"
+ },
+ "q1006": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "By what mechanism does the marked structure exert its effects on nearby cells?"
+ },
+ "q1007": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is seen in high altitude?"
+ },
+ "q1009": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "During which situation does the surface tension of the fluid lining the alveoli increase?"
+ },
+ "q1011": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a normal awake person resting with eyes closed, which EEG waves diminish when the eyes are opened?"
+ },
+ "q1013": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is an example of feed forward mechanism?"
+ },
+ "q1014": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient comes to the OPD with fever. Which area is most likely affected?"
+ },
+ "q1017": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Two specimens from two different patients are received. Which technique can be used to confirm that they come from different individuals (in the context of Myco"
+ },
+ "q1020": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following does not inhibit cytochrome c oxidase in the electron transport chain?"
+ },
+ "q1022": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of these tissues is unable to take up glucose in states of insulin resistance, absence of insulin, or diabetes mellitus?"
+ },
+ "q1023": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Least common finding in diabetic kidney is"
+ },
+ "q1024": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Alleles of gene pool belong to"
+ },
+ "q1025": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In which type of thyroid carcinoma are multiple lytic skull lesions typically seen?"
+ },
+ "q1026": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "You would test for BRCA1 (and usually BRCA2) mutations, with BRCA1 being the primary gene associated with a strong family history of both breast and ovarian can"
+ },
+ "q1027": {
+  "reasons": [
+   "ex-option-noise",
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "BRCA testing is done by"
+ },
+ "q1028": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the incorrect association"
+ },
+ "q1029": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Caspase-1 mediated cell death with inflammation is known as"
+ },
+ "q1030": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Most common inherited bleeding disorder is"
+ },
+ "q1031": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In which condition is erythropoietin considered beneficial for treatment?"
+ },
+ "q1032": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "A 32-year-old woman presents with easy bruising and petechiae, a platelet count of 18,000/mm³, normal hemoglobin and leukocyte counts, and a recent mild upper r"
+ },
+ "q1034": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Neutrophilic granulomatous mastitis is caused by which organism?"
+ },
+ "q1035": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following malignancies is unrelated to obesity?"
+ },
+ "q1036": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Histopathological features of granulosa cell tumor include all except:"
+ },
+ "q1037": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which stain is not used to identify organisms in a renal transplant biopsy?"
+ },
+ "q1039": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In which of the following situations does transplant rejection not occur?"
+ },
+ "q1042": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the antibody shown in the diagram that contains a joining chain and is primarily located in mucosal surfaces."
+ },
+ "q1043": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What technique is illustrated in the graph that depicts antigen-antibody interaction and the kinetics of the immune response?"
+ },
+ "q1044": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In which disease is an HLA-mismatched transplant not considered problematic?"
+ },
+ "q1045": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the role of Pro calcitonin in pneumonia?"
+ },
+ "q1046": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements regarding thalidomide is incorrect?"
+ },
+ "q1047": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the recommended treatment for complicated gonorrhea caused by penicillin- resistant Neisseria gonorrhoeae?"
+ },
+ "q1048": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All of the following is/are adverse effects of topical corticosteroids except?"
+ },
+ "q1049": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not true regarding bempedoic acid?"
+ },
+ "q1050": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient is given imipramine along with diphenhydramine. What effect can be expected in this situation?"
+ },
+ "q1052": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement about benzodiazepines and barbiturates is not true?"
+ },
+ "q1053": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following anti-epileptics is not given during pregnancy?"
+ },
+ "q1054": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Mechanism of action of Fenoldopam drug is:"
+ },
+ "q1055": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following psychoactive substances possesses antidepressant effects?"
+ },
+ "q1057": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient taking carbamazepine is also given erythromycin and subsequently develops ataxia and dizziness. What is the underlying cause of these symptoms?"
+ },
+ "q1058": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "One of the following statements regarding venom is incorrect:"
+ },
+ "q1061": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The dental numbering system illustrated below corresponds to which classification system?"
+ },
+ "q1062": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Minimum age at which a girl can give valid consent for medical termination of pregnancy (MTP) is:"
+ },
+ "q1063": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "According to the MTP Act, at what gestational age is the opinion of two doctors required for termination of pregnancy?"
+ },
+ "q1064": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In which type of poisoning does silver-nitrate– impregnated filter paper turn black when exposed to gastric lavage contents?"
+ },
+ "q1066": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "According to the Bharatiya Nyaya Sanhita (BNS), which of the following injuries is not considered grievous hurt?"
+ },
+ "q1067": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which recent legislation provides for the protection and security of medical records?"
+ },
+ "q1069": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "In a suspected poisoning case, gastric lavage fluid turns black when mixed with silver nitrate solution. This occurs in which type of poisoning?"
+ },
+ "q1070": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Cyanide and carbon monoxide poisoning inhibit which enzyme as their primary mechanism of action?"
+ },
+ "q1072": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Choose the correct statement(s): 1. Weil-Felix test is done for typhus fever 2. Widal test is done in the first week of fever 3. Standard agglutination test is "
+ },
+ "q1073": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which bacteria show the Kanagawa phenomenon when grown on Wagatsuma agar?"
+ },
+ "q1074": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A child presents with anal pruritus. Microscopy of the stool sample reveals a plano-convex, kidney-shaped egg. Identify the pathogen."
+ },
+ "q1076": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All of the following are dimorphic fungi except:"
+ },
+ "q1077": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the organism that demonstrates the satellite phenomenon shown in the image."
+ },
+ "q1078": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is the correct order of steps for conducting a research study? 1. Decide study objective 2. Frame a research question 3. Select study sam"
+ },
+ "q1079": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Among 100 people in a village, 10 previously had measles. During the year, 20 new cases occurred. What is the incidence of measles in this population?"
+ },
+ "q1080": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "During the Maha Kumbh Mela, mobile health units and multiple surveillance teams were set up. Syndromic surveillance was carried out using symptoms such as fever"
+ },
+ "q1081": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "RMNCH+A offers comprehensive healthcare across the entire life cycle. Which of the following is not included under the RMNCH+A strategy?"
+ },
+ "q1082": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "According to NACO guidelines, which of the following does not fall under the High-Risk Groups for HIV?"
+ },
+ "q1083": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a Primary Health Centre (PHC) study on diabetic patients, body weight was measured before and again 6 months after a dietary intervention. Which statistical "
+ },
+ "q1085": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In statistics, centiles and quartiles are considered as:"
+ },
+ "q1086": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a hospital-based study, patients were divided into three groups according to disease prevalence (Low, Medium, High), and then random selections were made fro"
+ },
+ "q1087": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a given population: • Less than 15 years: 6000 • 15 to 64 years: 12000 • 65 years and above: 2000 Calculate the dependency ratio."
+ },
+ "q1088": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 50-year-old woman reports a foreign body sensation and a change in voice after eating fish. Examination reveals an inflamed fish bone lodged in the pyriform f"
+ },
+ "q1089": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 7-year-old child with a recent ear infection now presents with lockjaw, limb spasms, fever, and neck stiffness. What is the most likely diagnosis?"
+ },
+ "q1091": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 50-year-old woman reports a sudden episode of vertigo with vomiting, unsteadiness, and light-headedness, brought on by changing her head position in the morni"
+ },
+ "q1095": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "After a farmer developed a fungal corneal ulcer and subsequently required a corneal transplant, which preservative is used to store the donor corneal graft, and"
+ },
+ "q1096": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following findings is characteristic of proliferative diabetic retinopathy?"
+ },
+ "q1098": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All of the following are done in the treatment of amblyopia, except:"
+ },
+ "q1099": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which investigation permits visualization of all the retinal layers?"
+ },
+ "q1100": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which laser is used in refractive eye surgery?"
+ },
+ "q1101": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient returns 2 weeks after cataract surgery with reduced vision. Examination shows anterior chamber cells and flare along with a hazy vitreous. What is the"
+ },
+ "q1102": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a cause of high anion gap metabolic acidosis?"
+ },
+ "q1103": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 20-year-old man presents with fever, severe headache, vomiting, and photophobia. He has neck stiffness and a positive Brudzinski's sign, and a CT scan shows h"
+ },
+ "q1104": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 58-year-old man has burning urination, a normal prostate exam, more than 50 pus cells per HPF on urinalysis, but a sterile urine culture. What is the most lik"
+ },
+ "q1105": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 62-year-old man presents with sudden shortness of breath and bilateral pedal edema. He is compliant with antihypertensives, and echocardiography shows an ejec"
+ },
+ "q1106": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a symptom of cardiac failure?"
+ },
+ "q1107": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 45-year-old chronic smoker presents with dyspnea. Pulmonary function testing shows an FEV₁/FVC ratio of 65% and an RV/TLC ratio of 141%. Which option best exp"
+ },
+ "q1108": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is an early presenting symptom in patients with multiple sclerosis?"
+ },
+ "q1109": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which clinical feature is most commonly seen in systemic lupus erythematosus?"
+ },
+ "q1111": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "The murmur of mitral stenosis corresponds to which ECG wave?"
+ },
+ "q1112": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 20-year-old female diagnosed with septic shock presents with a blood pressure of $58/30$ mmHg. After receiving 3 liters of crystalloid fluid, her mean arteria"
+ },
+ "q1115": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A post–cardiac surgery patient in the ICU develops ventilator-associated pneumonia and is started on empiric antibiotics. Hours later, he develops acute kidney "
+ },
+ "q1120": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 65-year-old patient undergoes colonoscopy for altered bowel habits, and a 6 cm colonic mass is biopsied. Histology shows adenocarcinoma limited to the mucosa "
+ },
+ "q1121": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old male with head injury presents with respiratory distress and absent breath sounds on the right. GCS is / . 8 15 What is the most immediate next st"
+ },
+ "q1122": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 25-year-old man has pain that begins near the umbilicus and shifts to the right iliac fossa, along with fever, nausea, and rebound tenderness. His WBC count i"
+ },
+ "q1123": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not included in stage 4B of breast cancer?"
+ },
+ "q1126": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "At what Ankle–Brachial Pressure Index (ABPI) value is imminent gangrene indicated?"
+ },
+ "q1128": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a cause of recurrent renal stones?"
+ },
+ "q1129": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the procedure shown in the image."
+ },
+ "q1130": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 6-week-old infant has non-bilious, non- projectile vomiting and a normal abdominal exam. What is the most likely diagnosis?"
+ },
+ "q1131": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the procedure shown in the image."
+ },
+ "q1132": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A white patch is seen in the oral cavity of an immuno compromised patient. Which microscopic finding is most likely?"
+ },
+ "q1133": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is a true statement about Z plasty?"
+ },
+ "q1135": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which vaccine is contraindicated in a patient with Severe Combined Immunodeficiency (SCID)?"
+ },
+ "q1136": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not true in Turner Syndrome?"
+ },
+ "q1138": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 36-week neonate develops respiratory distress shortly after birth, and the chest X-ray is shown. What is the most likely diagnosis?"
+ },
+ "q1139": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 3-year-old child has had cyanosis since infancy. Which component, if present, would indicate Tetralogy of Fallot (TOF)?"
+ },
+ "q1141": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about marasmus in children is not true?"
+ },
+ "q1142": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not an aneuploidy?"
+ },
+ "q1144": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which option best describes the mechanism behind breast milk jaundice?"
+ },
+ "q1146": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Question 160.A newborn is noted to have several hypopigmented macules, and Wood’s lamp examination reveals ash-leaf spots. What is the most likely diagnosis?"
+ },
+ "q1147": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "According to WHO, which investigation is included in the diagnostic work-up for spinal tuberculosis?"
+ },
+ "q1149": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A laborer falls on an outstretched hand and develops pain in the anatomical snuffbox. What is the most appropriate next step?"
+ },
+ "q1150": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient with rheumatoid arthritis develops neck pain along with clinical features of myelopathy. What is the most likely diagnosis?"
+ },
+ "q1151": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A female presents with abdominal fullness, early satiety and weight loss. Her CA-125 level is / . mg dL 125 On examination, she has ascites, omental caking, and"
+ },
+ "q1152": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which HPV strains are linked to cervical cancer?"
+ },
+ "q1154": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following drugs are not used in the management of postpartum hemorrhage (PPH)?"
+ },
+ "q1155": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following does not cause fetal bradycardia?"
+ },
+ "q1156": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A woman presents with delayed menstrual cycles and infertility. Chromopertubation shows bilateral tubal spillage and the uterus is normal, while ultrasound reve"
+ },
+ "q1159": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Use of magnesium sulfate (MgSO4) in pre- eclampsia has all of the following effects except:"
+ },
+ "q1163": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Side effects of topical steroids include all except:"
+ },
+ "q1164": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the appropriate treatment for a male MSM patient presenting with urethral discharge and confirmed penicillin-resistant infection?"
+ },
+ "q1166": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient has a painful oral ulcer and a history of recurrent genital vesicular lesions. Bedside test findings are provided. What is the most appropriate medica"
+ },
+ "q1167": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A male patient presents with lesions on the palms and reports having had a genital lesion three weeks earlier. Which investigation will confirm the diagnosis?"
+ },
+ "q1168": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which drug can be used to reverse the effects of rocuronium, a neuromuscular blocking agent?"
+ },
+ "q1169": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For benzodiazepines and barbiturates, which of the following is true?"
+ },
+ "q1170": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "In a patient with septic shock who stays hypotensive even after adequate fluid resuscitation, what should be the next medication of choice?"
+ },
+ "q1172": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 17-year-old presents with leg pain and swelling, and the X-ray shows a sunburst pattern and a Codman triangle. What is the most likely diagnosis?"
+ },
+ "q1173": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following investigations is contraindicated in pregnancy?"
+ },
+ "q1174": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 35-year-old patient presents with colicky pain and is diagnosed with a ureteric stone. Which investigation is the best choice for diagnosis?"
+ },
+ "q1175": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A child presents with seizures, and contrast- enhanced CT shows a cystic lesion with a dot sign. What is the most likely diagnosis?"
+ },
+ "q1176": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most appropriate investigation for locating a parathyroid adenoma?"
+ },
+ "q1178": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Honda or H sign on STIR MRI is characteristic of which condition?"
+ },
+ "q1179": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "\"Eye of the tiger\" appearance on MRI is associated with:"
+ },
+ "q1183": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient with schizophrenia says, “Lord Hanuman was celibate, I am celibate, therefore I am Lord Hanuman.”What type of thought abnormality does this represent?"
+ },
+ "q1184": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All of the following statements are correct except:"
+ },
+ "q1185": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is incorrect?"
+ },
+ "q1186": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Which of the following is not included in the ICD-10 diagnostic criteria for depression?"
+ },
+ "q1187": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "What is the role of the secretions produced by the region indicated by the arrow in the given histology image?"
+ },
+ "q1191": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "Label the given image"
+ },
+ "q1194": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A decrease in GFR associated with which of the following?"
+ },
+ "q1196": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which features are characteristically seen in upper motor neuron (UMN) lesions?"
+ },
+ "q1197": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which hormone has the smallest influence on fetal growth during pregnancy?"
+ },
+ "q1200": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Congenital lactic acidosis results from a defect in which enzyme?"
+ },
+ "q1201": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not produced during the breakdown of heme?"
+ },
+ "q1202": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which gene defect causes familial hypercholesterolemia?"
+ },
+ "q1203": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A male patient with hyperpigmentation and Tanner stage 5 who presents with hypertension and signs of precocious puberty is described. What underlying defect is "
+ },
+ "q1205": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not involved in post- transcriptional modification?"
+ },
+ "q1206": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which deficiency is linked to impaired sexual maturation and hypogonadism?"
+ },
+ "q1207": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which type of mutation leads to restoration of the wild-type phenotype when the mutant gene is suppressed?"
+ },
+ "q1208": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which diagnostic tool is preferred for metabolic disease screening in children?"
+ },
+ "q1209": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Fluorescent in situ hybridization (FISH) can identify all of the following except which one?"
+ },
+ "q1210": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In folate deficiency, which of the following statements is FALSE?"
+ },
+ "q1211": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following serves as an intranuclear immunohistochemical marker for neuroendocrine tumors?"
+ },
+ "q1212": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with a neck mass causing tracheal and esophageal compression, and histology shows cell nests with pink extracellular amyloid. What is the tum"
+ },
+ "q1215": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Based on the provided lung biopsy images, what is the most likely diagnosis?"
+ },
+ "q1216": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following are not considered markers of gastrointestinal stromal tumors (GIST)?"
+ },
+ "q1217": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "All of the following are growth-promoting proto-oncogenes except?"
+ },
+ "q1218": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a trauma patient with an unknown blood type who is unstable and needs an immediate transfusion, which blood type should be given?"
+ },
+ "q1219": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is/are incorrect about Hodgkin's lymphoma?"
+ },
+ "q1220": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a feature of G6PD deficiency?"
+ },
+ "q1221": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is/are associated with an anaphylactic reaction?"
+ },
+ "q1222": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In Sahli’s colorimetric method for estimating hemoglobin, which component is not used?"
+ },
+ "q1224": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which neurotransmitter is released by the SA node when blood pressure rises?"
+ },
+ "q1225": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 30-year-old woman who recently lost her newborn is experiencing breast engorgement from milk production, putting her at risk for milk stasis and a possible br"
+ },
+ "q1226": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which antidiabetic medication is linked to a higher risk of urinary tract infections?"
+ },
+ "q1227": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which medication will not help slow the progression of kidney involvement in a 55-year- old patient with hyperglycemia and confirmed type 2 diabetes?"
+ },
+ "q1228": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which antidiabetic medication is known to cause unexplained diarrhea as a side effect?"
+ },
+ "q1229": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which antibiotic can be safely prescribed for a 45-year-old patient with enterococcal endocarditis who has a known penicillin allergy causing rash and swelling?"
+ },
+ "q1230": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the source of the trauma indicated in the image of the skull."
+ },
+ "q1234": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The World Medical Association’s 1970 Declaration of Oslo refers to which statement?"
+ },
+ "q1235": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the proper sequence of examinations during a fetal autopsy to distinguish a live birth from a stillbirth?"
+ },
+ "q1236": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old woman ingested a white rodenticide powder and now has a potassium level of 2.5 mEq/L, an irregular pulse, muscle paralysis, and an ECG showing mul"
+ },
+ "q1238": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "FISH can detect all except"
+ },
+ "q1240": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is used in the treatment of Hemophilia B?"
+ },
+ "q1241": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which disorder is characterized by recurrent infections with catalase-positive organisms?"
+ },
+ "q1242": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient treated with antibiotics for fever and sore throat develops eosinophilia and has WBC casts in the urine. What is the most likely diagnosis?"
+ },
+ "q1243": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the crystal type shown in the image below."
+ },
+ "q1244": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following organisms shows parthenogenesis?"
+ },
+ "q1245": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the best investigation for malaria speciation identification?"
+ },
+ "q1246": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A woman presents with a yellowish discharge, and staining reveals gram-negative diplococci. What is the most likely causative organism?"
+ },
+ "q1247": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "An HIV-positive patient has diarrhea, and stool examination shows an oval oocyst measuring 24–30 microns. What is the most likely diagnosis?"
+ },
+ "q1249": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Match the following viruses with their corresponding nucleic acid type: 1. Rotavirus A. ssRNA 2. SARS-CoV-2 B. dsRNA 3. Parvovirus C. dsDNA 4. Human papillomavi"
+ },
+ "q1251": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with fever and retro-orbital pain suggestive of dengue fever. Which test should be performed next to confirm the diagnosis?"
+ },
+ "q1253": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the preferred treatment for Enterococcus in a patient who has a penicillin allergy?"
+ },
+ "q1254": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following does NOT have a polysaccharide capsule?"
+ },
+ "q1256": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a polysaccharide vaccine?"
+ },
+ "q1261": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which anti-leprosy medication is known to cause skin hyperpigmentation?"
+ },
+ "q1263": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "On the fifth day of dengue hemorrhagic fever, which diagnostic test is most appropriate?"
+ },
+ "q1264": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following signs is not typically seen in allergic rhinitis?"
+ },
+ "q1265": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 13-year-old boy has had right-sided nasal blockage and repeated nosebleeds for six months. What is the most probable diagnosis?"
+ },
+ "q1266": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which intervention should not be performed in an 8-year-old boy with bilateral sensorineural hearing loss?"
+ },
+ "q1267": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following sign is not associated with otitis media with effusion?"
+ },
+ "q1268": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 42-year-old obese man presents with disrupted sleep and daytime sleepiness. Which of the following statements is incorrect?"
+ },
+ "q1271": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not an action of the superior oblique muscle?"
+ },
+ "q1272": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old man reports experiencing flashes of light. What is the most likely underlying cause?"
+ },
+ "q1273": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "An 80-year-old patient presents with eye pain, redness, and decreased vision. IOP is 16 mmHg in the right eye and 50 mmHg in the left. The left eye shows a deep"
+ },
+ "q1274": {
+  "reasons": [
+   "ex-option-noise",
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "What is anisometropia?"
+ },
+ "q1275": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient reports losing vision in the superior quadrant for the past week and has untreated rheumatic heart disease. What is the most likely diagnosis?"
+ },
+ "q1276": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most common cause of proptosis in the middle age group?"
+ },
+ "q1277": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the appropriate next step in managing a construction worker who got lime (chuna) particles in their eye?"
+ },
+ "q1278": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is false regarding the condition shown in the image?"
+ },
+ "q1279": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "All of the following are seen in third nerve (oculomotor nerve) palsy except:"
+ },
+ "q1280": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient wakes up during the night, has excessive daytime sleepiness, and a history of snoring. Which of the following statements about this condition is incor"
+ },
+ "q1282": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "An ECG of an unresponsive (altered) patient is shown. What is the next best step?"
+ },
+ "q1283": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which drug is known to increase the risk of urinary tract infections?"
+ },
+ "q1284": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about atrial fibrillation is accurate?"
+ },
+ "q1285": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A male patient presents with purple striae, thin skin, a non-healing wound, and a pendulous abdomen. What is the most likely underlying cause?"
+ },
+ "q1286": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a complication of hypokalemia?"
+ },
+ "q1287": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which diabetes medication is preferred for a 65-year-old patient with type 2 diabetes and heart failure with reduced ejection fraction (HFrEF), given its proven"
+ },
+ "q1289": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For which condition are cannabinoids not typically used as a treatment?"
+ },
+ "q1291": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Least common cause for bilateral pedal edema"
+ },
+ "q1292": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most appropriate first step in managing a 50-year-old man with chronic alcoholism who presents with altered sensorium and signs of portal hypertensi"
+ },
+ "q1293": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 6-month-old infant has increased muscle tone and stiffness in all limbs, exaggerated deep tendon reflexes, and persistent primitive reflexes. MRI shows charac"
+ },
+ "q1294": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 10-year-old child presents with short stature, an upper-to-lower segment ratio of 0.8:1, and imaging shows epiphyseal displacement in the spine. Which conditi"
+ },
+ "q1296": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is the most common hernia in females?"
+ },
+ "q1297": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a marker for gastrointestinal stromal tumors (GIST)? NODIA 94==="
+ },
+ "q1298": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "ER positivity is used as which of the following in the context of breast carcinoma?"
+ },
+ "q1299": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All of the following statements regarding Wilms tumor are true, EXCEPT:"
+ },
+ "q1302": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 52-year-old patient diagnosed with invasive ductal carcinoma presents with skin ulceration, inflammatory signs, and nipple retraction. This patient should be "
+ },
+ "q1303": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 35-year-old man suffers a head injury in a motorcycle accident, briefly loses consciousness, then has a lucid interval before developing a severe headache and"
+ },
+ "q1304": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 45-year-old patient reports several months of food regurgitation and weight loss, and a barium swallow has been performed. What is the most likely diagnosis?"
+ },
+ "q1306": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a risk factor for cholangiocarcinoma?"
+ },
+ "q1307": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT done in the primary survey of trauma?"
+ },
+ "q1308": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 32-year-old man arrives at the emergency department after being stabbed in the left side of the chest. He is in acute distress with a heart rate of 120 bpm, b"
+ },
+ "q1309": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is least likely to cause hoarseness of voice after thyroid surgery?"
+ },
+ "q1310": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "The Mount Fuji sign on CT is seen in which of the following conditions?"
+ },
+ "q1311": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 20-year-old chronic alcoholic presents with severe hematemesis. Ultrasound reveals a distended portal vein and a hyperechoic liver. Pantoprazole has been star"
+ },
+ "q1312": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A child presents with short stature, a bone age younger than his chronological age, and parents of normal height. What is the most likely diagnosis?"
+ },
+ "q1313": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "An 8-month-old child is diagnosed with vitamin A deficiency. What is the appropriate oral dose of vitamin A?"
+ },
+ "q1315": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement correctly describes the condition shown in the image?"
+ },
+ "q1316": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 5-year-old child has fever and rash along with cough, conjunctivitis, and coryza. Based on the image provided, what is the most likely diagnosis?"
+ },
+ "q1320": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "An infant with a doll-like face is diagnosed with Von Gierke disease. Which enzyme deficiency is responsible for this condition?"
+ },
+ "q1324": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A neonate is unable to open the eyelid. Identify the condition shown in the image below."
+ },
+ "q1325": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "A newborn presents with frothy oral secretions and respiratory distress. An X-ray is provided. What is the most likely diagnosis? NODIA 98==="
+ },
+ "q1326": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 5-year-old child ingests 10 iron tablets and presents with nausea and abdominal pain. What is the antidote for iron poisoning?"
+ },
+ "q1334": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is the Zone of Calcification in the image given below?"
+ },
+ "q1337": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the typical dose of Antara?"
+ },
+ "q1352": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "A 28-year-old primigravida at 32 weeks comes for a routine prenatal checkup. During the ultrasound, several measurements are taken to assess fetal growth. Which"
+ },
+ "q1362": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The arrow in the X-ray is pointing to which of the following structures?"
+ },
+ "q1366": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Diagnose the given image."
+ },
+ "q1369": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the given image."
+ },
+ "q1373": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following sleep stages is represented in the EEG image shown?"
+ },
+ "q1376": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Supportive therapy is not typically provided for which type of patient?"
+ },
+ "q1377": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "What deficit results from an injury to the posterior interosseous nerve?"
+ },
+ "q1378": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements regarding Thiopentone is false?"
+ },
+ "q1379": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following drugs used in the treatment of breast cancer is a PARP inhibitor?"
+ },
+ "q1380": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient with rheumatoid arthritis (RA) is intolerant to anti-TNF-α inhibitors. Which JAK inhibitor is used to treat this condition?"
+ },
+ "q1383": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the half-life (t½) of digoxin?"
+ },
+ "q1384": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Fall in diastolic blood pressure due to the loss of sympathetic outflow is mediated by which receptor?"
+ },
+ "q1388": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following types of transport does not require ATP? A. Paracellular transport B. Simple diffusion C. Facilitated diffusion D. Na+/K+ ATPase E. Sympo"
+ },
+ "q1390": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following helps to decrease the Glomerular Filtration Rate (GFR)?"
+ },
+ "q1391": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Static 2-point discrimination is primarily assessed by which of the following receptors?"
+ },
+ "q1392": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements accurately describes physiological dead space?"
+ },
+ "q1393": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Peripheral chemoreceptors exhibit their greatest sensitivity in which of the following conditions?"
+ },
+ "q1394": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which type of oxygen dissociation curve is seen during the transfusion of packed red blood cells?"
+ },
+ "q1396": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Match the hormones with their respective receptors: 1. Acetylcholine (Ach) A. JAK-STAT pathway 2. Levothyroxine B. Tyrosine ki- nase receptor 3. Insulin C. Intr"
+ },
+ "q1397": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Based on the given electron microscopy image, match the items to their respective sarcomere structures. Click Here to Buy book on Amazon 156=== \u0001 EXAMINATION PA"
+ },
+ "q1399": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which protein plays a role in the process of epithelial–mesenchymal transition (EMT)?"
+ },
+ "q1400": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which is the most essential fatty acid?"
+ },
+ "q1401": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which anticoagulant is most suitable for collecting blood samples for HbA1c testing?"
+ },
+ "q1402": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is true regarding serum calcium estimation?"
+ },
+ "q1404": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is wrong regarding the given image?"
+ },
+ "q1407": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not included in the criteria for Severe Acute Malnutrition (SAM)?"
+ },
+ "q1408": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a live vaccine?"
+ },
+ "q1409": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Screening family members of hypertension and diabetes in a village is best classified as:"
+ },
+ "q1410": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a component of the Anemia Mukt Bharat (AMB) initiative?"
+ },
+ "q1411": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the best level of evidence in research?"
+ },
+ "q1413": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is a key feature of a randomized controlled trial (RCT)?"
+ },
+ "q1415": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which finding is commonly associated with glomerular hematuria?"
+ },
+ "q1416": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a germ cell tumor?"
+ },
+ "q1418": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Match the following pathological bodies with their associated condition: Pathological Body Associated Condition 1. Lewy Bodies A. Parkinsonism 2. Negri Bodies B"
+ },
+ "q1420": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which drug attaches to the CD4 receptor and exhibits activity at both CXCR4 and CCR5?"
+ },
+ "q1421": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which topical antifungal agent is approved for treating toenail onychomycosis?"
+ },
+ "q1422": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is correctly matched as an antidote with the given drug toxicity?"
+ },
+ "q1423": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following binds to the GAT-1 receptor and inhibits it?"
+ },
+ "q1424": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which drug modulates voltage-gated sodium channels by specifically enhancing their slow inactivation?"
+ },
+ "q1425": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The adrenal medulla releases catecholamines in response to all of the following stimuli, except which one?"
+ },
+ "q1427": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which blood product is NOT obtained through centrifugation?"
+ },
+ "q1430": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following substances does not inhibit cytochrome activity?"
+ },
+ "q1432": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In the treatment of urea cycle disorders, which amino acid provides the nitrogen that combines with sodium benzoate?"
+ },
+ "q1434": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The given powder is used as an antidote in which poisoning?"
+ },
+ "q1438": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following chelating agents is indicated in iron overdose?"
+ },
+ "q1441": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Which of the following is wrong about Ascaris lumbricoides?"
+ },
+ "q1443": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Match the following tumor markers with the associated conditions: 1. AFP A. Choriocarcinoma 2. Beta-HCG B. Medullary Thyroid Carcinoma 3. Calcitonin C. Hepatobl"
+ },
+ "q1444": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a component of Thrombotic Thrombocytopenic Purpura (TTP)?"
+ },
+ "q1445": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All of the following are hereditary causes of thrombosis, except:"
+ },
+ "q1446": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 5-year-old child presents with gum bleeding and an abnormal peripheral smear, and flow cytometry reveals CD19, CD22, and TDT positivity. What is the most prob"
+ },
+ "q1447": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is the most common genetic cause of a hypercoagulable state?"
+ },
+ "q1450": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 2-year-old child with diarrhea and severe dehydration. What is the most common causative agent?"
+ },
+ "q1452": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which vaccine is not required for a person >65 years of age?"
+ },
+ "q1455": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the interpretation of the following Pure Tone Audiogram (PTA) conducted on a patient?"
+ },
+ "q1456": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Carhart Notch is seen in which disease?"
+ },
+ "q1457": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which procedure is shown in the following diagram?"
+ },
+ "q1458": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most common test used in screening for neonatal hearing loss?"
+ },
+ "q1459": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following conditions shows maximum hearing loss?"
+ },
+ "q1460": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Among the nerve injuries, which has a poor prognosis?"
+ },
+ "q1461": {
+  "reasons": [
+   "ex-option-noise",
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "Croup is caused by?"
+ },
+ "q1462": {
+  "reasons": [
+   "ex-option-noise",
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "Pterygium can lead to:"
+ },
+ "q1463": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is seen in FFA (Fundus Fluorescein Angiography) in microaneurysm?"
+ },
+ "q1465": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 1400-gram child was referred to the ophthalmology department with leukocoria and calcification. What is the probable diagnosis?"
+ },
+ "q1467": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not derived from the neural crest?"
+ },
+ "q1468": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is seen in macular corneal opacity?"
+ },
+ "q1470": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient from a factory presented with a chemical injury to the eye a few hours back. What is the first step in management?"
+ },
+ "q1471": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is true regarding OVDs (Ophthalmic Viscoelastic Devices) used in cataract surgery?"
+ },
+ "q1472": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is seen in Diabetic Retinopathy?"
+ },
+ "q1473": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a high anion gap metabolic acidosis?"
+ },
+ "q1474": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is incorrect in the context of celiac disease?"
+ },
+ "q1475": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "COVID-19 can be prevented through all of the following EXCEPT:"
+ },
+ "q1476": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 45-year-old woman presents with a history of her fingers turning pale, blue, and then red in response to cold temperatures. Telangiectasias are noted, and ANA"
+ },
+ "q1477": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Lewy bodies are associated with which of the following conditions?"
+ },
+ "q1478": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 25-year-old female presents with complaints of palpitations and dizziness after playing lawn tennis. She has had multiple such episodes for the past 2 years. "
+ },
+ "q1480": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about Behçet's disease is incorrect?"
+ },
+ "q1481": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with a history of multiple peptic ulcers located in the jejunum and duodenum. Workup shows gastric pH of ~2 and elevated fasting serum gastri"
+ },
+ "q1484": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about celiac disease is incorrect"
+ },
+ "q1486": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which test is recommended as the initial investigation for diagnosing pheochromocytoma?"
+ },
+ "q1487": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The Truelove and Witts criteria are used to determine the severity of which condition?"
+ },
+ "q1491": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Neurological symptoms following ileal resection are typically due to a deficiency of which nutrient?"
+ },
+ "q1496": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A woman reports foul-smelling vaginal discharge, and the Whiff test result is positive. Which organism is most likely responsible?"
+ },
+ "q1497": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with amenorrhea and laboratory findings of FSH 2 mIU/mL, LH 0.2 mIU/mL, and normal prolactin levels. What is the most likely diagnosis?"
+ },
+ "q1500": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Following a contaminated abdominal surgery, the surgeon left the wound open for daily irrigation and closed the skin on the fifth day. What type of wound healin"
+ },
+ "q1501": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements regarding Enhanced Recovery After Surgery (ERAS) protocols is incorrect?"
+ },
+ "q1503": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "All of the following statements about Extrahepatic Biliary Atresia are true EXCEPT:"
+ },
+ "q1505": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not part of the NADA (Non-Anesthetic Death Audit) criteria?"
+ },
+ "q1506": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Treatment for non-responsive Severe Acute Malnutrition (SAM) includes all except:"
+ },
+ "q1508": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old woman with a history of previous neck irradiation is diagnosed with papillary thyroid carcinoma and shows lymph node metastasis. What is the prefe"
+ },
+ "q1509": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which among the following is not a part of the primary survey?"
+ },
+ "q1510": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient was brought to the trauma unit after chest trauma with a chief complaint of breathlessness. On examination: • Systolic BP: 88 mmHg (hypotension). • GC"
+ },
+ "q1512": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which symptom is most commonly associated with carcinoma of the esophagus?"
+ },
+ "q1515": {
+  "reasons": [
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "FRAX stands for:"
+ },
+ "q1519": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a physiological change that occurs during pregnancy?"
+ },
+ "q1528": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a feature of cystic fibrosis?"
+ },
+ "q1531": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "An elderly patient sustains a fracture after a minor fall. X-ray imaging reveals a pathological fracture with lytic lesions in the femur. What is the most likel"
+ },
+ "q1532": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Difficulty standing on one leg is caused by weakness of which muscle on the opposite (supporting) side?"
+ },
+ "q1533": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 10-year-old boy presents with symptoms including fever, joint pain, and a notable skin condition on his hand, as shown in the provided image. Based on the cli"
+ },
+ "q1535": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A woman reports experiencing hair loss for the past month and had COVID-19 eight weeks ago. What is the most likely diagnosis?"
+ },
+ "q1540": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "An 80-year-old trauma patient is unable to bear weight, and imaging reveals a hip abnormality along with a leg fracture. What is the most likely diagnosis?"
+ },
+ "q1542": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 12-year-old boy presents with headaches, visual problems, and delayed growth. MRI reveals a suprasellar cystic mass containing both solid and calcified areas,"
+ },
+ "q1546": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Slow wave in hippocampal area is"
+ },
+ "q1549": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the arrow-marked structure in the image provided:"
+ },
+ "q1551": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 65-year-old diabetic man presents with breathlessness and pleural effusion. CT imaging reveals a “tree-in-bud” pattern, and pleural fluid analysis shows lymph"
+ },
+ "q1552": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What determines the DNA sequence?"
+ },
+ "q1553": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement about rubella is incorrect?"
+ },
+ "q1558": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Please match the given columns based on Epidemiology Guidelines. a. CARE 1. RCT b. CONSORT 2. Case report c. PRISMA 3. Observational study NODIA 225=== \u0001 EXAMIN"
+ },
+ "q1559": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Z line 2. M line 3. A band 4. H zone"
+ },
+ "q1572": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "What immunologic defect is seen in B cells when CD40 is absent?"
+ },
+ "q1575": {
+  "reasons": [
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "Inheritance of pattern:"
+ },
+ "q1580": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a 60-year-old man with generalized lymphadenopathy, elevated white blood cell count, and smudge cells on peripheral smear, which further diagnostic test shou"
+ },
+ "q1581": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Following ANA pattern on IF is seen, identify the pattern."
+ },
+ "q1582": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In the provided image, which cell is being depicted?"
+ },
+ "q1587": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A diabetic woman’s HbA1c decreased from 7.6 to 6.7 after receiving a medication that raised GIP and GLP-1 levels and lowered glucagon secretion. Which drug was "
+ },
+ "q1590": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For vancomycin dosage, which nomogram scale is employed?"
+ },
+ "q1591": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Match the following? A. Beta 1 1. Mirabegron B. Beta 2 2. Betaxolol C. Beta 3 3. Isoprenaline NODIA 229==="
+ },
+ "q1594": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about collecting samples in a case of alcohol intoxication is correct?"
+ },
+ "q1595": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which substance is responsible for producing a bitter taste that helps discourage the ingestion of toxic compounds?"
+ },
+ "q1596": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with peripheral neuropathy and a condition known as “black foot disease.” These clinical features most likely indicate poisoning due to which"
+ },
+ "q1597": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the type of hypoxia caused by carbon monoxide poisoning?"
+ },
+ "q1601": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "In an elderly patient with meningitis, whose CSF is evaluated using Gram stain and microscopy, EXAMINATION PAPER MAY-2023 ANATOMY 1. What is the correct order o"
+ },
+ "q1604": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A male farmer from a tropical region in South India presents to the ENT outpatient department with a reddish mass protruding from his nostril. Histopathological"
+ },
+ "q1613": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the earliest perimetric sign of glaucoma?"
+ },
+ "q1616": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old man presents with excessive daytime sleepiness, poor concentration, and memory problems. He has a BMI of 41 kg/m² and hypertension (BP 160/100 mm "
+ },
+ "q1624": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "How would you describe the characteristic murmur of aortic regurgitation?"
+ },
+ "q1627": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 56 year old chronic smoker presented with weight loss and cough for more than 1 year. He is having hypercalcemia. On biopsy there are atypical cells with hype"
+ },
+ "q1628": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "13 year old patient with a 4 week H/O midline neck swelling which moves up on deglutition and protrusion of tongue as image given below. Diagnosis will be?"
+ },
+ "q1629": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Patient came to OPD with erythematous neck swelling in the supraclavicular region. Pulsations were present over the swelling as shown in image below. What is th"
+ },
+ "q1634": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which medication should be given to a patient who presents with dizziness, cool clammy skin, pinpoint pupils, cyanosis of the lips and nails, respiratory depres"
+ },
+ "q1635": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For individuals with which of the following disorders is administering vaccines not contraindicated?"
+ },
+ "q1637": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Peripheral neuropathy along with Black Foot Disease is typically seen in poisoning by which metal?"
+ },
+ "q1640": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old female patient experiencing vulvovaginal itching is currently prescribed an antidiabetic medication. Which of the following medications could like"
+ },
+ "q1642": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Osimertinib is used to treat non-small cell lung cancer (NSCLC) associated with which genetic mutation?"
+ },
+ "q1643": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a patient with a pelvic fracture who is actively bleeding and presents with hypotension, what is the recommended immediate management?"
+ },
+ "q1644": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with abnormal sensations in the little finger and part of the ring finger, weakness on the palmar side of the hand, and impaired finger coord"
+ },
+ "q1647": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "After surgical repair of a left-sided varicocele, a 30-year-old man asks how venous drainage will mainly occur. What should the surgeon identify as the primary "
+ },
+ "q1655": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "What is the test depicted in the provided image called? NODIA 239==="
+ },
+ "q1656": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the surgical instrument depicted in the provided image."
+ },
+ "q1657": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements accurately describes thymoma?"
+ },
+ "q1660": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the minimum platelet count necessary for surgical procedures?"
+ },
+ "q1661": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the position of the appendix in the image provided."
+ },
+ "q1662": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a cause of high- output cardiac failure?"
+ },
+ "q1665": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements correctly describes lithium?"
+ },
+ "q1666": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For which of the following conditions are vaccines not contraindicated in affected individuals?"
+ },
+ "q1667": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most appropriate advice when a fully vaccinated individual is bitten by a fully vaccinated dog, resulting only in a minor abrasion?"
+ },
+ "q1668": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a female patient presenting with skin manifestations resembling scleroderma, which marker would be most indicative of her condition?"
+ },
+ "q1669": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 62-year-old patient experiences calf pain while walking that subsides with rest. Which of the following features is not typically associated with intermittent"
+ },
+ "q1670": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not recognized as a complication of massive blood transfusion?"
+ },
+ "q1671": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which marker is indicative of alcohol-related illness?"
+ },
+ "q1672": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Matching the following conditions: a. Trisomy 13 1. Huntington dis- ease b. Trisomy 18 2. Patau syndrome NODIA 241=== \u0001 EXAMINATION PAPER MAY-2023 The managemen"
+ },
+ "q1674": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 10-week-old infant, previously experiencing inconsolable crying and a fever of 40 degrees Celsius following a 6-week vaccination, is now due for another round"
+ },
+ "q1677": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which test would be suitable for assessing incompetence of the superficial femoral vein (SFJ) in a patient who has dull aching pain and twisted veins in both lo"
+ },
+ "q1680": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For a 53-year-old patient presenting with rectal bleeding, where a colorectal condition is suspected by the surgeon, which is most appropriate diagnostic test?"
+ },
+ "q1682": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 55-year-old woman, a smoker for 30 years, reports a lump in her breast, which is confirmed by physical examination. Considering her extensive history of smoki"
+ },
+ "q1684": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a 30-year-old pregnant woman at 28 weeks gestation, diagnosed with a fibroid and presenting with fever, elevated white blood cell count, and pain, what is th"
+ },
+ "q1686": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a scenario where a 36-year-old pregnant patient reports whitish vaginal discharge and yellow staining on clothing, but without symptoms of itching or redness"
+ },
+ "q1687": {
+  "reasons": [
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "What are clue cells?"
+ },
+ "q1693": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the advised treatment plan for a 24-year- old woman with Polycystic Ovary Syndrome"
+ },
+ "q1694": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Which uncommon adverse effect in patients with schizophrenia taking clozapine requires routine blood monitoring?"
+ },
+ "q1699": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most likely diagnosis in a patient receiving nivolumab (anti-PD1 therapy) who develops pruritus, eczema, and urticarial lesions, with biopsy showing"
+ },
+ "q1702": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a 35-year-old patient with six weeks of dysentery and right upper abdominal pain, an ultrasound shows a hypoechoic, hyperdense liver lesion. What condition d"
+ },
+ "q1708": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the association between a filling defect and the condition observed in the MRCP image?"
+ },
+ "q1709": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In the USG image, what is the observed anatomical variation of the gallbladder?"
+ },
+ "q1711": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 60-year-old woman presents with itchy, eczema- like skin lesions. Biopsy shows a subepidermal cleft, and direct immunofluorescence demonstrates linear C3 and "
+ },
+ "q1717": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Active pulmonary TB can be diagnosed on CT scan by which of the following findings?"
+ },
+ "q1723": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient tells their psychiatrist, “My brain is gone. There’s no reason to eat. I’m already dead.” How would you classify the type of delusion this patient is "
+ },
+ "q1724": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements regarding lithium are correct?"
+ },
+ "q1727": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a cause of non- immune hydrops?"
+ },
+ "q1729": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which medication should be given to reverse respiratory distress in a woman who received morphine sulfate for labor pain?"
+ },
+ "q1730": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the first diagnostic test that should be performed for a patient experiencing dyspareunia, dysmenorrhea, and adnexal tenderness?"
+ },
+ "q1734": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Match each of the following muscles with the action it performs: a. Pectoralis major 1. Extension at shoul- der b. Supraspinatus 2. Flexion at shoulder c. Infra"
+ },
+ "q1741": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which component of the nerve fiber provides the motor innervation to the muscle spindle?"
+ },
+ "q1748": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "A 75-year-old woman with type 2 diabetes and hypertension presented with heart failure and subsequently died. A post-mortem cardiac biopsy was obtained, and the"
+ },
+ "q1758": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "A patient shows reduced serum transferrin saturation. What is the most probable underlying condition?"
+ },
+ "q1767": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with purpura and is found to have isolated thrombocytopenia. Which tyrosine kinase inhibitor is used to treat isolated thrombocytopenia?"
+ },
+ "q1770": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The socially acquired learned behavior is known as?"
+ },
+ "q1771": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is not correct regarding the National Program for Control of Blindness & Visual Impairment?"
+ },
+ "q1774": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with altered sensorium, hypotension, and constricted pinpoint pupils. Which of the following is most likely responsible for the poisoning?"
+ },
+ "q1785": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which chelation therapy is used to prevent doxorubicin-induced cardiotoxicity?"
+ },
+ "q1788": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What causes the blackening around a gunshot entry wound?"
+ },
+ "q1789": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 13-year-old girl arrives at the OPD with her mother, complaining of abdominal pain, and her urine pregnancy test comes back positive. As the medical officer, "
+ },
+ "q1790": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Cadaveric spasm is seen in all except? NODIA 309=== 71. Which of the following viruses needs reverse transcription for PCR?"
+ },
+ "q1791": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "A patient has had a fever for 3 days, and CBC shows a platelet count below 90,000. Dengue is suspected. Which of the following tests cannot be performed on day "
+ },
+ "q1797": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most probable diagnosis in an HIV patient who develops a white patch on the tongue or buccal mucosa that does not scrape off?"
+ },
+ "q1798": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "1D sph and -2D at 180 is what type of refractive error?"
+ },
+ "q1801": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient was started on amitriptyline and was found unconscious. Which of the following does not suggest TCA toxicity?"
+ },
+ "q1809": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not seen in very severe NPDR?"
+ },
+ "q1811": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "The image shows? \u0001 EXAMINATION PAPER NOV-2023 The patient described can perceive basic visual features such as color, texture, and shape, which means primary vi"
+ },
+ "q1812": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A diabetic man presents to the emergency department with chest pain and palpitations. His ECG indicates NSTEMI. What is the appropriate management?"
+ },
+ "q1821": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A young woman presents to the emergency department with pain and vomiting. Examination reveals a swelling located lateral and below the pubic tubercle, and X-ra"
+ },
+ "q1825": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In which of the following does the genetic material show adenine not equal to thymine?"
+ },
+ "q1828": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Vibrio cholerae disrupts which extracellular cell adhesion?"
+ },
+ "q1829": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which diagnostic investigation should be performed first to confirm the suspected diagnosis in a 26-year-old woman presenting with palpitations, weight loss, tr"
+ },
+ "q1830": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the recommended medication for treating watery diarrhea that occurs in a patient who developed this symptom while taking ampicillin for a URTI?"
+ },
+ "q1836": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "A 42-year-old woman diagnosed with ulcerative colitis is having 3–4 episodes of bloody diarrhea per day. What is the most appropriate initial treatment for her "
+ },
+ "q1844": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "A PAP smear from a 45-year-old woman with a left ovarian mass is shown. What is the most likely diagnosis? Downloaded from www.pdf.tube 317=== \u0001 EXAMINATION PAP"
+ },
+ "q1851": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise",
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "Body Surface Area (BSA)"
+ },
+ "q1859": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a patient who presents after a road traffic accident and is unable to dorsiflex or evert the ankle, what gait abnormality would be expected based on the X-ra"
+ },
+ "q1871": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "A child presents with breathlessness. On chest x-ray, the following object is seen. Identify? NODIA 321==="
+ },
+ "q1880": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following criteria corresponds to ASA grade III?"
+ },
+ "q1881": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient reports genital pain, and on examination, there are painful vesicles along with tender lymphadenopathy. What is the most likely diagnosis?"
+ },
+ "q1897": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What stands true for palliative care?"
+ },
+ "q1902": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "A patient with Alzheimer’s disease is refusing oral medications. Which alternative medication can be prescribed in this situation?"
+ },
+ "q1915": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Iliococcygeus 2. Pubococcygeus 3. Obturator internus 4. Deep transverse perinei"
+ },
+ "q1916": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Amygdala 2. Hippocampus 3. Thalamus"
+ },
+ "q1917": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "When a patient aspirates while lying in the supine position, which lobe of the lung is most likely to be affected?"
+ },
+ "q1918": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What causes the detachment of myosin from actin filaments?"
+ },
+ "q1919": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which proteins facilitate the transport of iron into enterocytes?"
+ },
+ "q1921": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a component of innate immunity?"
+ },
+ "q1923": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A woman with chronic stable angina arrives at the emergency department with marked fatigue and exhaustion, and her blood sample appears brownish in color. What "
+ },
+ "q1924": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not observed in anemia of chronic disease?"
+ },
+ "q1925": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Neurosecretory bodies are seen in all the following except:"
+ },
+ "q1926": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 15-year-old boy presents with swelling over the upper diaphysis of the tibia. X-ray shows a periosteal reaction, and biopsy reveals immunohistochemical positi"
+ },
+ "q1927": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Which of the following statements about renal clear cell carcinoma is accurate? Choose the correct statements regarding this type of kidney cancer. 1. It is the"
+ },
+ "q1930": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A known substance addict is hospitalized for intoxication, and an eye examination shows characteristic findings. Which statement about this scenario is correct?"
+ },
+ "q1931": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most likely diagnosis in a patient who presents with vertigo and horizontal nystagmus, with the slow phase beating to the left?"
+ },
+ "q1932": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A farmer reports pain and discharge from his left eye after being struck by a leaf a few days earlier. Based on the clinical picture, what is the most likely di"
+ },
+ "q1933": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the classification of dorzolamide?"
+ },
+ "q1939": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In the viral life cycle shown in the image, which drug acts at step 5?"
+ },
+ "q1947": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What type of strangulation method is the Spanish windlass?"
+ },
+ "q1948": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which technique is used to identify interactions between DNA and proteins?"
+ },
+ "q1950": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the method employed for banding dicentric chromosomes?"
+ },
+ "q1952": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following agents can be used as a disinfectant rather than a sanitizer?"
+ },
+ "q1954": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "\"Cell in cell\" appearance is seen in which of the following?"
+ },
+ "q1956": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which feature is not seen in a pleomorphic adenoma?"
+ },
+ "q1960": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following cytokines is not associated with the Th1 response?"
+ },
+ "q1961": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A smoker presents with breathlessness and chest pain, and a lung mass that stains positive for chromogranin. What is the most likely diagnosis?"
+ },
+ "q1962": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which type of leukemia is associated with the provided peripheral smear? Downloaded from www.pdf.tube 382=== 70. Which microscopy method is used to produce high"
+ },
+ "q1963": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which test should be used to determine whether H. pylori treatment has been effective in a patient with peptic ulcer disease?"
+ },
+ "q1965": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Water leaking from a septic tank has collected in a container, creating a breeding site for mosquitoes. Based on the larval features shown in the image, which m"
+ },
+ "q1966": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements accurately describes clinical trials?"
+ },
+ "q1967": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "According to the National Blindness and Visual Impairment Survey (2015–2019), what is the most common cause of moderate to severe visual impairment?"
+ },
+ "q1969": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "While checking a patient’s blood pressure at a primary health centre, the sphygmomanometer fell and broke, spilling mercury on the floor. What steps should be t"
+ },
+ "q1970": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which field of statistics is involved in describing the internal data collection?"
+ },
+ "q1971": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For which airborne infections is it essential to place patients in a separate isolation room?"
+ },
+ "q1972": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is false regarding rabies immunoglobulin?"
+ },
+ "q1976": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "After an earthquake, changing building codes to ensure structures are earthquake-resistant falls under which component of disaster management?"
+ },
+ "q1980": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the purpose of administering the drug depicted in the accompanying image?"
+ },
+ "q1982": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following tests is not used to assess nasal mucociliary clearance?"
+ },
+ "q1983": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Match the following. Wullstein's Classification Procedure/other name a. Type II Fenestration tympano- plasty b. Type III Graft placed over the incus c. Type IV "
+ },
+ "q1984": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which eye symptom is most commonly associated with COVID-19 infection?"
+ },
+ "q1985": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In which of the following conditions is atropine not recommended for use?"
+ },
+ "q1987": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following does not characterize complicated cataracts?"
+ },
+ "q1988": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What characteristic clinical sign is seen in Klumpke’s paralysis, which results from injury to the lower brachial plexus?"
+ },
+ "q1989": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following drugs is not used in treating a young boy with a history of multiple blood transfusions, bone pain, and sickle-shaped red blood cells on "
+ },
+ "q1992": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For a child with thalassemia who receives regular blood transfusions, what is the most effective method to monitor the development of iron overload?"
+ },
+ "q1993": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the probable diagnosis in a child who persistently wears socks even in warm weather because of cold feet, has lower limb pulses weaker than the radial p"
+ },
+ "q1995": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which vaccine among the following is generally not recommended before performing a splenectomy in a 10-year-old child with hereditary spherocytosis and hyperspl"
+ },
+ "q1997": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which nerve is most likely injured when alcohol ingestion or other factors impair the cough reflex that normally prevents foreign bodies from entering the laryn"
+ },
+ "q1998": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A young man is hospitalized with high fever, altered mental status, and meningitis signs such as neck stiffness and pain on neck flexion. Lumbar puncture reveal"
+ },
+ "q2000": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Based on the ECG shown, which of the following medications is not used to manage this condition?"
+ },
+ "q2004": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the primary cause of severe malnutrition among the options provided below?"
+ },
+ "q2005": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which nerve is likely to be affected when a patient develops loss of sensation over the root of the penis following an open hernia surgery?"
+ },
+ "q2007": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient develops severe abdominal pain two days after an appendectomy, and an exploratory procedure reveals an intra-abdominal blood collection. Which artery,"
+ },
+ "q2008": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What are the accurate characteristics of gall bladder carcinoma?"
+ },
+ "q2009": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following options does not fall under the category of damage control surgery?"
+ },
+ "q2010": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A male patient who has ingested an unknown substance now exhibits profuse sweating, excessive tearing, diarrhea, muscle weakness, and tachycardia. What is the c"
+ },
+ "q2016": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "How would you manage a patient who has had a high fever for five days, shows altered consciousness, and has experienced two seizures in the last 24 hours, consi"
+ },
+ "q2020": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following options can be employed to determine cardiac output? a. ECHO NODIA 392=== \u0001 EXAMINATION PAPER MAY-2022 a. A Marjolin ulcer (SCC in a chro"
+ },
+ "q2029": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is NOT true about magnesium sulfate (MgSO4)?"
+ },
+ "q2032": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "How would you most appropriately characterize a urinary tract infection (UTI) in a woman who is in her second trimester of pregnancy?"
+ },
+ "q2033": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about uterine innervation is incorrect?"
+ },
+ "q2034": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is included in the modified biophysical profile (BPP)?"
+ },
+ "q2037": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the likely diagnosis in a 60-year-old patient who presents with a limp and left-sided hip pain?"
+ },
+ "q2038": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 72-year-old man presents with unilateral knee pain, and an X-ray reveals reduced joint space. These pathological findings are indicative of what condition?:"
+ },
+ "q2041": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 60-year-old woman with diabetes develops gradually worsening skin lesions. Based on the description, what is the most likely diagnosis?"
+ },
+ "q2042": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement in rapid sequence intubation is incorrect?"
+ },
+ "q2043": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most distinctive feature of Kallmann syndrome among the options provided?"
+ },
+ "q2045": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the options listed below does not assist in the identification of spinal cord lesions?"
+ },
+ "q2046": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A woman presents with palpitations and stable vital signs, and her ECG shows the pattern displayed below. What should be the initial step in her management?"
+ },
+ "q2047": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not characteristic of Brown-Séquard syndrome?"
+ },
+ "q2049": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about determining the period of gestation (POG) is incorrect?"
+ },
+ "q2051": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following patients would be categorized as experiencing primary amenorrhea?"
+ },
+ "q2052": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The child of a woman who received diethylstilbestrol (DES) during pregnancy is at increased risk for which condition?"
+ },
+ "q2053": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a cause of uterine dysfunction?"
+ },
+ "q2054": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a characteristic of antepartum hemorrhage caused by placental abruption?"
+ },
+ "q2056": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a non- contraceptive use of oral contraceptives?"
+ },
+ "q2057": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 16-year-old girl presents with primary amenorrhea, widely spaced nipples, a webbed neck, Tanner stage 1 breast development, streak ovaries on ultrasound, high"
+ },
+ "q2059": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a risk factor for vulval cancer?"
+ },
+ "q2061": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 10-year-old boy presents with lower limb muscle weakness and an eyelid rash, and biopsy shows muscle inflammation. Which condition is most likely in this case"
+ },
+ "q2064": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which local anesthetic among the following leads to an increase in blood pressure?"
+ },
+ "q2065": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Please identify the liver segment that is indicated in the image provided."
+ },
+ "q2066": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with left-sided flank pain, and a CT scan is performed with the findings shown below. Which of the following statements about this condition "
+ },
+ "q2067": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most likely diagnosis in an elderly woman with abdominal pain and distension, given her history of scoliosis, as suggested by the upright abdominal "
+ },
+ "q2068": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following diseases is solely observed in females?"
+ },
+ "q2070": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Match the following: 1. Eonism a. Exposure of one's gen- itals to an unsuspect- ing stranger 2. Exhibitionism b. Sexual gratification by intercourse with dead b"
+ },
+ "q2071": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT included in the whole-body CT scan protocol for a trauma patient?"
+ },
+ "q2072": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following conditions does not exhibit egg-shell calcification?"
+ },
+ "q2073": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 55-year-old man presents with hematuria, and a CECT scan was performed as shown below. What is the diagnosis?"
+ },
+ "q2074": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which investigation is unnecessary for the given medical condition?"
+ },
+ "q2075": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 34-year-old woman is brought to the emergency department after a road traffic accident. Although her vital signs are stable and her GCS score is 3, her non-co"
+ },
+ "q2076": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "A breast lump is detected in a female patient. All but one of the following options can be used to rule out malignancy. Which option cannot be used for this pur"
+ },
+ "q2077": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Arrange the following structures in the correct order as they participate in the direct pathway of the basal ganglia : 1 Striatum 2 Globus pallidus 3 Substantia"
+ },
+ "q2078": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "What is the typical prostate volume in adult males with normal health?"
+ },
+ "q2079": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "At high altitudes, which of the following physiological adaptations does not occur?"
+ },
+ "q2082": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a pressure-volume curve, what does a reading of zero pressure imply?"
+ },
+ "q2084": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Among the given options, which organ exhibits the smallest disparity in oxygen levels between the arteries and veins?"
+ },
+ "q2086": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Where is the signaling sequence located in a type 2 membrane protein that has its N-terminal facing the cytoplasm?"
+ },
+ "q2087": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For glucose uptake, which tissues rely on insulin?"
+ },
+ "q2090": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "In the instrument shown for determining hemoglobin levels, hemoglobin is converted into which of the following forms?"
+ },
+ "q2092": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Iron in tissues is stained by which of the following?"
+ },
+ "q2093": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a patient with maple syrup urine disease (MSUD), the diet should restrict all of the following amino acids except which one?"
+ },
+ "q2094": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the product of deamination of methylated cytosine?"
+ },
+ "q2096": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In which pathway does Cyclooxygenase have a role?"
+ },
+ "q2098": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "What is the likely diagnosis for a baby who has delayed developmental milestones, hepatosplenomegaly, and the shown bone marrow microscopic findings? \u0001 EXAMINAT"
+ },
+ "q2099": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Please select the appropriate pairing for the drug and its corresponding adverse effect."
+ },
+ "q2102": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which sign or symptom likely led clinicians to suspect muscarinic poisoning in a male patient brought to the emergency department after ingesting an unknown tox"
+ },
+ "q2103": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which antibiotic can be administered to a patient with diabetes who develops a urinary tract infection (UTI) that is further complicated by hypotension unrespon"
+ },
+ "q2105": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most appropriate management for a young man who was stung by a scorpion 2 hours ago and now presents with hypertension (168/100 mm Hg), a heart rate"
+ },
+ "q2106": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Which medication is most likely to have caused hyperpigmentation of the palms and soles NODIA 453=== \u0001 EXAMINATION PAPER NOV-2022 The image displays the genome "
+ },
+ "q2107": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the cell that has been marked in the provided image."
+ },
+ "q2108": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "How would a biopsy of the child’s skin lesions initially flat, discolored patches that later became raised bumps with some showing central umbilication appear?"
+ },
+ "q2109": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which abdominal site is most commonly involved in tuberculosis?"
+ },
+ "q2110": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the likely diagnosis for a 21-year-old woman with a neck swelling that moves on swallowing, and an ultrasound showing a 2 × 2 cm mass in the left thyroi"
+ },
+ "q2111": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A male patient presents with hemoptysis and is found to have a hilar mass. Histopathology shows positive p40 staining on immunohistochemistry. What is the most "
+ },
+ "q2113": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Antigen binding to MHC class I activates which of the following cells?"
+ },
+ "q2114": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement regarding anti-CMV IgG antibodies is accurate?"
+ },
+ "q2116": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient diagnosed with HIV presents with diarrhea. Stool microscopy shows oocysts measuring 4–8 µm, as seen in the provided image. Which organism is most like"
+ },
+ "q2117": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the primary cause of affinity maturation of antibodies?"
+ },
+ "q2119": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the diagnosis of a 35-year-old woman who presents with fatigue and the following investigation results : hemoglobin (Hb) of 5 gm %, mean corpuscular hem"
+ },
+ "q2121": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following drugs is not a primary treatment option for a patient with rheumatoid arthritis?"
+ },
+ "q2124": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Based on the provided histopathological image of a thyroid lesion, what is the most likely diagnosis?"
+ },
+ "q2126": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A female has 4–6 mm pale nodular lesions on the inner thighs and perianal region. Histopathology shows numerous intracytoplasmic inclusion bodies (Henderson–Pat"
+ },
+ "q2127": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Which of the following cytokines does not play a direct role in causing the Jarisch-Herxheimer reaction?"
+ },
+ "q2128": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about statins is incorrect?"
+ },
+ "q2129": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the mechanism of action of the drug given to a patient with hyperlipidemia who later develops gallstones?"
+ },
+ "q2131": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most efficient oral medication for quitting smoking?"
+ },
+ "q2132": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which enzymes does Finasteride inhibit in order to treat male-pattern baldness?"
+ },
+ "q2135": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "At what gestational age do fingerprints first begin to form during intrauterine life?"
+ },
+ "q2136": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following options does not exhibit a characteristic of keratoconus?"
+ },
+ "q2139": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements regarding inflammatory bowel disease (IBD) is correct?"
+ },
+ "q2140": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient is admitted to the hospital displaying symptoms of fever and chills. After conducting a fever profile test, both malaria and dengue are excluded as po"
+ },
+ "q2141": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about frostbite management is NOT correct?"
+ },
+ "q2142": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Describe the postmortem change depicted in the image."
+ },
+ "q2145": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which technique is most appropriate for detecting mutations that occur at low allele frequencies?"
+ },
+ "q2146": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement about the parasite seen in the image is accurate?"
+ },
+ "q2148": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement is true about the PCR method?"
+ },
+ "q2149": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is seen in MEN 2B syndrome?"
+ },
+ "q2150": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most probable diagnosis in a woman who presents with altered mental status, breathlessness, hypotension, bradycardia, and non-pitting edema of the l"
+ },
+ "q2152": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most probable diagnosis in a female patient who has impaired pain and temperature sensation but preserved touch sensation, with imaging revealing a "
+ },
+ "q2156": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following does not qualify as a diagnostic criterion for Systemic Inflammatory Response Syndrome (SIRS)?"
+ },
+ "q2158": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the accurate statement regarding screening tests for genetic diseases?"
+ },
+ "q2159": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement correctly describes preventive measures to reduce typhoid transmission in the community?"
+ },
+ "q2161": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which indicator helps assess how effectively the health system detects leprosy cases in the community?"
+ },
+ "q2162": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a mode of transmission for abdominal tuberculosis?"
+ },
+ "q2165": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "According to the Anemia Mukt Bharat guidelines, what is the advised management for pregnant women under 34 weeks of gestation who have mild to moderate anemia?"
+ },
+ "q2167": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "How would you diagnose a patient with an ABCA1 gene mutation, low HDL levels, and tonsils appearing as shown in the image?"
+ },
+ "q2168": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 35-year-old woman presents with nasal obstruction and post-nasal drip. Five years ago, she underwent FESS with uncinectomy and maxillary ostium dilation after"
+ },
+ "q2169": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following tests is not used for testing olfaction?"
+ },
+ "q2170": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "After an acute episode of angle-closure glaucoma, which triad of symptoms is typically observed?"
+ },
+ "q2171": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the listed conditions is associated with the presence of punched-out lesions on the retina?"
+ },
+ "q2173": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Please identify the medical condition depicted in the image provided."
+ },
+ "q2174": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not characteristic of pterygium?"
+ },
+ "q2176": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "\"An 11-year-old boy presents with intention tremors, poor school performance, hepatomegaly, and the characteristic eye changes shown in the image, with a siblin"
+ },
+ "q2177": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following pairs of diseases and their corresponding populations related to parvovirus B19 is incorrect?"
+ },
+ "q2179": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which organism is indicated when Ziehl– Neelsen (ZN) staining shows oocysts measuring 8–10 µm?"
+ },
+ "q2181": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a culturally and linguistically diverse country like India, what steps should a physician take to communicate effectively with patients and ensure better tre"
+ },
+ "q2182": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following drugs is not used for the immediate management of hyperkalemia?"
+ },
+ "q2183": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient with HIV and a CD4 count of 200 cells/cu.mm presents with a 5-day history of high-grade fever and cough, without chills, rigors, diarrhea, vomiting, o"
+ },
+ "q2185": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a patient with mitral stenosis, the absence of a loud S1 fails to indicate which of the following conditions?"
+ },
+ "q2186": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a 52-year-old man presenting with left-sided hemiparesis, which part of the internal capsule is most likely involved?"
+ },
+ "q2188": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "In a patient exhibiting violent, flinging limb movements characteristic of hemiballismus, which anatomical site is responsible for the underlying lesion?"
+ },
+ "q2190": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the term used to describe the discovery made during the post-mortem examination of a patient, as shown in the image?"
+ },
+ "q2191": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the preferred treatment for acute arsenic poisoning?"
+ },
+ "q2194": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The bleeding shown in the image is due to which of the following vessels?"
+ },
+ "q2196": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient reports abdominal pain and distention. An abdominal X-ray reveals dilation of a particular portion of the intestine. Based on the provided X-ray, whic"
+ },
+ "q2197": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "By evaluating the respiratory component of the patient, which injury poses the greatest risk to their life?"
+ },
+ "q2198": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 32-year-old woman with Graves’ disease— showing ocular manifestations and thyroid enlargement—is planned for total thyroidectomy. Which preoperative measure s"
+ },
+ "q2201": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What does the number 14Fr labeled on a Foley catheter represent?"
+ },
+ "q2205": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is false regarding acute cholecystitis?"
+ },
+ "q2207": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is NOT a relative contraindication for breast-conserving surgery?"
+ },
+ "q2208": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following procedures is not used to manage the perineal condition depicted in the image? NODIA 470==="
+ },
+ "q2219": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most frequent pattern of involvement observed in Pott's spine?"
+ },
+ "q2220": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most probable diagnosis for a 35-year-old man presenting with knee pain, based on the knee joint X-ray provided?"
+ },
+ "q2222": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The Book test is used to assess the function of the adductor pollicis. Which of the following nerves supplies this muscle?"
+ },
+ "q2224": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "What is the appropriate management for a woman who is 12 weeks pregnant and receiving multidrug therapy for leprosy, if she develops a type 2 lepra reaction?"
+ },
+ "q2225": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement is incorrect regarding bipolar disorder?"
+ },
+ "q2226": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Match the following : 1. Kleptomania A. Intense desire to drink alcoholic drinks 2. Pyromania B. Intense desire to mu- tilate 3. Mutilomania C. Intense desire t"
+ },
+ "q2230": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "A person with eonism derives pleasure from which of the following?"
+ },
+ "q2231": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements regarding a normal placenta is incorrect?"
+ },
+ "q2233": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the initial indication of magnesium sulfate toxicity in a woman undergoing treatment for eclampsia?"
+ },
+ "q2250": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the likely diagnosis in a child with growth retardation, joint swelling, wrist X-ray abnormalities, and laboratory findings showing markedly elevated se"
+ },
+ "q2251": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the statements below is not true regarding the management of diabetes during pregnancy?"
+ },
+ "q2257": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "The given image depicts :"
+ },
+ "q2258": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following options demonstrates the highest airway resistance?"
+ },
+ "q2259": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a situation where cardiac contractility decreases, which of the following changes is most likely to occur?"
+ },
+ "q2260": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following ions does not show a reduced concentration in the lumen of the proximal convoluted tubule?"
+ },
+ "q2264": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is not correct about a patient with advanced liver disease?"
+ },
+ "q2265": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following options is not a substrate used in the synthesis of glucose?"
+ },
+ "q2266": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The factor labeled L that binds with tissue factor (TF) to activate Factor IX in the coagulation cascade is Factor VIIa (activated Factor VII)."
+ },
+ "q2267": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "When the outer sheath and nerve fiber remain intact but the inner axons are damaged, this condition is known as what?:"
+ },
+ "q2269": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What repair mechanism is linked to CRISPR- Cas9?"
+ },
+ "q2270": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following substances is not characterized by amphipathicity?"
+ },
+ "q2272": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In the formula for urea clearance $(U\\times V)/ P$ what does U represent?"
+ },
+ "q2273": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "To inhibit translation, which region of the mRNA does miRNA bind to?"
+ },
+ "q2274": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following methods is not appropriate for causing protein precipitation?"
+ },
+ "q2275": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Select the incorrect statement concerning suicide inhibition."
+ },
+ "q2276": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which factor is responsible for triggering an aplastic crisis in patients with hereditary spherocytosis?"
+ },
+ "q2277": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which specific cell plays a role in type IV (delayed-type) hypersensitivity?"
+ },
+ "q2278": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a product of heme catabolism?"
+ },
+ "q2282": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which pathogen causes attachment-effacement lesions in the intestinal mucosa as shown in the image?"
+ },
+ "q2283": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Please match the following eggs with their corresponding organisms. Click Here to Buy book on Amazon 531=== cell, CMV \u0001 EXAMINATION PAPER MAY-2021"
+ },
+ "q2285": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which further diagnostic investigations should be pursued for a 65-year-old man who presents with persistent fatigue, lymphadenopathy, and smudge cells noted on"
+ },
+ "q2287": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following symptoms is least likely to occur in a patient with Paroxysmal Nocturnal Hemoglobinuria (PNH)?"
+ },
+ "q2289": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Determine the specific type of chromosome that is visibly altered in the provided karyotype."
+ },
+ "q2292": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which medication is considered the treatment of choice for primary progressive multiple sclerosis (PPMS)?"
+ },
+ "q2293": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about the selection of essential drugs is not correct?"
+ },
+ "q2295": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What might explain why clopidogrel failed to work in a patient who suffered a second stroke six months after starting the medication?"
+ },
+ "q2296": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following options is not correctly matched?"
+ },
+ "q2297": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Nivolumab is used as a checkpoint inhibitor in which of the following conditions?"
+ },
+ "q2298": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following conditions does not involve the use of antimicrobial combinations?"
+ },
+ "q2301": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "How does remdesivir work in terms of its mechanism of action?"
+ },
+ "q2304": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following options refers to a newly developed, innovative medication specifically intended for the treatment of depression?"
+ },
+ "q2305": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which drug listed in the options is the most effective for assisting with smoking cessation?"
+ },
+ "q2308": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In the context of a forensic examination following an alleged sexual assault, Barberio's test is performed on stains found on the victim’s clothing. Which speci"
+ },
+ "q2310": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A male with hyperpigmentation, Tanner stage 5, hypertension, and signs of precocious puberty is evaluated. What is the most likely underlying defect?"
+ },
+ "q2312": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What condition can be avoided by administering irradiated red blood cells?"
+ },
+ "q2313": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A person with a long history of industrial work develops progressively worsening shortness of breath. Based on the lung biopsy and its histopathological feature"
+ },
+ "q2314": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What distinctive feature would be seen on electron microscopy in a patient with suspected Langerhans cell histiocytosis who presents with skull lytic lesions?"
+ },
+ "q2315": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Which of the following methods is used for xenodiagnosis?"
+ },
+ "q2319": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Given the microscopic appearance of the cerebrospinal fluid (CSF) from a meningitis patient and the accompanying gram-stain findings, which feature or diagnosti"
+ },
+ "q2321": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "When the surrounding temperature reaches 47°C, which mechanism becomes the main way the body loses heat?"
+ },
+ "q2322": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In industrial environments, what is the main route through which inorganic lead is absorbed, leading to lead poisoning?"
+ },
+ "q2323": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A nurse organizes waste-disposal bins in the hospital ward as shown in the image. Which items are appropriately discarded in the black bin?"
+ },
+ "q2327": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In the context of milk pasteurization, which test is not associated with evaluating the process?"
+ },
+ "q2328": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not included in the SAFE strategy for trachoma?"
+ },
+ "q2334": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "If an employee working in a dye factory presents with nausea, vomiting, dark blood-tinged stools, conjunctivitis, and a burning sensation in the throat and stom"
+ },
+ "q2336": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which technique is used in molecular biology to detect the presence of RNA?"
+ },
+ "q2338": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Determine the accurate combination of 'organism-drug' that exhibits intrinsic resistance."
+ },
+ "q2339": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "In the formalin–ether sedimentation method for stool sample collection, the processed specimen is separated into layers labeled A, B, C, and D. At which specifi"
+ },
+ "q2340": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the options below does not constitute a component of case-control studies?"
+ },
+ "q2342": {
+  "reasons": [
+   "ex-option-noise",
+   "tiny-stem-vs-ex"
+  ],
+  "stem": "What is triage for?"
+ },
+ "q2344": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the likely diagnosis for a patient experiencing vertigo, tinnitus, and head tilt, who had a myringoplasty for a safe type of chronic suppurative otitis "
+ },
+ "q2349": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following options is not used in the management of polycystic ovarian disease (PCOD)?"
+ },
+ "q2350": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 33-year-old woman who is 20 weeks pregnant has been told by her doctor that her fetus has a developmental abnormality. She seeks a second opinion. Based on th"
+ },
+ "q2353": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which among the following options does not contribute to the occurrence of secondary amenorrhea?"
+ },
+ "q2356": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 50-year-old man arrives with sudden onset of right-sided weakness and aphasia within the past two hours. His blood pressure is 160/110 mmHg, and his non-contr"
+ },
+ "q2357": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which statement regarding syndrome of inappropriate antidiuretic hormone secretion (SIADH) is incorrect?"
+ },
+ "q2359": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the disease in the given image."
+ },
+ "q2360": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most reliable diagnostic test for identifying myocarditis?"
+ },
+ "q2361": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is a characteristic feature observed in osteoporosis?"
+ },
+ "q2363": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements accurately describes Korsakoff syndrome?"
+ },
+ "q2368": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 45-year-old man has had progressive weakness in both lower limbs for a year, which has recently begun affecting his upper limbs. Examination shows lower-limb "
+ },
+ "q2369": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 62-year-old man with heart failure awaiting a heart transplant develops severe respiratory distress four hours after receiving two units of whole blood. He is"
+ },
+ "q2374": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the probable diagnosis in a 5-year-old child who presents with unilateral proptosis and has a tumor that tests positive for desmin?"
+ },
+ "q2376": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "As a component of the treatment for a child experiencing severe COVID, which of the options below is administered?"
+ },
+ "q2377": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A child presents with fever, vesicular lesions on the upper and lower limbs including the palms and soles, oral lesions, neck stiffness, and CSF findings showin"
+ },
+ "q2380": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "What is the likely diagnosis in a young child who presents with mild, intermittent upper abdominal pain and has the X-ray shown below? Downloaded from www.pdf.t"
+ },
+ "q2382": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the needle placement angle when using the interrupted suturing technique to suture a laceration in the Emergency Room (ER)?"
+ },
+ "q2383": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most suitable management strategy for a 50-year-old man who presents with hematuria and is diagnosed with a 2 × 2 cm bladder lesion consistent with "
+ },
+ "q2386": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Ventilatory support is required if SpO2 becomes less than 90% because:"
+ },
+ "q2387": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For a patient who had cough and fever due to COVID-19 but recovered without needing hospitalization, how long should elective surgery be deferred?"
+ },
+ "q2390": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not employed in post- laryngectomy rehabilitation?"
+ },
+ "q2391": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents to the outpatient clinic with a burn on the right thigh featuring a moist, red, blistered lesion and a sharply defined distal margin. What is"
+ },
+ "q2398": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient suffers a type IIIa compound fracture of the tibia after a road traffic accident. How should the following external fixators be ranked from the most s"
+ },
+ "q2399": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the primary mode of dissemination of retinoblastoma?"
+ },
+ "q2400": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the surgical procedure depicted in the provided image."
+ },
+ "q2401": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Can you determine the observation indicated by the arrow in the image provided?"
+ },
+ "q2407": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the first-line treatment for a woman who presents with frothy vaginal discharge and a strawberry-appearing cervix?"
+ },
+ "q2408": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A primigravida at 10 weeks of pregnancy presents with spotting, and a transvaginal ultrasound shows the uterus measuring the size expected at 12 weeks. What is "
+ },
+ "q2409": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most likely diagnosis in a child who has asymptomatic lesions on the forearm and on the shaft of the penis, as illustrated in the forearm image prov"
+ },
+ "q2412": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following methods is not considered a form of long-acting reversible contraception (LARC)?"
+ },
+ "q2414": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following should not be considered a potential cause of the lesion shown in the image, which developed in a forest officer?"
+ },
+ "q2415": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A young girl presents with the lesions shown in the image. What is the most probable diagnosis?"
+ },
+ "q2417": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A young woman presents with facial symptoms as shown. Which of the following treatments"
+ },
+ "q2422": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "To which class does clear cell carcinoma of the ovary belong, in terms of ovarian tumors?"
+ },
+ "q2423": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Relative to pregnancy, which nutrient must be supplemented in greater amounts during lactation?"
+ },
+ "q2424": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Asherman syndrome is most commonly associated with:"
+ },
+ "q2425": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "For which procedure are the following instruments used? NODIA 553=== \u0001 EXAMINATION PAPER MAY-2021 The image shows a coronal view of a CT scan of the paranasal s"
+ },
+ "q2426": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 45-year-old patient presents with nonspecific abdominal pain. Based on the CT scan image provided, what is the most likely diagnosis?"
+ },
+ "q2427": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the imaging modality shown in the image below."
+ },
+ "q2428": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the cause of the double bleb sign observed during early pregnancy?"
+ },
+ "q2431": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the best treatment for a patient who repeatedly feels their hands are contaminated and compulsively washes them, causing significant distress and reduce"
+ },
+ "q2432": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "According to ICD-11, which of the following conditions is not classified under obsessive– compulsive disorders?"
+ },
+ "q2433": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not an off-label indication for the use of risperidone?"
+ },
+ "q2434": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Which of the following branches originate from the anterior division of the internal iliac artery? 1. Superior gluteal artery 2. Inferior gluteal artery 3. Supe"
+ },
+ "q2437": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not associated with massive splenomegaly?"
+ },
+ "q2439": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In the most common variant of Guillain–Barré syndrome, which region would be affected as shown in the electron microscopic cross-section of a nerve fiber?"
+ },
+ "q2440": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following poisonous agents does not inhibit cytochrome oxidase?"
+ },
+ "q2441": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following lipase enzymes is inhibited by insulin?"
+ },
+ "q2442": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the main substrate and metabolic fuel used by red blood cells (RBCs) during the fasting period?"
+ },
+ "q2443": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following macronutrients requires the most energy for assimilation?"
+ },
+ "q2444": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is associated with a defect in collagen maturity?"
+ },
+ "q2445": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which enzyme is affected in a patient with thiamine deficiency who develops lactic acidosis?"
+ },
+ "q2448": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "If a patient has low blood oxygen (hypoxemia) but a normal alveolar-arterial (A-a) oxygen gradient, what medical condition does this typically point to?"
+ },
+ "q2449": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The stroke volume depends on end-diastolic volume. This is best represented as?"
+ },
+ "q2450": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which sensory receptors are responsible for tactile discrimination?"
+ },
+ "q2454": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What abnormality is most likely to be seen on histopathological examination of the tissue section from a 17-year-old male who underwent surgery for intussuscept"
+ },
+ "q2456": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What follow-up diagnostic procedure is recommended for a child with bilateral proptosis and a peripheral smear suggesting chloroma?"
+ },
+ "q2457": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient has had difficulty breathing during exertion for one month. An echo cardiogram shows mitral stenosis and left ventricular hypertrophy. Based on the pr"
+ },
+ "q2458": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a patient who has undergone prolonged starvation, which urine test would show a positive result?"
+ },
+ "q2461": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which proteins of Human Papillomavirus (HPV) are responsible for inactivating the RB gene?"
+ },
+ "q2466": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Please identify the urinary crystal displayed in the image provided."
+ },
+ "q2468": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which study design is the most effective for demonstrating a cause-and-effect relationship among the options listed?"
+ },
+ "q2472": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not considered a major diagnostic criterion for allergic fungal sinusitis?"
+ },
+ "q2473": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 65-year-old patient presents with right-sided nasal obstruction and occasional blood-stained nasal discharge. The CT scan and endoscopic images are provided. "
+ },
+ "q2474": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which investigation would be most useful for a patient presenting with sinusitis, ulcerative nasopharyngeal lesions, nodular lung lesions with cavitations, and "
+ },
+ "q2475": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is considered a new and innovative medication for the treatment of depression?"
+ },
+ "q2482": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "By what mechanism did the injuries occur in a man brought to the emergency department \u0001 EXAMINATION PAPER NOV-2021 Oculomotor nerve supplies most of the extraoc"
+ },
+ "q2483": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most frequently observed eye symptom of COVID-19?"
+ },
+ "q2484": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which medication should be avoided in a patient with angle-closure glaucoma who also has major depressive disorder?"
+ },
+ "q2485": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient has difficulty seeing in the lateral visual fields along with a mild, persistent headache. Where in the visual pathway is the lesion most likely locat"
+ },
+ "q2486": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Can you identify the chart shown in the provided image?"
+ },
+ "q2487": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 42-year-old man recovering from COVID-19 and isolating at home comes to the emergency department with breathing difficulty. He is alert and responsive but tac"
+ },
+ "q2488": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In neuromuscular monitoring, tetanic stimulation is generally delivered at what frequency?"
+ },
+ "q2489": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "What is the highest oxygen flow rate that a standard (traditional) oxygen mask can deliver?"
+ },
+ "q2490": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which microorganism is most likely to cause meningitis in a neonate who presents with increased irritability, poor feeding, and seizures, as confirmed by lumbar"
+ },
+ "q2491": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements accurately reflects the characteristics of trematodes?"
+ },
+ "q2492": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A man with a history of frequent travel presents with prolonged fever of unknown origin (FUO). His bone marrow smear is shown in the image. Which investigation "
+ },
+ "q2495": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which one of these options is classified as a dematiaceous fungus?"
+ },
+ "q2496": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Determine the virus present in the provided replication cycle :"
+ },
+ "q2498": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient with fever, breathlessness, tachycardia, and palpitations is found on echo cardiography to have vegetations on the septal leaflets. A tissue section s"
+ },
+ "q2499": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following organisms is considered a strict anaerobe?"
+ },
+ "q2501": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "The method most commonly used for identifying RNA in molecular analysis is Northern blotting. NODIA 617==="
+ },
+ "q2508": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What factor is the external validity of a screening test associated with?"
+ },
+ "q2509": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What term is used to describe the recent increase in the occurrence of non-communicable diseases?"
+ },
+ "q2511": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which thiazide diuretic should be given to a 34-year-old male with hypertension and stage 4 chronic kidney disease, whose estimated glomerular filtration rate ("
+ },
+ "q2512": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following options can be used for the long-term treatment of obesity?"
+ },
+ "q2514": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "For which medical condition is inhaled nitric oxide approved for treatment?"
+ },
+ "q2515": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a cause of the paradoxical bronchoconstrictor associated with ipratropium bromide?"
+ },
+ "q2521": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the diagnosis for a young man with hearing loss and tinnitus, based on the provided histology image?"
+ },
+ "q2524": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following methods is most commonly used to identify RNA in molecular analysis?"
+ },
+ "q2525": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements accurately describes the cause of the observed finding?"
+ },
+ "q2526": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "How does RNA interference (RNAi) impact gene expression?"
+ },
+ "q2527": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is the best method to detect HbA1c?"
+ },
+ "q2528": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is the best test for quantitative analysis of an RNA sample?"
+ },
+ "q2531": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "The blood investigation of a patient is given below. What is the probable diagnosis? • HBsAg : Non-reactive • HBeAg : Non-reactive • IgG anti-HBcAg : Reactive •"
+ },
+ "q2532": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A person develops facial swelling and left-sided orbital edema 20 days after a minor injury with a piece of wood. A CT scan shows no sinus involvement but revea"
+ },
+ "q2533": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the size of the cannula gauge used in this case?"
+ },
+ "q2536": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What steps would you take to identify the cause of postmenopausal bleeding in a 62-year- old woman with a history of diabetes and hypertension?"
+ },
+ "q2537": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What does the World Health Organization (WHO) recommend for the management of the second stage of labor?"
+ },
+ "q2538": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which diagnostic test is most effective for distinguishing obstructive azoospermia from testicular azoospermia in an infertile couple?"
+ },
+ "q2539": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the prescribed dosage of dexamethasone administered to promote fetal lung maturity?"
+ },
+ "q2540": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which emergency contraceptive is commonly utilized in India among the options provided?"
+ },
+ "q2541": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What medication is recommended for treating foul-smelling vaginal discharge in a 24-year- old woman, based on the provided microscopic image?"
+ },
+ "q2542": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements regarding electroencephalogram (EEG) is not correct?"
+ },
+ "q2543": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which jugular venous pressure (JVP) wave corresponds to the isovolumetric contraction phase of the cardiac cycle?"
+ },
+ "q2544": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 22-year-old male arrives at the emergency department after a car accident. His Glasgow Coma Scale (GCS) score is E2M2V3. There are no fractures, no signs of h"
+ },
+ "q2546": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 26-year-old man presents with a large, painless, firm swelling in the right testicle and a dragging sensation. The left testicle is normal, and his AFP level "
+ },
+ "q2547": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most frequent reason for hospital admission following daycare surgery?"
+ },
+ "q2548": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "A 20-year-old male is brought to the emergency department after a bicycle accident. He is hemodynamically stable but has a perineal bruise, cannot urinate, and "
+ },
+ "q2549": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A man suffers a stab injury to the arm, leading to a hematoma and absent radial and ulnar pulses. Examination reveals a 3.5 cm longitudinal tear in the brachial"
+ },
+ "q2550": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 24-year-old male arrives at the emergency department after a road traffic accident. His heart rate is 100/min, respiratory rate is 24/min, and his chest X-ray"
+ },
+ "q2552": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "During surgery for breast carcinoma, a frozen section technique was used. This method offers several advantages, except in which of the following situations?"
+ },
+ "q2554": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about hepatocellular carcinoma (HCC) is/are correct? 1. TACE is used for multinodular lesions Click Here to Buy book on Amazon"
+ },
+ "q2557": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the primary reason for bladder outlet obstruction in male children?"
+ },
+ "q2559": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following components make up kangaroo mother care?"
+ },
+ "q2563": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "A 26-year-old woman with two previous vaginal deliveries presents with ongoing abdominal discomfort, irregular menstrual cycles, and a palpable mass on vaginal "
+ },
+ "q2567": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 45-year-old patient comes to the emergency department with severe pain in a casted tibial fracture. After the cast is removed, examination reveals painful pas"
+ },
+ "q2572": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 15-year-old boy is brought to the emergency department after a motor vehicle accident with complaints of hip pain, and an X-ray has been performed. What is th"
+ },
+ "q2574": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Match the following fractures with their corresponding locations. a. Jones fracture 1. 5th metatarsal b. Bennett's fracture 2. 2nd metatarsal Click Here to Buy "
+ },
+ "q2575": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which fixative is employed for a Pap smear?"
+ },
+ "q2581": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Please match the following colors of STI kits with their corresponding use : a. Lower abdominal pain 1. Grey, Kit 1 b. Urethral discharge 2. Green, Kit 2 c. Non"
+ },
+ "q2583": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 68-year-old man with hypertension, diabetes, and coronary artery disease presents with palpitations and shortness of breath. His heartbeat is irregular, and E"
+ },
+ "q2584": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not regarded as a primary diagnostic criterion for neuromyelitis optica?"
+ },
+ "q2585": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following does not show hypokinesia movements?"
+ },
+ "q2586": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following conditions are associated with hypertension and hypokalemic metabolic alkalosis?"
+ },
+ "q2587": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 20-year-old athlete collapses during a football match and is later declared dead at the hospital. Based on the autopsy image provided, what is the most likely"
+ },
+ "q2589": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a 17-year-old patient, what is the most distinctive and characteristic feature of juvenile dermatomyositis?"
+ },
+ "q2591": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the likely diagnosis for a 65-year-old man who presents with itchy, tense bullae on his limbs that collapse after a few days, as shown in the image?"
+ },
+ "q2592": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What type of MRI image is shown in the provided image?"
+ },
+ "q2595": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is accurate concerning the COVID-19 Reporting and Data System (CORADS)?"
+ },
+ "q2598": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which anesthetic agent can be used for induction, maintenance of anesthesia, and to allow safe endotracheal intubation?"
+ },
+ "q2599": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which anesthetic agent was most likely given to a patient who developed rigidity, tremors, and trismus after administration?"
+ },
+ "q2602": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which agent is most likely responsible when a patient under halothane anesthesia develops hyperthermia and muscle rigidity during surgery?"
+ },
+ "q2604": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A female patient presents with abdominal pain and is found on ultrasound to have multiple gallstones without gallbladder wall thickening, and a common bile duct"
+ },
+ "q2608": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Which of the following statements accurately describes obsessive-compulsive disorder (OCD)?"
+ },
+ "q2609": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Reticular fibers are absent in :"
+ },
+ "q2610": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "What is the maximum level till which the lung reaches the liver?"
+ },
+ "q2612": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about telomerase is incorrect?"
+ },
+ "q2613": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following enzymes shows a decrease in Vitamin B12 deficiency? A. Methionine synthase B. Methyl malonyl CoA isomerase C. Homocysteine synthase D. Fo"
+ },
+ "q2614": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The steps of PCR (Polymerase Chain Reaction) are :"
+ },
+ "q2616": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The thermogenic effect of food is highest for :"
+ },
+ "q2618": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Match the following conditions with their associated features : 1. Asbestosis a. First discovered in coal workers NODIA 686==="
+ },
+ "q2620": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In membrane receptors, the transmembrane region is made up of which type of amino acids?"
+ },
+ "q2621": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "High anion gap acidosis is seen in all except :"
+ },
+ "q2625": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "DNA methylation is not associated with :"
+ },
+ "q2634": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the cells marked by a black arrow in the blood smear of a patient suffering from liver disease."
+ },
+ "q2635": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a distinguishing feature between Classical Hodgkin Lymphoma (HL) and Nodular Lymphocyte Predominant Hodgkin Lymphoma (NLPHL)?"
+ },
+ "q2637": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following conditions is least likely to result in a dry tap during bone marrow aspiration?"
+ },
+ "q2638": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not true about telomerase?"
+ },
+ "q2639": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about Nodular Lymphocyte Predominant Hodgkin Lymphoma (NLPHL) is incorrect?"
+ },
+ "q2641": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which clotting factor deficiency does not affect clotting in vivo?"
+ },
+ "q2644": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following antidepressants is linked to the fewest sexual side effects?"
+ },
+ "q2645": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is a bone-forming drug?"
+ },
+ "q2646": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about disulfiram are correct?"
+ },
+ "q2653": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following methods can be used for therapeutic drug monitoring in a patient?"
+ },
+ "q2654": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A psychotic patient presented with voluntary purposeless movements and was observed to stand still in the ward with negativism and waxy flexibility. What is the"
+ },
+ "q2661": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "In a firearm injury, the blackening seen around the entry wound is due to :"
+ },
+ "q2665": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 47-year-old man presents with painful lesions on the glans penis. What is the likely cause of this condition?"
+ },
+ "q2667": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "Which disease has an almost 100% fatality rate once symptoms develop?"
+ },
+ "q2668": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 50-year-old alcoholic is brought to the hospital with bleeding esophageal varices and dies. At autopsy, his distended abdomen contains a large amount of serou"
+ },
+ "q2669": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 20-year-old patient is rapidly gaining weight and has elevated TSH levels. What is the most likely diagnosis?"
+ },
+ "q2670": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A woman presents with dark knuckles and anemia. What type of anemia is most likely?"
+ },
+ "q2671": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient has a gangrenous ulcer on the left toe and experiences early fatigue in the right lower limb while walking. What is the most appropriate investigation"
+ },
+ "q2672": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient has had fever, headache, neck stiffness, photophobia, and an erythematous chest rash for 4 days, with no recent travel or tick bite history. Which cer"
+ },
+ "q2673": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 68-year-old man with a recent syncopal episode, congestive heart failure, and a grade III/IV harsh systolic murmur is found on echocardiography to have marked"
+ },
+ "q2674": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What are the admission criteria for COVID-19?"
+ },
+ "q2675": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not a part of high- quality CPR?"
+ },
+ "q2676": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A female develops pallor and cyanosis when exposed to cold water. All of the following conditions can cause this except which one?"
+ },
+ "q2677": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient presents with pneumonia, and culture shows Gram-positive branching rods with molar-tooth colonies on chocolate agar under strict anaerobic conditions."
+ },
+ "q2678": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A chest X-ray shows cavitary lesions. The organism grows slowly on buffered charcoal yeast extract (BCYE) agar and produces aerial hyphae. A Gram-stained image "
+ },
+ "q2679": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The Gram-stained smear of urethral exudate from a male (shown in the photo) is diagnostic for which disease?"
+ },
+ "q2680": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What are the features of chancroid? 1. School of fish on Gram staining 2. Painful ulcer 3. Bleeds on touch 4. Groove sign"
+ },
+ "q2681": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most appropriate method for reviewing previous research studies?"
+ },
+ "q2682": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "What is the most suitable option for mass chemoprophylaxis against anemia in a population?"
+ },
+ "q2683": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Persistent dribbling of urine in a child who otherwise urinates normally is most likely due to which condition?"
+ },
+ "q2688": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "If a doctor is inserting screws into the vertebrae, where will these screws be placed?"
+ },
+ "q2689": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old individual is experiencing progressive difficulty bending forward along with increasing spinal stiffness. A CT scan is provided. What is the most "
+ },
+ "q2690": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All the following are true about subconjunctival hemorrhage except :"
+ },
+ "q2693": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Regarding the Kayser-Fleischer ring, which of the following is true?"
+ },
+ "q2694": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the nerve from the list provided that does not play a role in moving the eyeball."
+ },
+ "q2696": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All of the following are true about Gout, except :"
+ },
+ "q2697": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the leading cause of Chronic Kidney Disease that also poses the most significant threat to life? 87. What does the difference between the maximum and mi"
+ },
+ "q2698": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All of the following clinical features are seen in Zika fever except :"
+ },
+ "q2699": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "When to use hand sanitizer? A. Before touching the patient B. After touching the patient C. When hands are soiled. D. After touching patient's surrounding."
+ },
+ "q2700": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which discrete probability distribution describes the likelihood of a certain number of events occurring within a fixed interval of time or space?"
+ },
+ "q2702": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "All of the following are complications of Otitis Media, except :"
+ },
+ "q2703": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Name the structure marked as MT in the provided image."
+ },
+ "q2705": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following is not an objective test?"
+ },
+ "q2706": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the size of a pink IV cannula?"
+ },
+ "q2707": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A farmer develops a painless foot lesion with multiple discharging sinuses. What is the most likely diagnosis?"
+ },
+ "q2708": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the first and specific marker for myocardial infarction (MI)?"
+ },
+ "q2710": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A road-traffic-accident (RTA) patient with polytrauma has unstable vitals, is intubated due to a low Glasgow Coma Scale (GCS), shows no eye opening, no verbal r"
+ },
+ "q2712": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements about a pilonidal sinus is incorrect?"
+ },
+ "q2714": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most common retroperitoneal tumor?"
+ },
+ "q2715": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most likely diagnosis for the ulcer shown in the image?"
+ },
+ "q2717": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "A 35-year-old man with a history of peptic ulcer disease presents with 2 days of abdominal pain and obstipation. An erect abdominal X-ray is obtained (as shown)"
+ },
+ "q2720": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 13-year-old girl presents with a left-sided neck swelling that has grown slowly since childhood and feels hard on examination. What is the most likely diagnos"
+ },
+ "q2721": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Regarding the boundaries of the laparoscopic anatomy of an inguinal hernia, which of the following statements is false?"
+ },
+ "q2722": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient has had severe abdominal pain for 2 hours, blood pressure 90/60, pulse 112/min with an irregular rhythm, repeated vomiting, a soft abdomen, and absent"
+ },
+ "q2726": {
+  "reasons": [
+   "garbage",
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old female undergoes cholecystectomy and later develops postoperative abdominal pain. Which test is used to detect a bile leak?"
+ },
+ "q2728": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which structure is disrupted by Vibrio cholerae?"
+ },
+ "q2729": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Galactomannan in the serum is found in which of the following conditions?"
+ },
+ "q2731": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the condition in the given image."
+ },
+ "q2732": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the organism depicted in the given image."
+ },
+ "q2733": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "In a fully and adequately immunized child against diphtheria, a throat swab shows Corynebacterium diphtheriae–like organisms on Albert staining. On further labo"
+ },
+ "q2736": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The middle radioulnar joint is which type of joint?"
+ },
+ "q2739": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 10-year-old girl previously treated with antibiotics for sore throat and fever now returns with the skin lesions shown in the image. What is the most likely c"
+ },
+ "q2740": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 22-year-old male, involved in sexual intercourse, presents with painful ulcers (as shown in the image). What will be the microscopic finding?"
+ },
+ "q2741": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the type of lesion seen in the following image?"
+ },
+ "q2742": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the investigation of choice for diagnosing allergic contact dermatitis?"
+ },
+ "q2744": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the use of the cart shown in the image?"
+ },
+ "q2745": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "The blue pipeline in the operating theatre (OT) is for which anesthetic gas?"
+ },
+ "q2746": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Match the dilution of adrenaline with the correct route of administration (ROA) : Dilution ROA 1. 1 :1000 a. Intracardiac 2. 1 :10,000 b. Intramuscular 3. 1 :10"
+ },
+ "q2747": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the position shown in the image. Click Here to Buy book on Amazon 706==="
+ },
+ "q2748": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most common drawback of the instrument shown in the image?"
+ },
+ "q2749": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the gauge size of the orange cannula?"
+ },
+ "q2750": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "eFAST consists of findings in which areas? A. Thorax B. Pelvis C. Retroperitoneum D. Skull"
+ },
+ "q2751": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which X-ray view is used for the frontal sinus?"
+ },
+ "q2752": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A pediatric patient presents with anemia, hepatosplenomegaly, cervical lymphadenopathy, and multiple scalp swellings, along with the provided skull radiograph. "
+ },
+ "q2753": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A pregnant woman experiences nighttime cramps. What should the nurse advise her to do?"
+ },
+ "q2754": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the fetal position shown in the diagram relative to the maternal pelvis?"
+ },
+ "q2756": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A midwife is examining a pregnant woman and notices an umbilical cord prolapse. What should be the next step in management?"
+ },
+ "q2758": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A woman is advised to undergo a Pap smear and asks what it is. How would you explain it to her?"
+ },
+ "q2760": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "What is the most common CT scan lung image finding in a COVID-19 patient?"
+ },
+ "q2762": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 5-year-old child presents with selective mutism. What is the most likely diagnosis?"
+ },
+ "q2763": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Subcortical dementia seen in? A. Parkinson's disease B. Wilson's disease C. Huntington's disease D. Pick's disease"
+ },
+ "q2764": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A male patient lost his job a week ago and has since become irritable and sad. Thoughts about his job and future worsen his mood. He is more irritable at home b"
+ },
+ "q2765": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old man says he feels his feet are dirty even though he knows this isn’t true. This causes him distress, leading him to wash them repeatedly. This rep"
+ },
+ "q2766": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "How will you differentiate delirium from dementia in Alzheimer's disease?"
+ },
+ "q2767": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A patient with severe depression was treated with a tricyclic antidepressant (TCA) and showed improvement after 4 weeks. At the time of discharge, what is the m"
+ },
+ "q2768": {
+  "reasons": [
+   "garbage",
+   "dangling",
+   "ex-option-noise"
+  ],
+  "stem": "All of the following are good prognostic factors in schizophrenia except?"
+ },
+ "q2903": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 3-week-old infant presents with vomiting, failure to thrive, jaundice, and hepatomegaly. Bilateral cataracts are noted. Urine shows a reducing substance that "
+ },
+ "q295": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Perifollicular hemorrhages, bruise-prone gums, lusterless hair and marrow failure in a patient surviving on a bread-only diet — which hydroxylation will fail bi"
+ },
+ "q352": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "During the first six hours after death, the core temperature of a body in temperate environment drops at approximately which rate?"
+ },
+ "q688": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 40-year-old man has more than 5 hypopigmented hypoesthetic patches and a strongly positive slit-skin smear. What multidrug regimen and duration is correct by "
+ },
+ "q949": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Which specific antibody is most commonly associated with celiac disease?"
+ },
+ "q956": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Identify the diagnosis from the given image? NODIA 100==="
+ },
+ "q961": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "An elderly man presents with clinical features suggestive of multiple myeloma. Serum protein electrophoresis demonstrates an M spike, and the immunofixation pat"
+ },
+ "q970": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "A 32-year-old woman presents with a gradually progressive, painless swelling on the left side of her neck that has been present for the past two months. She als"
+ },
+ "q972": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "A patient presents with a gradual decline in night vision along with progressive loss of peripheral vision. Based on the fundoscopic image shown, what is the mo"
+ },
+ "q977": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Which of the following statements is incorrect with respect to the condition depicted in the image?"
+ },
+ "q978": {
+  "reasons": [
+   "garbage",
+   "dangling"
+  ],
+  "stem": "Identify the visual field defect shown in the image. NODIA 107==="
+ },
+ "q983": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "A patient presents with sudden, painful loss of vision accompanied by photophobia, circumcorneal congestion, and the presence of hypopyon. What is the most like"
+ },
+ "q991": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 5-year-old child presents with a history of fever and is diagnosed with ventricular tachycardia and cardiac dysfunction. Histopathology of the heart is shown "
+ },
+ "q992": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 34-year-old man employed in the cement industry presented with a history of breathing difficulty. On examination, a chest X-ray revealed an opacity, and histo"
+ },
+ "q993": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 20-year-old patient presented with a history of pedal edema and was found to have proteinuria on investigation. Kidney biopsy revealed a characteristic spike-"
+ },
+ "q994": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 12-year-old child with a history of pyoderma two weeks earlier was evaluated and found to have hematuria with a serum creatinine level of 2 mg%. On follow-up "
+ },
+ "q995": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 35-year-old man presents with fatigue and weakness. Peripheral blood smear shows the findings illustrated below. What is the most likely genetic change associ"
+ },
+ "q997": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "A 7-year-old child presents to the outpatient department with swelling of the jaw. On examination, cytopenias are noted, and bone marrow aspiration shows the ce"
+ },
+ "q998": {
+  "reasons": [
+   "ex-option-noise"
+  ],
+  "stem": "Identify the structure in the below histology slide?"
+ },
+ "q999": {
+  "reasons": [
+   "garbage"
+  ],
+  "stem": "Which of the following statements are true regarding the relative risk associated with Mendelian patterns of inheritance?"
+ }
+}
