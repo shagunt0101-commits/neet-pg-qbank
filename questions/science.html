@@ -491,6 +491,7 @@ function lsSet2(k, v) { lsSet(k, v); if (SYNC_KEYS.indexOf(k) !== -1) syncPush()
 
 /* ---------------- Firebase sync ---------------- */
 var SYNC = { f: null, db: null, user: null, lsn: null, dirty: false, timer: null, init: false };
+var _STEM_BY_QID = null;
 var SYNC_KEYS = ['neet_hist', 'neet_results', 'neet_marks', 'neet_tests'];
 
 function syncInit() {
@@ -591,21 +592,41 @@ function syncMerge(d) {
 
 function mergeHist(remote) {
   var hist = lsGet('neet_hist') || {};
-  var c = 0;
-  for (var k in remote) {
-    var r = remote[k];
+  var c = 0, rekeyed = 0;
+  var keys = {};
+  for (var k in hist) { // local records: normalize pre-corruption keys too
+    var nk = stemKeyFor(hist[k]) || k;
+    if (nk !== k) rekeyed++;
+    keys[nk] = hist[k];
+  }
+  for (var k2 in remote) {
+    var r = remote[k2];
     if (!r || typeof r !== 'object') continue;
-    var l = hist[k];
-    if (!l) { hist[k] = r; c++; continue; }
+    var nk2 = stemKeyFor(r) || k2;
+    if (nk2 !== k2) rekeyed++;
+    var l = keys[nk2];
+    if (!l) { keys[nk2] = r; c++; continue; }
     var nr = (r.ts || 0) > (l.ts || 0) ? r : l; // newer record wins scalars
     var merged = {};
     for (var kk in nr) merged[kk] = nr[kk];
     merged.times = unionTimes(l.times || [], r.times || []);
-    if (JSON.stringify(merged) !== JSON.stringify(l)) { hist[k] = merged; c++; }
+    if (JSON.stringify(merged) !== JSON.stringify(l)) { keys[nk2] = merged; c++; }
   }
-  if (c) lsSet('neet_hist', hist);
+  if (c || rekeyed) lsSet('neet_hist', keys);
   return c;
 }
+
+function stemKeyFor(r) { // qid -> current bank stem(50); stable across bank fixes
+  if (!_STEM_BY_QID) {
+    _STEM_BY_QID = {};
+    for (var i = 0; i < BANK.length; i++) {
+      var q = BANK[i];
+      if (q && q.qid) _STEM_BY_QID[q.qid] = q.q.substring(0, 50);
+    }
+  }
+  return (r && r.qid && _STEM_BY_QID[r.qid]) || null;
+}
+
 function unionTimes(a, b) { // ponytail: dedup by outcome+rounded sec, collisions rare
   var seen = {}, out = [];
   for (var i = 0; i < a.length; i++) {
