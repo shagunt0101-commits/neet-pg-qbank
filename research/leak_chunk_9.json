@@ -1,0 +1,106 @@
+{
+ "cb517": {
+  "qid": "cb517",
+  "a": 2,
+  "num": 6,
+  "q": "While walking on the street, you find an unresponsive child. After confirming that the child is not breathing, what is the next best course of action? (Q-18151912) for help",
+  "o": [
+   "Deliver rescue breaths, as most pediatric cardiac arrests are secondary to breathing problems",
+   "Begin back blows and chest thrusts",
+   "Deliver 30 chest compressions followed by 2 rescue breaths for 2 minutes, then leave the child to call",
+   "Leave the child immediately to search for an AED"
+  ],
+  "ex": "After confirming unresponsiveness and absence of breathing in a child, the next step is to **initiate CPR immediately**. In pediatric BLS, if you are **alone**, you should give **30 chest compressions followed by 2 rescue breaths**, continuing CPR for about **2 minutes** before leaving the child to call for help and activate EMS. Early CPR maintains cerebral and coronary perfusion and significantly improves outcomes in pediatric cardiac arrest."
+ },
+ "cb1757": {
+  "qid": "cb1757",
+  "a": 0,
+  "num": 3,
+  "q": "A 20-year-old male patient presents with unilateral nasal obstruction and recurrent bleeding for the past 1 year. Transnasal endoscopic results are shown below. nasopharynx. What is the most likely diagnosis? (Q-25369504) D. Concha bullosa",
+  "o": [
+   "contrast-enhanced CT revealed a mass extending from the posterior choana to the",
+   "Nasopharyngeal angiofibroma",
+   "Antrochoanal polyp",
+   "Rhinoscleroma"
+  ],
+  "ex": "Juvenile nasopharyngeal angiofibroma (JNA) is a highly vascular benign **tumor** seen in adolescent/young males, presenting with unilateral nasal obstruction and recurrent epistaxis. * Origin: Sphenopalatine foramen (posterior nasal cavity) * Presentation: * Recurrent severe epistaxis * Unilateral nasal obstruction * Endoscopy: Smooth, reddish vascular mass * Imaging (CECT): * Intense enhancement * Holman–Miller sign (anterior bowing of posterior maxillary wall) Biopsy is contraindicated due to risk of profuse bleeding. Why not other options: * Antrochoanal polyp: Pale, non-vascular, no epista"
+ },
+ "cb2392": {
+  "qid": "cb2392",
+  "a": 2,
+  "num": 21,
+  "q": "Which of the following is true regarding nicotine substitution therapy? (Q-40118076) its absorption",
+  "o": [
+   "Preferably given by gastrointestinal route",
+   "Varenicline comes with a black box warning of cardiovascular death",
+   "There should be a 15-minute gap between nicotine gum and coffee/soda/acidic food as they decrease",
+   "Nicotine chewing gum is better for constant use as it gives 25% higher blood level than lozenges"
+  ],
+  "ex": "Nicotine replacement therapy (NRT) is an effective method to assist in smoking cessation. It is used to relieve craving for tobacco by substituting nicotine in tobacco with nicotine in safer forms. Various preparations include nicotine gums, nicotine lozenges, nicotine patch, nicotine spray and nicotine inhaler. Nicotine gum's absorption can be affected by acidic beverages, so it's advised to avoid them shortly before or while using the gum. A) Incorrect. NRT is not given via the gastrointestinal route. Nicotine in NRT is absorbed either through buccal mucosa or skin. B) False. Varenicline doe"
+ },
+ "cb3298": {
+  "qid": "cb3298",
+  "a": 0,
+  "num": 19,
+  "q": "Arrange the stages of spore formation (sporulation) in correct order: (Q-26891584) formation Maturation and lysis formation Maturation and lysis lysis Axial filament formation formation Maturation and lysis",
+  "o": [
+   "Axial filament formation   Septum formation   Asymmetric division   Engulfment   Cortex",
+   "Engulfment   Cortex formation   Septum formation   Asymmetric division   Axial filament",
+   "Septum formation   Asymmetric division   Engulfment   Cortex formation   Maturation and",
+   "Asymmetric division   Engulfment   Cortex formation   Septum formation   Axial filament"
+  ],
+  "ex": "Sporulation (endospore formation) occurs in certain bacteria such as Bacillus and Clostridium when environmental conditions become unfavorable. Correct sequence of sporulation: 1. Axial filament formation – Chromosomal DNA aligns along the cell axis. 2. Septum formation – A transverse septum begins to form. 3. Asymmetric division – Formation of a smaller forespore and larger mother cell. 4. Engulfment – The mother cell membrane engulfs the forespore. 5. Cortex formation – A thick peptidoglycan cortex develops around the forespore. 6. Maturation and lysis – The spore matures and the mother cell"
+ },
+ "cb3994": {
+  "qid": "cb3994",
+  "a": 3,
+  "num": 8,
+  "q": "All of the following statements are true except: (Q-90876063) pubic symphysis",
+  "o": [
+   "The shortest anteroposterior ( AP ) diameter of the pelvic inlet is the obstetric conjugate",
+   "The diagonal conjugate is measured from tip of the sacral promontory to the lower margin of the",
+   "The obstetric conjugate is calculated by subtracting 1.5 cm from the diagonal conjugate",
+   "A contracted pelvis is defined as s transverse diameter <10cm and an AP diameter <12cm"
+  ],
+  "ex": "Pelvic adequacy is assessed using multiple pelvic diameters and overall obstetric assessment. Although the obstetric conjugate is important, a contracted pelvis cannot be defined by a single measurement alone.*\n Clinical pelvimetry and labor outcome are also essential considerations.* A) **True** — The obstetric conjugate is the shortest AP diameter of the pelvic inlet.* B) **True** — Diagonal conjugate is measured from the sacral promontory to the lower margin of the pubic symphysis on per vaginum exam.* C) **True** — Obstetric conjugate ≈ diagonal conjugate − 1.5 cm.* D) **False** — A contra"
+ },
+ "cb5151": {
+  "qid": "cb5151",
+  "a": 0,
+  "num": 46,
+  "q": "In a cohort study investigating the link between heavy smoking and bronchogenic carcinoma, the incidence among smokers was found to be 10 per 1,000 person-years, while the incidence among non-smokers was 1 per 1,000 person-years. Which of the following cannot be concluded based on the information provided above? (Q-75511722) would fall by 90%. non-smokers.",
+  "o": [
+   "If smoking were eliminated from the entire population, the incidence of bronchogenic carcinoma",
+   "For every 10 cases of carcinoma among smokers, 9 are due to their habit of smoking.",
+   "Smokers are 10 times as likely to get cancer as non-smokers.",
+   "10% of the cases among smokers can be attributed to baseline risk factors that also affect"
+  ],
+  "ex": "From the given incidences (10/1000 in smokers vs 1/1000 in non-smokers), the relative risk is 10, and attributable fraction among exposed is 90%, meaning most cases among smokers are due to smoking. However, the statement that eliminating smoking would reduce population incidence by 90% cannot be concluded without knowing the prevalence of smoking in the population, which is required to calculate population attributable risk."
+ },
+ "cb5568": {
+  "qid": "cb5568",
+  "a": 3,
+  "num": 114,
+  "q": "In the Maha Kumbh mela, what was the primary purpose of Mobile medical vans having multiple surveillance units for fever, diarrhoea and respiratory illnesses? (Q-87175552) respiratory infections",
+  "o": [
+   "To reduce number of health workers and professionals",
+   "For immediate quarantine measures of symptomatic individuals",
+   "For treatment only",
+   "To diagnose with lab tests and give potential warning for early outbreaks of fever, diarrhoea,"
+  ],
+  "ex": "During mass gatherings like the **Maha Kumbh Mela**, mobile medical vans with surveillance units function as **early warning systems**. Such mass gatherings create a high risk for **communicable disease outbreaks** due to overcrowding, poor sanitation, shared water sources, high person-to-person contact & rapid movement of people. They enable **rapid diagnosis, syndromic surveillance, and real-time data collection** for fever, diarrhoeal, and respiratory illnesses, allowing **early detection of outbreaks** and timely public health response. In India, surveillance is mainly conducted under the "
+ },
+ "cb6783": {
+  "qid": "cb6783",
+  "a": 2,
+  "num": 75,
+  "q": "A 40 year old male underwent superficial parotidectomy 3 months ago and now presents with symptoms like intermittent flushing, warmth and sweating over the preauricular malar region. The surgeons decide to go ahead with the test shown in the image. Which of the following statement regarding the image is false? (Q-38128360) glands through auriculotemporal nerve. receptors on eccrine gland. surgery to prevent cross innervation.",
+  "o": [
+   "Jacobson’s tympanic neurectomy can be performed.",
+   "It results from aberrant regeneration of post ganglionic parasympathetic fibers onto cutaneous sweat",
+   "Botulinum toxin injection is considered effective because it blocks muscarinic parasympathetic",
+   "Long standing or severe cases can be treated with interposing a fascia or muscle flap during revision"
+  ],
+  "ex": "After superficial parotidectomy, patients may develop Frey syndrome (gustatory sweating), characterized by flushing, warmth, and sweating over the preauricular/malar region during eating. This occurs due to aberrant regeneration of postganglionic parasympathetic secretomotor fibers (normally destined for the parotid gland via the auriculotemporal nerve) that mistakenly innervate cutaneous sweat glands and dermal blood vessels, producing sweating and erythema with mastication. The diagnosis is confirmed using the Minor’s starch–iodine test, where iodine is applied to the skin followed by starch"
+ }
+}

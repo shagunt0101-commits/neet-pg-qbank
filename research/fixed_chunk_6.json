@@ -1,0 +1,90 @@
+[
+ {
+  "qid": "cb166",
+  "q": "In the labelled transverse section of the thorax at the level of the heart shown below, match each numbered structure (1–4) with the appropriate anatomical or clinical description: 1. Undergoes hypertrophy on pulmonary stenosis 2. Receives oxygenated blood 3. Arises from left ventricle 4. Lies to the right of ascending aorta (Q-18718823)",
+  "o": [
+   "1-Undergoes hypertrophy on pulmonary stenosis, 2-Receives oxygenated blood, 3-Arises from left ventricle, 4- Lies to the right of ascending aorta",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3-Arises from left ventricle, 4- Lies to the right of ascending aorta",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3- Lies to the right of ascending aorta, 4-Arises from left ventricle",
+   "1-Receives oxygenated blood, 2- Arises from left ventricle, 3- Lies to the right of ascending aorta, 4-Undergoes hypertrophy on pulmonary stenosis"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb1547",
+  "q": "Which of the following hormone–receptor interactions acts via the IPI–DAG second messenger system? (Q-70266231)",
+  "o": [
+   "Angiotensin II on vascular smooth muscle and vasopressin acting via V1 receptors on vascular smooth muscle",
+   "Angiotensin II on vascular smooth muscle and vasopressin acting via V2 receptors on epithelial cells",
+   "Angiotensin II acting on epithelial cells and vasopressin acting via V1 receptors on vascular smooth muscle",
+   "Angiotensin II acting on epithelial cells and vasopressin acting via V2 receptors on epithelial cells"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb2209",
+  "q": "A G5L4 woman has 4 daughters. She now comes for USG examination of her fetus and asks for sex determination. What will you do? (Q-67192846)",
+  "o": [
+   "Do USG- check for congenital abnormality, gestational age and sex. But don’t tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, gestational age and sex. Tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, and gestational age. Don’t check for sex.",
+   "Don’t Do the USG."
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb3084",
+  "q": "A 40-year-old man, newly diagnosed with HIV infection, presents with low-grade fever, productive cough, and weight loss. A chest X-ray reveals miliary nodules throughout both lung fields. Sputum GeneXpert reveals Mycobacterium tuberculosis with rifampicin resistance. He is not yet started on ART. His CD4 count is 110 cells/mm³. What is the most appropriate management? (Q-30639477)",
+  "o": [
+   "Start BPaLM regimen for 6 months and follow up for immune reconstitution inflammatory syndrome (IRIS)",
+   "Start HEZ plus levofloxacin for 9 months and monitor for optic neuritis",
+   "Start HEZ plus linezolid for 9 months and monitor for hepatotoxicity",
+   "Start kanamycin-based MDR regimen for 20 months and continue ART without interruption"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3739",
+  "q": "In which of the following patients is a karyotype most likely required? (Q-19934594)",
+  "o": [
+   "20-year-old with amenorrhea and hirsutism",
+   "18-year-old with amenorrhea and an elevated prolactin level",
+   "16-year-old with amenorrhea with normal secondary sexual characters and no mullerian structures on sonography",
+   "16-year-old with amenorrhea with normal secondary sexual characters and uterus seen on imaging"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb4685",
+  "q": "A 75-year-old woman presents to the clinic after a fall. She complains of right hip and thigh pain. Examination reveals that her right leg is shorter than her left and externally rotated. Which of the following pathological changes is most likely to be present in this patient? (Q-85815495)",
+  "o": [
+   "Cortical bone overgrowth and sclerosis due to defective osteoclasts",
+   "Impaired mineralization of osteoid and hyperactive osteoblasts",
+   "Decreased cortical and trabecular bone mass with normal bone mineralization",
+   "Woven and lamellar bone mosaic pattern due to increased osteoclast and osteoblast activity resulting in bone of low quality"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb5383",
+  "q": "Which of the following is the challenge faced in the operationalization of the concept of Universal Health Coverage (UHC)? (Q-24764301)",
+  "o": [
+   "Universal Health Coverage aims to provide free health care services to all, regardless of the available resources in the country",
+   "Universal Health Coverage aims to provide services despite having unregulated and fragmented healthcare delivery systems",
+   "Universal Health Coverage prioritizes the safety of resources in a low-resource setting",
+   "Universal Health Coverage targets primary health care delivery based on the needs of the population"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb6608",
+  "q": "Which of the following statements are true? (Q-18018772)",
+  "o": [
+   "Lymphoedema in the arm after treatment usually indicates a recurrence.",
+   "Radiotherapy after implant reconstruction of the breast gives a good cosmetic result.",
+   "Male breast cancer carries a poor prognosis when compared with female breast cancer stage by stage.",
+   "Chemotherapy is safe in second and third trimester in women with pregnancy associated breast cancer."
+  ],
+  "a": 3
+ }
+]

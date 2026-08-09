@@ -1,0 +1,106 @@
+{
+ "cb346": {
+  "qid": "cb346",
+  "a": 0,
+  "num": 78,
+  "q": "In the labelled transverse section of the thorax at the level of the heart shown below, match each numbered structure (1–4) with the appropriate anatomical or clinical description: 1. Undergoes hypertrophy on pulmonary stenosis 2. Receives oxygenated blood 3. Arises from left ventricle 4. Lies to the right of ascending aorta (Q-18718823) ventricle, 4- Lies to the right of ascending aorta ventricle, 4- Lies to the right of ascending aorta of ascending aorta, 4-Arises from left ventricle Undergoes hypertrophy on pulmonary stenosis",
+  "o": [
+   "1-Undergoes hypertrophy on pulmonary stenosis, 2-Receives oxygenated blood, 3-Arises from left",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3-Arises from left",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3- Lies to the right",
+   "1-Receives oxygenated blood, 2- Arises from left ventricle, 3- Lies to the right of ascending aorta, 4-"
+  ],
+  "ex": "Structure **1** is the **right ventricle**, which undergoes hypertrophy in **pulmonary stenosis**. Structure **2** corresponds to the **left atrium**, which receives **oxygenated blood from pulmonary veins**, while **3** is the **ascending aorta arising from the left ventricle**. Structure **4** is the **pulmonary trunk**, which lies **to the right of the ascending aorta** in transverse section."
+ },
+ "cb1551": {
+  "qid": "cb1551",
+  "a": 3,
+  "num": 28,
+  "q": "A 29-year-old woman with a pituitary microadenoma has been receiving cabergoline 1 mg per week. She presents at 12 weeks of gestation. What is the most appropriate management? (Q-39909950) develop",
+  "o": [
+   "Advise termination of pregnancy as cabergoline was continued during the first trimester",
+   "Follow up with serum prolactin levels monthly",
+   "Perform MRI of the sella to look for tumor enlargement",
+   "Reassure the patient and evaluate further only if symptoms such as headache or visual disturbance"
+  ],
+  "ex": "Prolactin-secreting pituitary microadenomas (microprolactinomas) are commonly treated with dopamine agonists such as cabergoline or bromocriptine, which suppress prolactin secretion and shrink the **tumor**. Management during pregnancy: * Once pregnancy is confirmed, dopamine agonists are usually discontinued in patients with microadenomas. * The risk of **tumor** enlargement during pregnancy is very low (\\~2–3%) for microadenomas. * Routine MRI or prolactin monitoring is not recommended, because prolactin levels naturally rise during pregnancy and do not correlate with **tumor** size. Recomme"
+ },
+ "cb2358": {
+  "qid": "cb2358",
+  "a": 2,
+  "num": 23,
+  "q": "A 65-year-old patient with a history of coronary artery disease is prescribed clopidogrel (Plavix) and omeprazole (Prilosec) for concurrent use. Which of the following statements regarding this drug combination is most accurate? (Q-55031530) outcomes and increasing the risk of cardiovascular events omeprazole in the body",
+  "o": [
+   "The combination of clopidogrel and omeprazole is safe and does not require any monitoring",
+   "Omeprazole may enhance the antiplatelet effects of clopidogrel, leading to improved cardiovascular",
+   "Omeprazole inhibits the activity of CYP2C19, potentially reducing the effectiveness of clopidogrel",
+   "Clopidogrel increases the metabolism of omeprazole, leading to decreased therapeutic levels of"
+  ],
+  "ex": "Clopidogrel is a **prodrug** that requires hepatic activation primarily by **CYP2C19** to form its active antiplatelet metabolite. Omeprazole is a **CYP2C19 inhibitor**, which can reduce clopidogrel activation, leading to **decreased antiplatelet effect**and a higher risk of **stent thrombosis and cardiovascular events**. Hence, their concurrent use is generally avoided or requires careful consideration. **Why other options are incorrect:** * **Safe without monitoring:** Incorrect due to a well-known interaction. * **Enhances antiplatelet effect:** Opposite of the true effect. * **Clopidogrel "
+ },
+ "cb3087": {
+  "qid": "cb3087",
+  "a": 0,
+  "num": 9,
+  "q": "A patient undergoing antitubercular therapy reports joint pain 10 days after initiation of treatment. Laboratory tests reveal normal AST and ALT levels, a serum creatinine of 0.9 mg/dL, and an elevated serum uric acid level of 10 mg/dL. What is the most appropriate next step in managing this patient's treatment? (Q-54340846) test (LFT) and KFT monitoring.",
+  "o": [
+   "Stop pyrazinamide and continue the rest of the drugs with kidney function test (KFT) monitoring.",
+   "Add uric acid-lowering drugs and continue antitubercular therapy (ATT) as such with liver function",
+   "Continue all drugs and monitor serum uric acid level as well as LFT and KFT.",
+   "Stop all ATT drugs until laboratory values return to normal."
+  ],
+  "ex": "Pyrazinamide commonly causes hyperuricemia by decreasing renal excretion of uric acid, leading to acute gouty arthritis early in ATT. * Onset within days to weeks of starting therapy * Joint pain with elevated serum uric acid * Normal LFT and KFT (isolated hyperuricemia) Management principle: * Symptomatic hyperuricemia (with joint pain) → stop pyrazinamide * Continue remaining ATT drugs * Monitor renal function * Asymptomatic hyperuricemia → no need to stop drug Why not others: * Adding uric acid–lowering drugs is not first-line * Continuing drug despite symptoms worsens gout * Stopping all A"
+ },
+ "cb3880": {
+  "qid": "cb3880",
+  "a": 2,
+  "num": 28,
+  "q": "A 28-year-old G5L4 with all 4-girl children presents at 18 weeks and asks for the sex of the child on ultrasound. This is her first antenatal visit. What should be done? (Q-87012106) mother",
+  "o": [
+   "Do ultrasound for gestational age, check for abnormalities, check sex, and tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, check sex but don’t tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, don’t check the sex or reveal to the",
+   "Don’t do ultrasound, do ANC only"
+  ],
+  "ex": "Sex determination during pregnancy is regulated by the **Pre-Conception and Pre-Natal Diagnostic Techniques Act**. This law was introduced to **prevent female feticide and sex-selective abortions**. **PCPNDT Act Allows** Doctors **can perform ultrasound** for legitimate medical reasons: | **Allowed Indications** | **Purpose** | | ------------------- | ------- | | Gestational age assessment | Dating pregnancy | | Detection of fetal anomalies | Screening abnormalities | | Placental localization | Obstetric evaluation | However: **Sex determination or disclosure is strictly prohibited**. At **18 "
+ },
+ "cb4848": {
+  "qid": "cb4848",
+  "a": 0,
+  "num": 38,
+  "q": "A 10-month-old infant presents to the OPD with a 3-day history of lower respiratory tract symptoms accompanied by expiratory wheezing. A chest X-ray is shown below. Which of the following statements is incorrect regarding this condition? (Q-41144047) pregnancy",
+  "o": [
+   "The mainstay of treatment is antibiotics",
+   "The risk increases in infants born to young mothers or those exposed to maternal smoking during",
+   "There is a greater risk of asthma",
+   "Breastfeeding is protective"
+  ],
+  "ex": "The clinical picture (infant with URI symptoms, expiratory wheeze, and hyperinflation on chest X-ray) is typical of bronchiolitis, most commonly caused by respiratory syncytial virus (RSV). It is a viral lower respiratory tract infection affecting infants, especially <2 years of age. Chest X-ray often shows hyperinflation, peribronchial thickening, and patchy atelectasis. Management is mainly supportive, including oxygen, hydration, and nasal suctioning. Important facts: * Antibiotics are not the mainstay of treatment because the disease is viral. * Risk factors include maternal smoking, young"
+ },
+ "cb5403": {
+  "qid": "cb5403",
+  "a": 3,
+  "num": 13,
+  "q": "Identify the incorrect statement: (Q-24794590) per hour is 4-6 to maintain air quality and protect worker health.",
+  "o": [
+   "Rideal-Walker Coefficient (RWC) is used to represent the germicidal power of a disinfectant.",
+   "For workrooms with exposure to contaminants, the minimum recommended number of air changes",
+   "Demographic trap is seen in Stage 2 of demographic cycle.",
+   "Nodal Ministry for Disaster Management is ministry of Health and Family Welfare"
+  ],
+  "ex": "The nodal ministry for disaster management in India is the Ministry of Home Affairs (MHA), not the Ministry of Health and Family Welfare. Other statements are correct: Rideal–Walker coefficient measures disinfectant efficacy, demographic trap occurs in Stage 2, and recommended air changes in workrooms are 4–6 per hour"
+ },
+ "cb6623": {
+  "qid": "cb6623",
+  "a": 0,
+  "num": 14,
+  "q": "A 43-year-old man is being evaluated for suspected lymphoma-related obstruction of the lymphatic system. The radiology team plans to perform pedal lymphangiography. Which of the following best describes how this procedure is performed? (Q-20788289) oily contrast agent is slowly infused to opacify the lymphatic system. injected to visualize lymphatics under fluoroscopy. infused retrogradely. gamma camera.",
+  "o": [
+   "The lymphatic channels on the dorsum of the foot are cannulated after injecting a blue dye, and an",
+   "A peripheral intravenous line is placed in the dorsal venous arch and water-soluble contrast is rapidly",
+   "A CT-guided direct puncture of para-aortic lymph nodes is performed and contrast medium is",
+   "A radionuclide-labeled tracer is injected subcutaneously and lymphatic drainage is evaluated with a"
+  ],
+  "ex": "Pedal lymphangiography is a specialized imaging technique used to visualize lymphatic vessels and lymph nodes, especially in suspected lymphatic obstruction or lymphoma. **Procedure technique** • A blue dye (e.g., isosulfan blue) is injected into the web spaces of the toes to identify lymphatic channels. • Small lymphatic vessels on the dorsum of the foot are surgically cannulated. • An oil-based contrast agent (e.g., Lipiodol) is slowly injected. • Serial radiographs/fluoroscopy visualize lymphatic channels and nodes. **Uses** • Evaluation of lymphatic obstruction • Lymphoma staging • Detecti"
+ }
+}

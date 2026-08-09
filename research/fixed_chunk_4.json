@@ -1,0 +1,90 @@
+[
+ {
+  "qid": "cb114",
+  "q": "Which statement correctly describes the representation of body parts in the motor and sensory homunculi? (Q-52983067)",
+  "o": [
+   "In the motor homunculus, finer motor control areas like arms and legs have larger cortical regions.",
+   "The sensory homunculus shows body parts with higher acuity, like fingertips, having smaller cortical areas.",
+   "Both homunculi are in the precentral gyrus and represent the same body parts.",
+   "The motor homunculus in the precentral gyrus has larger areas for fine motor parts like hands and face."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb1200",
+  "q": "A 54-year-old man with a history of hypertension presents with shortness of breath and palpitations. On examination, he has an irregularly irregular pulse with bilateral basal crackles. An ECG shows a ventricular response of 110/min. Which of the following statements is incorrect? (Q-86675037)",
+  "o": [
+   "IV Digoxin can be used for ventricular rate control.",
+   "Direct oral anticoagulants to be given.",
+   "Cardioversion should be done in hemodynamically unstable patients.",
+   "Beta blockers are given if the patient has decompensated heart failure and intolerant to calcium channel blockers."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb2122",
+  "q": "A 42-year-old man is admitted to the hospital after sustaining fractures of his right femur and tibia in a motor vehicle collision. The patient becomes agitated, hypervigilant, and paranoid 12 hours after admission. He repeatedly tells the nurses that he can hear people in the corridor making insulting remarks about him. When hospital staff check the area near the patient's room, no one is found. Medical history is unremarkable, but psychiatric history is significant for cocaine, marijuana, and alcohol misuse. On examination, the patient is alert and oriented. Temperature is 37.2 (99 F), blood pressure is 135/87 mm Hg pulse is 85/min, and respirations are 18/min. He is slightly tremulous and diaphoretic. Which of the following is the most likely diagnosis in this patient? (Q-50877015)",
+  "o": [
+   "Alcoholic hallucinosis",
+   "Brief psychotic disorder",
+   "Cocaine withdrawal",
+   "Delirium tremens"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3064",
+  "q": "An adult male patient presented with the following condition on his private parts. gram-negative diplococcus was found in the gram stain. The drug of choice for treatment is: (Q-46813059)",
+  "o": [
+   "Tab Azithromycin",
+   "Tab Cefixime 400 mg",
+   "Tab Doxycycline 200 mg",
+   "Inj. Benzathine Penicillin"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb3617",
+  "q": "Match List I (Drugs) with List II (Primary mechanism of action) List I – Drugs: A. Ethosuximide, B. Levetiracetam, C. Lacosamide, D. Vigabatrin, E. Perampanel. List II – Mechanism: 1.Inhibition of synaptic vesicle protein involved in neurotransmitter release 2.Irreversible inhibition of GABA transaminase 3.Blockade of slow inactivation of voltage-gated sodium channels 4.Non-competitive AMPA receptor antagonism 5.Blockade of thalamic pacemaker currents Choose the correct matching: (Q-64542369)",
+  "o": [
+   "A-5, B-1, C-3, D-2, E-4",
+   "A-3, B-1, C-5, D-2, E-4",
+   "A-5, B-3, C-1, D-2, E-4",
+   "A-1, B-5, C-3, D-4, E-2"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb4525",
+  "q": "Arrange the following layers of the retina in the correct order from the outermost to the innermost layer. (Q-45890247)",
+  "o": [
+   "1 – Retinal Pigment Epithelium, 2 – Outer Nuclear Layer, 3 – Inner Plexiform Layer, 4 – Ganglion Cell Layer",
+   "1 – Outer Nuclear Layer, 2 – Retinal Pigment Epithelium, 3 – Ganglion Cell Layer, 4 – Inner Plexiform Layer",
+   "1 – Ganglion Cell Layer, 2 – Inner Plexiform Layer, 3 – Retinal Pigment Epithelium, 4 – Outer Nuclear Layer",
+   "1 – Retinal Pigment Epithelium, 2 – Inner Plexiform Layer, 3 – Outer Nuclear Layer, 4 – Ganglion Cell Layer"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb5318",
+  "q": "In the Maha Kumbh mela, what was the primary purpose of Mobile medical vans having multiple surveillance units for fever, diarrhoea and respiratory illnesses? (Q-87175552)",
+  "o": [
+   "To reduce number of health workers and professionals",
+   "For immediate quarantine measures of symptomatic individuals",
+   "For treatment only",
+   "To diagnose with lab tests and give potential warning for early outbreaks of fever, diarrhoea, respiratory infections"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb6378",
+  "q": "All of the following statements are true regarding overlap syndrome / mixed connective tissue disease (MCTD) except: (Q-96576056)",
+  "o": [
+   "Patients have overlapping clinical features of systemic lupus erythematosus, systemic sclerosis, and polymyositis",
+   "Both antinuclear antibodies (ANA) and rheumatoid factor (RF) are commonly positive",
+   "Presence of anti-U1 ribonucleoprotein (RNP) antibodies is specific for MCTD",
+   "Prognosis is worse compared to individual connective tissue disorders"
+  ],
+  "a": 3
+ }
+]

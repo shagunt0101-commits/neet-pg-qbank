@@ -1,0 +1,90 @@
+[
+ {
+  "qid": "cb149",
+  "q": "Which of the following statements with respect to histology of alveoli is incorrect? (Q-42184927)",
+  "o": [
+   "The most abundant cell type lines form 70-90% of the alveolar surface and are of simple squamous type.",
+   "Type II alveolar epithelial cells are microvilli-containing cells which secrete surfactant similar to that of Clara cells.",
+   "In some alveolar area, basement membrane of the endothelium fuses with that of the alveolar epithelium.",
+   "Type I alveolar epithelial cells are involved in replacing the damaged type II alveolar cells."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb1508",
+  "q": "A 10-year-old child presented with abdominal pain and vomiting. Lab values are given below. What is the next best step of management? Lab Values: RBS - 450 mg/dL pH - 7.0 HCO3 - 4 Na - 145 K - 4.8 meq/L (Q-30970202)",
+  "o": [
+   "10 ml/kg NS over 20 min (10% deficit correction) followed by insulin infusion with 20 mmol/L KCl",
+   "20 ml/kg 1/2 NS over 20 min (7% deficit correction) followed by insulin infusion and KCl 40 meq/L",
+   "20 ml/kg NS over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40 meq/L",
+   "20 ml/kg RL over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40 meq/L"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb2207",
+  "q": "A 16-year-old girl and a 25-year-old man report that they had consensual sexual intercourse. The girl’s parents filed a police complaint, although there is no evidence of force or injury. Which of the following statements is correct? (Q-77269761)",
+  "o": [
+   "The girl's consent is valid because the relationship is consensual and both parties claim to love each other.",
+   "The girl's consent is not legally valid because she is only 16 years old.",
+   "The parents must first prove that the sexual act was forcible before any legal action can proceed.",
+   "The man cannot be prosecuted unless the girl herself files the complaint."
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb3083",
+  "q": "A patient with HIV with a CD4 count of 250 cells/mm³ is newly diagnosed to have rifampicin resistance TB. Which of the following is the appropriate regimen, and what should be monitored? (Q-75258410)",
+  "o": [
+   "Isoniazid, Ethambutol, Steptomycin, Pyrazinamide for 9 months and optic neuritis",
+   "Bedaquiline, Pretomanid, Linezolid, and Moxifloxacin for 6 months and immune reconstitution syndrome",
+   "Isoniazid, Ethambutol, Levofloxacin, Pyrazinamde for 6 months and hepatotoxicity",
+   "Isoniazid, Ethambutol, Clarithromycin, Pyrazinamide for 12 months and pyridoxine deficiency"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb3709",
+  "q": "Hormone replacement therapy ( HRT ) should be prescribed to which of the following patients? (Q-27396271)",
+  "o": [
+   "A 35-year-old woman who has undergone Total abdominal hysterectomy with bilateral salpingo-oophorectomy ( TAH + BSO )",
+   "A 9-year-old girl who has Turner syndrome",
+   "A 47-year-old woman with hot flushes and history of breast cancer",
+   "A 60-year-old woman with a history of ischemic heart disease"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb4579",
+  "q": "A 32-year-old man presents with history of trauma to the right forearm after a road traffic accident 3 months ago. He now complains of difficulty in extending his wrist and fingers, along with numbness over the dorsal aspect of his hand. On examination, there is wrist drop, inability to extend the fingers and thumb at the metacarpophalangeal joint, and loss of sensation over the first dorsal web space. There is no weakness of elbow extension. Electromyography confirms a nerve injury at the mid-shaft of the humerus.Which of the following best describes the level and type of nerve injury, and which muscles are spared? (Q-82497675)",
+  "o": [
+   "Injury to the radial nerve in the radial groove (mid-humerus); triceps is spared; brachioradialis is affected",
+   "Injury to the posterior interosseous nerve; all extensors of wrist and fingers affected; sensory loss present",
+   "Injury to the radial nerve above the spiral groove; all posterior compartment muscles and skin affected",
+   "Injury to the median nerve at the elbow; thenar muscles affected; sensation over the dorsal hand intact"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb5329",
+  "q": "All of the following are true except: (Q-84298418)",
+  "o": [
+   "Codex Alimentarius is the principal organ of the FAO/WHO food standards program",
+   "Vanaspati is fortified with 2500 IU of vitamin A and 175 IU of vitamin D per 100grams.",
+   "Methylene blue reduction test is the best test for efficacy of pasteurisation",
+   "Sudden onset of hypersecretory glaucoma, diarrhea, and cardiac failure is seen due to sanguinarine toxicity"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb6571",
+  "q": "A 32 year old woman underwent total thyroidectomy with central neck dissection for papillary thyroid cancer. On post op day 2, she presents with a breathy voice but no stridor. Laryngoscopy shows unilateral incomplete abduction of vocal cords and is in paramedian position. Her serum calcium levels are normal. Which of the following is the next best step? (Q-48720786)",
+  "o": [
+   "Medialisation of the affected vocal cords within 24-48 hours.",
+   "Urgent wound re exploration to relieve a suspected deep cervical hematoma that is causing RLN compression..",
+   "Voice rest for 4 weeks and repeat laryngoscopy.",
+   "Immediate CT scan of neck and mediastinum to rule out recurrent tumor encasing the RLN."
+  ],
+  "a": 2
+ }
+]

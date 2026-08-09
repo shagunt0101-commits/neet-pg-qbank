@@ -1,0 +1,90 @@
+[
+ {
+  "qid": "cb73",
+  "q": "An 8 year old child presents to the pediatric clinic with recurrent ear infections and complaints of ear pain, especially after upper respiratory infections. What is the most likely reason for this child's increased susceptibility to ear infections? (Q-19974228)",
+  "o": [
+   "The Eustachian tube's shorter length allows for quicker drainage of secretions from the middle ear.",
+   "The more horizontal orientation of the Eustachian tube in children impairs proper ventilation and drainage of the middle ear.",
+   "The Eustachian tube opens more frequently during normal activities in children, causing increased exposure to environmental allergens.",
+   "The Eustachian tube is typically narrow in children, which facilitates the entry of pathogens from the nasopharynx."
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb997",
+  "q": "A 54-year-old man with a history of hypertension presents with shortness of breath and palpitations. On examination, he has an irregularly irregular pulse with bilateral basal crackles. An ECG shows a ventricular response of 110/min. Which of the following statements is incorrect? (Q-86675037)",
+  "o": [
+   "IV Digoxin can be used for ventricular rate control.",
+   "Direct oral anticoagulants to be given.",
+   "Cardioversion should be done in hemodynamically unstable patients.",
+   "Beta blockers are given if the patient has decompensated heart failure and intolerant to calcium channel blockers."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb2010",
+  "q": "A G5L4 woman has 4 daughters. She now comes for USG examination of her fetus and asks for sex determination. What will you do? (Q-67192846)",
+  "o": [
+   "Do USG- check for congenital abnormality, gestational age and sex. But don’t tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, gestational age and sex. Tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, and gestational age. Don’t check for sex.",
+   "Don’t Do the USG."
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb2952",
+  "q": "A patient with AML is planned for an allogeneic hematopoietic stem cell transplant. As part of the pre transplant conditioning regimen, he receives myeloablative therapy using high dose chemotherapy and total body irradiation. Which of the following statements about myeloablation is false? (Q-82695999)",
+  "o": [
+   "Myeloablation increases the risk of graft failure if inadequate suppression of host immunity occurs.",
+   "Myeloablation regimen can increase the incidence of post transplant lymphoproliferative disorders.",
+   "Myeloablation conditioning destroys the recipient’s bone marrow to allow engraftment of donor stem cells.",
+   "Myeloablation prevents graft versus host disease by suppressing donor T cells."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb3444",
+  "q": "An 18-year-old boy from Rajasthan weighing 50 kg is diagnosed with mixed P. vivax and P. falciparum malaria. What is the appropriate treatment regimen on day 2? (Q-44133064)",
+  "o": [
+   "Artesunate 50 mg (4 tablets) + Primaquine 2.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Primaquine 7.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine 2.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine 7.5 mg (6 tablets)"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb4377",
+  "q": "Arrange the following layers of the retina in the correct order from the outermost to the innermost layer. (Q-45890247)",
+  "o": [
+   "1 – Retinal Pigment Epithelium, 2 – Outer Nuclear Layer, 3 – Inner Plexiform Layer, 4 – Ganglion Cell Layer",
+   "1 – Outer Nuclear Layer, 2 – Retinal Pigment Epithelium, 3 – Ganglion Cell Layer, 4 – Inner Plexiform Layer",
+   "1 – Ganglion Cell Layer, 2 – Inner Plexiform Layer, 3 – Retinal Pigment Epithelium, 4 – Outer Nuclear Layer",
+   "1 – Retinal Pigment Epithelium, 2 – Inner Plexiform Layer, 3 – Outer Nuclear Layer, 4 – Ganglion Cell Layer"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb5258",
+  "q": "A 2-year-old undergoing chemotherapy for leukemia presents for vaccination counselling. Which of the following statements regarding live vaccines is accurate for this patient? (Q-75438941)",
+  "o": [
+   "Live vaccines are contraindicated even after chemotherapy is completed.",
+   "Live vaccines can be safely administered during chemotherapy as long as the patient is afebrile.",
+   "Live vaccines are contraindicated in immunocompromised states, but household contacts can safely receive them.",
+   "Live vaccines are contraindicated in leukemia patients only if they are in remission."
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb6323",
+  "q": "A 43-year-old male presented with right-sided rib pain and shortness of breath. Chest X-ray showed a significant right-sided pneumothorax with cardio-mediastinal shift to the left. Which of the following changes will be seen? (Q-38957260)",
+  "o": [
+   "Increased lung volume, Increased thoracic volume",
+   "Decreased lung volume, Increased thoracic volume",
+   "Decreased lung volume, thoracic volume remains unaffected",
+   "Lung volume remains unaffected, Decreased thoracic volume"
+  ],
+  "a": 1
+ }
+]

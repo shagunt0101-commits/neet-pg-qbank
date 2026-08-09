@@ -1,0 +1,106 @@
+{
+ "cb114": {
+  "qid": "cb114",
+  "a": 3,
+  "num": 16,
+  "q": "Which statement correctly describes the representation of body parts in the motor and sensory homunculi? (Q-52983067) areas. face.",
+  "o": [
+   "In the motor homunculus, finer motor control areas like arms and legs have larger cortical regions.",
+   "The sensory homunculus shows body parts with higher acuity, like fingertips, having smaller cortical",
+   "Both homunculi are in the precentral gyrus and represent the same body parts.",
+   "The motor homunculus in the precentral gyrus has larger areas for fine motor parts like hands and"
+  ],
+  "ex": "The motor homunculus represents the somatotopic organization of the primary motor cortex located in the precentral gyrus. * The size of cortical representation depends on the precision of control, not the physical size of the body part. * Body parts requiring fine motor control (e.g., hands, fingers, face, tongue) occupy larger cortical areas. **Sensory homunculus:** * Located in the postcentral gyrus (primary somatosensory cortex). * Highly sensitive areas such as lips, tongue, and fingertips have larger cortical representation. **Why other options are incorrect:** * Arms and legs do not have"
+ },
+ "cb1200": {
+  "qid": "cb1200",
+  "a": 3,
+  "num": 20,
+  "q": "A 54-year-old man with a history of hypertension presents with shortness of breath and palpitations. On examination, he has an irregularly irregular pulse with bilateral basal crackles. An ECG shows a ventricular response of 110/min. Which of the following statements is incorrect? (Q-86675037) channel blockers.",
+  "o": [
+   "IV Digoxin can be used for ventricular rate control.",
+   "Direct oral anticoagulants to be given.",
+   "Cardioversion should be done in hemodynamically unstable patients.",
+   "Beta blockers are given if the patient has decompensated heart failure and intolerant to calcium"
+  ],
+  "ex": "**AF shows:** * **No P waves** * **Irregular RR intervals** Drugs used for **ventricular rate control**: | **Drug** | **Use** | | ---- | --- | | **Beta blockers** | Stable patients | | **Calcium channel blockers** | Stable AF | | **Digoxin** | **Heart failure patients** | This patient has **atrial fibrillation with decompensated heart failure** (basal crackles, tachycardia). **IV digoxin** is appropriate for rate control, and **cardioversion is indicated if hemodynamically unstable**. **Anticoagulation with DOACs** is recommended based on stroke risk. **Beta blockers are contraindicated in dec"
+ },
+ "cb2122": {
+  "qid": "cb2122",
+  "a": 0,
+  "num": 65,
+  "q": "A 42-year-old man is admitted to the hospital after sustaining fractures of his right femur and tibia in a motor vehicle collision. The patient becomes agitated, hypervigilant, and paranoid 12 hours after admission. He repeatedly tells the nurses that he can hear people in the corridor making insulting remarks about him. When hospital staff check the area near the patient's room, no one is found. Medical history is unremarkable, but psychiatric history is significant for cocaine, marijuana, and alcohol misuse. On examination, the patient is alert and oriented. Temperature is 37.2 He is slightly tremulous and diaphoretic. Which of the following is the most likely diagnosis in this patient? (Q-50877015) D. Delirium tremens",
+  "o": [
+   "(99 F), blood pressure is 135/87 mm Hg pulse is 85/min, and respirations are 18/min.",
+   "Alcoholic hallucinosis",
+   "Brief psychotic disorder",
+   "Cocaine withdrawal"
+  ],
+  "ex": "This patient has alcoholic hallucinosis, characterized by vivid auditory hallucinations with intact orientation and clear sensorium. * Typically occurs **within 12–48 hours of alcohol cessation**. * He is alert, oriented, mildly tremulous, and diaphoretic--> *supporting alcohol withdrawal without global cognitive impairment*. * The hallucinations aoccur without delirium, which is classic for alcoholic hallucinosis. | Feature | Alcoholic Hallucinosis | Delirium Tremens | | ------- | ---------------------- | ---------------- | | Consciousness | Clear | Clouded | | Orientation | Intact | Confused"
+ },
+ "cb3064": {
+  "qid": "cb3064",
+  "a": 1,
+  "num": 2,
+  "q": "An adult male patient presented with the following condition on his private parts. treatment is: (Q-46813059) D. Inj. Benzathine Penicillin",
+  "o": [
+   "gram-negative diplococcus was found in the gram stain. The drug of choice for",
+   "Tab Azithromycin",
+   "Tab Cefixime 400 mg",
+   "Tab Doxycycline 200 mg"
+  ],
+  "ex": "A genital lesion with Gram-negative diplococci on smear indicates Neisseria gonorrhoeae infection (gonorrhea). * Gram-negative intracellular diplococci (inside neutrophils) → diagnostic clue * Common presentation: urethritis, discharge, dysuria; may also present with genital lesions Treatment: * Cefixime (oral) or Ceftriaxone (preferred IM) * Often combined with azithromycin/doxycycline to cover possible Chlamydia co-infection Why not others: * Azithromycin alone → insufficient for gonorrhea * Doxycycline → used for Chlamydia, not gonorrhea * Benzathine penicillin → for syphilis"
+ },
+ "cb3617": {
+  "qid": "cb3617",
+  "a": 0,
+  "num": 19,
+  "q": "Match List I (Drugs) with List II (Primary mechanism of action) List I – Drugs II – Mechanism 1.Inhibition of synaptic vesicle protein involved in neurotransmitter release 2.Irreversible inhibition of GABA transaminase 3.Blockade of slow inactivation of voltage-gated sodium channels 4.Non-competitive AMPA receptor antagonism 5.Blockade of thalamic pacemaker currents Choose the correct matching: (Q-64542369) D. A-1, B-5, C-3, D-4, E-2",
+  "o": [
+   "Ethosuximide B. Levetiracetam C. Lacosamide D. Vigabatrin E. Perampanel List",
+   "A-5, B-1, C-3, D-2, E-4",
+   "A-3, B-1, C-5, D-2, E-4",
+   "A-5, B-3, C-1, D-2, E-4"
+  ],
+  "ex": "Antiepileptic drugs are frequently tested by their unique primary mechanisms of action, which target ion channels, neurotransmitter release, or excitatory/inhibitory pathways. * **Ethosuximide**: Blocks T-type Ca²I (thalamic pacemaker) currents → drug of choice for absence seizures * **Levetiracetam**: Inhibits synaptic vesicle protein SV2A →\n↓\nneurotransmitter release * **Lacosamide**: Enhances slow inactivation of voltage-gated NaI channels * **Vigabatrin:** Irreversibly inhibits GABA transaminase → ↑ GABA levels * **Perampanel:** Non-competitive AMPA receptor antagonist →\n↓\nglutamate-mediat"
+ },
+ "cb4525": {
+  "qid": "cb4525",
+  "a": 0,
+  "num": 69,
+  "q": "Arrange the following layers of the retina in the correct order from the outermost to the innermost layer. (Q-45890247) Cell Layer Plexiform Layer Nuclear Layer Cell Layer",
+  "o": [
+   "1 – Retinal Pigment Epithelium, 2 – Outer Nuclear Layer, 3 – Inner Plexiform Layer, 4 – Ganglion",
+   "1 – Outer Nuclear Layer, 2 – Retinal Pigment Epithelium, 3 – Ganglion Cell Layer, 4 – Inner",
+   "1 – Ganglion Cell Layer, 2 – Inner Plexiform Layer, 3 – Retinal Pigment Epithelium, 4 – Outer",
+   "1 – Retinal Pigment Epithelium, 2 – Inner Plexiform Layer, 3 – Outer Nuclear Layer, 4 – Ganglion"
+  ],
+  "ex": "The retina is organized from outer (choroid side) to inner (vitreous side) in a highly structured manner that reflects the flow of visual information. Correct order (outer → inner): 1. Retinal Pigment Epithelium (RPE) 2. Outer Nuclear Layer (photoreceptor cell bodies) 3. Inner Plexiform Layer (synapses between bipolar & ganglion cells) 4. Ganglion Cell Layer"
+ },
+ "cb5318": {
+  "qid": "cb5318",
+  "a": 3,
+  "num": 34,
+  "q": "In the Maha Kumbh mela, what was the primary purpose of Mobile medical vans having multiple surveillance units for fever, diarrhoea and respiratory illnesses? (Q-87175552) respiratory infections",
+  "o": [
+   "To reduce number of health workers and professionals",
+   "For immediate quarantine measures of symptomatic individuals",
+   "For treatment only",
+   "To diagnose with lab tests and give potential warning for early outbreaks of fever, diarrhoea,"
+  ],
+  "ex": "During mass gatherings like the **Maha Kumbh Mela**, mobile medical vans with surveillance units function as **early warning systems**. Such mass gatherings create a high risk for **communicable disease outbreaks** due to overcrowding, poor sanitation, shared water sources, high person-to-person contact & rapid movement of people. They enable **rapid diagnosis, syndromic surveillance, and real-time data collection** for fever, diarrhoeal, and respiratory illnesses, allowing **early detection of outbreaks** and timely public health response. In India, surveillance is mainly conducted under the "
+ },
+ "cb6378": {
+  "qid": "cb6378",
+  "a": 3,
+  "num": 17,
+  "q": "All of the following statements are true regarding overlap syndrome / mixed connective tissue disease (MCTD) except: (Q-96576056) polymyositis",
+  "o": [
+   "Patients have overlapping clinical features of systemic lupus erythematosus, systemic sclerosis, and",
+   "Both antinuclear antibodies (ANA) and rheumatoid factor (RF) are commonly positive",
+   "Presence of anti-U1 ribonucleoprotein (RNP) antibodies is specific for MCTD",
+   "Prognosis is worse compared to individual connective tissue disorders"
+  ],
+  "ex": "Mixed connective tissue disease (MCTD) is an overlap autoimmune disorder with features of SLE, systemic sclerosis, and polymyositis, and is strongly associated with anti-U1 RNP antibodies. * Overlapping manifestations: Raynaud phenomenon, myositis, arthritis, sclerodactyly * Anti-U1 RNP antibody: highly specific diagnostic marker * ANA and RF are often positive * Typically responds well to therapy Prognosis of MCTD is generally better than many individual connective tissue diseases (especially systemic sclerosis and SLE), unless severe pulmonary hypertension develops. Thus, the statement that "
+ }
+}

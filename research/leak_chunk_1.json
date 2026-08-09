@@ -1,0 +1,106 @@
+{
+ "cb23": {
+  "qid": "cb23",
+  "a": 2,
+  "num": 24,
+  "q": "A 62-year-old man presents with persistent headaches that change location depending on intracranial irritation. MRI shows localized pachymeningitis affecting different cranial fossae at different times. The neurologist explains that each cranial fossa has a different primary sensory innervation of the dura, which helps explain the variation in referred pain patterns. Which combination correctly identifies the major nerve distribution to the dura mater in the three cranial fossae? (Q-31665698) – C1–C3 cranial fossa – V1",
+  "o": [
+   "Anterior cranial fossa – V2; Middle cranial fossa – C1–C3; Posterior cranial fossa – V1",
+   "Anterior cranial fossa – V3; Middle cranial fossa – V1; Posterior cranial fossa – C1–C3",
+   "Anterior cranial fossa – V1; Middle cranial fossa – V3 (meningeal branches); Posterior cranial fossa",
+   "Anterior cranial fossa – V2; Middle cranial fossa – V3 via auriculotemporal nerve only; Posterior"
+  ],
+  "ex": "The dura mater of the cranial cavity receives sensory innervation from branches of the trigeminal nerve and upper cervical nerves, which explains the pattern of referred headache pain depending on which cranial fossa is involved. Major sensory innervation of cranial fossae: * Anterior cranial fossa: o Mainly supplied by ophthalmic division of trigeminal nerve (V1) o Especially via anterior and posterior ethmoidal nerves * Middle cranial fossa: o Supplied mainly by meningeal branches of the mandibular division (V3) o Includes the nervus spinosus (meningeal branch of V3) * Posterior cranial foss"
+ },
+ "cb639": {
+  "qid": "cb639",
+  "a": 0,
+  "num": 47,
+  "q": "Which of the following statements correctly differentiates liver glycogen phosphorylase (LGP) and muscle glycogen phosphorylase (MGP)? (Q-42427285) muscle.",
+  "o": [
+   "LGP is activated by glucagon, while MGP is activated by epinephrine.",
+   "LGP releases glucose-6-phosphate into the bloodstream, while MGP releases free glucose into the",
+   "LGP activity is regulated by AMP, while MGP is regulated by glucagon and epinephrine.",
+   "MGP is highly active during fasting compared to LGP."
+  ],
+  "ex": "Liver glycogen phosphorylase (LGP) responds to **glucagon and epinephrine** to maintain blood glucose during fasting and stress. Muscle glycogen phosphorylase (MGP) is activated mainly by **epinephrine, AMP, and Ca²I** during exercise to meet local energy needs; it does not respond to glucagon. **Why other options are incorrect:** **B. LGP releases glucose-6-phosphate into the bloodstream, while MGP releases free glucose into the muscle:** Liver releases **free glucose** (via glucose-6-phosphatase), while muscle releases **glucose-6-phosphate**, not vice versa. **C. LGP activity is regulated b"
+ },
+ "cb1900": {
+  "qid": "cb1900",
+  "a": 0,
+  "num": 43,
+  "q": "A 20-year-old male patient presents with unilateral nasal obstruction and recurrent bleeding for the past 1 year. Transnasal endoscopic results are shown below. nasopharynx. What is the most likely diagnosis? (Q-25369504) D. Concha bullosa",
+  "o": [
+   "contrast-enhanced CT revealed a mass extending from the posterior choana to the",
+   "Nasopharyngeal angiofibroma",
+   "Antrochoanal polyp",
+   "Rhinoscleroma"
+  ],
+  "ex": "Juvenile nasopharyngeal angiofibroma (JNA) is a highly vascular benign **tumor** seen in adolescent/young males, presenting with unilateral nasal obstruction and recurrent epistaxis. * Origin: Sphenopalatine foramen (posterior nasal cavity) * Presentation: * Recurrent severe epistaxis * Unilateral nasal obstruction * Endoscopy: Smooth, reddish vascular mass * Imaging (CECT): * Intense enhancement * Holman–Miller sign (anterior bowing of posterior maxillary wall) Biopsy is contraindicated due to risk of profuse bleeding. Why not other options: * Antrochoanal polyp: Pale, non-vascular, no epista"
+ },
+ "cb2563": {
+  "qid": "cb2563",
+  "a": 3,
+  "num": 15,
+  "q": "A 52-year-old man presents with chronic diarrhea, weight loss, migratory arthralgia, and intermittent fever. He also has hyperpigmentation and generalized lymphadenopathy. Duodenal biopsy is performed. Which of the following statements regarding Whipple disease are CORRECT? A. It is caused by Tropheryma whipplei polyarthritis often precedes gastrointestinal manifestations D. The organism is acid-fast positive on staining E. Long-term antibiotic therapy is required for definitive treatment F. Causes disturbance in lymphatic transport of absorbed lipids (Q-79875454) D. A,C,E,F",
+  "o": [
+   "Duodenal biopsy shows PAS-positive macrophages in the submucosa C. Migratory",
+   "A,B,C,D",
+   "A,B,C,D,E,F",
+   "A,B,D,E"
+  ],
+  "ex": "Whipple disease is a rare systemic infection caused by Tropheryma whipplei that primarily affects the small intestine and can involve multiple organ systems. * Chronic diarrhea and weight loss * Migratory polyarthritis (often precedes GI symptoms) * Fever, lymphadenopathy, hyperpigmentation * Malabsorption Pathophysiology: * Infiltration of the intestinal mucosa by infected macrophages * Leads to impaired lymphatic transport of absorbed lipids, causing malabsorption. Diagnosis: * Duodenal biopsy (classically PAS-positive macrophages, though not included in the correct set here) * PCR for Troph"
+ },
+ "cb3366": {
+  "qid": "cb3366",
+  "a": 0,
+  "num": 63,
+  "q": "A 40-year-old man, newly diagnosed with HIV infection, presents with low-grade fever, productive cough, and weight loss. A chest X-ray reveals miliary nodules throughout both lung fields. Sputum GeneXpert reveals Mycobacterium tuberculosis with rifampicin resistance. He is not yet started on ART. His CD4 count is 110 cells/mm³. What is the most appropriate management? (Q-30639477) (IRIS)",
+  "o": [
+   "Start BPaLM regimen for 6 months and follow up for immune reconstitution inflammatory syndrome",
+   "Start HEZ plus levofloxacin for 9 months and monitor for optic neuritis",
+   "Start HEZ plus linezolid for 9 months and monitor for hepatotoxicity",
+   "Start kanamycin-based MDR regimen for 20 months and continue ART without interruption"
+  ],
+  "ex": "In HIV patients with rifampicin-resistant (RR/MDR) tuberculosis, the recommended management is an all-oral, shorter regimen such as BPaLM (Bedaquiline + Pretomanid + Linezolid + Moxifloxacin) for \\~6 months. * GeneXpert showing rifampicin resistance = treat as MDR-TB * BPaLM regimen is now preferred: o Shorter duration (≈6 months) o Fully oral (no injectables) o Higher success rates HIV considerations: * Start ATT immediately * Initiate ART early (within 2 weeks for CD4 <200) * Monitor for IRIS after ART initiation Why not other options: * HEZ regimens → ineffective in rifampicin-resistant TB "
+ },
+ "cb4196": {
+  "qid": "cb4196",
+  "a": 2,
+  "num": 148,
+  "q": "A 28-year-old G5L4 with all 4-girl children presents at 18 weeks and asks for the sex of the child on ultrasound. This is her first antenatal visit. What should be done? (Q-87012106) mother",
+  "o": [
+   "Do ultrasound for gestational age, check for abnormalities, check sex, and tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, check sex but don’t tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, don’t check the sex or reveal to the",
+   "Don’t do ultrasound, do ANC only"
+  ],
+  "ex": "Sex determination during pregnancy is regulated by the **Pre-Conception and Pre-Natal Diagnostic Techniques Act**. This law was introduced to **prevent female feticide and sex-selective abortions**. **PCPNDT Act Allows** Doctors **can perform ultrasound** for legitimate medical reasons: | **Allowed Indications** | **Purpose** | | ------------------- | ------- | | Gestational age assessment | Dating pregnancy | | Detection of fetal anomalies | Screening abnormalities | | Placental localization | Obstetric evaluation | However: **Sex determination or disclosure is strictly prohibited**. At **18 "
+ },
+ "cb5185": {
+  "qid": "cb5185",
+  "a": 1,
+  "num": 1,
+  "q": "Researchers conduct a randomized controlled trial to evaluate the effect of a new exercise program versus standard lifestyle advice on lowering systolic blood pressure (SBP) in adults with prehypertension. A total of 200 participants are randomized equally between the two groups. After 6 months, the mean decrease in SBP is –6 mm Hg greater in the exercise group compared to the control group. The analysis yields a p-value of 0.02 (predetermined significance level = 0.05). Which of the following is the most accurate interpretation of this result? (Q-55667852) decrease in SBP",
+  "o": [
+   "The probability that the null hypothesis (no difference in SBP) is true is 2%",
+   "The probability of obtaining these results by chance if the null hypothesis is true is 2%",
+   "There is a 2% chance that any individual in the exercise group will experience at least a 6 mm Hg",
+   "There is a 2% chance that the mean SBP reduction is biased in favor of the exercise group"
+  ],
+  "ex": "A **p-value of 0.02** means: **Assuming the null hypothesis is true (no real difference in SBP), there is a 2% probability of observing a result as extreme as—or more extreme than—the one obtained purely due to random chance.** Since **p = 0.02 < α = 0.05**, the result is **statistically significant**, and the null hypothesis is rejected."
+ },
+ "cb5736": {
+  "qid": "cb5736",
+  "a": 0,
+  "num": 9,
+  "q": "A 5-year-old boy is brought to the OPD by his parents for a well-child visit. His mother says, \"My son is doing very well. He is able to read at a first-grade level and knows his name and address. He loves to sing, dance, and play house with his older sisters. I think you should know that my son is playing with his sister's dolls and doesn't seem to like cars or trucks like most other boys. Is that normal?\" Which of the following is the most appropriate response to the father's concerns? (Q-38072749) exploring the world.\" with you. support and assessment.\"",
+  "o": [
+   "\"I hear your concern; let me reassure you that many boys play with dolls as a normal part of",
+   "\"I understand your concern; it may help to have him play with male friends and spend more time",
+   "\"It is helpful that you brought this up. Your son may have gender dysphoria and need additional",
+   "\"There is no need to worry; children don't fully develop gender identity until adolescence.\""
+  ],
+  "ex": "Gender-nonconforming play behaviors (eg, boys playing with dolls, preferring traditionally feminine toys or activities) are common and developmentally normal in early childhood and do not necessarily indicate gender dysphoria or future sexual orientation. * Preschool and early school-age children often explore different roles and toys * Gender identity typically begins forming by age 3 but continues to develop over time * Cross-gender play alone is not pathologic and does not require intervention * Reassurance and supportive parenting are appropriate When to evaluate further: * Persistent, ins"
+ }
+}

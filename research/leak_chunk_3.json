@@ -1,0 +1,106 @@
+{
+ "cb73": {
+  "qid": "cb73",
+  "a": 1,
+  "num": 13,
+  "q": "An 8 year old child presents to the pediatric clinic with recurrent ear infections and complaints of ear pain, especially after upper respiratory infections. What is the most likely reason for this child's increased susceptibility to ear infections? (Q-19974228) drainage of the middle ear. exposure to environmental allergens. nasopharynx.",
+  "o": [
+   "The Eustachian tube's shorter length allows for quicker drainage of secretions from the middle ear.",
+   "The more horizontal orientation of the Eustachian tube in children impairs proper ventilation and",
+   "The Eustachian tube opens more frequently during normal activities in children, causing increased",
+   "The Eustachian tube is typically narrow in children, which facilitates the entry of pathogens from the"
+  ],
+  "ex": "Children are more prone to otitis media because the Eustachian (pharyngotympanic) tube differs anatomically from that of adults. **In children, the Eustachian tube is:** * Shorter * More horizontal * Relatively wider The more horizontal orientation makes ventilation and drainage of the middle ear less efficient and allows nasopharyngeal secretions and pathogens to reflux into the middle ear, especially during upper respiratory infections. This predisposes children to recurrent middle ear infections."
+ },
+ "cb997": {
+  "qid": "cb997",
+  "a": 3,
+  "num": 12,
+  "q": "A 54-year-old man with a history of hypertension presents with shortness of breath and palpitations. On examination, he has an irregularly irregular pulse with bilateral basal crackles. An ECG shows a ventricular response of 110/min. Which of the following statements is incorrect? (Q-86675037) channel blockers.",
+  "o": [
+   "IV Digoxin can be used for ventricular rate control.",
+   "Direct oral anticoagulants to be given.",
+   "Cardioversion should be done in hemodynamically unstable patients.",
+   "Beta blockers are given if the patient has decompensated heart failure and intolerant to calcium"
+  ],
+  "ex": "**AF shows:** * **No P waves** * **Irregular RR intervals** Drugs used for **ventricular rate control**: | **Drug** | **Use** | | ---- | --- | | **Beta blockers** | Stable patients | | **Calcium channel blockers** | Stable AF | | **Digoxin** | **Heart failure patients** | This patient has **atrial fibrillation with decompensated heart failure** (basal crackles, tachycardia). **IV digoxin** is appropriate for rate control, and **cardioversion is indicated if hemodynamically unstable**. **Anticoagulation with DOACs** is recommended based on stroke risk. **Beta blockers are contraindicated in dec"
+ },
+ "cb2010": {
+  "qid": "cb2010",
+  "a": 2,
+  "num": 10,
+  "q": "A G5L4 woman has 4 daughters. She now comes for USG examination of her fetus and asks for sex determination. What will you do? (Q-67192846) mother.",
+  "o": [
+   "Do USG- check for congenital abnormality, gestational age and sex. But don’t tell the sex to the",
+   "Do USG- check for congenital abnormality, gestational age and sex. Tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, and gestational age. Don’t check for sex.",
+   "Don’t Do the USG."
+  ],
+  "ex": "Under the PCPNDT Act (Pre-Conception and Pre-Natal Diagnostic Techniques Act, India), sex determination of the fetus is strictly prohibited, including not attempting to identify or disclose fetal sex. * Ultrasound (USG) is allowed only for: * Fetal well-being * Gestational age * Detection of congenital anomalies * Sex determination or even attempting to look for fetal sex is illegal Doctor’s responsibility: * Perform USG for valid medical indications only * Refuse request for sex determination * Maintain proper documentation (Form F) * Counsel the patient regarding legal prohibition Why not ot"
+ },
+ "cb2952": {
+  "qid": "cb2952",
+  "a": 3,
+  "num": 5,
+  "q": "A patient with AML is planned for an allogeneic hematopoietic stem cell transplant. As part of the pre transplant conditioning regimen, he receives myeloablative therapy using high dose chemotherapy and total body irradiation. Which of the following statements about myeloablation is false? (Q-82695999) cells.",
+  "o": [
+   "Myeloablation increases the risk of graft failure if inadequate suppression of host immunity occurs.",
+   "Myeloablation regimen can increase the incidence of post transplant lymphoproliferative disorders.",
+   "Myeloablation conditioning destroys the recipient’s bone marrow to allow engraftment of donor stem",
+   "Myeloablation prevents graft versus host disease by suppressing donor T cells."
+  ],
+  "ex": "Myeloablative conditioning before allogeneic hematopoietic stem cell transplantation (HSCT) uses high-dose chemotherapy ± total body irradiation to: 1. Destroy the recipient’s bone marrow, creating space for donor stem cell engraftment. 2. Suppress host immune cells to reduce graft rejection. 3. Eliminate residual malignant cells. > Important points: > > * If host immunity is not adequately suppressed, graft failure or rejection can occur. > * Intense immunosuppression can predispose to post-transplant lymphoproliferative disorders (PTLD), often related to EBV reactivation. Myeloablation does "
+ },
+ "cb3444": {
+  "qid": "cb3444",
+  "a": 0,
+  "num": 142,
+  "q": "An 18-year-old boy from Rajasthan weighing 50 kg is diagnosed with mixed P. vivax and P. falciparum malaria. What is the appropriate treatment regimen on day 2? (Q-44133064) 2.5 mg (6 tablets) 7.5 mg (6 tablets)",
+  "o": [
+   "Artesunate 50 mg (4 tablets) + Primaquine 2.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Primaquine 7.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine"
+  ],
+  "ex": "Mixed malaria (P. vivax + P. falciparum) is treated as falciparum malaria, using ACT (Artemisinin-based Combination Therapy) along with primaquine. · Treatment principle: o Treat as P. falciparum (more severe species) o Add primaquine for: § Gametocidal action (falciparum) § Radical cure (vivax hypnozoites) · Day-wise regimen (ACT-SP in India): o Day 1–3: Artesunate + Sulfadoxine-pyrimethamine (SP) o Primaquine: § Single low dose (0.25 mg/kg) on Day 2 → gametocidal (falciparum) § Followed by 14-day primaquine course for vivax radical cure | P. vivax/ovale | • **Chloroquine (CQ)** 25 mg/kg: DAY"
+ },
+ "cb4377": {
+  "qid": "cb4377",
+  "a": 0,
+  "num": 14,
+  "q": "Arrange the following layers of the retina in the correct order from the outermost to the innermost layer. (Q-45890247) Cell Layer Plexiform Layer Nuclear Layer Cell Layer",
+  "o": [
+   "1 – Retinal Pigment Epithelium, 2 – Outer Nuclear Layer, 3 – Inner Plexiform Layer, 4 – Ganglion",
+   "1 – Outer Nuclear Layer, 2 – Retinal Pigment Epithelium, 3 – Ganglion Cell Layer, 4 – Inner",
+   "1 – Ganglion Cell Layer, 2 – Inner Plexiform Layer, 3 – Retinal Pigment Epithelium, 4 – Outer",
+   "1 – Retinal Pigment Epithelium, 2 – Inner Plexiform Layer, 3 – Outer Nuclear Layer, 4 – Ganglion"
+  ],
+  "ex": "The retina is organized from outer (choroid side) to inner (vitreous side) in a highly structured manner that reflects the flow of visual information. Correct order (outer → inner): 1. Retinal Pigment Epithelium (RPE) 2. Outer Nuclear Layer (photoreceptor cell bodies) 3. Inner Plexiform Layer (synapses between bipolar & ganglion cells) 4. Ganglion Cell Layer"
+ },
+ "cb5258": {
+  "qid": "cb5258",
+  "a": 2,
+  "num": 11,
+  "q": "A 2-year-old undergoing chemotherapy for leukemia presents for vaccination counselling. Which of the following statements regarding live vaccines is accurate for this patient? (Q-75438941) receive them.",
+  "o": [
+   "Live vaccines are contraindicated even after chemotherapy is completed.",
+   "Live vaccines can be safely administered during chemotherapy as long as the patient is afebrile.",
+   "Live vaccines are contraindicated in immunocompromised states, but household contacts can safely",
+   "Live vaccines are contraindicated in leukemia patients only if they are in remission."
+  ],
+  "ex": "* A child **undergoing chemotherapy for leukemia** is **severely immunocompromised**. * **Live attenuated vaccines** (e.g., BCG, OPV, MMR, varicella) are **contraindicated** in such patients due to risk of vaccine-derived infection. * **Household contacts** of immunocompromised patients **can and should receive live vaccines** (e.g., OPV replaced by IPV in India; MMR, varicella are safe). * This **indirectly protects** the immunocompromised child by reducing exposure risk."
+ },
+ "cb6323": {
+  "qid": "cb6323",
+  "a": 1,
+  "num": 21,
+  "q": "A 43-year-old male presented with right-sided rib pain and shortness of breath. shift to the left. Which of the following changes will be seen? (Q-38957260) D. Lung volume remains unaffected, Decreased thoracic volume",
+  "o": [
+   "chest X-ray showed a significant right-sided pneumothorax with cardio-mediastinal",
+   "Increased lung volume, Increased thoracic volume",
+   "Decreased lung volume, Increased thoracic volume",
+   "Decreased lung volume, thoracic volume remains unaffected"
+  ],
+  "ex": "A large pneumothorax with **mediastinal shift** indicates a **tension pneumothorax**. Air accumulation in the pleural space causes **collapse of the affected lung (decreased lung volume)** and **expansion of the hemithorax (increased thoracic volume)**. The raised intrathoracic pressure leads to mediastinal displacement to the opposite side. Air enters pleural space (one-way valve) ↑ Intrapleural pressure Lung collapses →\n↓\nlung volume Thoracic cavity expands outward → ↑ thoracic volume Mediastinum shifts to opposite side\n↓\nVenous return → shock risk | **Parameter** | **Change** | **Why** | | "
+ }
+}

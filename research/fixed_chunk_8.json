@@ -1,0 +1,90 @@
+[
+ {
+  "qid": "cb1616",
+  "q": "A 10-year-old child presented with abdominal pain and vomiting. Lab values are given below. What is the next best step of management? Lab Values: RBS - 450 mg/dL pH - 7.0 HCO3 - 4 Na - 145 K - 4.8 meq/L (Q-30970202)",
+  "o": [
+   "10 ml/kg NS over 20 min (10% deficit correction) followed by insulin infusion with 20 mmol/L KCl",
+   "20 ml/kg 1/2 NS over 20 min (7% deficit correction) followed by insulin infusion and KCl 40 meq/L",
+   "20 ml/kg NS over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40 meq/L",
+   "20 ml/kg RL over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40 meq/L"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb2372",
+  "q": "A 29-year-old male diagnosed with schizophrenia has been stable on risperidone for the past few months. Recently, he began experiencing dystonia, for which he was started on benztropine 2 mg twice daily by his psychiatrist. A week later, he presents to the emergency department with complaints of dry mouth, blurred vision, confusion and urinary retention. On examination, he is disoriented, tachycardic, and febrile. Pupils are dilated and bowel sounds are absent. Which of the following is the most appropriate next step in the management of this patient? (Q-84096521)",
+  "o": [
+   "Discontinue risperidone and initiate lorazepam for possible neuroleptic malignant syndrome (NMS)",
+   "Administer intravenous dantrolene and initiate cooling measures for suspected serotonin syndrome",
+   "Start physostigmine with continuous cardiac monitoring for anticholinergic toxicity due to benztropine overdose",
+   "Administer activated charcoal and IV fluids; observe the patient as symptoms are likely self-limiting"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb3223",
+  "q": "An 18-year-old boy from Rajasthan weighing 50 kg is diagnosed with mixed P. vivax and P. falciparum malaria. What is the appropriate treatment regimen on day 2? (Q-44133064)",
+  "o": [
+   "Artesunate 50 mg (4 tablets) + Primaquine 2.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Primaquine 7.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine 2.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine 7.5 mg (6 tablets)"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb3917",
+  "q": "Which of the following statement is not true regarding lupus nephritis in pregnancy? (Q-51898072)",
+  "o": [
+   "Immunosuppression can be continued during pregnancy",
+   "Pregnancy to be planned once the disease has been quiescent for at least 6 months and there is no evidence of renal dysfunction",
+   "High-dose corticosteroids used for lupus flare during pregnancy are safe",
+   "Ecospirin, methotrexate, cyclophosphamide, corticosteroids, and azathioprine are safe in pregnancy"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb440",
+  "q": "A 48-year-old male with a history of severe obstructive sleep apnea (OSA) and a body mass index (BMI) of 45 presents for an emergency exploratory laparoscopy for an incarcerated inguinal hernia. He undergoes an uncomplicated induction and placement of an oral endotracheal tube via video laryngoscopy. The ideal volatile anesthetic for maintenance would be? (Q-69004498)",
+  "o": [
+   "The most lipophilic volatile agent",
+   "The least soluble volatile anesthetic",
+   "A volatile anesthetic with analgesic properties should be used to limit the amount of opioids required",
+   "A highly metabolized volatile anesthetic"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb4940",
+  "q": "∆F508 mutation has a functional defect on the CFTR channel. It leads to: (Q-83840329)",
+  "o": [
+   "Defective regulation: CFTR not activated by adenosine triphosphate or cyclic adenosine monophosphate",
+   "Lack of protein production",
+   "Reduced chloride transport through CFTR at the apical membrane",
+   "Defect in protein trafficking with ubiquitination and degradation in the endoplasmic reticulum/Golgi body"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb5490",
+  "q": "Which of the following statements is TRUE regarding prevention of Zika virus infection? (Q-45785520)",
+  "o": [
+   "Early administration of NSAIDs reduces viremia and prevents complications",
+   "Consistent condom uses and avoidance of pregnancy during periods of active transmission are recommended",
+   "Routine immunization with a licensed live-attenuated Zika vaccine is effective in endemic regions",
+   "Plasmapheresis is indicated to prevent neurological complications of Zika virus infection"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb6782",
+  "q": "A 50 year old man presents with slow growing parotid mass for 8 months. The patient recently starts having difficulty closing the left eye. FNAC shows pleomorphic adenoma with atypia. Which of the following is the best treatment for this extent of tumor? (Q-73758920)",
+  "o": [
+   "Superficial parotidectomy with resection of facial nerve and immediate cable grafting.",
+   "Total parotidectomy with resection of facial nerve and immediate cable grafting.",
+   "Radiotherapy done as there is no use of surgical intervention due to the widespread tumor extension.",
+   "Total conservation parotidectomy preserving the facial nerve as it may regenerate and become functional again after a few days of rest."
+  ],
+  "a": 1
+ }
+]

@@ -1,0 +1,106 @@
+{
+ "cb149": {
+  "qid": "cb149",
+  "a": 3,
+  "num": 13,
+  "q": "Which of the following statements with respect to histology of alveoli is incorrect? (Q-42184927) type. of Clara cells. epithelium.",
+  "o": [
+   "The most abundant cell type lines form 70-90% of the alveolar surface and are of simple squamous",
+   "Type II alveolar epithelial cells are microvilli-containing cells which secrete surfactant similar to that",
+   "In some alveolar area, basement membrane of the endothelium fuses with that of the alveolar",
+   "Type I alveolar epithelial cells are involved in replacing the damaged type II alveolar cells."
+  ],
+  "ex": "The alveoli are the primary sites of gas exchange in the lungs and are lined by two types of pneumocytes. Cell types in alveoli: * Type I pneumocytes: o Simple squamous cells o Cover 70–90% of the alveolar surface o Responsible for gas exchange * Type II pneumocytes: o Cuboidal cells with microvilli o Secrete pulmonary surfactant (similar functionally to Clara/club cells) o Act as stem cells, capable of dividing and differentiating into Type I pneumocytes to repair alveolar lining. Alveolar-capillary barrier: * In many areas, the basement membrane of the alveolar epithelium fuses with that of "
+ },
+ "cb1508": {
+  "qid": "cb1508",
+  "a": 2,
+  "num": 8,
+  "q": "A 10-year-old child presented with abdominal pain and vomiting. Lab values are given below. What is the next best step of management? Lab Values: RBS - 450 mg/dL pH - 7.0 HCO3 - 4 Na - 145 K - 4.8 meq/L (Q-30970202) with bicarbonate meq/L meq/L",
+  "o": [
+   "10 ml/kg NS over 20 min (10% deficit correction) followed by insulin infusion with 20 mmol/L KCl",
+   "20 ml/kg 1/2 NS over 20 min (7% deficit correction) followed by insulin infusion and KCl 40 meq/L",
+   "20 ml/kg NS over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40",
+   "20 ml/kg RL over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40"
+  ],
+  "ex": "Correct answer is C according to ISPAD guidelines, as the labs show severe diabetic ketoacidosis (glucose 450, pH 7.0, HCOI 4). First step is rapid isotonic fluid resuscitation with **20 ml/kg normal saline** to restore perfusion. After initial fluids, insulin infusion is started, 0.1 units/kg/hour with potassium replacement because total body potassium is depleted despite normal serum K. Effects: * Stops ketogenesis * Reduces glucose * Stops lipolysis Bicarbonate is not routinely given unless pH < 6.9. Half-normal saline and RL are not preferred for initial resuscitation in pediatric DKA. RL "
+ },
+ "cb2207": {
+  "qid": "cb2207",
+  "a": 1,
+  "num": 79,
+  "q": "A 16-year-old girl and a 25-year-old man report that they had consensual sexual intercourse. The girl’s parents filed a police complaint, although there is no evidence of force or injury. Which of the following statements is correct? (Q-77269761) other.",
+  "o": [
+   "The girl's consent is valid because the relationship is consensual and both parties claim to love each",
+   "The girl's consent is not legally valid because she is only 16 years old.",
+   "The parents must first prove that the sexual act was forcible before any legal action can proceed.",
+   "The man cannot be prosecuted unless the girl herself files the complaint."
+  ],
+  "ex": "Under Indian law, any sexual activity with a person below 18 years of age is considered statutory rape, irrespective of consent. * Age of consent in India = 18 years * A person <18 years cannot give legally valid consent for sexual intercourse * Such cases are governed by the POCSO Act (Protection of Children from Sexual Offences) Legal implications: * Even if the minor states the act was consensual, it is legally invalid * The adult partner is liable for prosecution * Complaint can be initiated by parents or authorities; victim’s complaint is not mandatory Why not other options: * A: Consent "
+ },
+ "cb3083": {
+  "qid": "cb3083",
+  "a": 1,
+  "num": 5,
+  "q": "A patient with HIV with a CD4 count of 250 cells/mm³ is newly diagnosed to have rifampicin resistance TB. Which of the following is the appropriate regimen, and what should be monitored? (Q-75258410) syndrome",
+  "o": [
+   "Isoniazid, Ethambutol, Steptomycin, Pyrazinamide for 9 months and optic neuritis",
+   "Bedaquiline, Pretomanid, Linezolid, and Moxifloxacin for 6 months and immune reconstitution",
+   "Isoniazid, Ethambutol, Levofloxacin, Pyrazinamde for 6 months and hepatotoxicity",
+   "Isoniazid, Ethambutol, Clarithromycin, Pyrazinamide for 12 months and pyridoxine deficiency"
+  ],
+  "ex": "In HIV patients with rifampicin-resistant TB (RR/MDR-TB), the preferred treatment is a short, all-oral regimen—BPaLM (Bedaquiline + Pretomanid + Linezolid + Moxifloxacin) for 6 months. * Rifampicin resistance = treat as MDR-TB * Avoid standard first-line regimens (HRZE) → ineffective * Prefer shorter, oral regimens over older injectable-based therapies HIV-specific considerations: * Start ATT first, then initiate ART early (within 2–8 weeks) * CD4 = 250 → ART should still be started early * Monitor for immune reconstitution inflammatory syndrome (IRIS) after ART initiation Drug monitoring: * B"
+ },
+ "cb3709": {
+  "qid": "cb3709",
+  "a": 0,
+  "num": 5,
+  "q": "Hormone replacement therapy ( HRT ) should be prescribed to which of the following patients? (Q-27396271) salpingo-oophorectomy ( TAH + BSO )",
+  "o": [
+   "A 35-year-old woman who has undergone Total abdominal hysterectomy with bilateral",
+   "A 9-year-old girl who has Turner syndrome",
+   "A 47-year-old woman with hot flushes and history of breast cancer",
+   "A 60-year-old woman with a history of ischemic heart disease"
+  ],
+  "ex": "**Hormone Replacement Therapy (HRT)** is indicated in women with premature or surgical menopause , --> especially younger than 40–45 years, to prevent complications of estrogen deficiency such as osteoporosis, cardiovascular disease, and vasomotor symptoms. **Correct indication:** * Women undergoing TAH + BSO at a young age → sudden loss of ovarian estrogen → HRT recommended until the natural age of menopause (\\~50 years). **Why other options are incorrect:** * **Turner syndrome (9-year-old)**: requires puberty induction with estrogen, not menopausal HRT. * **History of breast cancer:** HRT co"
+ },
+ "cb4579": {
+  "qid": "cb4579",
+  "a": 0,
+  "num": 16,
+  "q": "A 32-year-old man presents with history of trauma to the right forearm after a road traffic accident 3 months ago. He now complains of difficulty in extending his wrist and fingers, along with numbness over the dorsal aspect of his hand. On examination, there is wrist drop, inability to extend the fingers and thumb at the metacarpophalangeal joint, and loss of sensation over the first dorsal web space. There is no weakness of elbow extension. Electromyography confirms a nerve injury at the mid-shaft of the humerus.Which of the following best describes the level and type of nerve injury, and which muscles are spared? (Q-82497675) affected present affected intact",
+  "o": [
+   "Injury to the radial nerve in the radial groove (mid-humerus); triceps is spared; brachioradialis is",
+   "Injury to the posterior interosseous nerve; all extensors of wrist and fingers affected; sensory loss",
+   "Injury to the radial nerve above the spiral groove; all posterior compartment muscles and skin",
+   "Injury to the median nerve at the elbow; thenar muscles affected; sensation over the dorsal hand"
+  ],
+  "ex": "##### *I Clinical Findings* * Wrist drop \u0014 * Cannot extend fingers and thumb at MCP \u0014 * Loss of sensation over **first dorsal web space** \u0014 (radial nerve territory) * No weakness of elbow extension \u0014 * EMG: injury at mid-shaft humerus \u0014 I **Radial nerve injury in the radial groove (spiral groove)** IThis is classic ** Saturday night palsy pattern ** . *** ##### I *` Anatomy of radial nerve `* The radial nerve: 1. Supplies **triceps** first (in axilla/proximal arm) 2. Then runs in the **radial groove (mid-shaft humerus)** 3. Then divides near elbow into: * Superficial branch (sensory) * Posteri"
+ },
+ "cb5329": {
+  "qid": "cb5329",
+  "a": 2,
+  "num": 7,
+  "q": "All of the following are true except: (Q-84298418) toxicity",
+  "o": [
+   "Codex Alimentarius is the principal organ of the FAO/WHO food standards program",
+   "Vanaspati is fortified with 2500 IU of vitamin A and 175 IU of vitamin D per 100grams.",
+   "Methylene blue reduction test is the best test for efficacy of pasteurisation",
+   "Sudden onset of hypersecretory glaucoma, diarrhea, and cardiac failure is seen due to sanguinarine"
+  ],
+  "ex": "The methylene blue reduction test assesses milk quality and bacterial load, not pasteurization efficacy. Pasteurization efficacy is tested using phosphatase test, coliform test, Standard plate test. Hence, statement C is incorrect."
+ },
+ "cb6571": {
+  "qid": "cb6571",
+  "a": 2,
+  "num": 32,
+  "q": "A 32 year old woman underwent total thyroidectomy with central neck dissection for papillary thyroid cancer. On post op day 2, she presents with a breathy voice but no stridor. Laryngoscopy shows unilateral incomplete abduction of vocal cords and is in paramedian position. Her serum calcium levels are normal. Which of the following is the next best step? (Q-48720786) compression..",
+  "o": [
+   "Medialisation of the affected vocal cords within 24-48 hours.",
+   "Urgent wound re exploration to relieve a suspected deep cervical hematoma that is causing RLN",
+   "Voice rest for 4 weeks and repeat laryngoscopy.",
+   "Immediate CT scan of neck and mediastinum to rule out recurrent tumor encasing the RLN."
+  ],
+  "ex": "Post-thyroidectomy voice change is most commonly due to recurrent laryngeal nerve (RLN) neuropraxia or temporary vocal cord dysfunction from surgical traction, edema, or inflammation. Unilateral RLN injury typically presents with: * Breathy/hoarse voice * Weak cough * No respiratory distress and laryngoscopy shows the affected vocal cord in a paramedian position with impaired abduction. In the absence of stridor or airway compromise, this is usually a benign, transient neuropraxia that often resolves spontaneously within weeks to months. Therefore, initial management is conservative with: * Vo"
+ }
+}

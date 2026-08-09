@@ -1,0 +1,106 @@
+{
+ "cb166": {
+  "qid": "cb166",
+  "a": 0,
+  "num": 30,
+  "q": "In the labelled transverse section of the thorax at the level of the heart shown below, match each numbered structure (1–4) with the appropriate anatomical or clinical description: 1. Undergoes hypertrophy on pulmonary stenosis 2. Receives oxygenated blood 3. Arises from left ventricle 4. Lies to the right of ascending aorta (Q-18718823) ventricle, 4- Lies to the right of ascending aorta ventricle, 4- Lies to the right of ascending aorta of ascending aorta, 4-Arises from left ventricle Undergoes hypertrophy on pulmonary stenosis",
+  "o": [
+   "1-Undergoes hypertrophy on pulmonary stenosis, 2-Receives oxygenated blood, 3-Arises from left",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3-Arises from left",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3- Lies to the right",
+   "1-Receives oxygenated blood, 2- Arises from left ventricle, 3- Lies to the right of ascending aorta, 4-"
+  ],
+  "ex": "Structure **1** is the **right ventricle**, which undergoes hypertrophy in **pulmonary stenosis**. Structure **2** corresponds to the **left atrium**, which receives **oxygenated blood from pulmonary veins**, while **3** is the **ascending aorta arising from the left ventricle**. Structure **4** is the **pulmonary trunk**, which lies **to the right of the ascending aorta** in transverse section."
+ },
+ "cb1547": {
+  "qid": "cb1547",
+  "a": 0,
+  "num": 24,
+  "q": "Which of the following hormone–receptor interactions acts via the IPI–DAG second messenger system? (Q-70266231) smooth muscle muscle",
+  "o": [
+   "Angiotensin II on vascular smooth muscle and vasopressin acting via V1 receptors on vascular",
+   "Angiotensin II on vascular smooth muscle and vasopressin acting via V2 receptors on epithelial cells",
+   "Angiotensin II acting on epithelial cells and vasopressin acting via V1 receptors on vascular smooth",
+   "Angiotensin II acting on epithelial cells and vasopressin acting via V2 receptors on epithelial cells"
+  ],
+  "ex": "Hormones that act through Gq protein–coupled receptors activate phospholipase C (PLC), which generates the second messengers IPI (inositol triphosphate) and DAG (diacylglycerol). * IPI → releases Ca²I from the endoplasmic reticulum * DAG → activates protein kinase C Key hormones using the IPI–DAG pathway: * Angiotensin II (ATI receptors) on vascular smooth muscle → vasoconstriction * Vasopressin (ADH) acting on V1 receptors on vascular smooth muscle → vasoconstriction Important contrast: * V2 receptors of vasopressin act via Gs → cAMP, causing water reabsorption in renal collecting ducts."
+ },
+ "cb2209": {
+  "qid": "cb2209",
+  "a": 2,
+  "num": 81,
+  "q": "A G5L4 woman has 4 daughters. She now comes for USG examination of her fetus and asks for sex determination. What will you do? (Q-67192846) mother.",
+  "o": [
+   "Do USG- check for congenital abnormality, gestational age and sex. But don’t tell the sex to the",
+   "Do USG- check for congenital abnormality, gestational age and sex. Tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, and gestational age. Don’t check for sex.",
+   "Don’t Do the USG."
+  ],
+  "ex": "Under the PCPNDT Act (Pre-Conception and Pre-Natal Diagnostic Techniques Act, India), sex determination of the fetus is strictly prohibited, including not attempting to identify or disclose fetal sex. * Ultrasound (USG) is allowed only for: * Fetal well-being * Gestational age * Detection of congenital anomalies * Sex determination or even attempting to look for fetal sex is illegal Doctor’s responsibility: * Perform USG for valid medical indications only * Refuse request for sex determination * Maintain proper documentation (Form F) * Counsel the patient regarding legal prohibition Why not ot"
+ },
+ "cb3084": {
+  "qid": "cb3084",
+  "a": 0,
+  "num": 6,
+  "q": "A 40-year-old man, newly diagnosed with HIV infection, presents with low-grade fever, productive cough, and weight loss. A chest X-ray reveals miliary nodules throughout both lung fields. Sputum GeneXpert reveals Mycobacterium tuberculosis with rifampicin resistance. He is not yet started on ART. His CD4 count is 110 cells/mm³. What is the most appropriate management? (Q-30639477) (IRIS)",
+  "o": [
+   "Start BPaLM regimen for 6 months and follow up for immune reconstitution inflammatory syndrome",
+   "Start HEZ plus levofloxacin for 9 months and monitor for optic neuritis",
+   "Start HEZ plus linezolid for 9 months and monitor for hepatotoxicity",
+   "Start kanamycin-based MDR regimen for 20 months and continue ART without interruption"
+  ],
+  "ex": "In HIV patients with rifampicin-resistant (RR/MDR) tuberculosis, the recommended management is an all-oral, shorter regimen such as BPaLM (Bedaquiline + Pretomanid + Linezolid + Moxifloxacin) for \\~6 months. * GeneXpert showing rifampicin resistance = treat as MDR-TB * BPaLM regimen is now preferred: o Shorter duration (≈6 months) o Fully oral (no injectables) o Higher success rates HIV considerations: * Start ATT immediately * Initiate ART early (within 2 weeks for CD4 <200) * Monitor for IRIS after ART initiation Why not other options: * HEZ regimens → ineffective in rifampicin-resistant TB "
+ },
+ "cb3739": {
+  "qid": "cb3739",
+  "a": 2,
+  "num": 3,
+  "q": "In which of the following patients is a karyotype most likely required? (Q-19934594) sonography",
+  "o": [
+   "20-year-old with amenorrhea and hirsutism",
+   "18-year-old with amenorrhea and an elevated prolactin level",
+   "16-year-old with amenorrhea with normal secondary sexual characters and no mullerian structures on",
+   "16-year-old with amenorrhea with normal secondary sexual characters and uterus seen on imaging"
+  ],
+  "ex": "**Karyotyping** is indicated in cases of primary amenorrhea when a disorder of sex development (DSD) is suspected, particularly when Müllerian structures (uterus, cervix) are absent. A 16-year-old with primary amenorrhea, normal secondary sexual characteristics, and absent Müllerian structures on imaging suggests either: • Androgen Insensitivity Syndrome (AIS) → 46,XY karyotype, testes present, female phenotype, absent uterus • Müllerian agenesis (Mayer–Rokitansky–Küster–Hauser syndrome, MRKH) → 46,XX karyotype, normal ovaries, absent uterus Because these two conditions have different karyotyp"
+ },
+ "cb4685": {
+  "qid": "cb4685",
+  "a": 2,
+  "num": 15,
+  "q": "A 75-year-old woman presents to the clinic after a fall. She complains of right hip and thigh pain. Examination reveals that her right leg is shorter than her left and externally rotated. Which of the following pathological changes is most likely to be present in this patient? (Q-85815495) in bone of low quality",
+  "o": [
+   "Cortical bone overgrowth and sclerosis due to defective osteoclasts",
+   "Impaired mineralization of osteoid and hyperactive osteoblasts",
+   "Decreased cortical and trabecular bone mass with normal bone mineralization",
+   "Woven and lamellar bone mosaic pattern due to increased osteoclast and osteoblast activity resulting"
+  ],
+  "ex": "An elderly woman with a fall followed by a shortened, externally rotated leg most likely has a fragility fracture of the femoral neck due to osteoporosis. Osteoporosis is characterized by: * Decreased cortical and trabecular bone mass * Normal bone mineralization * Increased fracture risk, especially hip, vertebrae, and wrist Thus, osteoporosis involves quantitative bone loss with normal mineralization, leading to fragile bones. Why not other options: * A. Defective osteoclasts → Osteopetrosis → dense but brittle bones; not typical in elderly. * B. Impaired mineralization → Osteomalacia → defe"
+ },
+ "cb5383": {
+  "qid": "cb5383",
+  "a": 1,
+  "num": 41,
+  "q": "Which of the following is the challenge faced in the operationalization of the concept of Universal Health Coverage (UHC)? (Q-24764301) resources in the country healthcare delivery systems",
+  "o": [
+   "Universal Health Coverage aims to provide free health care services to all, regardless of the available",
+   "Universal Health Coverage aims to provide services despite having unregulated and fragmented",
+   "Universal Health Coverage prioritizes the safety of resources in a low-resource setting",
+   "Universal Health Coverage targets primary health care delivery based on the needs of the population"
+  ],
+  "ex": "**Universal Health Coverage (UHC)** means all individuals and communities receive the **health services they need without suffering financial hardship**. UHC includes access to h**ealth promotion**, d**isease prevention**, t**reatment**, r**ehabilitation**, p**alliative care.** A major challenge in implementing **Universal Health Coverage (UHC)** is delivering equitable and continuous care within **unregulated and fragmented healthcare systems**, where services are split between public and private sectors. Such fragmentation leads to **inefficiencies, variable quality, and gaps in continuity o"
+ },
+ "cb6608": {
+  "qid": "cb6608",
+  "a": 3,
+  "num": 29,
+  "q": "Which of the following statements are true? (Q-18018772) cancer.",
+  "o": [
+   "Lymphoedema in the arm after treatment usually indicates a recurrence.",
+   "Radiotherapy after implant reconstruction of the breast gives a good cosmetic result.",
+   "Male breast cancer carries a poor prognosis when compared with female breast cancer stage by stage.",
+   "Chemotherapy is safe in second and third trimester in women with pregnancy associated breast"
+  ],
+  "ex": "Breast cancer management requires awareness of treatment-related complications, reconstructive outcomes, prognostic factors, and special clinical situations such as pregnancy. * Arm lymphedema after breast cancer treatment is most commonly due to axillary lymph node dissection and/or radiotherapy causing lymphatic obstruction. It does not usually indicate recurrence unless accompanied by other concerning findings (eg, new hard nodes, progressive mass, skin changes). Therefore, it is not a reliable sign of recurrence. * Radiotherapy after implant-based breast reconstruction is associated with a"
+ }
+}

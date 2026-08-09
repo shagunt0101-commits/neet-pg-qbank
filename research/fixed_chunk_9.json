@@ -1,0 +1,90 @@
+[
+ {
+  "qid": "cb517",
+  "q": "While walking on the street, you find an unresponsive child. After confirming that the child is not breathing, what is the next best course of action? (Q-18151912)",
+  "o": [
+   "Deliver rescue breaths, as most pediatric cardiac arrests are secondary to breathing problems",
+   "Begin back blows and chest thrusts",
+   "Deliver 30 chest compressions followed by 2 rescue breaths for 2 minutes, then leave the child to call for help",
+   "Leave the child immediately to search for an AED"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb1757",
+  "q": "A 20-year-old male patient presents with unilateral nasal obstruction and recurrent bleeding for the past 1 year. Transnasal endoscopic results are shown below. What is the most likely diagnosis? (Q-25369504)",
+  "o": [
+   "Contrast-enhanced CT revealed a mass extending from the posterior choana to the nasopharynx",
+   "Nasopharyngeal angiofibroma",
+   "Antrochoanal polyp",
+   "Rhinoscleroma"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb2392",
+  "q": "Which of the following is true regarding nicotine substitution therapy? (Q-40118076)",
+  "o": [
+   "Preferably given by gastrointestinal route",
+   "Varenicline comes with a black box warning of cardiovascular death",
+   "There should be a 15-minute gap between nicotine gum and coffee/soda/acidic food as they decrease its absorption",
+   "Nicotine chewing gum is better for constant use as it gives 25% higher blood level than lozenges"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb3298",
+  "q": "Arrange the stages of spore formation (sporulation) in correct order: (Q-26891584)",
+  "o": [
+   "Axial filament formation   Septum formation   Asymmetric division   Engulfment   Cortex formation   Maturation and lysis",
+   "Engulfment   Cortex formation   Septum formation   Asymmetric division   Axial filament",
+   "Septum formation   Asymmetric division   Engulfment   Cortex formation   Maturation and lysis",
+   "Asymmetric division   Engulfment   Cortex formation   Septum formation   Axial filament"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3994",
+  "q": "All of the following statements are true except: (Q-90876063)",
+  "o": [
+   "The shortest anteroposterior ( AP ) diameter of the pelvic inlet is the obstetric conjugate",
+   "The diagonal conjugate is measured from tip of the sacral promontory to the lower margin of the pubic symphysis",
+   "The obstetric conjugate is calculated by subtracting 1.5 cm from the diagonal conjugate",
+   "A contracted pelvis is defined as a transverse diameter <10cm and an AP diameter <12cm"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb5151",
+  "q": "In a cohort study investigating the link between heavy smoking and bronchogenic carcinoma, the incidence among smokers was found to be 10 per 1,000 person-years, while the incidence among non-smokers was 1 per 1,000 person-years. Which of the following cannot be concluded based on the information provided above? (Q-75511722)",
+  "o": [
+   "If smoking were eliminated from the entire population, the incidence of bronchogenic carcinoma would fall by 90%",
+   "For every 10 cases of carcinoma among smokers, 9 are due to their habit of smoking.",
+   "Smokers are 10 times as likely to get cancer as non-smokers.",
+   "10% of the cases among smokers can be attributed to baseline risk factors that also affect non-smokers"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb5568",
+  "q": "In the Maha Kumbh mela, what was the primary purpose of Mobile medical vans having multiple surveillance units for fever, diarrhoea and respiratory illnesses? (Q-87175552)",
+  "o": [
+   "To reduce number of health workers and professionals",
+   "For immediate quarantine measures of symptomatic individuals",
+   "For treatment only",
+   "To diagnose with lab tests and give potential warning for early outbreaks of fever, diarrhoea, respiratory infections"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb6783",
+  "q": "A 40 year old male underwent superficial parotidectomy 3 months ago and now presents with symptoms like intermittent flushing, warmth and sweating over the preauricular malar region. The surgeons decide to go ahead with the test shown in the image. Which of the following statement regarding the image is false? (Q-38128360)",
+  "o": [
+   "Jacobson’s tympanic neurectomy can be performed.",
+   "It results from aberrant regeneration of post ganglionic parasympathetic fibers onto cutaneous sweat glands through auriculotemporal nerve.",
+   "Botulinum toxin injection is considered effective because it blocks muscarinic parasympathetic receptors on eccrine gland.",
+   "Long standing or severe cases can be treated with interposing a fascia or muscle flap during revision surgery to prevent cross innervation."
+  ],
+  "a": 2
+ }
+]

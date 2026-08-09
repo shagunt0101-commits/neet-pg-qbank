@@ -1,0 +1,106 @@
+{
+ "cb25": {
+  "qid": "cb25",
+  "a": 1,
+  "num": 26,
+  "q": "Which of the following is not true about the cavernous sinus thrombosis? (Q-17770753) because it is valveless",
+  "o": [
+   "Loss of sensation around the orbit",
+   "Loss of jaw jerk",
+   "Infection spreads to cavernous sinus from the danger area of face via inferior ophthalmic vein",
+   "Superior ophthalmic vein serves as a both incoming as well as outgoing channel to cavernous sinus"
+  ],
+  "ex": "Cavernous sinus thrombosis typically affects the cranial nerves that run within the cavernous sinus, leading to characteristic neurological deficits. Structures commonly involved include: * CN III (Oculomotor) * CN IV (Trochlear) * CN V1 (Ophthalmic division of trigeminal nerve) * CN V2 (Maxillary division of trigeminal nerve) * CN VI (Abducens nerve) * Internal carotid artery Clinical Features: * Loss of sensation around the orbit → due to involvement of CN V1 (ophthalmic division). * Infection from the “danger area” of the face can spread to the cavernous sinus via facial vein → angular vein"
+ },
+ "cb708": {
+  "qid": "cb708",
+  "a": 1,
+  "num": 16,
+  "q": "Which of the following is true about Hemochromatosis? (Q-89204463) as IRE.",
+  "o": [
+   "The mRNA for Transferrin receptor is stabilised by binding of IRP to 3’ stem-loop structures known",
+   "The mRNA for the Transferrin receptor is not bound by IRP and is rapidly degraded.",
+   "The mRNA for apoferritin is not bound by IRP at 5’ stem loop IRE and is rapidly degraded.",
+   "The mRNA for apoferritin is bound by IRP and is not translated."
+  ],
+  "ex": "In **hemochromatosis**, there is **iron overload**, so **cellular iron levels are high**. Under these conditions, **iron regulatory proteins (IRPs) cannot bind to the iron-responsive elements (IREs) on the 3′ UTR of transferrin receptor mRNA**, leading to **rapid degradation**. This decreases transferrin receptor synthesis, reducing iron uptake—a protective response to high intracellular iron. **Why other options are incorrect:** **A. The mRNA for Transferrin receptor is stabilised by binding of IRP to 3’ stem-loop structures known as IRE:** Occurs only during **iron deficiency**, not overload"
+ },
+ "cb2008": {
+  "qid": "cb2008",
+  "a": 1,
+  "num": 8,
+  "q": "A 16-year-old girl and a 25-year-old man report that they had consensual sexual intercourse. The girl’s parents filed a police complaint, although there is no evidence of force or injury. Which of the following statements is correct? (Q-77269761) other.",
+  "o": [
+   "The girl's consent is valid because the relationship is consensual and both parties claim to love each",
+   "The girl's consent is not legally valid because she is only 16 years old.",
+   "The parents must first prove that the sexual act was forcible before any legal action can proceed.",
+   "The man cannot be prosecuted unless the girl herself files the complaint."
+  ],
+  "ex": "Under Indian law, any sexual activity with a person below 18 years of age is considered statutory rape, irrespective of consent. * Age of consent in India = 18 years * A person <18 years cannot give legally valid consent for sexual intercourse * Such cases are governed by the POCSO Act (Protection of Children from Sexual Offences) Legal implications: * Even if the minor states the act was consensual, it is legally invalid * The adult partner is liable for prosecution * Complaint can be initiated by parents or authorities; victim’s complaint is not mandatory Why not other options: * A: Consent "
+ },
+ "cb2920": {
+  "qid": "cb2920",
+  "a": 2,
+  "num": 15,
+  "q": "A 32-year-old man presents with a 3-month history of weight loss, fever, and a persistent cough. Imaging of the chest reveals bilateral apical opacities with cavitation. markers is most specific for the cells predominantly found surrounding the necrotic tissue? (Q-22348085) D. CD8",
+  "o": [
+   "lung biopsy is performed, which is shown below. Which of the following cell surface",
+   "CD4",
+   "CD34",
+   "CD14"
+  ],
+  "ex": "The biopsy shows caseating granulomatous inflammation, typical of pulmonary tuberculosis. Granulomas consist of epithelioid macrophages and Langhans giant cells surrounding central caseous necrosis. **Key cells around the necrotic center:** * Activated macrophages (epithelioid cells) derived from monocytes. CD14 is a marker for monocytes/macrophages, which are the predominant cells forming granulomas. Other markers: * **CD4**: Helper T lymphocytes. * **CD8**: Cytotoxic T cells. * **CD34**: Hematopoietic stem cells/endothelial progenitors."
+ },
+ "cb3369": {
+  "qid": "cb3369",
+  "a": 0,
+  "num": 66,
+  "q": "A patient undergoing antitubercular therapy reports joint pain 10 days after initiation of treatment. Laboratory tests reveal normal AST and ALT levels, a serum creatinine of 0.9 mg/dL, and an elevated serum uric acid level of 10 mg/dL. What is the most appropriate next step in managing this patient's treatment? (Q-54340846) test (LFT) and KFT monitoring.",
+  "o": [
+   "Stop pyrazinamide and continue the rest of the drugs with kidney function test (KFT) monitoring.",
+   "Add uric acid-lowering drugs and continue antitubercular therapy (ATT) as such with liver function",
+   "Continue all drugs and monitor serum uric acid level as well as LFT and KFT.",
+   "Stop all ATT drugs until laboratory values return to normal."
+  ],
+  "ex": "Pyrazinamide commonly causes hyperuricemia by decreasing renal excretion of uric acid, leading to acute gouty arthritis early in ATT. * Onset within days to weeks of starting therapy * Joint pain with elevated serum uric acid * Normal LFT and KFT (isolated hyperuricemia) Management principle: * Symptomatic hyperuricemia (with joint pain) → stop pyrazinamide * Continue remaining ATT drugs * Monitor renal function * Asymptomatic hyperuricemia → no need to stop drug Why not others: * Adding uric acid–lowering drugs is not first-line * Continuing drug despite symptoms worsens gout * Stopping all A"
+ },
+ "cb4328": {
+  "qid": "cb4328",
+  "a": 3,
+  "num": 11,
+  "q": "Which of these statements is true regarding perimetry? (Q-80618189) abnormalities",
+  "o": [
+   "Kinetic perimetry is used in quantification and tracking of visual changes in established glaucoma",
+   "In Static perimetry, stimulus intensity is held constant and moved centrally with detection",
+   "Visual field defect to be classified as glaucoma, it should have the corresponding optic nerve head",
+   "Early signs include generalised constriction of isopters and barring of blind spot"
+  ],
+  "ex": "* Initial indications of glaucoma in perimetry involve a widespread narrowing of isopters and the appearance of a blockage within the blind spot. * **Perimetry** is a diagnostic test used to assess a person's visual field. * **Static Perimetry:** Traditional method involving fixed stimulus points presented on a static grid. Goldmann perimetry and Humphrey Visual Field Analyzer are common devices for static perimetry. * **Kinetic Perimetry:** Moving stimuli are used to determine the boundaries of the visual field. Useful for mapping the extent of peripheral vision."
+ },
+ "cb5230": {
+  "qid": "cb5230",
+  "a": 0,
+  "num": 47,
+  "q": "A study was conducted to assess the association between air pollution and asthma. The p-value obtained was 0.03. Which of the following is the most appropriate inference? (Q-71781243) hypothesis is true",
+  "o": [
+   "There is a 3% probability that the observed association is due to random chance, assuming the null",
+   "There is a 97% probability that pollution causes asthma",
+   "The null hypothesis is accepted because p-value is greater than 0.01",
+   "There is a 95% probability that the alternative hypothesis is false"
+  ],
+  "ex": "p-value of 0.03 means that if the null hypothesis were true, there is a 3% probability of observing the given association (or a more extreme one) purely due to chance. It does not mean that there is a 97% chance the exposure causes the disease, nor does it give the probability that the alternative hypothesis is true or false. Since p < 0.05, the association is statistically significant at the 5% level."
+ },
+ "cb6041": {
+  "qid": "cb6041",
+  "a": 1,
+  "num": 13,
+  "q": "Goldblatt hypertension is best explained by which of the following mechanisms? (Q-94204355) renin–angiotensin–aldosterone system",
+  "o": [
+   "Increased sodium retention due to primary hyperaldosteronism",
+   "Renal artery stenosis causing increased renin release and activation of the",
+   "Decreased renal perfusion causing pressure natriuresis",
+   "Increased sympathetic discharge due to baroreceptor dysfunction"
+  ],
+  "ex": "Goldblatt hypertension results from renal artery stenosis, which decreases renal perfusion pressure. This stimulates juxtaglomerular cells to release renin → activates the renin–angiotensin–aldosterone system (RAAS) → causes vasoconstriction, sodium and water retention → systemic hypertension. Thus, Goldblatt hypertension is a classic model of secondary hypertension due to renovascular activation of RAAS."
+ }
+}

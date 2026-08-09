@@ -1,0 +1,893 @@
+[
+ {
+  "qid": "cb114",
+  "q": "Which statement correctly describes the representation of body parts in the motor and sensory homunculi? (Q-52983067)",
+  "o": [
+   "In the motor homunculus, finer motor control areas like arms and legs have larger cortical regions.",
+   "The sensory homunculus shows body parts with higher acuity, like fingertips, having smaller cortical areas.",
+   "Both homunculi are in the precentral gyrus and represent the same body parts.",
+   "The motor homunculus in the precentral gyrus has larger areas for fine motor parts like hands and face."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb1200",
+  "q": "A 54-year-old man with a history of hypertension presents with shortness of breath and palpitations. On examination, he has an irregularly irregular pulse with bilateral basal crackles. An ECG shows a ventricular response of 110/min. Which of the following statements is incorrect? (Q-86675037)",
+  "o": [
+   "IV Digoxin can be used for ventricular rate control.",
+   "Direct oral anticoagulants to be given.",
+   "Cardioversion should be done in hemodynamically unstable patients.",
+   "Beta blockers are given if the patient has decompensated heart failure and intolerant to calcium channel blockers."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb149",
+  "q": "Which of the following statements with respect to histology of alveoli is incorrect? (Q-42184927)",
+  "o": [
+   "The most abundant cell type lines form 70-90% of the alveolar surface and are of simple squamous type.",
+   "Type II alveolar epithelial cells are microvilli-containing cells which secrete surfactant similar to that of Clara cells.",
+   "In some alveolar area, basement membrane of the endothelium fuses with that of the alveolar epithelium.",
+   "Type I alveolar epithelial cells are involved in replacing the damaged type II alveolar cells."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb1508",
+  "q": "A 10-year-old child presented with abdominal pain and vomiting. Lab values are given below. What is the next best step of management? Lab Values: RBS - 450 mg/dL pH - 7.0 HCO3 - 4 Na - 145 K - 4.8 meq/L (Q-30970202)",
+  "o": [
+   "10 ml/kg NS over 20 min (10% deficit correction) followed by insulin infusion with 20 mmol/L KCl",
+   "20 ml/kg 1/2 NS over 20 min (7% deficit correction) followed by insulin infusion and KCl 40 meq/L",
+   "20 ml/kg NS over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40 meq/L",
+   "20 ml/kg RL over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40 meq/L"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb1547",
+  "q": "Which of the following hormone–receptor interactions acts via the IPI–DAG second messenger system? (Q-70266231)",
+  "o": [
+   "Angiotensin II on vascular smooth muscle and vasopressin acting via V1 receptors on vascular smooth muscle",
+   "Angiotensin II on vascular smooth muscle and vasopressin acting via V2 receptors on epithelial cells",
+   "Angiotensin II acting on epithelial cells and vasopressin acting via V1 receptors on vascular smooth muscle",
+   "Angiotensin II acting on epithelial cells and vasopressin acting via V2 receptors on epithelial cells"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb1551",
+  "q": "A 29-year-old woman with a pituitary microadenoma has been receiving cabergoline 1 mg per week. She presents at 12 weeks of gestation. What is the most appropriate management? (Q-39909950)",
+  "o": [
+   "Advise termination of pregnancy as cabergoline was continued during the first trimester",
+   "Follow up with serum prolactin levels monthly",
+   "Perform MRI of the sella to look for tumor enlargement",
+   "Reassure the patient and evaluate further only if symptoms such as headache or visual disturbance develop"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb1616",
+  "q": "A 10-year-old child presented with abdominal pain and vomiting. Lab values are given below. What is the next best step of management? Lab Values: RBS - 450 mg/dL pH - 7.0 HCO3 - 4 Na - 145 K - 4.8 meq/L (Q-30970202)",
+  "o": [
+   "10 ml/kg NS over 20 min (10% deficit correction) followed by insulin infusion with 20 mmol/L KCl",
+   "20 ml/kg 1/2 NS over 20 min (7% deficit correction) followed by insulin infusion and KCl 40 meq/L",
+   "20 ml/kg NS over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40 meq/L",
+   "20 ml/kg RL over 20 min with (10% deficit correction) followed by insulin infusion and KCl 40 meq/L"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb166",
+  "q": "In the labelled transverse section of the thorax at the level of the heart shown below, match each numbered structure (1–4) with the appropriate anatomical or clinical description: 1. Undergoes hypertrophy on pulmonary stenosis 2. Receives oxygenated blood 3. Arises from left ventricle 4. Lies to the right of ascending aorta (Q-18718823)",
+  "o": [
+   "1-Undergoes hypertrophy on pulmonary stenosis, 2-Receives oxygenated blood, 3-Arises from left ventricle, 4- Lies to the right of ascending aorta",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3-Arises from left ventricle, 4- Lies to the right of ascending aorta",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3- Lies to the right of ascending aorta, 4-Arises from left ventricle",
+   "1-Receives oxygenated blood, 2- Arises from left ventricle, 3- Lies to the right of ascending aorta, 4-Undergoes hypertrophy on pulmonary stenosis"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb1757",
+  "q": "A 20-year-old male patient presents with unilateral nasal obstruction and recurrent bleeding for the past 1 year. Transnasal endoscopic results are shown below. What is the most likely diagnosis? (Q-25369504)",
+  "o": [
+   "Contrast-enhanced CT revealed a mass extending from the posterior choana to the nasopharynx",
+   "Nasopharyngeal angiofibroma",
+   "Antrochoanal polyp",
+   "Rhinoscleroma"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb1795",
+  "q": "Which of the following statements about the venous drainage of the nose is false? (Q-12382317)",
+  "o": [
+   "The venous networks parallel the arterial supply in their distribution",
+   "The fronto-median area drains to the facial vein, while the orbito-palpebral area drains to the ophthalmic vein",
+   "The facial vein originates as the angular vein, which is formed by the confluence of the supratrochlear and supraorbital veins",
+   "Infections in the upper lip and nose can potentially spread to the cavernous sinus due to a valveless venous connection"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb1900",
+  "q": "A 20-year-old male patient presents with unilateral nasal obstruction and recurrent bleeding for the past 1 year. Transnasal endoscopic results are shown below. A contrast-enhanced CT revealed a mass extending from the posterior choana to the nasopharynx. What is the most likely diagnosis? (Q-25369504)",
+  "o": [
+   "Nasopharyngeal angiofibroma",
+   "Antrochoanal polyp",
+   "Rhinoscleroma",
+   "Concha bullosa"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb2008",
+  "q": "A 16-year-old girl and a 25-year-old man report that they had consensual sexual intercourse. The girl’s parents filed a police complaint, although there is no evidence of force or injury. Which of the following statements is correct? (Q-77269761)",
+  "o": [
+   "The girl's consent is valid because the relationship is consensual and both parties claim to love each other.",
+   "The girl's consent is not legally valid because she is only 16 years old.",
+   "The parents must first prove that the sexual act was forcible before any legal action can proceed.",
+   "The man cannot be prosecuted unless the girl herself files the complaint."
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb2010",
+  "q": "A G5L4 woman has 4 daughters. She now comes for USG examination of her fetus and asks for sex determination. What will you do? (Q-67192846)",
+  "o": [
+   "Do USG- check for congenital abnormality, gestational age and sex. But don’t tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, gestational age and sex. Tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, and gestational age. Don’t check for sex.",
+   "Don’t Do the USG."
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb2122",
+  "q": "A 42-year-old man is admitted to the hospital after sustaining fractures of his right femur and tibia in a motor vehicle collision. The patient becomes agitated, hypervigilant, and paranoid 12 hours after admission. He repeatedly tells the nurses that he can hear people in the corridor making insulting remarks about him. When hospital staff check the area near the patient's room, no one is found. Medical history is unremarkable, but psychiatric history is significant for cocaine, marijuana, and alcohol misuse. On examination, the patient is alert and oriented. Temperature is 37.2 (99 F), blood pressure is 135/87 mm Hg pulse is 85/min, and respirations are 18/min. He is slightly tremulous and diaphoretic. Which of the following is the most likely diagnosis in this patient? (Q-50877015)",
+  "o": [
+   "Alcoholic hallucinosis",
+   "Brief psychotic disorder",
+   "Cocaine withdrawal",
+   "Delirium tremens"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb22",
+  "q": "A 55-year-old man develops intracranial meningeal bleeding secondary to skull base osteomyelitis. Different regions of the dura mater are involved, and angiography shows distinct arterial sources depending on the cranial fossa involved. Which combination best identifies the major arterial supply to the dura mater in the three cranial fossae? (Q-43450772)",
+  "o": [
+   "Anterior cranial fossa – Middle meningeal artery; Middle cranial fossa – Ascending pharyngeal artery; Posterior cranial fossa – Ophthalmic artery",
+   "Anterior cranial fossa – Ethmoidal arteries; Middle cranial fossa – Middle meningeal artery; Posterior cranial fossa – Meningeal branches of vertebral & occipital arteries",
+   "Anterior cranial fossa – Ascending pharyngeal artery; Middle cranial fossa – Ophthalmic artery; Posterior cranial fossa – Middle meningeal artery",
+   "Anterior cranial fossa – Deep temporal artery; Middle cranial fossa – Ascending palatine artery; Posterior cranial fossa – Maxillary artery"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb2207",
+  "q": "A 16-year-old girl and a 25-year-old man report that they had consensual sexual intercourse. The girl’s parents filed a police complaint, although there is no evidence of force or injury. Which of the following statements is correct? (Q-77269761)",
+  "o": [
+   "The girl's consent is valid because the relationship is consensual and both parties claim to love each other.",
+   "The girl's consent is not legally valid because she is only 16 years old.",
+   "The parents must first prove that the sexual act was forcible before any legal action can proceed.",
+   "The man cannot be prosecuted unless the girl herself files the complaint."
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb2209",
+  "q": "A G5L4 woman has 4 daughters. She now comes for USG examination of her fetus and asks for sex determination. What will you do? (Q-67192846)",
+  "o": [
+   "Do USG- check for congenital abnormality, gestational age and sex. But don’t tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, gestational age and sex. Tell the sex to the mother.",
+   "Do USG- check for congenital abnormality, and gestational age. Don’t check for sex.",
+   "Don’t Do the USG."
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb23",
+  "q": "A 62-year-old man presents with persistent headaches that change location depending on intracranial irritation. MRI shows localized pachymeningitis affecting different cranial fossae at different times. The neurologist explains that each cranial fossa has a different primary sensory innervation of the dura, which helps explain the variation in referred pain patterns. Which combination correctly identifies the major nerve distribution to the dura mater in the three cranial fossae? (Q-31665698)",
+  "o": [
+   "Anterior cranial fossa – V2; Middle cranial fossa – C1–C3; Posterior cranial fossa – V1",
+   "Anterior cranial fossa – V3; Middle cranial fossa – V1; Posterior cranial fossa – C1–C3",
+   "Anterior cranial fossa – V1; Middle cranial fossa – V3 (meningeal branches); Posterior cranial fossa – C1–C3",
+   "Anterior cranial fossa – V2; Middle cranial fossa – V3 via auriculotemporal nerve only; Posterior cranial fossa – V1"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb2358",
+  "q": "A 65-year-old patient with a history of coronary artery disease is prescribed clopidogrel (Plavix) and omeprazole (Prilosec) for concurrent use. Which of the following statements regarding this drug combination is most accurate? (Q-55031530)",
+  "o": [
+   "The combination of clopidogrel and omeprazole is safe and does not require any monitoring",
+   "Omeprazole may enhance the antiplatelet effects of clopidogrel, leading to improved cardiovascular outcomes and increasing the risk of cardiovascular events",
+   "Omeprazole inhibits the activity of CYP2C19, potentially reducing the effectiveness of clopidogrel",
+   "Clopidogrel increases the metabolism of omeprazole, leading to decreased therapeutic levels of omeprazole in the body"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb2372",
+  "q": "A 29-year-old male diagnosed with schizophrenia has been stable on risperidone for the past few months. Recently, he began experiencing dystonia, for which he was started on benztropine 2 mg twice daily by his psychiatrist. A week later, he presents to the emergency department with complaints of dry mouth, blurred vision, confusion and urinary retention. On examination, he is disoriented, tachycardic, and febrile. Pupils are dilated and bowel sounds are absent. Which of the following is the most appropriate next step in the management of this patient? (Q-84096521)",
+  "o": [
+   "Discontinue risperidone and initiate lorazepam for possible neuroleptic malignant syndrome (NMS)",
+   "Administer intravenous dantrolene and initiate cooling measures for suspected serotonin syndrome",
+   "Start physostigmine with continuous cardiac monitoring for anticholinergic toxicity due to benztropine overdose",
+   "Administer activated charcoal and IV fluids; observe the patient as symptoms are likely self-limiting"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb2392",
+  "q": "Which of the following is true regarding nicotine substitution therapy? (Q-40118076)",
+  "o": [
+   "Preferably given by gastrointestinal route",
+   "Varenicline comes with a black box warning of cardiovascular death",
+   "There should be a 15-minute gap between nicotine gum and coffee/soda/acidic food as they decrease its absorption",
+   "Nicotine chewing gum is better for constant use as it gives 25% higher blood level than lozenges"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb2427",
+  "q": "A 29-year-old male diagnosed with schizophrenia has been stable on risperidone for the past few months. Recently, he began experiencing dystonia, for which he was started on benztropine 2 mg twice daily by his psychiatrist. A week later, he presents to the emergency department with complaints of dry mouth, blurred vision, confusion and urinary retention. On examination, he is disoriented, tachycardic, and febrile. Pupils are dilated and bowel sounds are absent. Which of the following is the most appropriate next step in the management of this patient? (Q-84096521)",
+  "o": [
+   "Discontinue risperidone and initiate lorazepam for possible neuroleptic malignant syndrome (NMS)",
+   "Administer intravenous dantrolene and initiate cooling measures for suspected serotonin syndrome",
+   "Start physostigmine with continuous cardiac monitoring for anticholinergic toxicity due to benztropine overdose",
+   "Administer activated charcoal and IV fluids; observe the patient as symptoms are likely self-limiting"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb25",
+  "q": "Which of the following is not true about the cavernous sinus thrombosis? (Q-17770753)",
+  "o": [
+   "Loss of sensation around the orbit",
+   "Loss of jaw jerk",
+   "Infection spreads to cavernous sinus from the danger area of face via inferior ophthalmic vein",
+   "Superior ophthalmic vein serves as a both incoming as well as outgoing channel to cavernous sinus because it is valveless"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb2563",
+  "q": "A 52-year-old man presents with chronic diarrhea, weight loss, migratory arthralgia, and intermittent fever. He also has hyperpigmentation and generalized lymphadenopathy. Duodenal biopsy is performed. Which of the following statements regarding Whipple disease are CORRECT? A. It is caused by Tropheryma whipplei B. Duodenal biopsy shows PAS-positive macrophages in the submucosa C. Migratory polyarthritis often precedes gastrointestinal manifestations D. The organism is acid-fast positive on staining E. Long-term antibiotic therapy is required for definitive treatment F. Causes disturbance in lymphatic transport of absorbed lipids (Q-79875454)",
+  "o": [
+   "A,B,C,D",
+   "A,B,C,D,E,F",
+   "A,B,D,E",
+   "A,C,E,F"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb2920",
+  "q": "A 32-year-old man presents with a 3-month history of weight loss, fever, and a persistent cough. Imaging of the chest reveals bilateral apical opacities with cavitation. lung biopsy is performed, which is shown below. Which of the following cell surface markers is most specific for the cells predominantly found surrounding the necrotic tissue? (Q-22348085)",
+  "o": [
+   "CD4",
+   "CD34",
+   "CD14",
+   "CD8"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb2952",
+  "q": "A patient with AML is planned for an allogeneic hematopoietic stem cell transplant. As part of the pre transplant conditioning regimen, he receives myeloablative therapy using high dose chemotherapy and total body irradiation. Which of the following statements about myeloablation is false? (Q-82695999)",
+  "o": [
+   "Myeloablation increases the risk of graft failure if inadequate suppression of host immunity occurs.",
+   "Myeloablation regimen can increase the incidence of post transplant lymphoproliferative disorders.",
+   "Myeloablation conditioning destroys the recipient’s bone marrow to allow engraftment of donor stem cells.",
+   "Myeloablation prevents graft versus host disease by suppressing donor T cells."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb3064",
+  "q": "An adult male patient presented with the following condition on his private parts. gram-negative diplococcus was found in the gram stain. The drug of choice for treatment is: (Q-46813059)",
+  "o": [
+   "Tab Azithromycin",
+   "Tab Cefixime 400 mg",
+   "Tab Doxycycline 200 mg",
+   "Inj. Benzathine Penicillin"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb3083",
+  "q": "A patient with HIV with a CD4 count of 250 cells/mm³ is newly diagnosed to have rifampicin resistance TB. Which of the following is the appropriate regimen, and what should be monitored? (Q-75258410)",
+  "o": [
+   "Isoniazid, Ethambutol, Steptomycin, Pyrazinamide for 9 months and optic neuritis",
+   "Bedaquiline, Pretomanid, Linezolid, and Moxifloxacin for 6 months and immune reconstitution syndrome",
+   "Isoniazid, Ethambutol, Levofloxacin, Pyrazinamde for 6 months and hepatotoxicity",
+   "Isoniazid, Ethambutol, Clarithromycin, Pyrazinamide for 12 months and pyridoxine deficiency"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb3084",
+  "q": "A 40-year-old man, newly diagnosed with HIV infection, presents with low-grade fever, productive cough, and weight loss. A chest X-ray reveals miliary nodules throughout both lung fields. Sputum GeneXpert reveals Mycobacterium tuberculosis with rifampicin resistance. He is not yet started on ART. His CD4 count is 110 cells/mm³. What is the most appropriate management? (Q-30639477)",
+  "o": [
+   "Start BPaLM regimen for 6 months and follow up for immune reconstitution inflammatory syndrome (IRIS)",
+   "Start HEZ plus levofloxacin for 9 months and monitor for optic neuritis",
+   "Start HEZ plus linezolid for 9 months and monitor for hepatotoxicity",
+   "Start kanamycin-based MDR regimen for 20 months and continue ART without interruption"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3087",
+  "q": "A patient undergoing antitubercular therapy reports joint pain 10 days after initiation of treatment. Laboratory tests reveal normal AST and ALT levels, a serum creatinine of 0.9 mg/dL, and an elevated serum uric acid level of 10 mg/dL. What is the most appropriate next step in managing this patient's treatment? (Q-54340846)",
+  "o": [
+   "Stop pyrazinamide and continue the rest of the drugs with kidney function test (KFT) monitoring.",
+   "Add uric acid-lowering drugs and continue antitubercular therapy (ATT) as such with liver function test (LFT) and KFT monitoring.",
+   "Continue all drugs and monitor serum uric acid level as well as LFT and KFT.",
+   "Stop all ATT drugs until laboratory values return to normal."
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3223",
+  "q": "An 18-year-old boy from Rajasthan weighing 50 kg is diagnosed with mixed P. vivax and P. falciparum malaria. What is the appropriate treatment regimen on day 2? (Q-44133064)",
+  "o": [
+   "Artesunate 50 mg (4 tablets) + Primaquine 2.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Primaquine 7.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine 2.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine 7.5 mg (6 tablets)"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb3298",
+  "q": "Arrange the stages of spore formation (sporulation) in correct order: (Q-26891584)",
+  "o": [
+   "Axial filament formation   Septum formation   Asymmetric division   Engulfment   Cortex formation   Maturation and lysis",
+   "Engulfment   Cortex formation   Septum formation   Asymmetric division   Axial filament",
+   "Septum formation   Asymmetric division   Engulfment   Cortex formation   Maturation and lysis",
+   "Asymmetric division   Engulfment   Cortex formation   Septum formation   Axial filament"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3365",
+  "q": "A patient with HIV with a CD4 count of 250 cells/mm³ is newly diagnosed to have rifampicin resistance TB. Which of the following is the appropriate regimen, and what should be monitored? (Q-75258410)",
+  "o": [
+   "Isoniazid, Ethambutol, Steptomycin, Pyrazinamide for 9 months and optic neuritis",
+   "Bedaquiline, Pretomanid, Linezolid, and Moxifloxacin for 6 months and immune reconstitution syndrome",
+   "Isoniazid, Ethambutol, Levofloxacin, Pyrazinamde for 6 months and hepatotoxicity",
+   "Isoniazid, Ethambutol, Clarithromycin, Pyrazinamide for 12 months and pyridoxine deficiency"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb3366",
+  "q": "A 40-year-old man, newly diagnosed with HIV infection, presents with low-grade fever, productive cough, and weight loss. A chest X-ray reveals miliary nodules throughout both lung fields. Sputum GeneXpert reveals Mycobacterium tuberculosis with rifampicin resistance. He is not yet started on ART. His CD4 count is 110 cells/mm³. What is the most appropriate management? (Q-30639477)",
+  "o": [
+   "Start BPaLM regimen for 6 months and follow up for immune reconstitution inflammatory syndrome (IRIS)",
+   "Start HEZ plus levofloxacin for 9 months and monitor for optic neuritis",
+   "Start HEZ plus linezolid for 9 months and monitor for hepatotoxicity",
+   "Start kanamycin-based MDR regimen for 20 months and continue ART without interruption"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb3369",
+  "q": "A patient undergoing antitubercular therapy reports joint pain 10 days after initiation of treatment. Laboratory tests reveal normal AST and ALT levels, a serum creatinine of 0.9 mg/dL, and an elevated serum uric acid level of 10 mg/dL. What is the most appropriate next step in managing this patient's treatment? (Q-54340846)",
+  "o": [
+   "Stop pyrazinamide and continue the rest of the drugs with kidney function test (KFT) monitoring.",
+   "Add uric acid-lowering drugs and continue antitubercular therapy (ATT) as such with liver function test (LFT) and KFT monitoring.",
+   "Continue all drugs and monitor serum uric acid level as well as LFT and KFT.",
+   "Stop all ATT drugs until laboratory values return to normal."
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3444",
+  "q": "An 18-year-old boy from Rajasthan weighing 50 kg is diagnosed with mixed P. vivax and P. falciparum malaria. What is the appropriate treatment regimen on day 2? (Q-44133064)",
+  "o": [
+   "Artesunate 50 mg (4 tablets) + Primaquine 2.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Primaquine 7.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine 2.5 mg (6 tablets)",
+   "Artesunate 50 mg (4 tablets) + Sulfadoxine/pyrimethamine (750/37.5 mg) (2 tablets) + Primaquine 7.5 mg (6 tablets)"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb346",
+  "q": "In the labelled transverse section of the thorax at the level of the heart shown below, match each numbered structure (1–4) with the appropriate anatomical or clinical description: 1. Undergoes hypertrophy on pulmonary stenosis 2. Receives oxygenated blood 3. Arises from left ventricle 4. Lies to the right of ascending aorta (Q-18718823)",
+  "o": [
+   "1-Undergoes hypertrophy on pulmonary stenosis, 2-Receives oxygenated blood, 3-Arises from left ventricle, 4- Lies to the right of ascending aorta",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3-Arises from left ventricle, 4- Lies to the right of ascending aorta",
+   "1-Receives oxygenated blood, 2- Undergoes hypertrophy on pulmonary stenosis, 3- Lies to the right of ascending aorta, 4-Arises from left ventricle",
+   "1-Receives oxygenated blood, 2- Arises from left ventricle, 3- Lies to the right of ascending aorta, 4-Undergoes hypertrophy on pulmonary stenosis"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3617",
+  "q": "Match List I (Drugs) with List II (Primary mechanism of action) List I – Drugs: A. Ethosuximide, B. Levetiracetam, C. Lacosamide, D. Vigabatrin, E. Perampanel. List II – Mechanism: 1.Inhibition of synaptic vesicle protein involved in neurotransmitter release 2.Irreversible inhibition of GABA transaminase 3.Blockade of slow inactivation of voltage-gated sodium channels 4.Non-competitive AMPA receptor antagonism 5.Blockade of thalamic pacemaker currents Choose the correct matching: (Q-64542369)",
+  "o": [
+   "A-5, B-1, C-3, D-2, E-4",
+   "A-3, B-1, C-5, D-2, E-4",
+   "A-5, B-3, C-1, D-2, E-4",
+   "A-1, B-5, C-3, D-4, E-2"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3709",
+  "q": "Hormone replacement therapy ( HRT ) should be prescribed to which of the following patients? (Q-27396271)",
+  "o": [
+   "A 35-year-old woman who has undergone Total abdominal hysterectomy with bilateral salpingo-oophorectomy ( TAH + BSO )",
+   "A 9-year-old girl who has Turner syndrome",
+   "A 47-year-old woman with hot flushes and history of breast cancer",
+   "A 60-year-old woman with a history of ischemic heart disease"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb3739",
+  "q": "In which of the following patients is a karyotype most likely required? (Q-19934594)",
+  "o": [
+   "20-year-old with amenorrhea and hirsutism",
+   "18-year-old with amenorrhea and an elevated prolactin level",
+   "16-year-old with amenorrhea with normal secondary sexual characters and no mullerian structures on sonography",
+   "16-year-old with amenorrhea with normal secondary sexual characters and uterus seen on imaging"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb3880",
+  "q": "A 28-year-old G5L4 with all 4-girl children presents at 18 weeks and asks for the sex of the child on ultrasound. This is her first antenatal visit. What should be done? (Q-87012106)",
+  "o": [
+   "Do ultrasound for gestational age, check for abnormalities, check sex, and tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, check sex but don’t tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, don’t check the sex or reveal to the mother",
+   "Don’t do ultrasound, do ANC only"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb3917",
+  "q": "Which of the following statement is not true regarding lupus nephritis in pregnancy? (Q-51898072)",
+  "o": [
+   "Immunosuppression can be continued during pregnancy",
+   "Pregnancy to be planned once the disease has been quiescent for at least 6 months and there is no evidence of renal dysfunction",
+   "High-dose corticosteroids used for lupus flare during pregnancy are safe",
+   "Ecospirin, methotrexate, cyclophosphamide, corticosteroids, and azathioprine are safe in pregnancy"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb3994",
+  "q": "All of the following statements are true except: (Q-90876063)",
+  "o": [
+   "The shortest anteroposterior ( AP ) diameter of the pelvic inlet is the obstetric conjugate",
+   "The diagonal conjugate is measured from tip of the sacral promontory to the lower margin of the pubic symphysis",
+   "The obstetric conjugate is calculated by subtracting 1.5 cm from the diagonal conjugate",
+   "A contracted pelvis is defined as a transverse diameter <10cm and an AP diameter <12cm"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb4013",
+  "q": "All of the following are true except: (Q-55659609)",
+  "o": [
+   "The cardinal movements in the mechanism of labor are Engagement -> Crowning -> Flexion -> Restitution -> Internal rotation",
+   "COCPS have no role in protection against HIV and STDs",
+   "Warning bleeds are a feature of placenta previa",
+   "An upper segment cesarean section is done in case of perimortem cesarean section if there is no return of spontaneous circulation in 5 minutes in a pregnant woman who has experienced total cardiopulmonary arrest"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb4196",
+  "q": "A 28-year-old G5L4 with all 4-girl children presents at 18 weeks and asks for the sex of the child on ultrasound. This is her first antenatal visit. What should be done? (Q-87012106)",
+  "o": [
+   "Do ultrasound for gestational age, check for abnormalities, check sex, and tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, check sex but don’t tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, don’t check the sex or reveal to the mother",
+   "Don’t do ultrasound, do ANC only"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb4328",
+  "q": "Which of these statements is true regarding perimetry? (Q-80618189)",
+  "o": [
+   "Kinetic perimetry is used in quantification and tracking of visual changes in established glaucoma",
+   "In Static perimetry, stimulus intensity is held constant and moved centrally with detection",
+   "Visual field defect to be classified as glaucoma, it should have the corresponding optic nerve head abnormalities",
+   "Early signs include generalised constriction of isopters and barring of blind spot"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb4377",
+  "q": "Arrange the following layers of the retina in the correct order from the outermost to the innermost layer. (Q-45890247)",
+  "o": [
+   "1 – Retinal Pigment Epithelium, 2 – Outer Nuclear Layer, 3 – Inner Plexiform Layer, 4 – Ganglion Cell Layer",
+   "1 – Outer Nuclear Layer, 2 – Retinal Pigment Epithelium, 3 – Ganglion Cell Layer, 4 – Inner Plexiform Layer",
+   "1 – Ganglion Cell Layer, 2 – Inner Plexiform Layer, 3 – Retinal Pigment Epithelium, 4 – Outer Nuclear Layer",
+   "1 – Retinal Pigment Epithelium, 2 – Inner Plexiform Layer, 3 – Outer Nuclear Layer, 4 – Ganglion Cell Layer"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb440",
+  "q": "A 48-year-old male with a history of severe obstructive sleep apnea (OSA) and a body mass index (BMI) of 45 presents for an emergency exploratory laparoscopy for an incarcerated inguinal hernia. He undergoes an uncomplicated induction and placement of an oral endotracheal tube via video laryngoscopy. The ideal volatile anesthetic for maintenance would be? (Q-69004498)",
+  "o": [
+   "The most lipophilic volatile agent",
+   "The least soluble volatile anesthetic",
+   "A volatile anesthetic with analgesic properties should be used to limit the amount of opioids required",
+   "A highly metabolized volatile anesthetic"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb4525",
+  "q": "Arrange the following layers of the retina in the correct order from the outermost to the innermost layer. (Q-45890247)",
+  "o": [
+   "1 – Retinal Pigment Epithelium, 2 – Outer Nuclear Layer, 3 – Inner Plexiform Layer, 4 – Ganglion Cell Layer",
+   "1 – Outer Nuclear Layer, 2 – Retinal Pigment Epithelium, 3 – Ganglion Cell Layer, 4 – Inner Plexiform Layer",
+   "1 – Ganglion Cell Layer, 2 – Inner Plexiform Layer, 3 – Retinal Pigment Epithelium, 4 – Outer Nuclear Layer",
+   "1 – Retinal Pigment Epithelium, 2 – Inner Plexiform Layer, 3 – Outer Nuclear Layer, 4 – Ganglion Cell Layer"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb4579",
+  "q": "A 32-year-old man presents with history of trauma to the right forearm after a road traffic accident 3 months ago. He now complains of difficulty in extending his wrist and fingers, along with numbness over the dorsal aspect of his hand. On examination, there is wrist drop, inability to extend the fingers and thumb at the metacarpophalangeal joint, and loss of sensation over the first dorsal web space. There is no weakness of elbow extension. Electromyography confirms a nerve injury at the mid-shaft of the humerus.Which of the following best describes the level and type of nerve injury, and which muscles are spared? (Q-82497675)",
+  "o": [
+   "Injury to the radial nerve in the radial groove (mid-humerus); triceps is spared; brachioradialis is affected",
+   "Injury to the posterior interosseous nerve; all extensors of wrist and fingers affected; sensory loss present",
+   "Injury to the radial nerve above the spiral groove; all posterior compartment muscles and skin affected",
+   "Injury to the median nerve at the elbow; thenar muscles affected; sensation over the dorsal hand intact"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb4685",
+  "q": "A 75-year-old woman presents to the clinic after a fall. She complains of right hip and thigh pain. Examination reveals that her right leg is shorter than her left and externally rotated. Which of the following pathological changes is most likely to be present in this patient? (Q-85815495)",
+  "o": [
+   "Cortical bone overgrowth and sclerosis due to defective osteoclasts",
+   "Impaired mineralization of osteoid and hyperactive osteoblasts",
+   "Decreased cortical and trabecular bone mass with normal bone mineralization",
+   "Woven and lamellar bone mosaic pattern due to increased osteoclast and osteoblast activity resulting in bone of low quality"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb4848",
+  "q": "A 10-month-old infant presents to the OPD with a 3-day history of lower respiratory tract symptoms accompanied by expiratory wheezing. A chest X-ray is shown below. Which of the following statements is incorrect regarding this condition? (Q-41144047)",
+  "o": [
+   "The mainstay of treatment is antibiotics",
+   "The risk increases in infants born to young mothers or those exposed to maternal smoking during pregnancy",
+   "There is a greater risk of asthma",
+   "Breastfeeding is protective"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb4940",
+  "q": "∆F508 mutation has a functional defect on the CFTR channel. It leads to: (Q-83840329)",
+  "o": [
+   "Defective regulation: CFTR not activated by adenosine triphosphate or cyclic adenosine monophosphate",
+   "Lack of protein production",
+   "Reduced chloride transport through CFTR at the apical membrane",
+   "Defect in protein trafficking with ubiquitination and degradation in the endoplasmic reticulum/Golgi body"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb5151",
+  "q": "In a cohort study investigating the link between heavy smoking and bronchogenic carcinoma, the incidence among smokers was found to be 10 per 1,000 person-years, while the incidence among non-smokers was 1 per 1,000 person-years. Which of the following cannot be concluded based on the information provided above? (Q-75511722)",
+  "o": [
+   "If smoking were eliminated from the entire population, the incidence of bronchogenic carcinoma would fall by 90%",
+   "For every 10 cases of carcinoma among smokers, 9 are due to their habit of smoking.",
+   "Smokers are 10 times as likely to get cancer as non-smokers.",
+   "10% of the cases among smokers can be attributed to baseline risk factors that also affect non-smokers"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb5168",
+  "q": "Which of the following statements is TRUE regarding prevention of Zika virus infection? (Q-45785520)",
+  "o": [
+   "Early administration of NSAIDs reduces viremia and prevents complications",
+   "Consistent condom uses and avoidance of pregnancy during periods of active transmission are recommended",
+   "Routine immunization with a licensed live-attenuated Zika vaccine is effective in endemic regions",
+   "Plasmapheresis is indicated to prevent neurological complications of Zika virus infection"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb517",
+  "q": "While walking on the street, you find an unresponsive child. After confirming that the child is not breathing, what is the next best course of action? (Q-18151912)",
+  "o": [
+   "Deliver rescue breaths, as most pediatric cardiac arrests are secondary to breathing problems",
+   "Begin back blows and chest thrusts",
+   "Deliver 30 chest compressions followed by 2 rescue breaths for 2 minutes, then leave the child to call for help",
+   "Leave the child immediately to search for an AED"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb5185",
+  "q": "Researchers conduct a randomized controlled trial to evaluate the effect of a new exercise program versus standard lifestyle advice on lowering systolic blood pressure (SBP) in adults with prehypertension. A total of 200 participants are randomized equally between the two groups. After 6 months, the mean decrease in SBP is –6 mm Hg greater in the exercise group compared to the control group. The analysis yields a p-value of 0.02 (predetermined significance level = 0.05). Which of the following is the most accurate interpretation of this result? (Q-55667852)",
+  "o": [
+   "The probability that the null hypothesis (no difference in SBP) is true is 2%",
+   "The probability of obtaining these results by chance if the null hypothesis is true is 2%",
+   "There is a 2% chance that any individual in the exercise group will experience at least a 6 mm Hg decrease in SBP",
+   "There is a 2% chance that the mean SBP reduction is biased in favor of the exercise group"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb5230",
+  "q": "A study was conducted to assess the association between air pollution and asthma. The p-value obtained was 0.03. Which of the following is the most appropriate inference? (Q-71781243)",
+  "o": [
+   "There is a 3% probability that the observed association is due to random chance, assuming the null hypothesis is true",
+   "There is a 97% probability that pollution causes asthma",
+   "The null hypothesis is accepted because p-value is greater than 0.01",
+   "There is a 95% probability that the alternative hypothesis is false"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb5258",
+  "q": "A 2-year-old undergoing chemotherapy for leukemia presents for vaccination counselling. Which of the following statements regarding live vaccines is accurate for this patient? (Q-75438941)",
+  "o": [
+   "Live vaccines are contraindicated even after chemotherapy is completed.",
+   "Live vaccines can be safely administered during chemotherapy as long as the patient is afebrile.",
+   "Live vaccines are contraindicated in immunocompromised states, but household contacts can safely receive them.",
+   "Live vaccines are contraindicated in leukemia patients only if they are in remission."
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb5318",
+  "q": "In the Maha Kumbh mela, what was the primary purpose of Mobile medical vans having multiple surveillance units for fever, diarrhoea and respiratory illnesses? (Q-87175552)",
+  "o": [
+   "To reduce number of health workers and professionals",
+   "For immediate quarantine measures of symptomatic individuals",
+   "For treatment only",
+   "To diagnose with lab tests and give potential warning for early outbreaks of fever, diarrhoea, respiratory infections"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb5329",
+  "q": "All of the following are true except: (Q-84298418)",
+  "o": [
+   "Codex Alimentarius is the principal organ of the FAO/WHO food standards program",
+   "Vanaspati is fortified with 2500 IU of vitamin A and 175 IU of vitamin D per 100grams.",
+   "Methylene blue reduction test is the best test for efficacy of pasteurisation",
+   "Sudden onset of hypersecretory glaucoma, diarrhea, and cardiac failure is seen due to sanguinarine toxicity"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb5383",
+  "q": "Which of the following is the challenge faced in the operationalization of the concept of Universal Health Coverage (UHC)? (Q-24764301)",
+  "o": [
+   "Universal Health Coverage aims to provide free health care services to all, regardless of the available resources in the country",
+   "Universal Health Coverage aims to provide services despite having unregulated and fragmented healthcare delivery systems",
+   "Universal Health Coverage prioritizes the safety of resources in a low-resource setting",
+   "Universal Health Coverage targets primary health care delivery based on the needs of the population"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb5403",
+  "q": "Identify the incorrect statement: (Q-24794590)",
+  "o": [
+   "Rideal-Walker Coefficient (RWC) is used to represent the germicidal power of a disinfectant.",
+   "For workrooms with exposure to contaminants, the minimum recommended number of air changes per hour is 4-6 to maintain air quality and protect worker health.",
+   "Demographic trap is seen in Stage 2 of demographic cycle.",
+   "Nodal Ministry for Disaster Management is ministry of Health and Family Welfare"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb5490",
+  "q": "Which of the following statements is TRUE regarding prevention of Zika virus infection? (Q-45785520)",
+  "o": [
+   "Early administration of NSAIDs reduces viremia and prevents complications",
+   "Consistent condom uses and avoidance of pregnancy during periods of active transmission are recommended",
+   "Routine immunization with a licensed live-attenuated Zika vaccine is effective in endemic regions",
+   "Plasmapheresis is indicated to prevent neurological complications of Zika virus infection"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb5568",
+  "q": "In the Maha Kumbh mela, what was the primary purpose of Mobile medical vans having multiple surveillance units for fever, diarrhoea and respiratory illnesses? (Q-87175552)",
+  "o": [
+   "To reduce number of health workers and professionals",
+   "For immediate quarantine measures of symptomatic individuals",
+   "For treatment only",
+   "To diagnose with lab tests and give potential warning for early outbreaks of fever, diarrhoea, respiratory infections"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb5602",
+  "q": "Which of the following is the challenge faced in the operationalization of the concept of Universal Health Coverage (UHC)? (Q-24764301)",
+  "o": [
+   "Universal Health Coverage aims to provide free health care services to all, regardless of the available resources in the country",
+   "Universal Health Coverage aims to provide services despite having unregulated and fragmented healthcare delivery systems",
+   "Universal Health Coverage prioritizes the safety of resources in a low-resource setting",
+   "Universal Health Coverage targets primary health care delivery based on the needs of the population"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb5736",
+  "q": "A 5-year-old boy is brought to the OPD by his parents for a well-child visit. His mother says, \"My son is doing very well. He is able to read at a first-grade level and knows his name and address. He loves to sing, dance, and play house with his older sisters. I think you should know that my son is playing with his sister's dolls and doesn't seem to like cars or trucks like most other boys. Is that normal?\" Which of the following is the most appropriate response to the father's concerns? (Q-38072749)",
+  "o": [
+   "\"I hear your concern; let me reassure you that many boys play with dolls as a normal part of exploring the world.\"",
+   "\"I understand your concern; it may help to have him play with male friends and spend more time with you.",
+   "\"It is helpful that you brought this up. Your son may have gender dysphoria and need additional support and assessment.\"",
+   "\"There is no need to worry; children don't fully develop gender identity until adolescence.\""
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb583",
+  "q": "2,3 BPG causes unloading of oxygen to tissues because: (Q-25814192)",
+  "o": [
+   "It decreases ATP production and hence breaks the links between globin chains",
+   "It increases ATP production",
+   "Binds to the central cavity of hemoglobin surrounded by histidine and lysine and favours salt bridge formation",
+   "Inhibits Taut structure formation"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb6041",
+  "q": "Goldblatt hypertension is best explained by which of the following mechanisms? (Q-94204355)",
+  "o": [
+   "Increased sodium retention due to primary hyperaldosteronism",
+   "Renal artery stenosis causing increased renin release and activation of the renin–angiotensin–aldosterone system",
+   "Decreased renal perfusion causing pressure natriuresis",
+   "Increased sympathetic discharge due to baroreceptor dysfunction"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb6323",
+  "q": "A 43-year-old male presented with right-sided rib pain and shortness of breath. Chest X-ray showed a significant right-sided pneumothorax with cardio-mediastinal shift to the left. Which of the following changes will be seen? (Q-38957260)",
+  "o": [
+   "Increased lung volume, Increased thoracic volume",
+   "Decreased lung volume, Increased thoracic volume",
+   "Decreased lung volume, thoracic volume remains unaffected",
+   "Lung volume remains unaffected, Decreased thoracic volume"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb6378",
+  "q": "All of the following statements are true regarding overlap syndrome / mixed connective tissue disease (MCTD) except: (Q-96576056)",
+  "o": [
+   "Patients have overlapping clinical features of systemic lupus erythematosus, systemic sclerosis, and polymyositis",
+   "Both antinuclear antibodies (ANA) and rheumatoid factor (RF) are commonly positive",
+   "Presence of anti-U1 ribonucleoprotein (RNP) antibodies is specific for MCTD",
+   "Prognosis is worse compared to individual connective tissue disorders"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb639",
+  "q": "Which of the following statements correctly differentiates liver glycogen phosphorylase (LGP) and muscle glycogen phosphorylase (MGP)? (Q-42427285)",
+  "o": [
+   "LGP is activated by glucagon, while MGP is activated by epinephrine.",
+   "LGP releases glucose-6-phosphate into the bloodstream, while MGP releases free glucose into the muscle.",
+   "LGP activity is regulated by AMP, while MGP is regulated by glucagon and epinephrine.",
+   "MGP is highly active during fasting compared to LGP."
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb6571",
+  "q": "A 32 year old woman underwent total thyroidectomy with central neck dissection for papillary thyroid cancer. On post op day 2, she presents with a breathy voice but no stridor. Laryngoscopy shows unilateral incomplete abduction of vocal cords and is in paramedian position. Her serum calcium levels are normal. Which of the following is the next best step? (Q-48720786)",
+  "o": [
+   "Medialisation of the affected vocal cords within 24-48 hours.",
+   "Urgent wound re exploration to relieve a suspected deep cervical hematoma that is causing RLN compression..",
+   "Voice rest for 4 weeks and repeat laryngoscopy.",
+   "Immediate CT scan of neck and mediastinum to rule out recurrent tumor encasing the RLN."
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb6608",
+  "q": "Which of the following statements are true? (Q-18018772)",
+  "o": [
+   "Lymphoedema in the arm after treatment usually indicates a recurrence.",
+   "Radiotherapy after implant reconstruction of the breast gives a good cosmetic result.",
+   "Male breast cancer carries a poor prognosis when compared with female breast cancer stage by stage.",
+   "Chemotherapy is safe in second and third trimester in women with pregnancy associated breast cancer."
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb6623",
+  "q": "A 43-year-old man is being evaluated for suspected lymphoma-related obstruction of the lymphatic system. The radiology team plans to perform pedal lymphangiography. Which of the following best describes how this procedure is performed? (Q-20788289)",
+  "o": [
+   "The lymphatic channels on the dorsum of the foot are cannulated after injecting a blue dye, and an oily contrast agent is slowly infused to opacify the lymphatic system.",
+   "A peripheral intravenous line is placed in the dorsal venous arch and water-soluble contrast is rapidly injected to visualize lymphatics under fluoroscopy.",
+   "A CT-guided direct puncture of para-aortic lymph nodes is performed and contrast medium is infused retrogradely.",
+   "A radionuclide-labeled tracer is injected subcutaneously and lymphatic drainage is evaluated with a gamma camera."
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb6782",
+  "q": "A 50 year old man presents with slow growing parotid mass for 8 months. The patient recently starts having difficulty closing the left eye. FNAC shows pleomorphic adenoma with atypia. Which of the following is the best treatment for this extent of tumor? (Q-73758920)",
+  "o": [
+   "Superficial parotidectomy with resection of facial nerve and immediate cable grafting.",
+   "Total parotidectomy with resection of facial nerve and immediate cable grafting.",
+   "Radiotherapy done as there is no use of surgical intervention due to the widespread tumor extension.",
+   "Total conservation parotidectomy preserving the facial nerve as it may regenerate and become functional again after a few days of rest."
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb6783",
+  "q": "A 40 year old male underwent superficial parotidectomy 3 months ago and now presents with symptoms like intermittent flushing, warmth and sweating over the preauricular malar region. The surgeons decide to go ahead with the test shown in the image. Which of the following statement regarding the image is false? (Q-38128360)",
+  "o": [
+   "Jacobson’s tympanic neurectomy can be performed.",
+   "It results from aberrant regeneration of post ganglionic parasympathetic fibers onto cutaneous sweat glands through auriculotemporal nerve.",
+   "Botulinum toxin injection is considered effective because it blocks muscarinic parasympathetic receptors on eccrine gland.",
+   "Long standing or severe cases can be treated with interposing a fascia or muscle flap during revision surgery to prevent cross innervation."
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb6810",
+  "q": "A 38-year-old man with BMI 52 kg/m², uncontrolled type 2 diabetes and severe obstructive sleep apnea seeks bariatric surgery with maximum weight loss and improvement in metabolic profile. The surgeon plans the procedure with a short common channel of about 50 cm shown in the figure. Which of the following statements is most accurate regarding this operation? (Q-38503871)",
+  "o": [
+   "It is primarily restrictive with minimal malabsorption and carries the lowest risk of nutritional deficiency",
+   "It is biliopancreatic diversion and is associated with significant fat-soluble vitamin deficiency if supplementation is poor",
+   "It is Roux-en-Y gastric bypass and is contraindicated when BMI >50 kg/m²",
+   "It is single-anastomosis duodeno-ileal bypass (SADI-S) and routinely preserves the entire gastric volume."
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb708",
+  "q": "Which of the following is true about Hemochromatosis? (Q-89204463)",
+  "o": [
+   "The mRNA for Transferrin receptor is stabilised by binding of IRP to 3’ stem-loop structures known as IRE.",
+   "The mRNA for the Transferrin receptor is not bound by IRP and is rapidly degraded.",
+   "The mRNA for apoferritin is not bound by IRP at 5’ stem loop IRE and is rapidly degraded.",
+   "The mRNA for apoferritin is bound by IRP and is not translated."
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb73",
+  "q": "An 8 year old child presents to the pediatric clinic with recurrent ear infections and complaints of ear pain, especially after upper respiratory infections. What is the most likely reason for this child's increased susceptibility to ear infections? (Q-19974228)",
+  "o": [
+   "The Eustachian tube's shorter length allows for quicker drainage of secretions from the middle ear.",
+   "The more horizontal orientation of the Eustachian tube in children impairs proper ventilation and drainage of the middle ear.",
+   "The Eustachian tube opens more frequently during normal activities in children, causing increased exposure to environmental allergens.",
+   "The Eustachian tube is typically narrow in children, which facilitates the entry of pathogens from the nasopharynx."
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb997",
+  "q": "A 54-year-old man with a history of hypertension presents with shortness of breath and palpitations. On examination, he has an irregularly irregular pulse with bilateral basal crackles. An ECG shows a ventricular response of 110/min. Which of the following statements is incorrect? (Q-86675037)",
+  "o": [
+   "IV Digoxin can be used for ventricular rate control.",
+   "Direct oral anticoagulants to be given.",
+   "Cardioversion should be done in hemodynamically unstable patients.",
+   "Beta blockers are given if the patient has decompensated heart failure and intolerant to calcium channel blockers."
+  ],
+  "a": 3
+ }
+]

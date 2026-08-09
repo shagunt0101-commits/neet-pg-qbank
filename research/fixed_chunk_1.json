@@ -1,0 +1,90 @@
+[
+ {
+  "qid": "cb23",
+  "q": "A 62-year-old man presents with persistent headaches that change location depending on intracranial irritation. MRI shows localized pachymeningitis affecting different cranial fossae at different times. The neurologist explains that each cranial fossa has a different primary sensory innervation of the dura, which helps explain the variation in referred pain patterns. Which combination correctly identifies the major nerve distribution to the dura mater in the three cranial fossae? (Q-31665698)",
+  "o": [
+   "Anterior cranial fossa – V2; Middle cranial fossa – C1–C3; Posterior cranial fossa – V1",
+   "Anterior cranial fossa – V3; Middle cranial fossa – V1; Posterior cranial fossa – C1–C3",
+   "Anterior cranial fossa – V1; Middle cranial fossa – V3 (meningeal branches); Posterior cranial fossa – C1–C3",
+   "Anterior cranial fossa – V2; Middle cranial fossa – V3 via auriculotemporal nerve only; Posterior cranial fossa – V1"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb639",
+  "q": "Which of the following statements correctly differentiates liver glycogen phosphorylase (LGP) and muscle glycogen phosphorylase (MGP)? (Q-42427285)",
+  "o": [
+   "LGP is activated by glucagon, while MGP is activated by epinephrine.",
+   "LGP releases glucose-6-phosphate into the bloodstream, while MGP releases free glucose into the muscle.",
+   "LGP activity is regulated by AMP, while MGP is regulated by glucagon and epinephrine.",
+   "MGP is highly active during fasting compared to LGP."
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb1900",
+  "q": "A 20-year-old male patient presents with unilateral nasal obstruction and recurrent bleeding for the past 1 year. Transnasal endoscopic results are shown below. A contrast-enhanced CT revealed a mass extending from the posterior choana to the nasopharynx. What is the most likely diagnosis? (Q-25369504)",
+  "o": [
+   "Nasopharyngeal angiofibroma",
+   "Antrochoanal polyp",
+   "Rhinoscleroma",
+   "Concha bullosa"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb2563",
+  "q": "A 52-year-old man presents with chronic diarrhea, weight loss, migratory arthralgia, and intermittent fever. He also has hyperpigmentation and generalized lymphadenopathy. Duodenal biopsy is performed. Which of the following statements regarding Whipple disease are CORRECT? A. It is caused by Tropheryma whipplei B. Duodenal biopsy shows PAS-positive macrophages in the submucosa C. Migratory polyarthritis often precedes gastrointestinal manifestations D. The organism is acid-fast positive on staining E. Long-term antibiotic therapy is required for definitive treatment F. Causes disturbance in lymphatic transport of absorbed lipids (Q-79875454)",
+  "o": [
+   "A,B,C,D",
+   "A,B,C,D,E,F",
+   "A,B,D,E",
+   "A,C,E,F"
+  ],
+  "a": 3
+ },
+ {
+  "qid": "cb3366",
+  "q": "A 40-year-old man, newly diagnosed with HIV infection, presents with low-grade fever, productive cough, and weight loss. A chest X-ray reveals miliary nodules throughout both lung fields. Sputum GeneXpert reveals Mycobacterium tuberculosis with rifampicin resistance. He is not yet started on ART. His CD4 count is 110 cells/mm³. What is the most appropriate management? (Q-30639477)",
+  "o": [
+   "Start BPaLM regimen for 6 months and follow up for immune reconstitution inflammatory syndrome (IRIS)",
+   "Start HEZ plus levofloxacin for 9 months and monitor for optic neuritis",
+   "Start HEZ plus linezolid for 9 months and monitor for hepatotoxicity",
+   "Start kanamycin-based MDR regimen for 20 months and continue ART without interruption"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb4196",
+  "q": "A 28-year-old G5L4 with all 4-girl children presents at 18 weeks and asks for the sex of the child on ultrasound. This is her first antenatal visit. What should be done? (Q-87012106)",
+  "o": [
+   "Do ultrasound for gestational age, check for abnormalities, check sex, and tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, check sex but don’t tell the mother",
+   "Do ultrasound for gestational age, check for abnormalities, don’t check the sex or reveal to the mother",
+   "Don’t do ultrasound, do ANC only"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb5185",
+  "q": "Researchers conduct a randomized controlled trial to evaluate the effect of a new exercise program versus standard lifestyle advice on lowering systolic blood pressure (SBP) in adults with prehypertension. A total of 200 participants are randomized equally between the two groups. After 6 months, the mean decrease in SBP is –6 mm Hg greater in the exercise group compared to the control group. The analysis yields a p-value of 0.02 (predetermined significance level = 0.05). Which of the following is the most accurate interpretation of this result? (Q-55667852)",
+  "o": [
+   "The probability that the null hypothesis (no difference in SBP) is true is 2%",
+   "The probability of obtaining these results by chance if the null hypothesis is true is 2%",
+   "There is a 2% chance that any individual in the exercise group will experience at least a 6 mm Hg decrease in SBP",
+   "There is a 2% chance that the mean SBP reduction is biased in favor of the exercise group"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb5736",
+  "q": "A 5-year-old boy is brought to the OPD by his parents for a well-child visit. His mother says, \"My son is doing very well. He is able to read at a first-grade level and knows his name and address. He loves to sing, dance, and play house with his older sisters. I think you should know that my son is playing with his sister's dolls and doesn't seem to like cars or trucks like most other boys. Is that normal?\" Which of the following is the most appropriate response to the father's concerns? (Q-38072749)",
+  "o": [
+   "\"I hear your concern; let me reassure you that many boys play with dolls as a normal part of exploring the world.\"",
+   "\"I understand your concern; it may help to have him play with male friends and spend more time with you.",
+   "\"It is helpful that you brought this up. Your son may have gender dysphoria and need additional support and assessment.\"",
+   "\"There is no need to worry; children don't fully develop gender identity until adolescence.\""
+  ],
+  "a": 0
+ }
+]

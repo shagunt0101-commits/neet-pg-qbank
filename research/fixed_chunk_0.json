@@ -1,0 +1,101 @@
+[
+ {
+  "qid": "cb22",
+  "q": "A 55-year-old man develops intracranial meningeal bleeding secondary to skull base osteomyelitis. Different regions of the dura mater are involved, and angiography shows distinct arterial sources depending on the cranial fossa involved. Which combination best identifies the major arterial supply to the dura mater in the three cranial fossae? (Q-43450772)",
+  "o": [
+   "Anterior cranial fossa – Middle meningeal artery; Middle cranial fossa – Ascending pharyngeal artery; Posterior cranial fossa – Ophthalmic artery",
+   "Anterior cranial fossa – Ethmoidal arteries; Middle cranial fossa – Middle meningeal artery; Posterior cranial fossa – Meningeal branches of vertebral & occipital arteries",
+   "Anterior cranial fossa – Ascending pharyngeal artery; Middle cranial fossa – Ophthalmic artery; Posterior cranial fossa – Middle meningeal artery",
+   "Anterior cranial fossa – Deep temporal artery; Middle cranial fossa – Ascending palatine artery; Posterior cranial fossa – Maxillary artery"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb583",
+  "q": "2,3 BPG causes unloading of oxygen to tissues because: (Q-25814192)",
+  "o": [
+   "It decreases ATP production and hence breaks the links between globin chains",
+   "It increases ATP production",
+   "Binds to the central cavity of hemoglobin surrounded by histidine and lysine and favours salt bridge formation",
+   "Inhibits Taut structure formation"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb1795",
+  "q": "Which of the following statements about the venous drainage of the nose is false? (Q-12382317)",
+  "o": [
+   "The venous networks parallel the arterial supply in their distribution",
+   "The fronto-median area drains to the facial vein, while the orbito-palpebral area drains to the ophthalmic vein",
+   "The facial vein originates as the angular vein, which is formed by the confluence of the supratrochlear and supraorbital veins",
+   "Infections in the upper lip and nose can potentially spread to the cavernous sinus due to a valveless venous connection"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb2427",
+  "q": "A 29-year-old male diagnosed with schizophrenia has been stable on risperidone for the past few months. Recently, he began experiencing dystonia, for which he was started on benztropine 2 mg twice daily by his psychiatrist. A week later, he presents to the emergency department with complaints of dry mouth, blurred vision, confusion and urinary retention. On examination, he is disoriented, tachycardic, and febrile. Pupils are dilated and bowel sounds are absent. Which of the following is the most appropriate next step in the management of this patient? (Q-84096521)",
+  "o": [
+   "Discontinue risperidone and initiate lorazepam for possible neuroleptic malignant syndrome (NMS)",
+   "Administer intravenous dantrolene and initiate cooling measures for suspected serotonin syndrome",
+   "Start physostigmine with continuous cardiac monitoring for anticholinergic toxicity due to benztropine overdose",
+   "Administer activated charcoal and IV fluids; observe the patient as symptoms are likely self-limiting"
+  ],
+  "a": 2
+ },
+ {
+  "qid": "cb3365",
+  "q": "A patient with HIV with a CD4 count of 250 cells/mm³ is newly diagnosed to have rifampicin resistance TB. Which of the following is the appropriate regimen, and what should be monitored? (Q-75258410)",
+  "o": [
+   "Isoniazid, Ethambutol, Steptomycin, Pyrazinamide for 9 months and optic neuritis",
+   "Bedaquiline, Pretomanid, Linezolid, and Moxifloxacin for 6 months and immune reconstitution syndrome",
+   "Isoniazid, Ethambutol, Levofloxacin, Pyrazinamde for 6 months and hepatotoxicity",
+   "Isoniazid, Ethambutol, Clarithromycin, Pyrazinamide for 12 months and pyridoxine deficiency"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb4013",
+  "q": "All of the following are true except: (Q-55659609)",
+  "o": [
+   "The cardinal movements in the mechanism of labor are Engagement -> Crowning -> Flexion -> Restitution -> Internal rotation",
+   "COCPS have no role in protection against HIV and STDs",
+   "Warning bleeds are a feature of placenta previa",
+   "An upper segment cesarean section is done in case of perimortem cesarean section if there is no return of spontaneous circulation in 5 minutes in a pregnant woman who has experienced total cardiopulmonary arrest"
+  ],
+  "a": 0
+ },
+ {
+  "qid": "cb5168",
+  "q": "Which of the following statements is TRUE regarding prevention of Zika virus infection? (Q-45785520)",
+  "o": [
+   "Early administration of NSAIDs reduces viremia and prevents complications",
+   "Consistent condom uses and avoidance of pregnancy during periods of active transmission are recommended",
+   "Routine immunization with a licensed live-attenuated Zika vaccine is effective in endemic regions",
+   "Plasmapheresis is indicated to prevent neurological complications of Zika virus infection"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb5602",
+  "q": "Which of the following is the challenge faced in the operationalization of the concept of Universal Health Coverage (UHC)? (Q-24764301)",
+  "o": [
+   "Universal Health Coverage aims to provide free health care services to all, regardless of the available resources in the country",
+   "Universal Health Coverage aims to provide services despite having unregulated and fragmented healthcare delivery systems",
+   "Universal Health Coverage prioritizes the safety of resources in a low-resource setting",
+   "Universal Health Coverage targets primary health care delivery based on the needs of the population"
+  ],
+  "a": 1
+ },
+ {
+  "qid": "cb6810",
+  "q": "A 38-year-old man with BMI 52 kg/m², uncontrolled type 2 diabetes and severe obstructive sleep apnea seeks bariatric surgery with maximum weight loss and improvement in metabolic profile. The surgeon plans the procedure with a short common channel of about 50 cm shown in the figure. Which of the following statements is most accurate regarding this operation? (Q-38503871)",
+  "o": [
+   "It is primarily restrictive with minimal malabsorption and carries the lowest risk of nutritional deficiency",
+   "It is biliopancreatic diversion and is associated with significant fat-soluble vitamin deficiency if supplementation is poor",
+   "It is Roux-en-Y gastric bypass and is contraindicated when BMI >50 kg/m²",
+   "It is single-anastomosis duodeno-ileal bypass (SADI-S) and routinely preserves the entire gastric volume."
+  ],
+  "a": 1
+ }
+]
