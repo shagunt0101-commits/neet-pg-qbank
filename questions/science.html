@@ -527,7 +527,8 @@ function syncUI() {
   if (!st || !body) return;
   if (!SYNC.init || !SYNC.f) { st.innerHTML = 'Sync disabled \u2014 Firebase not configured.'; body.innerHTML = ''; return; }
   if (SYNC.user) {
-    st.innerHTML = 'Signed in as <b>' + SYNC.user.email + '</b> \u2014 progress auto-syncs across devices.';
+    st.innerHTML = 'Signed in as <b>' + SYNC.user.email + '</b></b> \u2014 progress auto-syncs across devices.';
+    syncCounts();
     body.innerHTML = '<div class="fit-row"><button class="btn secondary" id="accLogout">Sign out</button></div>' +
       '<div class="fit-row"><button class="btn" id="accSyncPush">Push to cloud</button><button class="btn secondary" id="accSyncPull">Pull from cloud</button></div>' +
       '<div class="score-note" id="accSyncStatus" style="margin-top:10px"></div>' +
@@ -602,6 +603,7 @@ function syncNow() {
   if (!SYNC.user) { alert('Sign in first.'); return; }
   doPush();
   syncStatus('Pushed local progress to cloud.');
+  setTimeout(syncCounts, 2500);
 }
 function syncPullNow() {
   if (!SYNC.user) { alert('Sign in first.'); return; }
@@ -611,11 +613,25 @@ function syncPullNow() {
     if (!dd) { syncStatus('Cloud doc empty — nothing to pull.'); return; }
     var n = syncMerge(dd);
     syncStatus(n ? ('Pulled and merged ' + n + ' changes.') : 'Already up to date.');
+    syncCounts();
   }).catch(function (e) { syncStatus('Pull failed: ' + e.message); });
 }
 function syncStatus(m) {
   var el = $('accSyncStatus');
   if (el) el.textContent = m;
+}
+function syncCounts() {
+  if (!SYNC.user || !SYNC.db) return;
+  var lh = Object.keys(lsGet('neet_hist') || {}).length;
+  var lm = Object.keys(lsGet('neet_marks') || {}).length;
+  var lr = (lsGet('neet_results') || []).length;
+  SYNC.db.collection('users').doc(SYNC.user.uid).get().then(function (snap) {
+    var dd = snap.data() || {};
+    var ch = Object.keys(dd.hist || {}).length;
+    var cm = Object.keys(dd.marks || {}).length;
+    var cr = (dd.results || []).length;
+    syncStatus('Local: ' + lh + ' answered / ' + lm + ' marked / ' + lr + ' tests  |  Cloud: ' + ch + ' / ' + cm + ' / ' + cr);
+  }).catch(function () { syncStatus('Local: ' + lh + ' answered / ' + lm + ' marked / ' + lr + ' tests  |  Cloud: unreachable'); });
 }
 
 function mergeHist(remote) {
