@@ -136,6 +136,36 @@ a { color: var(--accent); }
   .q-nav-list { flex-direction: row; flex-wrap: wrap; max-height: none; }
   .q-nav-item { flex: 1; min-width: 110px; }
 }
+/* ---------------- Analytics (.an-*) ---------------- */
+.an-kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px;margin-bottom:14px}
+.an-kpi{background:var(--panel);border:1px solid var(--panel2);border-radius:10px;padding:12px;text-align:center;cursor:default}
+.an-kpi .an-num{font-size:1.5rem;font-weight:800}
+.an-kpi .an-lbl{font-size:.7rem;color:var(--muted);margin-top:2px}
+.an-trend{display:flex;align-items:flex-end;gap:4px;height:90px;margin:4px 0 14px}
+.an-tcol{flex:1;display:flex;flex-direction:column;justify-content:flex-end;background:var(--panel2);border-radius:3px 3px 0 0;min-height:2px}
+.an-tcol .an-fill{width:100%;border-radius:3px 3px 0 0}
+.an-tv,.an-td{font-size:.6rem;color:var(--muted);text-align:center}
+.an-td{font-size:.55rem;overflow:hidden;white-space:nowrap}
+.an-subj,.an-topic,.an-tsubj{cursor:pointer;padding:8px 10px;border:1px solid var(--panel2);border-radius:8px;margin-bottom:6px;background:var(--panel)}
+.an-subj:hover,.an-topic:hover{border-color:var(--good)}
+.an-hd{display:flex;align-items:baseline;gap:8px;margin-bottom:4px}
+.an-name{font-weight:600;flex:1}
+.an-ct{font-size:.72rem;color:var(--muted)}
+.an-pct{font-weight:700;min-width:38px;text-align:right}
+.an-bar{height:8px;background:var(--panel2);border-radius:4px;overflow:hidden}
+.an-fill{height:100%;border-radius:4px}
+.an-bar2{margin-top:3px;height:3px}
+.an-fill2{height:100%;background:var(--muted);border-radius:2px}
+.an-tier{font-size:.62rem;padding:1px 6px;border-radius:8px;font-weight:700}
+.an-tier.t0{background:var(--panel2);color:var(--muted)}
+.an-tier.t1{background:var(--bad);color:#fff}
+.an-tier.t2{background:var(--warn);color:#fff}
+.an-tier.t3{background:var(--good);color:#fff}
+.an-bread{font-size:.8rem;color:var(--muted);margin:8px 0}
+.an-err{display:flex;gap:8px;align-items:center;padding:8px 10px;border:1px solid var(--panel2);border-radius:8px;margin-bottom:6px;cursor:pointer;background:var(--panel)}
+.an-badge{background:var(--bad);color:#fff;font-size:.68rem;font-weight:700;border-radius:10px;padding:1px 8px}
+.an-empty{color:var(--muted);font-size:.85rem;padding:10px 0}
+.an-sub{font-size:.75rem;color:var(--muted)}
 </style>
 </head>
 <body>
@@ -144,24 +174,33 @@ a { color: var(--accent); }
   <p class="sub">Practice, tests, bookmarks, results &amp; review. Emphasis on image-based and clinical questions. Data stored locally in your browser.</p>
 
   <div class="tabs">
-    <button class="tab active" data-v="dash">Dashboard</button>
+    <button class="tab active" data-v="dash">Analytics</button>
     <button class="tab" data-v="qbank">QBank</button>
     <button class="tab" data-v="custom">Custom Module</button>
     <button class="tab" data-v="browse">Browse Questions</button>
     <button class="tab" data-v="tests">Test Series</button>
-    <button class="tab" data-v="report">Progress Report</button>
-    <button class="tab" data-v="results">Results</button>
     <button class="tab" data-v="marks">Bookmarks</button>
     <button class="tab" data-v="account">Account</button>
   </div>
 
-  <!-- DASHBOARD -->
+  <!-- ANALYTICS -->
   <div id="dash" class="view active">
     <div class="card">
       <h3 style="margin-bottom:10px;">Practice Overview</h3>
-      <div id="dashStats" class="score-note">Loading…</div>
+      <div id="anKpis" class="an-kpis"></div>
+      <div id="anTrend"></div>
+      <h3 style="margin-bottom:10px;">Subject Performance</h3>
+      <div id="anSubjects"></div>
+      <div id="anDrill" style="display:none"></div>
+      <div class="card" style="margin-top:14px">
+        <h3 style="margin-bottom:10px;">Error Book</h3>
+        <div id="anErrBook"></div>
+      </div>
+      <div class="card" style="margin-top:14px">
+        <h3 style="margin-bottom:10px;">Test History</h3>
+        <div id="resultList"></div>
+      </div>
     </div>
-    <div class="card"><h3 style="margin-bottom:10px;">Subject Performance</h3><div id="analyticsContent"></div></div>
   </div>
 
   <!-- QBANK -->
@@ -253,24 +292,6 @@ a { color: var(--accent); }
     <div class="card"><h3 style="margin-bottom:10px;">My Tests</h3><div id="testList"></div></div>
   </div>
 
-  <!-- RESULTS -->
-  <div id="results" class="view">
-    <div class="card"><h3 style="margin-bottom:10px;">Saved Results</h3><div id="resultList"></div></div>
-  </div>
-
-  <!-- PROGRESS REPORT -->
-  <div id="report" class="view">
-    <div class="card">
-      <div class="fit-row" style="margin-bottom:10px">
-        <div><label>Subject filter</label><select id="repSubj"><option value="">All Subjects</option></select></div>
-        <div><label>Status</label><select id="repStatus"><option value="">Any</option><option value="correct">Correct</option><option value="wrong">Wrong</option><option value="skipped">Skipped</option></select></div>
-        <div><label>Sort</label><select id="repSort"><option value="slow">Slowest first</option><option value="new">Newest first</option><option value="subj">Subject</option><option value="topic">Topic</option></select></div>
-        <div><button class="btn small secondary" id="repClear">Clear report data</button></div>
-      </div>
-      <div id="repContent"></div>
-    </div>
-  </div>
-
   <!-- BOOKMARKS -->
   <div id="marks" class="view">
     <div class="card">
@@ -319,9 +340,9 @@ a { color: var(--accent); }
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js"></script>
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
-<script src="/questions/bank.js?v=9"></script>
+<script src="/questions/bank.js?v=10"></script>
 <script src="/questions/test_2026.js?v=1"></script>
-<script src="/questions/core_btr.js?v=4"></script>
+<script src="/questions/core_btr.js?v=5"></script>
 <script>
 "use strict";
 
@@ -606,7 +627,7 @@ function syncMerge(d) {
   if (!SYNC.user) return 0;
   var c = mergeHist(d.hist || {}) + mergeMarks(d.marks || {}) + mergeResults(d.results || []) + mergeTests(d.tests || []);
   if (c) {
-    if ($('dash').classList.contains('active')) renderDash();
+    if ($('dash').classList.contains('active')) renderAnalytics();
     if ($('report').classList.contains('active')) { fillRepSubj(); renderReport(); }
     if ($('marks').classList.contains('active')) renderMarks();
   }
@@ -799,51 +820,230 @@ function subjTopics(subj) {
 function showView(v) {
   document.querySelectorAll('.view').forEach(function (el) { el.classList.toggle('active', el.id === v); });
   document.querySelectorAll('.tab').forEach(function (el) { el.classList.toggle('active', el.dataset.v === v); });
-  if (v === 'dash') renderDash();
+  if (v === 'dash') renderAnalytics();
   if (v === 'qbank') renderTree();
   if (v === 'tests') renderTestList();
-  if (v === 'results') renderResultList();
   if (v === 'marks') renderMarks();
   if (v === 'account') syncUI();
-  if (v === 'report') { fillRepSubj(); renderReport(); }
 }
 document.querySelectorAll('.tab').forEach(function (el) {
   el.addEventListener('click', function () { showView(el.dataset.v); });
 });
 
 /* ---------------- Dashboard ---------------- */
-function renderDash() {
+var AN = { subj: '', topic: '' };
+
+function renderAnalytics() {
   var hist = lsGet('neet_hist') || {};
   var res = lsGet('neet_results') || [];
-  var n = Object.keys(hist).length;
-  var att = 0, corr = 0;
-  for (var k in hist) { att++; if (hist[k].correct) corr++; }
-  var pct = att ? Math.round(corr / att * 100) : 0;
-  $('dashStats').innerHTML = 'Questions attempted: <b>' + n + '</b> &nbsp;•&nbsp; Correct: <b>' + corr + '</b> (' + pct + '%) &nbsp;•&nbsp; Tests taken: <b>' + res.length + '</b> &nbsp;•&nbsp; Bookmarks: <b>' + (Object.keys(lsGet('neet_marks') || {}).length) + '</b>';
-  buildAnalytics();
-}
-
-function buildAnalytics() {
-  var hist = lsGet('neet_hist') || {};
-  if (!Object.keys(hist).length) {
-    $('analyticsContent').innerHTML = '<div class="empty">No practice data yet. Start from QBank or Test Series.</div>';
+  if (!Object.keys(hist).length && !res.length) {
+    $('anKpis').innerHTML = '<div class="empty">No practice data yet. Start from QBank or Test Series.</div>';
+    $('anTrend').innerHTML = '';
+    $('anSubjects').innerHTML = '';
+    $('anErrBook').innerHTML = '';
+    $('anDrill').style.display = 'none';
+    $('anDrill').innerHTML = '';
+    $('resultList').innerHTML = '';
     return;
   }
-  var subj = {};
-  for (var k in hist) {
-    var it = hist[k];
-    if (!subj[it.s]) subj[it.s] = { c: 0, t: 0 };
-    subj[it.s].t++; if (it.correct) subj[it.s].c++;
+  if (AN.subj) { renderDrill(hist); return; }
+  anKPIs(hist, res);
+  anTrend(hist);
+  anSubjRows(hist);
+  anErrBook(hist);
+  renderResultList();
+}
+
+function anKPIs(hist, res) {
+  var n = Object.keys(hist).length, att = 0, corr = 0;
+  for (var k in hist) { att++; if (hist[k].correct) corr++; }
+  var pct = att ? Math.round(corr / att * 100) : 0;
+  var bm = Object.keys(lsGet('neet_marks') || {}).length;
+  var streak = anStreak(hist, res);
+  var bmCard = bm ? '<div class="an-kpi" role="button" tabindex="0" onclick="showView(\'marks\')">' +
+    '<div class="an-num">' + bm + '</div><div class="an-lbl">Bookmarks</div></div>' : '';
+  $('anKpis').innerHTML =
+    '<div class="an-kpi"><div class="an-num">' + att + '</div><div class="an-lbl">Attempted</div></div>' +
+    '<div class="an-kpi"><div class="an-num" style="color:' + anCol(pct) + '">' + pct + '%</div><div class="an-lbl">Accuracy</div></div>' +
+    '<div class="an-kpi"><div class="an-num">' + res.length + '</div><div class="an-lbl">Tests taken</div></div>' +
+    bmCard +
+    '<div class="an-kpi"><div class="an-num">' + streak.n + '</div><div class="an-lbl">' + streak.lbl + '</div></div>';
+}
+
+function anCol(p) { return p >= 75 ? 'var(--good)' : p >= 40 ? 'var(--warn)' : p ? 'var(--bad)' : 'var(--muted)'; }
+function anTier(acc, att) {
+  if (!att) return { t: 't0', c: 'var(--muted)', l: 'Not Attempted' };
+  if (acc >= 75 && att >= 5) return { t: 't3', c: 'var(--good)', l: 'Strong' };
+  if (acc >= 40) return { t: 't2', c: 'var(--warn)', l: 'Moderate' };
+  return { t: 't1', c: 'var(--bad)', l: 'Weak' };
+}
+
+function anStreak(hist, res) {
+  var days = {};
+  for (var k in hist) days[Math.floor((hist[k].ts || hist[k].last || 0) / 86400000)] = 1;
+  res.forEach(function (r) { if (r && r.id) days[Math.floor(r.id / 86400000)] = 1; });
+  var n = 0, today = Math.floor(Date.now() / 86400000);
+  for (var i = 0; i < 365; i++) {
+    if (days[today - i]) n++; else break;
   }
-  var cards = Object.keys(subj).map(function (s) {
-    var d = subj[s];
-    var p = d.t ? Math.round(d.c / d.t * 100) : 0;
-    var col = p >= 70 ? 'var(--good)' : p >= 40 ? 'var(--warn)' : 'var(--bad)';
-    return '<div class="subj-card"><div class="subj-header"><span class="subj-name">' + s + '</span><span class="subj-score" style="color:' + col + '">' + p + '%</span></div>' +
-      '<div class="subj-bar"><div class="subj-fill" style="width:' + p + '%;background:' + col + '"></div></div>' +
-      '<div class="subj-stats"><span>' + d.c + '/' + d.t + ' correct</span></div></div>';
+  return n > 1 ? { n: n, lbl: 'day streak' } : { n: Object.keys(days).length, lbl: 'days active' };
+}
+
+function anTrend(hist) {
+  var days = {}, today = Math.floor(Date.now() / 86400000);
+  for (var k in hist) {
+    var dd = Math.floor((hist[k].ts || hist[k].last || 0) / 86400000);
+    if (today - dd > 11 || today - dd < 0) continue;
+    if (!days[dd]) days[dd] = { c: 0, t: 0 };
+    days[dd].t++; if (hist[k].correct) days[dd].c++;
+  }
+  var keys = Object.keys(days).sort().map(Number);
+  if (keys.length < 2) { $('anTrend').innerHTML = ''; return; }
+  var out = '', prev = null;
+  for (var i = 0; i < keys.length; i++) {
+    var d2 = keys[i];
+    if (prev !== null) { for (var g = prev + 1; g < d2; g++) out += anTcol(0, g, 0, true); }
+    out += anTcol(days[d2].c, d2, days[d2].t, false);
+    prev = d2;
+  }
+  $('anTrend').innerHTML = '<div class="an-trend">' + out + '</div>';
+}
+
+function anTcol(c, dd, t, gap) {
+  var pct = t ? Math.round(c / t * 100) : 0;
+  var tier = anTier(pct, t);
+  var lbl = new Date(dd * 86400000).toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+  return '<div class="an-tcol" title="' + lbl + (gap ? ' (no practice)' : '') + ': ' + pct + '%">' +
+    '<div class="an-fill" style="height:' + pct + '%;background:' + (gap ? 'var(--panel2)' : tier.c) + '"></div>' +
+    '<span class="an-tv">' + (gap ? '' : pct + '%') + '</span><span class="an-td">' + lbl + '</span></div>';
+}
+
+function anSubjSort(a, b) {
+  var az = !a.att, bz = !b.att;
+  if (az && !bz) return 1;
+  if (bz && !az) return -1;
+  if (az && bz) return a.name.localeCompare(b.name);
+  if (b.acc !== a.acc) return b.acc - a.acc;
+  if (b.att !== a.att) return b.att - a.att;
+  return a.name.localeCompare(b.name);
+}
+
+function anSubjRows(hist) {
+  var m = {};
+  for (var k in hist) {
+    var r = hist[k];
+    if (!m[r.s]) m[r.s] = { name: r.s, att: 0, c: 0 };
+    m[r.s].att++; if (r.correct) m[r.s].c++;
+  }
+  var list = [], seen = {};
+  for (var i = 0; i < BANK.length; i++) {
+    var q = BANK[i];
+    if (!q || !q.s) continue;
+    if (m[q.s]) { if (!m[q.s].seen) { m[q.s].seen = 1; list.push(m[q.s]); } }
+    else if (!seen[q.s]) { seen[q.s] = 1; list.push({ name: q.s, att: 0, c: 0, seen: 1 }); }
+  }
+  for (var s in m) if (!m[s].seen) list.push(m[s]);
+  list.sort(anSubjSort);
+  var maxAtt = 1;
+  list.forEach(function (x) { if (x.att > maxAtt) maxAtt = x.att; });
+  var rows = list.map(function (x) {
+    var pct = x.att ? Math.round(x.c / x.att * 100) : 0;
+    var tier = anTier(pct, x.att);
+    var cov = Math.round(x.att / maxAtt * 100);
+    return '<div class="an-subj" role="button" tabindex="0" onclick="anDrillTo(\'' + x.name.replace(/'/g, "\\'") + '\')">' +
+      '<div class="an-hd"><span class="an-name">' + x.name + '</span>' +
+      '<span class="an-ct">' + x.c + '/' + x.att + '</span>' +
+      '<span class="an-pct" style="color:' + tier.c + '">' + (x.att ? pct + '%' : '&ndash;') + '</span>' +
+      '<span class="an-tier ' + tier.t + '">' + tier.l + '</span></div>' +
+      (x.att ? '<div class="an-bar"><div class="an-fill" style="width:' + pct + '%;background:' + tier.c + '" aria-hidden="true"></div></div>' +
+        '<div class="an-bar an-bar2"><div class="an-fill2" style="width:' + cov + '%" aria-hidden="true"></div></div>' : '') +
+      '</div>';
   }).join('');
-  $('analyticsContent').innerHTML = '<div class="analytics-grid">' + cards + '</div>';
+  $('anSubjects').innerHTML = rows ? rows : '<div class="empty">No practice data yet.</div>';
+}
+
+function anDrillTo(s) {
+  AN.subj = s; AN.topic = '';
+  var sel = $('repSubj');
+  if (sel) { sel.value = s; }
+  renderAnalytics();
+  window.scrollTo(0, 0);
+}
+
+function anTopics(hist) {
+  var m = {};
+  for (var k in hist) {
+    var r = hist[k];
+    if (r.s !== AN.subj) continue;
+    if (!m[r.t]) m[r.t] = { name: r.t, att: 0, c: 0 };
+    m[r.t].att++; if (r.correct) m[r.t].c++;
+  }
+  var list = Object.keys(m).map(function (t) { return m[t]; });
+  list.sort(anSubjSort);
+  var maxAtt = 1;
+  list.forEach(function (x) { if (x.att > maxAtt) maxAtt = x.att; });
+  return list.map(function (x) {
+    var pct = x.att ? Math.round(x.c / x.att * 100) : 0;
+    var tier = anTier(pct, x.att);
+    return '<div class="an-topic" role="button" tabindex="0" onclick="anTopicTo(\'' + x.name.replace(/'/g, "\\'") + '\')">' +
+      '<div class="an-hd"><span class="an-name">' + x.name + '</span>' +
+      '<span class="an-ct">' + x.c + '/' + x.att + '</span>' +
+      '<span class="an-pct" style="color:' + tier.c + '">' + pct + '%</span>' +
+      '<span class="an-tier ' + tier.t + '">' + tier.l + '</span></div>' +
+      '<div class="an-bar"><div class="an-fill" style="width:' + pct + '%;background:' + tier.c + '" aria-hidden="true"></div></div>' +
+      '<div class="an-bar an-bar2"><div class="an-fill2" style="width:' + Math.round(x.att / maxAtt * 100) + '%" aria-hidden="true"></div></div>' +
+      '</div>';
+  }).join('');
+}
+
+function anTopicTo(t) {
+  AN.topic = t;
+  var sel = $('repStatus');
+  if (sel) sel.value = '';
+  renderDrill(lsGet('neet_hist') || {});
+}
+
+function renderDrill(hist) {
+  var bread = '<div class="an-bread">Analytics / <b>' + AN.subj + '</b>' + (AN.topic ? ' / ' + AN.topic : '') +
+    '</div><button class="btn small secondary" onclick="anBack()">&#8592; All subjects</button>';
+  $('anKpis').innerHTML = '';
+  $('anTrend').innerHTML = '';
+  $('anSubjects').innerHTML = '';
+  var topics = anTopics(hist);
+  $('anErrBook').innerHTML = '';
+  $('anDrill').style.display = '';
+  $('anDrill').innerHTML = '<div class="card" style="margin-bottom:10px"><h3 style="margin-bottom:10px">' + AN.subj + ' &mdash; Topics</h3>' + topics + '</div>' +
+    '<div class="card"><div class="fit-row" style="margin-bottom:10px">' +
+    '<div><label>Status</label><select id="repStatus"><option value="">Any</option><option value="correct">Correct</option><option value="wrong">Wrong</option><option value="skipped">Skipped</option></select></div>' +
+    '<div><label>Sort</label><select id="repSort"><option value="slow">Slowest first</option><option value="new">Newest first</option><option value="subj">Subject</option><option value="topic">Topic</option></select></div>' +
+    '<div><button class="btn small secondary" id="repClear">Clear report data</button></div></div>' +
+    '<div id="repContent"></div></div>';
+  fillRepSubj();
+  renderReport();
+  anBindReport();
+}
+
+function anBack() { AN.subj = ''; AN.topic = ''; renderAnalytics(); window.scrollTo(0, 0); }
+
+function anErrBook(hist) {
+  var m = {};
+  for (var k in hist) {
+    var r = hist[k];
+    if (r.correct === false) { if (!m[r.s]) m[r.s] = { name: r.s, n: 0 }; m[r.s].n++; }
+  }
+  var list = Object.keys(m).map(function (s) { return m[s]; }).sort(function (a, b) { return b.n - a.n; });
+  if (!list.length) { $('anErrBook').innerHTML = '<div class="empty">No wrong answers yet \u2014 keep it up!</div>'; return; }
+  $('anErrBook').innerHTML = list.map(function (x) {
+    return '<div class="an-err" role="button" tabindex="0" onclick="anDrillTo(\'' + x.name.replace(/'/g, "\\'") + '\');anErrWrong()">' +
+      '<span class="an-name">' + x.name + '</span><span class="an-badge">' + x.n + ' wrong</span></div>';
+  }).join('');
+}
+
+function anErrWrong() { var sel = $('repStatus'); if (sel) sel.value = 'wrong'; renderReport(); }
+
+function stemQ(key) {
+  for (var i = 0; i < BANK.length; i++) { if (BANK[i].q.substring(0, 50) === key) return BANK[i]; }
+  return null;
 }
 
 /* ---------------- QBank ---------------- */
@@ -1017,12 +1217,14 @@ function filterBrowseTopics2() {
 /* ---------------- Progress Report ---------------- */
 function renderReport() {
   var hist = lsGet('neet_hist') || {};
-  var repSubj = $('repSubj').value, repStatus = $('repStatus').value, repSort = $('repSort').value;
+  var rsEl = $('repSubj');
+  var repSubj = (rsEl ? rsEl.value : '') || AN.subj || '', repStatus = $('repStatus').value, repSort = $('repSort').value;
   var rows = [];
   for (var k in hist) {
     var r = hist[k];
     var status = r.correct === true ? 'correct' : r.correct === false ? 'wrong' : 'skipped';
     if (repSubj && r.s !== repSubj) continue;
+    if (AN.topic && r.t !== AN.topic) continue;
     if (repStatus && status !== repStatus) continue;
     var last = r.last || r.ts || 0;
     var secs = r.times ? r.times.reduce(function (m, t) { return t.sec ? Math.max(m, t.sec) : m; }, 0) : 0;
@@ -1052,8 +1254,10 @@ function openRepQ(key) {
   var r = hist[key];
   if (!r) return alert('Record not found.');
   var times = r.times || [];
+  var q = stemQ(key);
   var html = '<div class="q-stem">' + (r.qid || '') + '</div>' +
     '<div class="score-note">Subject: ' + r.s + ' • Topic: ' + r.t + ' • Attempts: ' + (r.n || times.length) + '</div>' +
+    (q && q.ex ? '<div class="ex-box" style="margin-top:8px">' + formatEx(q.ex) + '</div>' : '') +
     '<div class="score-note">Status: ' + (r.correct === true ? 'Correct' : r.correct === false ? 'Wrong' : 'Skipped') + ' • Last: ' + new Date(r.last || r.ts || Date.now()).toLocaleString() + '</div>' +
     times.map(function (t, i) {
       return '<div class="res-row" style="margin-top:6px"><span class="score-note">#' + (i + 1) + ' — ' + (t.c ? 'Correct ✓' : 'Wrong ✗') + ' — ' + (t.sec != null ? t.sec.toFixed(1) + 's' : '–') + '</span></div>';
@@ -1068,21 +1272,26 @@ function showDialog(html) {
   d.addEventListener('click', function (e) { if (e.target === d) d.remove(); });
   document.body.appendChild(d);
 }
-[
-  ['repSubj', function () { renderReport(); }],
-  ['repStatus', function () { renderReport(); }],
-  ['repSort', function () { renderReport(); }]
-].forEach(function (c) { $(c[0]).addEventListener('change', c[1]); });
-$('repClear').addEventListener('click', function () {
-  if (!confirm('Remove all practice history?')) return;
-  lsSet2('neet_hist', {});
-  renderReport();
-});
+function anBindReport() {
+  [
+    ['repSubj', function () { renderReport(); }],
+    ['repStatus', function () { renderReport(); }],
+    ['repSort', function () { renderReport(); }]
+  ].forEach(function (c) { var el = $(c[0]); if (el) el.addEventListener('change', c[1]); });
+  var cl = $('repClear');
+  if (cl) cl.addEventListener('click', function () {
+    if (!confirm('Remove all practice history?')) return;
+    lsSet2('neet_hist', {});
+    AN.subj = ''; AN.topic = '';
+    renderAnalytics();
+  });
+}
 function fillRepSubj() {
   var s = new Set();
   for (var k in (lsGet('neet_hist') || {})) s.add((lsGet('neet_hist') || {})[k].s);
   var opts = Array.from(s).sort().map(function (x) { return '<option value="' + x + '">' + x + '</option>'; }).join('');
-  $('repSubj').innerHTML = '<option value="">All Subjects</option>' + opts;
+  var sel = $('repSubj');
+  if (sel) sel.innerHTML = '<option value="">All Subjects</option>' + opts;
 }
 
 /* ---------------- Custom Module ---------------- */
@@ -1391,7 +1600,7 @@ function openReview(res) {
       '<div class="explain" style="margin-left:0;margin-top:8px"><span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div>' + formatEx(q.ex) + '</div></div></div>';
   }).join('');
 }
-$('reviewBack').addEventListener('click', function () { showView('results'); });
+$('reviewBack').addEventListener('click', function () { showView('dash'); });
 
 /* ---------------- Test Series ---------------- */
 function renderTestList() {
@@ -1428,11 +1637,24 @@ function renderResultList() {
       '<div class="res-meta">' + r.t + ' • ' + r.mode + ' • ' + (r.secs ? Math.floor(r.secs / 60) + ' min' : '') + '</div></div>' +
       '<span class="res-score ' + cls + '">' + r.pct + '%</span>' +
       '<span class="score-note">' + r.score + '/' + r.total + ' • ' + r.wrong + ' wrong • ' + r.unans + ' unans</span>' +
-      '<button class="btn small" data-r="' + i + '">Review</button><button class="btn small secondary" data-rd="' + i + '">Del</button></div>';
+      '<button class="btn small" data-r="' + i + '">Review</button><button class="btn small secondary" data-rd="' + i + '">Del</button>' +
+      '<div class="an-tsubj" style="display:none" id="anTestSubj' + i + '"></div></div>';
   });
   $('resultList').innerHTML = html;
   $('resultList').querySelectorAll('button[data-r]').forEach(function (b) {
     b.addEventListener('click', function () { openReview((lsGet('neet_results') || [])[parseInt(b.dataset.r, 10)]); });
+  });
+  $('resultList').querySelectorAll('.res-row').forEach(function (row) {
+    row.addEventListener('click', function (ev) {
+      if (ev.target.closest('button')) return;
+      var di = row.querySelector('button[data-rd]');
+      if (!di) return;
+      var i = parseInt(di.dataset.rd, 10);
+      var box = $('anTestSubj' + i);
+      if (!box) return;
+      if (box.style.display === 'none') { anTestSubj(box, (lsGet('neet_results') || [])[i]); box.style.display = ''; }
+      else { box.style.display = 'none'; }
+    });
   });
   $('resultList').querySelectorAll('button[data-rd]').forEach(function (b) {
     b.addEventListener('click', function () {
@@ -1442,6 +1664,31 @@ function renderResultList() {
       renderResultList();
     });
   });
+}
+
+function anTestSubj(box, r) {
+  if (!r || !r.list) { box.innerHTML = ''; return; }
+  var m = {};
+  for (var i = 0; i < r.list.length; i++) {
+    var q = qAt(r.list[i]);
+    if (!q || !q.s) continue;
+    if (!m[q.s]) m[q.s] = { name: q.s, att: 0, c: 0 };
+    m[q.s].att++;
+    if (r.ans && r.ans[i] === q.a) m[q.s].c++;
+  }
+  var list = Object.keys(m).map(function (s) { return m[s]; }).sort(anSubjSort);
+  var maxAtt = 1;
+  list.forEach(function (x) { if (x.att > maxAtt) maxAtt = x.att; });
+  box.innerHTML = list.map(function (x) {
+    var pct = x.att ? Math.round(x.c / x.att * 100) : 0;
+    var tier = anTier(pct, x.att);
+    return '<div class="an-hd"><span class="an-name">' + x.name + '</span>' +
+      '<span class="an-ct">' + x.c + '/' + x.att + '</span>' +
+      '<span class="an-pct" style="color:' + tier.c + '">' + pct + '%</span>' +
+      '<span class="an-tier ' + tier.t + '">' + tier.l + '</span></div>' +
+      '<div class="an-bar"><div class="an-fill" style="width:' + pct + '%;background:' + tier.c + '" aria-hidden="true"></div></div>' +
+      '<div class="an-bar an-bar2"><div class="an-fill2" style="width:' + Math.round(x.att / maxAtt * 100) + '%" aria-hidden="true"></div></div>';
+  }).join('') || '<div class="an-empty">No questions in this test.</div>';
 }
 
 /* ---------------- Bookmarks ---------------- */
@@ -1501,7 +1748,7 @@ $('browseSearch').addEventListener('input', renderBrowse);
 function showView(v) {
   document.querySelectorAll('.view').forEach(function (el) { el.classList.toggle('active', el.id === v); });
   document.querySelectorAll('.tab').forEach(function (el) { el.classList.toggle('active', el.dataset.v === v); });
-  if (v === 'dash') renderDash();
+  if (v === 'dash') renderAnalytics();
   if (v === 'qbank') { populateBrowseDropdowns(); renderQBChips(); renderTree(); }
   if (v === 'custom') renderCM();
   if (v === 'browse') { populateBrowseDropdowns(); renderBrowse(); }
@@ -1531,7 +1778,7 @@ populateSubjects();
 populateYears();
 populateBrowseDropdowns();
 renderQBChips();
-renderDash();
+renderAnalytics();
 try { syncInit(); } catch (e) { console.warn('sync disabled', e); }
 </script>
 <script>
