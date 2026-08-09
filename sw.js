@@ -1,5 +1,5 @@
 /* NEET PG QBank service worker — offline-first for installed app */
-var CACHE = 'qbank-v7'; /* bump when shell or bank files change */
+var CACHE = 'qbank-v8'; /* bump when shell or bank files change */
 
 var SHELL = [
   '/',
@@ -50,7 +50,10 @@ self.addEventListener('fetch', function (e) {
   if (url.origin === 'https://www.gstatic.com') return;
   if (url.origin !== location.origin) return;
 
-  var isBank = BANK.some(function (u) { return u.indexOf(url.pathname) === 0; });
+  var isBank = BANK.some(function (u) {
+    var q = u.indexOf('?');
+    return u.indexOf(url.pathname) === 0 && (q === -1 || url.search === u.substring(q));
+  });
 
   if (isBank) {
     /* cache-first for bank files */
