@@ -1,5 +1,5 @@
 /* NEET PG QBank service worker — offline-first for installed app */
-var CACHE = 'qbank-v19'; /* bump when shell or bank files change */
+var CACHE = 'qbank-v21'; /* bump when shell or bank files change */
 
 var SHELL = [
   '/',
@@ -13,7 +13,7 @@ var SHELL = [
 var BANK = [
   '/questions/bank.js?v=11',
   '/questions/test_2026.js?v=1',
-  '/questions/core_btr.js?v=10'
+  '/questions/core_btr.js?v=12'
 ];
 
 self.addEventListener('install', function (e) {

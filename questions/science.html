@@ -193,7 +193,7 @@ a { color: var(--accent); }
       <div id="anSubjects"></div>
       <div id="anDrill" style="display:none"></div>
       <div class="card" style="margin-top:14px">
-        <h3 style="margin-bottom:10px;">Error Book</h3>
+        <h3 style="margin-bottom:10px;">Error Book</h3><button class="btn small secondary" onclick="retestWrong()">Retest All Wrong</button>
         <div id="anErrBook"></div>
       </div>
       <div class="card" style="margin-top:14px">
@@ -342,7 +342,7 @@ a { color: var(--accent); }
 <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
 <script src="/questions/bank.js?v=11"></script>
 <script src="/questions/test_2026.js?v=1"></script>
-<script src="/questions/core_btr.js?v=10"></script>
+<script src="/questions/core_btr.js?v=12"></script>
 <script>
 "use strict";
 
@@ -1124,10 +1124,21 @@ function anErrBook(hist) {
   }
   var list = Object.keys(m).map(function (s) { return m[s]; }).sort(function (a, b) { return b.n - a.n; });
   if (!list.length) { $('anErrBook').innerHTML = '<div class="empty">No wrong answers yet \u2014 keep it up!</div>'; return; }
-  $('anErrBook').innerHTML = list.map(function (x) {
-    return '<div class="an-err" role="button" tabindex="0" onclick="anDrillTo(\'' + x.name.replace(/'/g, "\\'") + '\');anErrWrong()">' +
-      '<span class="an-name">' + x.name + '</span><span class="an-badge">' + x.n + ' wrong</span></div>';
-  }).join('');
+  $('anErrBook').innerHTML = '<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px"><h3 style="margin:0">Error Book</h3><button class="btn small secondary" onclick="retestWrong()">Retest All Wrong</button></div>' +
+    list.map(function (x) {
+      return '<div class="an-err" role="button" tabindex="0" onclick="anDrillTo(\'' + x.name.replace(/'/g, "\\'") + '\');anErrWrong()">' +
+        '<span class="an-name">' + x.name + '</span><span class="an-badge">' + x.n + ' wrong</span></div>';
+    }).join('');
+}
+
+function retestWrong() {
+  var hist = lsGet('neet_hist') || {}, pool = [];
+  BANK.forEach(function (q, i) {
+    var key = q.q.substring(0, 50);
+    if (hist[key] && hist[key].correct === false) pool.push(i);
+  });
+  if (!pool.length) return alert('No wrong answers found.');
+  startQuiz('qbank', 'Retest Wrong Answers', { n: pool.length, listOverride: pool });
 }
 
 function anErrWrong() { var sel = $('repStatus'); if (sel) sel.value = 'wrong'; renderReport(); }
@@ -1592,7 +1603,9 @@ function renderTChips() {
 /* ---------------- Quiz engine ---------------- */
 function startQuiz(mode, name, sel) {
   var pool;
-  if (mode === 'mock') {
+  if (sel.listOverride) {
+    pool = sel.listOverride;
+  } else if (mode === 'mock') {
     pool = PAPER.map(function (_, i) { return 'p' + i; });
   } else {
     pool = poolFor(sel);
@@ -1656,8 +1669,9 @@ function renderQuestion() {
     '<div id="resultArea">' + (prev !== undefined ? '<span class="cbadge">Answer: ' + "ABCD"[q.a] + '</span><div class="explain">' + formatEx(q.ex, q.qid) + '</div>' : '') + '</div>',
     '<div class="ctrl">',
     '<button class="btn secondary" id="markBtn">' + (QUIZ.marks[i] ? '★ Bookmarked' : '☆ Bookmark') + '</button>',
+    '<button class="btn secondary" id="prevBtn"' + (QUIZ.cur === 0 ? ' disabled' : '') + '>&larr; Prev</button>',
     '<button class="btn secondary" id="nxtBtn"' + (prev === undefined ? ' disabled' : '') + '>Next &rarr;</button>',
-    '</div>',
+'</div>',
     '</div>'
   ].join("");
   QUIZ.shownAt = Date.now();
@@ -1665,6 +1679,7 @@ function renderQuestion() {
     el.addEventListener('click', function () { grade(el, q, i); });
   });
   $('markBtn').addEventListener('click', function () { toggleMark(i); });
+  $('prevBtn').addEventListener('click', prev);
   $('nxtBtn').addEventListener('click', next);
   renderNav();
   updateBar();
@@ -1714,6 +1729,10 @@ function toggleMark(i) {
   lsSet2('neet_marks', marks);
   QUIZ.marks[i] = !!marks[key];
   $('markBtn').textContent = QUIZ.marks[i] ? '★ Bookmarked' : '☆ Bookmark';
+}
+
+function prev() {
+  if (QUIZ.cur > 0) { QUIZ.cur--; renderQuestion(); }
 }
 
 function next() {
