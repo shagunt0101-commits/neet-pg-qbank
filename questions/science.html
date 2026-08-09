@@ -500,6 +500,23 @@ var QUIZ = { mode: null, name: "", list: [], cur: 0, score: 0, wrong: 0, answere
 var PAPER = (window.TEST_2026 || []);
 var QUIZ_TIME = { test: 10, mock: 180 }; /* minutes; 'mock' = preset paper */
 var REVIEW = null;
+function ensureFirebaseSDK(cb) {
+  if (typeof firebase !== 'undefined') return cb(true);
+  var loaded = 0, total = 3;
+  function done() { if (++loaded === total) cb(typeof firebase !== 'undefined'); }
+  var urls = [
+    'https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js',
+    'https://www.gstatic.com/firebasejs/8.10.1/firebase-auth.js',
+    'https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js'
+  ];
+  urls.forEach(function (u) {
+    var s = document.createElement('script');
+    s.src = u;
+    s.onload = done;
+    s.onerror = function () { done(); console.warn('SDK load failed:', u); };
+    document.head.appendChild(s);
+  });
+}
 var DEV_PIN = "2486", FIXMAP = lsGet("neet_exfix") || {}, DEV = { on: !!lsGet("neet_dev") };
 var DEV_TAPS = 0, DEV_TAP_T = 0, _QID_MAP = null;
 (function () {
@@ -546,10 +563,12 @@ var _STEM_BY_QID = null;
 var SYNC_KEYS = ['neet_hist', 'neet_results', 'neet_marks', 'neet_tests'];
 
 function syncInit() {
-  if (SYNC.init) return;
-  SYNC.init = true;
-  if (!FIREBASE_CONFIG || !FIREBASE_CONFIG.projectId) return; // no config — sync off
+  if (SYNC.init && SYNC.f) return;
+  if (!FIREBASE_CONFIG || !FIREBASE_CONFIG.projectId) { SYNC.err = 'no config'; return; }
+  if (typeof firebase === 'undefined') { SYNC.err = 'firebase SDK not loaded'; return; }
   SYNC.f = firebase.initializeApp(FIREBASE_CONFIG);
+  SYNC.db = firebase.firestore(SYNC.f);
+  SYNC.init = true;
   SYNC.db = firebase.firestore(SYNC.f);
   if (SYNC.db.enablePersistence) {
     SYNC.db.enablePersistence({ synchronizeTabs: true }).catch(function () {});
@@ -576,7 +595,25 @@ function syncAfterAuth(u) {
 function syncUI() {
   var st = $('accStatus'), body = $('accBody');
   if (!st || !body) return;
-  if (!SYNC.init || !SYNC.f) { st.innerHTML = 'Sync disabled \u2014 Firebase not configured.'; body.innerHTML = ''; return; }
+  if (!FIREBASE_CONFIG || !FIREBASE_CONFIG.projectId) {
+    st.innerHTML = 'Sync disabled \u2014 Firebase not configured.';
+    body.innerHTML = '';
+    return;
+  }
+  if (!SYNC.f) {
+    if (typeof firebase !== 'undefined') {
+      try { syncInit(); } catch (e) { SYNC.err = String(e && e.message || e); }
+    } else {
+      ensureFirebaseSDK(function (ok) {
+        if (ok) { try { syncInit(); } catch (e) { SYNC.err = String(e && e.message || e); } }
+        var st2 = $('accStatus'), body2 = $('accBody');
+        if (st2 && body2) syncUI(); // re-render after retry
+      });
+    }
+    st.innerHTML = 'Sync unavailable \u2014 Firebase SDK failed to load. Retrying...' + (SYNC.err ? ' (' + SYNC.err + ')' : '');
+    body.innerHTML = '';
+    return;
+  }
   if (SYNC.user) {
     st.innerHTML = 'Signed in as <b>' + SYNC.user.email + '</b></b> \u2014 progress auto-syncs across devices.';
     syncCounts();
@@ -1930,7 +1967,7 @@ populateYears();
 populateBrowseDropdowns();
 renderQBChips();
 renderAnalytics();
-try { syncInit(); } catch (e) { console.warn('sync disabled', e); }
+try { syncInit(); } catch (e) { SYNC.err = String(e && e.message || e); console.warn('sync init error', e); }
 </script>
 <script>
 if ('serviceWorker' in navigator && (location.protocol === 'https:' || location.hostname === 'localhost')) {
