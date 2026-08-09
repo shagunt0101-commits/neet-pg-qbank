@@ -634,6 +634,10 @@ function syncStatus(m) {
   var el = $('accSyncStatus');
   if (el) el.textContent = m;
 }
+function syncStatus2(m) {
+  var el = $('accSyncStatus');
+  if (el) el.textContent = (el.textContent ? el.textContent + '\n' : '') + m;
+}
 function syncCounts() {
   if (!SYNC.user || !SYNC.db) return;
   var lh = Object.keys(lsGet('neet_hist') || {}).length;
@@ -645,6 +649,7 @@ function syncCounts() {
     var cm = Object.keys(dd.marks || {}).length;
     var cr = (dd.results || []).length;
     syncStatus('Local: ' + lh + ' answered / ' + lm + ' marked / ' + lr + ' tests  |  Cloud: ' + ch + ' / ' + cm + ' / ' + cr);
+    syncStatus2('uid ' + (SYNC.user ? SYNC.user.uid : '?') + '  |  Local: ' + lh + ' answered / ' + lm + ' marked / ' + lr + ' tests  |  Cloud: ' + ch + ' / ' + cm + ' / ' + cr);
     if (lh !== ch) syncStatus('Local: ' + lh + ' answered / ' + lm + ' marked / ' + lr + ' tests  |  Cloud: ' + ch + ' / ' + cm + ' / ' + cr + '  — mismatch, tap Pull');
   }).catch(function () { syncStatus('Local: ' + lh + ' answered / ' + lm + ' marked / ' + lr + ' tests  |  Cloud: unreachable'); });
 }
