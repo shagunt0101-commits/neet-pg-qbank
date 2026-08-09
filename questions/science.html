@@ -554,12 +554,12 @@ function syncUI() {
 }
 
 function syncLogin() {
-  var email = $('accEmail').value.trim(), pw = $('accPass').value;
+  var email = $('accEmail').value.trim().toLowerCase(), pw = $('accPass').value;
   if (!email || !pw) { alert('Enter email and password.'); return; }
   firebase.auth(SYNC.f).signInWithEmailAndPassword(email, pw).catch(function (e) { alert('Sign-in failed: ' + e.message); });
 }
 function syncSignup() {
-  var email = $('accEmail').value.trim(), pw = $('accPass').value;
+  var email = $('accEmail').value.trim().toLowerCase(), pw = $('accPass').value;
   if (!email || pw.length < 6) { alert('Enter email and a password of at least 6 characters.'); return; }
   firebase.auth(SYNC.f).createUserWithEmailAndPassword(email, pw).catch(function (e) { alert('Sign-up failed: ' + e.message); });
 }
@@ -645,6 +645,7 @@ function syncCounts() {
     var cm = Object.keys(dd.marks || {}).length;
     var cr = (dd.results || []).length;
     syncStatus('Local: ' + lh + ' answered / ' + lm + ' marked / ' + lr + ' tests  |  Cloud: ' + ch + ' / ' + cm + ' / ' + cr);
+    if (lh !== ch) syncStatus('Local: ' + lh + ' answered / ' + lm + ' marked / ' + lr + ' tests  |  Cloud: ' + ch + ' / ' + cm + ' / ' + cr + '  — mismatch, tap Pull');
   }).catch(function () { syncStatus('Local: ' + lh + ' answered / ' + lm + ' marked / ' + lr + ' tests  |  Cloud: unreachable'); });
 }
 
